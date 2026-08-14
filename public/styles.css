@@ -65,7 +65,7 @@ a {
 }
 
 .site-header {
-  padding: 2.5rem 0 1.6rem;
+  padding: 1.25rem 0 0.75rem;
   text-align: center;
 }
 
@@ -95,7 +95,7 @@ a {
 }
 
 .subtitle {
-  margin: 0.78rem 0 0;
+  margin: 0.4rem 0 0;
   color: var(--muted);
   font-family: var(--serif);
   font-size: 0.94rem;
@@ -173,7 +173,7 @@ a {
 }
 
 .mass {
-  margin-top: 2.6rem;
+  margin-top: 1.25rem;
 }
 
 .mass-header {
@@ -193,7 +193,7 @@ a {
 
 .mass-date {
   display: block;
-  margin-top: 0.75rem;
+  margin-top: 0.35rem;
   color: var(--muted);
   font-family: var(--serif);
   font-size: 0.92rem;
@@ -201,7 +201,7 @@ a {
 }
 
 .mass-header h1 {
-  margin: 0.65rem 0 0;
+  margin: 0.35rem 0 0;
   font-family: var(--serif);
   font-size: clamp(1.55rem, 6.5vw, 2.45rem);
   font-weight: 400;
@@ -214,7 +214,7 @@ a {
 }
 
 .mass-rank {
-  margin: 0.55rem 0 0;
+  margin: 0.3rem 0 0;
   color: var(--muted);
   font-family: var(--serif);
   font-size: 0.86rem;
@@ -222,7 +222,7 @@ a {
 }
 
 .mass-note {
-  margin: 0.8rem auto 0;
+  margin: 0.4rem auto 0;
   color: var(--rubric);
   font-family: var(--serif);
   font-size: 0.76rem;
@@ -235,8 +235,8 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  margin-top: 2.5rem;
-  padding: 0.85rem 0;
+  margin-top: 1.1rem;
+  padding: 0.6rem 0;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
 }
@@ -293,7 +293,7 @@ a {
 }
 
 .language-row {
-  margin-top: 1.65rem;
+  margin-top: 0.75rem;
   color: var(--accent);
   font-size: 0.64rem;
   font-weight: 700;
@@ -309,16 +309,16 @@ a {
 }
 
 .propers {
-  margin-top: 0.2rem;
+  margin-top: 0;
 }
 
 .proper-section {
-  padding: 1.9rem 0 2.15rem;
+  padding: 0.9rem 0 0.95rem;
   border-bottom: 1px solid var(--line);
 }
 
 .proper-heading {
-  margin: 0 0 0.8rem;
+  margin: 0 0 0.35rem;
   color: var(--accent-soft);
   font-family: var(--serif);
   font-size: clamp(0.96rem, 3.5vw, 1.08rem);
@@ -334,7 +334,7 @@ a {
 .proper-text {
   font-family: var(--serif);
   font-size: clamp(0.98rem, 3.75vw, 1.16rem);
-  line-height: 1.72;
+  line-height: 1.5;
 }
 
 .proper-column {
@@ -343,7 +343,7 @@ a {
 }
 
 .proper-column br + br {
-  line-height: 2.2;
+  display: none;
 }
 
 .proper-column .rubric,
@@ -358,6 +358,21 @@ a {
   font-style: normal;
 }
 
+/* Divinum Officium uses red, bold italics for decorative opening letters.
+   Keep legacy generated data visually consistent with ordinary body text. */
+.proper-column .rubric:has(> strong:only-child > em:only-child) {
+  color: inherit;
+  font-size: 1em;
+  font-style: normal;
+}
+
+.proper-column .rubric:has(> strong:only-child > em:only-child) strong,
+.proper-column .rubric:has(> strong:only-child > em:only-child) em {
+  color: inherit;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .proper-column .marker {
   color: var(--accent-soft);
   font-style: italic;
@@ -369,7 +384,7 @@ a {
 }
 
 .status-message {
-  padding: 3.2rem 0;
+  padding: 1.5rem 0;
   color: var(--muted);
   font-family: var(--serif);
   font-style: italic;
@@ -384,8 +399,8 @@ a {
   display: flex;
   align-items: center;
   gap: 0.55rem;
-  margin-top: 1rem;
-  padding: 1rem 0 2rem;
+  margin-top: 0.5rem;
+  padding: 0.6rem 0 1rem;
   color: var(--faint);
   font-size: 0.65rem;
   letter-spacing: 0.12em;
@@ -426,11 +441,11 @@ a {
 
 @media (max-width: 38rem) {
   .site-header {
-    padding: 2.2rem 0 1.45rem;
+    padding: 1.1rem 0 0.65rem;
   }
 
   .mass {
-    margin-top: 2.25rem;
+    margin-top: 0.9rem;
   }
 
   .language-row,
@@ -446,7 +461,7 @@ a {
   }
 
   .proper-section {
-    padding: 1.65rem 0 1.9rem;
+    padding: 0.75rem 0 0.8rem;
   }
 }
 

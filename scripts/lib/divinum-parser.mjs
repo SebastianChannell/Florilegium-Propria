@@ -129,6 +129,13 @@ function sanitizeCell(cell, heading) {
     return classMatch ? `<span class="${classMatch[1].toLowerCase()}">` : "<span>";
   });
 
+  // Divinum Officium decorates the first letter of several prayers with red,
+  // bold italic markup. Preserve the capital while treating it as body text.
+  html = html.replace(
+    /<span class="rubric">\s*<strong>\s*<em>(\p{L})<\/em>\s*<\/strong>\s*<\/span>/gu,
+    "$1",
+  );
+
   html = html
     .replace(/^(?:\s|<br>)+/i, "")
     .replace(/(?:\s|<br>)+$/i, "")

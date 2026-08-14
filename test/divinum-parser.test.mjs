@@ -25,11 +25,11 @@ const page = `
   </TR>
   <TR>
     <TD WIDTH="50%"><FONT SIZE='+1' COLOR="red"><B><I>Evangelium</I></B></FONT><br/>
-      Sequéntia <span style='color:red; font-size:1.25em'>+</span> sancti Evangélii.<br/>
+      <FONT COLOR="red"><B><I>S</I></B></FONT>equéntia <span style='color:red; font-size:1.25em'>+</span> sancti Evangélii.<br/>
       <FONT COLOR="red"><I>Luc 18:9-14</I></FONT>
     </TD>
     <TD WIDTH="50%"><FONT SIZE='+1' COLOR="red"><B><I>Gospel</I></B></FONT><br/>
-      Continuation <span style='color:red; font-size:1.25em'>✠</span> of the Holy Gospel.<br/>
+      <FONT COLOR="red"><B><I>C</I></B></FONT>ontinuation <span style='color:red; font-size:1.25em'>✠</span> of the Holy Gospel.<br/>
       <FONT COLOR="red"><I>Luke 18:9-14</I></FONT>
     </TD>
   </TR>
@@ -46,6 +46,10 @@ test("parses the bilingual readings and feast metadata", () => {
   assert.equal(mass.sections[0].english.label, "Lesson");
   assert.match(mass.sections[0].latin.html, /class="marker"/);
   assert.match(mass.sections[1].english.html, /class="rubric-symbol"/);
+  assert.match(mass.sections[1].latin.html, /Sequéntia/);
+  assert.match(mass.sections[1].english.html, /Continuation/);
+  assert.doesNotMatch(mass.sections[1].latin.html, /<strong>\s*<em>S<\/em>/);
+  assert.doesNotMatch(mass.sections[1].english.html, /<strong>\s*<em>C<\/em>/);
   assert.doesNotMatch(mass.sections[0].latin.html, /DIV|FONT|STYLE/i);
 });
 
@@ -59,7 +63,7 @@ test("rejects output without a Gospel", () => {
 
 test("removes an unmatched upstream formatting tag without dropping its text", () => {
   const malformed = page.replace(
-    "Continuation <span style='color:red; font-size:1.25em'>✠</span>",
+    "<FONT COLOR=\"red\"><B><I>C</I></B></FONT>ontinuation <span style='color:red; font-size:1.25em'>✠</span>",
     "<FONT COLOR=\"red\"><br/>Continuation ✠",
   );
   const mass = parseDivinumMass(malformed, { date: "2026-08-09", source });
