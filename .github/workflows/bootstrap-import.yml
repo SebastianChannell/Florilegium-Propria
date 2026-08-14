@@ -28,7 +28,7 @@ jobs:
           test "$actual" = "8d437d454c2bce4c8e9b5cc55416379190c4fff1c40fde3a4354556ac0719901"
           unzip -oq "$archive" -d "${GITHUB_WORKSPACE}"
           rm -rf .bootstrap
-          rm -f .github/workflows/bootstrap-import.yml
+          rm -f .github/workflows/sync-propers.yml
 
       - name: Commit imported project
         shell: bash
