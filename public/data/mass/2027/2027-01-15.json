@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-01-15",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Pauli Primi Eremitæ et Confessoris",
+  "rank": "III. classis",
+  "note": "Commemoratio ad Laudes tantum: S. Mauri Abbatis",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 91:13-14</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>ustus ut palma florébit: sicut cedrus Líbani multiplicábitur: plantátus in domo Dómini: in átriis domus Dei nostri.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nBonum est confitéri Dómino: et psállere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>ustus ut palma florébit: sicut cedrus Líbani multiplicábitur: plantátus in domo Dómini: in átriis domus Dei nostri."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 91:13-14</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he just man shall flourish like the palm tree, like a cedar of Lebanon shall he grow: planted in the house of the Lord, in the courts of the house of our God.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nIt is good to give thanks to the Lord, to sing praise to Your name, Most High.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he just man shall flourish like the palm tree, like a cedar of Lebanon shall he grow: planted in the house of the Lord, in the courts of the house of our God."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui nos beáti Pauli Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut cuius natalítia cólimus, étiam actiónes imitémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Mauri Abbatis</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>ntercéssio nos, quǽsumus, Dómine, beáti Mauri Abbátis comméndet: ut, quod nostris méritis non valémus, eius patrocínio assequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who gladden us with the annual feast of blessed Paul, Your Confessor, mercifully grant that, while honoring the anniversary of his death, we may also imitate his deeds.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Maur, Abbot</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay the intercession of the blessed Abbot Maur, commend us to You, O Lord, so that through his merits we may obtain that which we cannot accomplish by our own.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses<br>\n<span class=\"rubric\"><em>Philipp 3:7-12</em></span><br>\nFratres: Quæ mihi fuérunt lucra, hæc arbitrátus sum propter Christum defriménta. Verúmtamen exístimo ómnia detriméntum esse propter eminéntem sciéntiam Iesu Christi, Dómini mei: propter quem ómnia detriméntum feci et árbitror ut stércora, ut Christum lucrifáciam et invéniar in illo, non habens meam iustítiam, quæ ex lege est, sed illam, quæ ex fide est Christi Iesu: quæ ex Deo est iustítia in fide, ad cognoscéndum illum, et virtútem resurrectiónis eius, et societátem passiónum illíus: configurátus morti eius: si quo modo occúrram ad resurrectiónem, quæ est ex mórtuis: non quod iam accéperim aut iam perféctus sim: sequor autem, si quo modo comprehéndam, in quo et comprehénsus sum a Christo Iesu.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Philippians<br>\n<span class=\"rubric\"><em>Phil 3:7-12</em></span><br>\nBrethren: The things that were gain to me, these, for the sake of Christ, I have counted loss. Nay more, I count everything loss because of the excelling knowledge of Jesus Christ, my Lord. For His sake I have suffered the loss of all things, and I count them as dung that I may gain Christ and be found in Him, not having a justice of my own, which is from the Law, but that which is from faith in Christ, the justice from God based upon faith; so that I may know Him and the power of His Resurrection and the fellowship of His sufferings: become like to Him in death, in the hope that somehow I may attain to the resurrection from the dead. Not that I have already obtained this, or already have been made perfect, but I press on hoping that I may lay hold of that for which Christ Jesus has laid hold of me.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 91:13; 91:14</em></span><br>\nIustus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\nAnnuntiándum mane misericórdiam tuam, et veritátem tuam per noctem.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Osee 14:6</em></span><br>\nIustus germinábit sicut lílium: et florébit in ætérnum ante Dóminum. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 91:13-14</em></span><br>\nThe just man shall flourish like the palm tree, like a cedar of Lebanon shall he grow in the house of the Lord.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> To proclaim Your kindness at dawn and Your faithfulness throughout the night. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Osee 14:6</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The just man shall blossom like the lily, and flourish forever before the Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 11:25-30</em></span><br>\nIn illo témpore: Respóndens Iesus, dixit: Confíteor tibi, Pater, Dómine coeli et terræ, quia abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea párvulis. Ita, Pater: quóniam sic fuit plácitum ante te. Omnia mihi trádita sunt a Patre meo. Et nemo novit Fílium nisi Pater: neque Patrem quis novit nisi Fílius, et cui volúerit Fílius reveláre. Veníte ad me, omnes, qui laborátis et oneráti estis, et ego refíciam vos. Tóllite iugum meum super vos, et díscite a me, quia mitis sum et húmilis corde: et inveniétis réquiem animábus vestris. Iugum enim meum suáve est et onus meum leve.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 11:25-30</em></span><br>\nAt that time, Jesus spoke and said, I praise You, Father, Lord of heaven and earth, that You hid these things from the wise and prudent, and revealed them to little ones. Yes, Father, for such was Your good pleasure. All things have been delivered to Me by My Father; and no one knows the Son except the Father; nor does anyone know the Father except the Son, and him to whom the Son chooses to reveal Him. Come to Me, all you who labor and are burdened, and I will give you rest. Take My yoke upon you, and learn from Me, for I am meek and humble of heart; and you will find rest for your souls. For My yoke is easy, and My burden light.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nIn virtúte tua, Dómine, lætábitur iustus, et super salutáre tuum exsultábit veheménter: desidérium ánimæ eius tribuísti ei."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nO Lord, in Your strength the just man is glad; in Your victory how greatly he rejoices! You have granted him his heart’s desire."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Laudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum: quibus nos et præséntibus éxui malis confídimus et futúris.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Mauri Abbatis</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>acris altáribus, Dómine, hóstias superpósitas sanctus Maurus Abbas, quǽsumus, in salútem nobis proveníre depóscat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration S. Maur, Abbot</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e beseech You, O Lord, may the holy Abbot Maur, prevail by his prayers, so that the offerings placed upon Your sacred altar may be beneficial for our salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 63:11</em></span><br>\nLætábitur iustus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 63:11.</em></span><br>\nThe just shall rejoice in the Lord, and shall hope in him: and all the upright in heart shall be praised, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nRefécti cibo potúque cœlésti, Deus noster, te súpplices exorámus: ut, in cuius hæc commemoratióne percépimus, eius muniámur et précibus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Mauri Abbatis</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>rótegat nos, Dómine, cum tui perceptióne sacraménti beátus Maurus Abbas, pro nobis intercedéndo: ut et conversatiónis eius experiámur insígnia, et intercessiónis percipiámus suffrágia.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nRefreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Maur, Abbot</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay the pleading of the blessed Abbot Maur for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

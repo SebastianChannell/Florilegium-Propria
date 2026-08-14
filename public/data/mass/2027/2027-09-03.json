@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-09-03",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Pii X Papæ Confessoris",
+  "rank": "III. classis",
+  "note": "Scriptura: Feria Sexta infra Hebdomadam XV post Octavam Pentecostes V. Augusti",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 88:20-22</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xtuli eléctum de pópulo, óleo sancto meo unxi eum: ut manus mea sit semper cum eo, et brácchium meum confírmet eum.<br>\n<span class=\"rubric\"><em>Ps. 88:2</em></span><br>\nGrátias Dómini in ætérnum cantábo: per omnes generatiónes annuntiábo fidelitátem tuam ore meo.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xtuli eléctum de pópulo, óleo sancto meo unxi eum: ut manus mea sit semper cum eo, et brácchium meum confírmet eum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 88:20-22</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> have raised up the chosen one from the people; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong.<br>\n<span class=\"rubric\"><em>Ps 88:2</em></span><br>\nThe favors of the Lord I will sing forever; through all generations my mouth shall proclaim Your faithfulness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> have raised up the chosen one from the people; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui ad tuéndam cathólicam fidem, et univérsa in Christo instauránda sanctum Pium, Summum Pontíficem, cælésti sapiéntia et apostólica fortitúdine replevísti: concéde propítius; ut, eius institúta et exémpla sectántes, præmia consequámur ætérna.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God Who, for the defense of the Catholic faith and the restoration of all things in Christ, filled St. Pius, the Supreme Pontiff, with heavenly wisdom and apostolic fearlessness, mercifully grant that, by following his teachings and examples, we may receive Your eternal rewards.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Lectio prima Sancti Pauli apóstoli ad Thessalonicénses<br>\n<span class=\"rubric\"><em>1 Thess 2:2-8</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>ratres: Fidúciam habúimus in Deo nostro, loqui ad vos Evangélium Dei in multa sollicitúdine. Exhortátio enim nostra non de erróre, neque de immundítia, neque in dolo, sed sicut probáti sumus a Deo ut crederétur nobis Evangélium: ita lóquimur non quasi homínibus placéntes, sed Deo, qui probat corda nostra. Neque enim aliquándo fúimus in sermóne adulatiónis, sicut scitis: neque in occasióne avarítiæ: Deus testis est: nec quæréntes ab homínibus glóriam, neque a vobis, neque ab áliis. Cum possémus vobis óneri esse ut Christi apóstoli: sed facti sumus párvuli in médio vestrum, tamquam si nutrix fóveat fílios suos. Ita desiderántes vos, cúpide volebámus trádere vobis non solum Evangélium Dei, sed étiam ánimas nostras: quóniam caríssimi nobis facti estis.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Thessalonians<br>\n<span class=\"rubric\"><em>1 Thess. 2:2-8</em></span><br>\nBrethren: We had confidence in our God to preach to you the gospel of God amid much anxiety. For our exhortation was not from error, nor from impure motives, nor from guile; but, as approved by God to be entrusted with the gospel, so we speak not as pleasing men, but God, Who proves our hearts. For at no time have we used words of flattery, as you know, nor any pretext for avarice, God is witness, nor have we sought glory from men, neither from you nor from others. Although as the apostles of Christ we could have claimed a position of honor among you, still while in your midst we were as children, as if a nurse were cherishing her own children. So, we, in our love for you, would gladly have imparted to you not only the gospel of God, but also our own souls, because you had become most dear to us.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 39:10-11</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>nnuntiávi iustítiam tuam in cœtu magno; ecce lábia mea non cohíbui: Dómine, tu nosti.<br>\n<span class=\"marker\"><em>℣.</em></span> Iustítiam tuam non abscóndi in corde meo; fidelitátem tuam et auxílium tuum narrávi. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 22:5-6</em></span><br>\nParas mihi mensam, inúngis óleo caput meum, calix meus ubérrimus est. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 39:10-11</em></span><br>\nI announced Your justice in the vast assembly; I did not restrain my lips as You, O Lord, know.<br>\n<span class=\"marker\"><em>℣.</em></span> Your justice I kept not hid within my heart; Your faithfulness and Your salvation I have spoken of. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 22:5-6</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> You spread the table before me; You anoint my head with oil; my cup overflows. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia Sancti evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 21:15-17</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n illo témpore, dicit Iesus Simóni Petro: Simon Ioánnis, díligis me plus his? Dicit ei: Etiam Dómine, tu scis quia amo te. Dicit ei: Pasce agnos meos. Dicit ei íterum: Simon Ioánnis, díligis me? Ait illi: Etiam Dómine, tu scis quia amo te. Dicit ei: Pasce agnos meos. Dicit ei tértio: Simon Ioánnis, amas me? Contristátus est Petrus, quia dixit ei tértio: Amas me? et dixit ei: Dómine, tu ómnia nosti, tu scis quia amo te. Dixit ei: Pasce oves meas.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 21:15-17</em></span><br>\nAt that time, Jesus said to Simon Peter, Simon, son of John, do you love Me more than these do? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. He said to him a second time, Simon, son of John, do you love Me? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. And third time He said to him, Simon, son of John, do you love Me? Peter was grieved because He said to him for the third time, Do you love Me? And he said to Him, Lord, You know all things, You know that I love You. He said to him, Feed My sheep.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 33:12</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>eníte, fílii; audíte me: timórem Dómini docébo vos."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 33:12</em></span><br>\nCome, children, hear me; I will teach you the fear of the Lord."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oblatiónibus nostris, quǽsumus, Dómine, benígne suscéptis, da nobis, ut hæc divína mystéria, sancto Pio Summo Pontífice intercedénte, sincéris tractémus obséquiis et fidéli mente sumámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Having graciously accepted our offerings, we beseech You, O Lord, that we may ever treat this divine sacrament with sincere veneration and receive it with faithful heart, through the prayers of St. Pius, Your Supreme Pontiff.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioannes 6:56-57</em></span><br>\nCaro enim mea vere est cibus: et sanguis meus, vere est potus; qui mandúcat meam carnem et bibit meum sánguinem, in me manet, et ego in illo."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 6:56-57</em></span><br>\nMy Flesh is food indeed, and My Blood is drink indeed. He who eats My Flesh and drinks My Blood, abides in Me and I in him."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nMensæ cæléstis virtúte refécti, quǽsumus, Dómine Deus noster: ut, interveniénte sancto Pio Summo Pontífice; fortes efficiámur in fide, et in tua simus caritáte concórdes.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe, who have been filled with strength at the heavenly table, beseech You, O Lord, our God, that by the intercession of St. Pius, Supreme Pontiff, we may be made firm in faith and of one mind in Your love.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-10-12",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Tertia infra Hebdomadam XXI post Octavam Pentecostes II. Octobris",
+  "rank": "IV. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Esth 13:9; 13:10-11</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n voluntáte tua, Dómine, univérsa sunt pósita, et non est, qui possit resístere voluntáti tuæ: tu enim fecísti ómnia, cœlum et terram et univérsa, quæ cœli ámbitu continéntur: Dominus universórum tu es<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nBeáti immaculáti in via: qui ámbulant in lege Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n voluntáte tua, Dómine, univérsa sunt pósita, et non est, qui possit resístere voluntáti tuæ: tu enim fecísti ómnia, cœlum et terram et univérsa, quæ cœli ámbitu continéntur: Dominus universórum tu es."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Esth 13:9-11</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n Your will are all things, O Lord, and there is none that can resist Your will; for You have made all things, heaven and earth, and all things that are under the cope of heaven. You are Lord of all.<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nHappy are they whose way is blameless, who walk in the law of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n Your will are all things, O Lord, and there is none that can resist Your will; for You have made all things, heaven and earth, and all things that are under the cope of heaven. You are Lord of all."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nFamíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: ut a cunctis adversitátibus, te protegénte, sit líbera, et in bonis áctibus tuo nómini sit devóta.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGuard Your household, we beseech You, O Lord, with unceasing care, that under Your protection it may be free from all harm and serve You by good deeds.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Lectio Epistolæ beáti Pauli Apóstoli ad Ephésios<br>\n<span class=\"rubric\"><em>Ephes 6:10-17</em></span><br>\nFratres: Confortámini in Dómino et in poténtia virtútis eius. Indúite vos armatúram Dei, ut póssitis stare advérsus insídias diáboli. Quóniam non est nobis colluctátio advérsus carnem et sánguinem: sed advérsus príncipes et potestátes, advérsus mundi rectóres tenebrárum harum, contra spirituália nequítiæ, in cœléstibus. Proptérea accípite armatúram Dei, ut póssitis resístere in die malo et in ómnibus perfécti stare. State ergo succíncti lumbos vestros in veritáte, et indúti lorícam iustítiæ, et calceáti pedes in præparatióne Evangélii pacis: in ómnibus suméntes scutum fídei, in quo póssitis ómnia tela nequíssimi ígnea exstínguere: et gáleam salútis assúmite: et gládium spíritus, quod est verbum Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Ephesians<br>\n<span class=\"rubric\"><em>Eph 6:10-17</em></span><br>\nBrethren: Be strengthened in the Lord and in the might of His power. Put on the armor of God, that you may be able to stand against the wiles of the devil. For our wrestling is not against flesh and blood, but against the Principalities and the Powers, against the world rulers of this darkness, against the spiritual forces of wickedness on high. Therefore, take up the armor of God, that you may be able to resist in the evil day, and stand in all things perfect. Stand, therefore, having girded your loins with truth, and having put on the breast-plate of justice, and having your feet shod with the readiness of the Gospel of peace, in all things taking up the shield of faith, with which you may be able to quench all the fiery darts of the most wicked one. And take unto you the helmet of salvation and the sword of the spirit, that is, the word of God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 89:1-2</em></span><br>\nDómine, refúgium factus es nobis, a generatióne et progénie.<br>\n<span class=\"marker\"><em>℣.</em></span> Priúsquam montes fíerent aut formarétur terra et orbis: a sǽculo et usque in sǽculum tu es, Deus.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 113:1</em></span><br>\nIn éxitu Israël de Ægýpto, domus Iacob de pópulo bárbaro. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 89:1-2</em></span><br>\nO Lord, You have been our refuge through all generations.<br>\n<span class=\"marker\"><em>℣.</em></span> Before the mountains were begotten and the earth and the world were brought forth, from everlasting to everlasting You are God.<br>\nAlleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 113:1</em></span><br>\nWhen Israel went out of Egypt, the house of Jacob from a barbarous people. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 18:23-35</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis parábolam hanc: Assimilátum est regnum cœlórum hómini regi, qui vóluit ratiónem pónere cum servis suis. Et cum cœpísset ratiónem pónere, oblátus est ei unus, qui debébat ei decem mília talénta. Cum autem non habéret, unde rédderet, iussit eum dóminus eius venúmdari et uxórem eius et fílios et ómnia, quæ habébat, et reddi. Prócidens autem servus ille, orábat eum, dicens: Patiéntiam habe in me, et ómnia reddam tibi. Misértus autem dóminus servi illíus, dimísit eum et débitum dimísit ei. Egréssus autem servus ille, invénit unum de consérvis suis, qui debébat ei centum denários: et tenens suffocábat eum, dicens: Redde, quod debes. Et prócidens consérvus eius, rogábat eum, dicens: Patiéntiam habe in me, et ómnia reddam tibi. Ille autem nóluit: sed ábiit, et misit eum in cárcerem, donec rédderet débitum. Vidéntes autem consérvi eius, quæ fiébant, contristáti sunt valde: et venérunt et narravérunt dómino suo ómnia, quæ facta fúerant. Tunc vocávit illum dóminus suus: et ait illi: Serve nequam, omne débitum dimísi tibi, quóniam rogásti me: nonne ergo opórtuit et te miseréri consérvi tui, sicut et ego tui misértus sum? Et irátus dóminus eius, trádidit eum tortóribus, quoadúsque rédderet univérsum débitum. Sic et Pater meus cœléstis fáciet vobis, si non remiséritis unusquísque fratri suo de córdibus vestris.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 18:23-35</em></span><br>\nAt that time, Jesus spoke to His disciples this parable: The kingdom of heaven is likened to a king who desired to settle accounts with his servants. And when he had begun the settlement, one was brought to him who owed him ten thousand talents. And as he had no means of paying, his master ordered him to be sold, with his wife and children and all that he had, and payment to be made. But the servant fell down and besought him, saying, ‘Have patience with me and I will pay you all!’ And moved with compassion, the master of that servant released him, and forgave him the debt. But as that servant went out, he met one of his fellow-servants who owed him a hundred denarii and he laid hold of him, and throttled him, saying, ‘Pay what you owe.’ His fellow-servant therefore fell down and began to entreat him, saying, ‘Have patience with me and I will pay you all.’ But he would not; but went away and cast him into prison until he should pay what was due. His fellow-servants therefore, seeing what had happened, were very much saddened, and they went and informed their master of what had taken place. Then his master called him, and said to him, ‘Wicked servant! I forgave you all the debt, because you entreated me. Should not you also have had pity on your fellow-servant, even as I had pity on you?’ And his master, being angry, handed him over to the torturers until he should pay all that was due to him. So also My heavenly Father will do to you, if you do not each forgive your brothers from your hearts.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Iob 1.1</em></span><br>\nVir erat in terra Hus, nómine Iob: simplex et rectus ac timens Deum: quem Satan pétiit ut tentáret: et data est ei potéstas a Dómino in facultátes et in carnem eius: perdidítque omnem substántiam ipsíus et fílios: carnem quoque eius gravi úlcere vulnerávit."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Job 1.1</em></span><br>\nThere was a man in the land of Hus, whose name was Job, simple, and upright, and fearing God, whom Satan besought that he might tempt: and power was given him from the Lord over his possessions and his flesh; and he destroyed all his substance and his children, and wounded his flesh also with a grievous ulcer."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Suscipe, Dómine, propítius hóstias: quibus et te placári voluísti, et nobis salútem poténti pietáte restítui.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Graciously accept these sacrificial gifts, O Lord, with which You have willed us to find favor with You, and, by Your mighty love, restore salvation to us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:81; 118:84; 118:86</em></span><br>\nIn salutári tuo ánima mea, et in verbum tuum sperávi: quando fácies de persequéntibus me iudícium? iníqui persecúti sunt me, ádiuva me, Dómine, Deus meus."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:81; 118:84; 118:86</em></span><br>\nMy soul pines for Your salvation; I hope in Your word. When will You do judgment on my persecutors? The wicked persecuted me wrongfully; help me, O Lord my God!"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nImmortalitátis alimóniam consecúti, quǽsumus, Dómine: ut, quod ore percépimus, pura mente sectémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe who have eaten the food of eternal life beseech You, O Lord, that what we take by mouth, we may strive after with pure minds.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

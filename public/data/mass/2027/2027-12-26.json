@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-12-26",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica Infra Octavam Nativitatis",
+  "rank": "II. classis",
+  "note": "Commemoratio: S. Stephani Protomartyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sap 18:14-15.</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>um médium siléntium tenérent ómnia, et nox in suo cursu médium iter háberet, omnípotens Sermo tuus, Dómine, de cœlis a regálibus sédibus venit.<br>\n<span class=\"rubric\"><em>Ps 92:1</em></span><br>\nDóminus regnávit, decórem indútus est: indútus est Dóminus fortitúdinem, et præcínxit se.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>um médium siléntium tenérent ómnia, et nox in suo cursu médium iter háberet, omnípotens Sermo tuus, Dómine, de cœlis a regálibus sédibus venit."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Wis 18:14-15</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>hen a profound stillness compassed everything and the night in its swift course was half spent, Your all-powerful Word, O Lord, bounded from heaven’s royal throne.<br>\n<span class=\"rubric\"><em>Ps 92:1</em></span><br>\nThe Lord is King, in splendor robed; robed is the Lord and girt about with strength.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>hen a profound stillness compassed everything and the night in its swift course was half spent, Your all-powerful Word, O Lord, bounded from heaven’s royal throne."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens sempitérne Deus, dírige actus nostros in beneplácito tuo: ut in nómine dilécti Fílii tui mereámur bonis opéribus abundáre:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Stephani Protomartyris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>a nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia eius natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Iesum Christum Fílium tuum:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Almighty and eternal God, direct our actions in conformity with Your will, that in the name of Your beloved Son we may be worthy to do good works in abundance.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Stephen the First Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant us, we beseech thee, O Lord, so to imitate what we revere, that we may learn to love even our enemies; for we celebrate the heavenly birthday of him who knew how to pray for his very persecutors to our Lord Jesus Christ:<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Lectio Epístolæ beati Pauli Apóstoli ad Gálatas.<br>\n<span class=\"rubric\"><em>Gal 4:1-7</em></span><br>\nFratres: Quanto témpore heres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus et actóribus est usque ad præfinítum tempus a patre: ita et nos, cum essémus párvuli, sub eleméntis mundi erámus serviéntes. At ubi venit plenitúdo témporis, misit Deus Fílium suum, factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus. Quóniam autem estis fílii, misit Deus Spíritum Fílii sui in corda vestra, clamántem: Abba, Pater. Itaque iam non est servus, sed fílius: quod si fílius, et heres per Deum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Galatians<br>\n<span class=\"rubric\"><em>Gal 4:1-7</em></span><br>\nBrethren: As long as the heir is a child, he differs in no way from a slave, though he is the master of all; but he is under guardians and stewards until the time set by his father. So we too, when we were children, were enslaved under the elements of the world. But when the fullness of time came, God sent His Son, born of a woman, born under the Law, that He might redeem those who were under the Law, that we might receive the adoption of sons. And because you are sons, God has sent the Spirit of His Son into our hearts, crying, Abba, Father. So that He is no longer a slave, but a son; and if a son, an heir also through God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:3; 44:2</em></span><br>\nSpeciósus forma præ filiis hóminum: diffúsa est gratia in lábiis tuis.<br>\n<span class=\"marker\"><em>℣.</em></span> Eructávit cor meum verbum bonum, dico ego ópera mea Regi: lingua mea cálamus scribæ, velóciter scribéntis. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 92:1.</em></span><br>\nDóminus regnávit, decórem índuit: índuit Dóminus fortitúdinem, et præcínxit se virtúte. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:3, 2</em></span><br>\nFairer in beauty are You than the sons of men; grace is poured out upon Your lips.<br>\n<span class=\"marker\"><em>℣.</em></span> My heart overflows with a goodly theme; as I sing my ode to the King, my tongue is nimble as the pen of a skillful scribe. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 92:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord is King, in splendor robed; robed is the Lord and girt about with strength. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secundum Lucam.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 2:33-40</em></span><br>\nIn illo témpore: Erat Ioseph et María Mater Iesu, mirántes super his quæ dicebántur de illo. Et benedíxit illis Símeon, et dixit ad Maríam Matrem eius: Ecce, pósitus est hic in ruínam et in resurrectiónem multórum in Israël: et in signum, cui contradicétur: et tuam ipsíus ánimam pertransíbit gládius, ut reveléntur ex multis córdibus cogitatiónes. Et erat Anna prophetíssa, fília Phánuel, de tribu Aser: hæc procésserat in diébus multis, et víxerat cum viro suo annis septem a virginitáte sua. Et hæc vídua usque ad annos octogínta quátuor: quæ non discedébat de templo, ieiúniis et obsecratiónibus sérviens nocte ac die. Et hæc, ipsa hora supervéniens, confitebátur Dómino, et loquebátur de illo ómnibus, qui exspectábant redemptiónem Israël. Et ut perfecérunt ómnia secúndum legem Dómini, revérsi sunt in Galilǽam in civitátem suam Názareth. Puer autem crescébat, et confortabátur, plenus sapiéntia: et grátia Dei erat in illo.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 2:33-40</em></span><br>\nAt that time, Joseph and Mary, the mother of Jesus were marvelling at the things spoken concerning Him. And Simeon blessed them, and said to Mary His mother, Behold, this Child is destined for the fall and for the rise of many in Israel, and for a sign that shall be contradicted. And your own soul a sword shall pierce, that the thoughts of many hearts may be revealed. There was also Anna, a prophetess, daughter of Phanuel, of the tribe of Aser. She was of a great age, having lived with her husband seven years from her maidenhood, and by herself as a widow to eighty-four years. She never left the temple, with fastings and prayers worshipping night and day. And coming up at that very hour, she began to give praise to the Lord, and spoke of Him to all who were awaiting the redemption of Jerusalem. And when they had fulfilled all things as prescribed in the Law of the Lord, they returned to Galilee, into their own town of Nazareth. And the Child grew and became strong. He was full of wisdom and the grace of God was upon Him.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 92:1-2</em></span><br>\nDeus firmávit orbem terræ, qui non commovébitur: paráta sedes tua, Deus, ex tunc, a sǽculo tu es."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 92:1-2</em></span><br>\nGod has made the world firm, not to be moved. Your throne, O God, stands firm from of old; from everlasting You are."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Concéde, quǽsumus, omnípotens Deus: ut óculis tuæ maiestátis munus oblátum, et grátiam nobis piæ devotiónis obtineat, et efféctum beátæ perennitátis acquírat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Stephani Protomartyris</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>úscipe, Dómine, múnera pro tuórum commemoratióne Sanctórum: ut, sicut illos pássio gloriósos effécit; ita nos devótio reddat innócuos.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant, we beseech You, almighty God, that the gift offered in the sight of Your majesty may obtain for us the grace of reverent devotion and secure us eternal happiness.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Stephen the First Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>eceive our offerings, O Lord, in memory of Your saints, that, as their passion has given them eternal glory, so may this sacrificial act free us from guilt. Through our Lord.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Nativitate Domini</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit: ut, dum visibíliter Deum cognóscimus, per hunc in invisibílium amorem rapiámur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes."
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Nativity</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God, for through the Mystery of the Word made flesh, the new light of Thy glory hath shone upon the eyes of our mind, so that while we acknowledge God in visible form, we may through Him be drawn to the love of things invisible. And therefore with Angels and Archangels, with Throne and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:20</em></span><br>\nTolle Púerum et Matrem eius, et vade in terram Israël: defúncti sunt enim, qui quærébant ánimam Púeri."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:20</em></span><br>\nTake the Child and His mother, and go into the land of Israel, for those who sought the Child’s life are dead."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPer huius, Dómine, operatiónem mystérii, et vitia nostra purgéntur, et iusta desidéria compleántur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Stephani Protomartyris</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>uxiliéntur nobis, Dómine, sumpta mystéria: et, intercedénte beáto Stéphano Mártyre tuo, sempitérna protectióne confírment.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nBy the working of this sacrament, O Lord, may our sins be erased and our just desires fulfilled.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Stephen the First Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay the sacrament we have received aid us, O Lord; and by the intercession of blessed Stephen, Your Martyr, may it sustain us under Your everlasting protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

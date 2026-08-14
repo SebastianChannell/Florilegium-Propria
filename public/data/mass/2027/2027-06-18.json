@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-06-18",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Ephræm Syri Confessoris et Ecclesiæ Doctoris",
+  "rank": "III. classis",
+  "note": "Commemoratio ad Laudes tantum: SS. Marci et Marcelliani Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Eccli 15:5</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n médio Ecclésiæ apéruit os eius: et implévit eum Dóminus spíritu sapiéntiæ et intelléctus: stolam glóriæ índuit eum.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nBonum est confitéri Dómino: et psállere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n médio Ecclésiæ apéruit os eius: et implévit eum Dóminus spíritu sapiéntiæ et intelléctus: stolam glóriæ índuit eum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sir 15:5</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n the midst of the assembly he opened his mouth; and the Lord filled him with the spirit of wisdom and understanding; He clothed him with a robe of glory.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is good to give thanks to the Lord, to sing praise to Your name, Most High.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n the midst of the assembly he opened his mouth; and the Lord filled him with the spirit of wisdom and understanding; He clothed him with a robe of glory."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui Ecclésiam tuam beáti Ephræm Confessóris tui et Doctoris mira eruditióne et præcláris vitæ méritis illustráre voluísti: te súpplices exorámus; ut, ipso intercedénte, eam advérsus erróris et pravitátis insídias perénni tua virtúte deféndas.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio SS. Marci et Marcelliani Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Marci et Marcelliáni natalítia cólimus; a cunctis malis imminéntibus eórum intercessiónibus liberémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who willed to enlighten Your Church by the wondrous learning and glorious merits of the life of blessed Ephrem, Your Confessor and Doctor, we humbly pray You, that, by his pleading, You will shield her with Your lasting power against the snares of error and evil.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Mark and Marcellian, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, almighty God, that we who celebrate the anniversary of the death of Your holy Martyrs, Mark and Marcellianus, may by their intercession be delivered from all the evils that threaten us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Timótheum<br>\n<span class=\"rubric\"><em>2 Tim 4:1-8</em></span><br>\nCaríssime: Testíficor coram Deo, et Iesu Christo, qui iudicatúrus est vivos et mórtuos, per advéntum ipsíus et regnum eius: prǽdica verbum, insta opportúne, importune: árgue, óbsecra, íncrepa in omni patiéntia, et doctrína. Erit enim tempus, cum sanam doctrínam non sustinébunt, sed ad sua desidéria, coacervábunt sibi magistros, pruriéntes áuribus, et a veritáte quidem audítum avértent, ad fábulas autem converténtur. Tu vero vígila, in ómnibus labóra, opus fac Evangelístæ, ministérium tuum imple. Sóbrius esto. Ego enim iam delíbor, et tempus resolutiónis meæ instat. Bonum certámen certávi, cursum consummávi, fidem servávi. In réliquo repósita est mihi coróna iustítiæ, quam reddet mihi Dóminus in illa die, iustus iudex: non solum autem mihi, sed et iis, qui díligunt advéntum eius.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the second letter of St Paul the Apostle to Timothy<br>\n<span class=\"rubric\"><em>2 Tim 4:1-8</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>early beloved: I charge thee, before God and Jesus Christ, who shall judge the living and the dead, by his coming, and his kingdom: Preach the word: be instant in season, out of season: reprove, entreat, rebuke in all patience and doctrine. For there shall be a time, when they will not endure sound doctrine; but, according to their own desires, they will heap to themselves teachers, having itching ears: And will indeed turn away their hearing from the truth, but will be turned unto fables. But be thou vigilant, labour in all things, do the work of an evangelist, fulfil thy ministry. Be sober. For I am even now ready to be sacrificed: and the time of my dissolution is at hand. I have fought a good fight, I have finished my course, I have kept the faith. As to the rest, there is laid up for me a crown of justice, which the Lord the just judge will render to me in that day: and not only to me, but to them also that love his coming.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\nOs iusti meditábitur sapiéntiam, et lingua eius loquétur iudícium.<br>\n<span class=\"marker\"><em>℣.</em></span> Lex Dei eius in corde ipsíus: et non supplantabúntur gressus eius.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Eccli 45:9</em></span><br>\nAmávit eum Dóminus, et ornávit eum: stolam glóriæ índuit eum. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he mouth of the just shall meditate wisdom and his tongue shall speak judgment.<br>\n<span class=\"marker\"><em>℣.</em></span> The law of his God is in his heart, and his steps shall not be supplanted. Allelúja, allelúja<br>\n<span class=\"rubric\"><em>Sir 45:9</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>nd he girded him about with a glorious girdle, and clothed him with a robe of glory, Allelúja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 5:13-19</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Vos estis sal terræ. Quod si sal evanúerit, in quo saliétur? Ad níhilum valet ultra, nisi ut mittátur foras, et conculcétur ab homínibus. Vos estis lux mundi. Non potest cívitas abscóndi supra montem pósita. Neque accéndunt lucérnam, et ponunt eam sub módio, sed super candelábrum, ut lúceat ómnibus, qui in domo sunt. Sic luceat lux vestra coram homínibus, ut vídeant ópera vestra bona, et gloríficent Patrem vestrum, qui in cœlis est. Nolíte putáre, quóniam veni sólvere legem aut prophétas: non veni sólvere, sed adimplére. Amen, quippe dico vobis, donec tránseat cœlum et terra, iota unum aut unus apex non præteríbit a lege, donec ómnia fiant. Qui ergo sólverit unum de mandátis istis mínimis, et docúerit sic hómines, mínimus vocábitur in regno cœlórum: qui autem fécerit et docúerit, hic magnus vocábitur in regno cœlórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 5:13-19</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n that time Jesus said to His disciples: You are the salt of the earth. But if the salt lose its savour, wherewith shall it be salted? It is good for nothing any more but to be cast out, and to be trodden on by men. You are the light of the world. A city seated on a mountain cannot be hid. Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house. So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven. Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfill. For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled. He therefore that shall break one of these least commandments, and shall so teach men, shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 91:13</em></span><br>\nIustus ut palma florébit: sicut cedrus, quæ in Líbano est, multiplicábitur."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 91:13</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he just shall flourish like the palm tree: he shall grow up like the cedar of Libanus."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sancti Ephræm Confessóris tui atque Doctóris nobis, Dómine, pia non desit orátio: quæ et múnera nostra concíliet; et tuam nobis indulgéntiam semper obtíneat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio SS. Marci et Marcelliani Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>únera tibi, Dómine, dicáta sanctífica: et, intercedéntibus sanctis Martýribus tuis Marco et Marcelliáno, per éadem nos placátus inténde.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the pious prayer of holy Ephrem thy Confessor and illustrious Doctor be not wanting to us, O Lord, but make our offerings acceptable to thee and ever win for us thy mercy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Mark and Marcellian, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>anctify the offerings dedicated to You, O Lord, and through the intercession of blessed Mark and Marcellianus, Your Martyrs, look upon us with mercy because of them.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luc 12:42</em></span><br>\nFidélis servus et prudens, quem constítuit dóminus super famíliam suam: ut det illis in témpore trítici mensúram."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luke 12:42</em></span><br>\nThe faithful and prudent servant whom the master will set over his household to give them their ration of grain in due time."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nUt nobis, Dómine, tua sacrifícia dent salútem: beátus Ephræm Conféssor tuus et Doctor egrégius, quǽsumus, precátor accédat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio SS. Marci et Marcelliani Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>alutáris tui, Dómine, múnere satiáti, súpplices exorámus: ut, cuius lætámur gustu, intercedéntibus sanctis Martýribus tuis Marco et Marcelliáno, renovémur efféctu.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay blessed Ephrem thy Confessor and illustrious Doctor intercede for us, O Lord, that this thy sacrifice may obtain for us salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Mark and Marcellian, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>efreshed by the sacramental gift of Your salvation, we humbly beseech You, O Lord, through the intercession of blessed Mark and Marcellianus, Your Martyrs, that, enjoying its savor, we may be made new by its action.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

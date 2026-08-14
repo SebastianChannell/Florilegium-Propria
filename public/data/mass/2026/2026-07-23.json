@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-23",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Apollinaris Episcopi et Martyris",
+  "rank": "III. classis",
+  "note": "Commemoratio ad Laudes tantum: S. Liborii Episcopi et Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 63:11</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ætábitur iustus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde.<br>\n<span class=\"rubric\"><em>Ps 63:2</em></span><br>\nExáudi, Deus, oratiónem meam cum déprecor: a timóre inimíci éripe ánimam meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ætábitur iustus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 63:11</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he just man is glad in the Lord and takes refuge in Him; all the upright of heart shall be praised.<br>\n<span class=\"rubric\"><em>Ps 63:2</em></span><br>\nHear, O God, my voice in my lament; from the dread enemy preserve my life.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he just man is glad in the Lord and takes refuge in Him; all the upright of heart shall be praised."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, fidélium remunerátor animárum, qui hunc diem beáti Apollináris Sacerdótis tui martýrio consecrásti: tríbue nobis, quǽsumus, fámulis tuis; ut, cuius venerándam celebrámus festivitátem, précibus eius indulgéntiam consequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Liborii Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>v</em></strong></span>. Da, quǽsumus, omnípotens Deus: ut beáti Libórii Confessóris tui atque Pontíficis veneránda solémnitas, et devotiónem nobis áugeat et salútem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, the rewarder of faithful souls, grant that we may obtain pardon through the prayers of blessed Apollinaris, Your Martyr and Bishop, whose feast we are celebrating.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Liborius, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>v</em></strong></span>. Grant, we beseech thee, almighty God, that the venerable feast of Liborius thy blessed Confessor and Bishop may increase our devotion and promote our salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Petri Apóstoli<br>\n<span class=\"rubric\"><em>1 Petri 5:1-11</em></span><br>\nCaríssimi: Senióres, qui in vobis sunt, obsecro, consénior et testis Christi passiónum: qui et eius, quæ in futúro revelánda est, glóriæ communicátor: páscite qui in vobis est gregem Dei, providéntes non coácte, sed spontánee secúndum Deum: neque turpis lucri grátia, sed voluntárie: neque ut dominántes in cleris, sed forma facti gregis ex ánimo. Et cum apparúerit princeps pastórum, percipiétis immarcescíbilem glóriæ corónam. Simíliter adolescéntes, súbditi estóte senióribus. Omnes autem ínvicem humilitátem insinuáte: quia Deus supérbis resístit, humílibus autem dat grátiam. Humiliámini ígitur sub poténti manu Dei, ut vos exáltet in témpore visitatiónis: omnem sollicitúdinem vestram proiiciéntes in eum, quóniam ipsi cura est de vobis. Sobrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide: scientes eándem passiónem ei, quæ in mundo est, vestræ fraternitáti fíeri. Deus autem omnis grátiæ, qui vocávit nos in ætérnam suam glóriam in Christo Iesu, módicum passos ipse perfíciet, confirmábit solidabítque. Ipsi glória et impérium in sǽcula sæculórum. Amen.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Peter the Apostle<br>\n<span class=\"rubric\"><em>1 Pet. 5:1-11</em></span><br>\nBeloved: I exhort the presbyters among you - I, your fellow-presbyter and witness of the sufferings of Christ, the partaker also of the glory that is to be revealed in time to come - tend the flock of God which is among you, governing not under constraint, but willingly, according to God; nor yet for the sake of base gain, but eagerly; nor yet as lording it over your charges, but becoming from the heart a pattern to the flock. And when the Prince of the shepherds appears, you will receive the unfading crown of glory. Likewise, you who are younger, be subject to the presbyters. And all of you practice humility toward one another; for, “God, resists the proud, but gives grace to the humble.” Humble yourselves, therefore, under the mighty hand of God, that He may exalt you in the time of visitation; cast all your anxiety upon Him, because He cares for you. Be sober, be watchful! For your adversary the devil, as a roaring lion, goes about seeking someone to devour. Resist him, steadfast in the faith, knowing that the same suffering befalls your brethren all over the world. But the God of all grace, Who has called us unto His eternal glory in Christ Jesus, will Himself, after we have suffered a little while, perfect, strengthen and establish us. To Him is the dominion forever and ever. Amen.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 88:21-23</em></span><br>\nInvéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum.<br>\n<span class=\"marker\"><em>℣.</em></span> Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei. Allelúia, allelúia<br>\n<span class=\"rubric\"><em>Ps 109:4</em></span><br>\nIurávit Dóminus, et non pœnitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 88:21-23</em></span><br>\nI have found David, My servant, with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong.<br>\n<span class=\"marker\"><em>℣.</em></span> No enemy shall deceive him, nor shall the wicked afflict him. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 109:4</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> You are a priest forever, according to the order of Melchisedec. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 22:24-30</em></span><br>\nIn illo témpore: Facta est conténtio inter discípulos, quis eórum viderétur esse maior. Dixit autem eis Iesus: Reges géntium dominántur eórum; et qui potestátem habent super eos, benéfici vocántur. Vos autem non sic: sed qui maior est in vobis, fiat sicut minor: et qui præcéssor est, sicut ministrátor. Nam quis maior est, qui recúmbit, an qui mínistrat? nonne qui recúmbit? Ego autem in médio vestrum sum, sicut qui mínistrat. Vos autem estis, qui permansístis mecum in tentatiónibus meis: et ego dispóno vobis, sicut dispósuii mihi Pater meus regnum, ut edátis et bibátis super mensam meam in regno meo: et sedeátis super thronos, iudicántes duódecim tribus Israël.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 22:24-30</em></span><br>\nAt that time, there arose a dispute among the disciples, which of them was reputed to be the greatest. But Jesus said to them, The kings of the Gentiles lord it over them, and they who exercise authority over them are called Benefactors. But not so with you. On the contrary, let him who is greatest among you become as the youngest, and him who is the chief as the servant. For which is the greater, he who reclines at table, or he who serves? Is it not he who reclines? But I am in your midst as he who serves. But you are they who have continued with Me in My trials. And I appoint to you a kingdom, even as My Father has appointed to Me, that you may eat and drink at My table in My kingdom; and you shall sit upon thrones, judging the twelve tribes of Israel.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 88:25</em></span><br>\nVéritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu eius."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 88:25</em></span><br>\nMy faithfulness and My kindness shall be with him, and through My name shall his horn be exalted."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Réspice, Dómine, propítius super hæc múnera: quæ pro beáti Sacerdótis et Martyris tui Apollináris commemoratióne deférimus, et pro nostris offensiónibus immolámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Liborii Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ancti tui, quǽsumus, Dómine, nos ubíque lætíficant: ut, dum eórum mérita recólimus, patrocínia sentiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, graciously look down upon these gifts which we bring in commemoration of Your blessed Priest and Martyr Apollinaris and offer up for our offenses.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Liborius, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your Saints, we beseech You, O Lord, everywhere make us joyful: so that, while we reflect upon their merits, we may enjoy their help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:20; 20:21</em></span><br>\nDómine, quinque talénta tradidísti mihi, ecce, ália quinque superlucrátus sum. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:20-21</em></span><br>\nMaster, you handed over to me five talents; behold, I have gained five others in addition. Well done, good and faithful servant; because you have been faithful over a few things, I will set you over many, enter into the joy of your master."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nTua sancta suméntes, quǽsumus, Dómine, ut beáti Apollináris nos fóveant continuáta præsídia: quia non désinis propítius intuéri, quos tálibus auxíliis concésseris adiuvári.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Liborii Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta, quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, intercedénte beáto Libório Confessóre tuo atque Pontífice, benefícia potióra sumámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nReceiving Your holy sacrament, we beseech You, O Lord, that the lasting protection of St. Apollinaris may support us; for You do not cease to look favorably upon those to whom You have given such helps.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Liborius, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, almighty God, that as we thank You for the favors we have received, we may, by the intercession of blessed Liborius, Your Confessor and Bishop, obtain still greater blessings.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

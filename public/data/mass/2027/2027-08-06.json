@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-08-06",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "In Transfiguratione Domini Nostri Jesu Christi",
+  "rank": "II. classis",
+  "note": "Commemoratio ad Laudes tantum: Ss. Xysti II Papæ, Felicissimi et Agapiti Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 76:19</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>lluxérunt coruscatiónes tuæ orbi terræ: commóta est et contrémuit terra.<br>\n<span class=\"rubric\"><em>Ps 83:2-3</em></span><br>\nQuam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>lluxérunt coruscatiónes tuæ orbi terræ: commóta est et contrémuit terra."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 76:19</em></span><br>\n<span class=\"rubric\"><strong><em>Y</em></strong></span>our lightning illumined the world; the earth quivered and quaked.<br>\n<span class=\"rubric\"><em>Ps 83:2-3</em></span><br>\nHow lovely is Your dwelling place, O Lord of Hosts! My soul yearns and pines for the courts of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>Y</em></strong></span>our lightning illumined the world; the earth quivered and quaked."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui fídei sacraménta in Unigéniti tui gloriósa Transfiguratióne patrum testimónio roborásti, et adoptiónem filiórum perféctam, voce delápsa in nube lúcida, mirabíliter præsignásti: concéde propítius; ut ipsíus Regis glóriæ nos coherédes effícias, et eiúsdem glóriæ tríbuas esse consórtes.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Xysti II Papæ, Felicissimi et Agapiti Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui nos concédis sanctórum Mártyrum tuórum Xysti Felicíssimi et Agapíti  natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who in the glorious Transfiguration of Your only-begotten Son strengthened the mysteries of faith by the testimony of the fathers, and, by the voice coming down in a shining cloud, miraculously betokened the complete adoption of Your children, mercifully grant that we be made co-heirs with that King of glory, and sharers in that same glory.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Xystus II Pope, Felicissimus and Agapitus, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who permits us to celebrate the anniversary of the death of Your holy Martyrs, Sixtus, Felicissimus and Agapitus, grant that we may enjoy their companionship in everlasting happiness.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Petri Apóstoli<br>\n<span class=\"rubric\"><em>2 Petri 1:16-19</em></span><br>\nCaríssimi: Non doctas fábulas secúti notam fecimus vobis Dómini nostri Iesu Christi virtútem et præséntiam: sed speculatores facti illíus magnitudinis. Accipiens enim a Deo Patre honórem et glóriam, voce delapsa ad eum huiuscemodi a magnifica glória: Hic est Fílius meus diléctus, in quo mihi complacui, ipsum audíte. Et hanc vocem nos audivimus de cœlo allatam, cum essemus cum ipso in monte sancto. Et habémus firmiórem propheticum sermónem: cui bene facitis attendentes, quasi lucérnæ lucénti in caliginóso loco, donec dies elucescat et lucifer oriátur in córdibus vestris.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the second letter of St. Peter the Apostle<br>\n<span class=\"rubric\"><em>2 Pet. 1:16-19</em></span><br>\nBeloved: We were not following fictitious tales when we made known to you the power and coming of our Lord Jesus Christ, but we had been eyewitnesses of His grandeur. For He received from God the Father honor and glory, when from out the majestic glory a voice came down to Him, speaking thus: This is My beloved Son in Whom I am well pleased. And this voice we ourselves heard borne from heaven when we were with Him on the holy mount. And we have the word of prophecy, surer still, to which you do well to attend, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:3; 44:2</em></span><br>\nSpeciosus forma præ fíliis hóminum: diffúsa est grátia in lábiis tuis.<br>\n<span class=\"marker\"><em>℣.</em></span> Eructávit cor meum verbum bonum: dico ego ópera mea Regi.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Eccli 7:26</em></span><br>\nCandor est lucis ætérnæ, spéculum sine mácula, et imágo bonitátis illíus. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:3; 44:2</em></span><br>\nFairer in beauty are You than the sons of men; grace is poured out upon Your lips.<br>\n<span class=\"marker\"><em>℣.</em></span> My heart overflows with a goodly theme; as I sing my ode to the King. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Wis. 7:26</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> He is the refulgence of eternal light, the spotless mirror, and the image of His goodness. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 17:1-9</em></span><br>\nIn illo témpore: Assúmpsit Iesus Petrum, et Iacóbum, et Ioánnem fratrem eius, et duxit illos in montem excélsum seórsum: et transfigurátus est ante eos. Et resplénduit fácies eius sicut sol: vestiménta autem eius facta sunt alba sicut nix. Et ecce, apparuérunt illis Moyses et Elías cum eo loquéntes. Respóndens autem Petrus, dixit ad Iesum: Dómine, bonum est nos hic esse: si vis, faciámus hic tria tabernácula, tibi unum, Móysi unum et Elíæ unum. Adhuc eo loquénte, ecce, nubes lúcida obumbrávit eos. Et ecce vox de nube, dicens: Hic est Fílius meus diléctus, in quo mihi bene complácui: ipsum audíte. Et audiéntes discípuli, cecidérunt in fáciem suam, et timuérunt valde. Et accéssit Iesus, et tétigit eos, dixítque eis: Surgite, et nolíte timére. Levántes autem óculos suos, néminem vidérunt nisi solum Iesum. Et descendéntibus illis de monte, præcépit eis Iesus, dicens: Némini dixéritis visiónem, donec Fílius hóminis a mórtuis resúrgat.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 17:1-9</em></span><br>\nAt that time, Jesus took Peter, James and his brother John, and led them up a high mountain by themselves, and was transfigured before them. And His face shone as the sun, and His garments became white as snow. And behold, there appeared to them Moses and Elias talking together with Him. Then Peter addressed Jesus, saying, Lord, it is good for us to be here. If You will, let us set up three tents here, one for You, one for Moses, and one for Elias. As he was still speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud said, This is My beloved Son, in Whom I am well pleased; hear Him. And on hearing it the disciples fell on their faces and were exceedingly afraid. And Jesus came near and touched them, and said to them, Arise, and do not be afraid. But lifting up their eyes, they saw no one but Jesus only. And as they were coming down from the mountain, Jesus cautioned them, saying, Tell the vision to no one, till the Son of Man has risen from the dead.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 111:3</em></span><br>\nGlória et divítiæ in domo eius: et iustítia eius manet in sǽculum sǽculi, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 111:3</em></span><br>\nWealth and riches shall be in His house; His generosity shall endure forever. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Obláta, quǽsumus, Dómine, múnera gloriósa Unigéniti tui Transfiguratióne sanctífica: nosque a peccatórum máculis, splendóribus ipsíus illustratiónis emúnda.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Xysti II Papæ, Felicissimi et Agapiti Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>únera tibi, Dómine, nostra devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Iustórum, et nobis salutária, te miseránte, reddántur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Hallow our offerings, we beseech You, O Lord, through the glorious Transfiguration of Your only-begotten Son, and cleanse us from the stains of our sins by the light of that same revelation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration S. Xystus II Pope, Felicissimus and Agapitus, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e offer You, O Lord, the gifts of our service; may they be pleasing to You for the honor of Your just ones and, through Your mercy, bring us salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 17:9</em></span><br>\nVisiónem, quam vidístis, némini dixéritis, donec a mórtuis resúrgat Fílius hóminis."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 17:9</em></span><br>\nTell the vision you have seen to no one, till the Son of Man has risen from the dead."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut sacrosáncta Fílii tui Transfiguratiónis mystéria, quæ sollemni celebrámus offício, purificáta mentis intellegéntia consequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Xysti II Papæ, Felicissimi et Agapiti Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta nobis, quǽsumus, Dómine: intercedéntibus sanctis Martýribus tuis Xysto, Felicíssimo et Agapíto; ut, quod ore contíngimus, pura mente capiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that by the understanding of our minds made pure, we may grasp the mystery of the Transfiguration of Your only-begotten Son, which we celebrate by these solemn rites.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Xystus II Pope, Felicissimus and Agapitus, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, O almighty and merciful God, that through the intercession of Your holy Martyrs, Sixtus, Felicissimus and Agapitus what we take into our mouths we may eat with pure heart.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

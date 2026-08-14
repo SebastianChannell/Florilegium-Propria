@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-05",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica Resurrectionis",
+  "rank": "I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:18; 138:5-6.</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>esurréxi, et adhuc tecum sum, allelúia: posuísti super me manum tuam, allelúia: mirábilis facta est sciéntia tua, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 138:1-2.</em></span><br>\nDómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>esurréxi, et adhuc tecum sum, allelúia: posuísti super me manum tuam, allelúia: mirábilis facta est sciéntia tua, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:18; 138:5-6</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> arose, and am still with Thee, alleluia; Thou hast laid Thy hand upon me, alleluia; Thy knowledge is become wonderful, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps. 138. 1, 2</em></span><br>\nLord, Thou hast searched Me and known Me; Thou knowest my sitting down and My rising up.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> arose, and am still with Thee, alleluia; Thou hast laid Thy hand upon me, alleluia; Thy knowledge is become wonderful, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum, devícta morte, reserásti: vota nostra, quæ præveniéndo aspíras, étiam adiuvándo proséquere.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, who, on this day, through Thine only-begotten Son, hast conquered death, and thrown open to us the gate of everlasting life, give effect by thine aid to our desires, which Thou dost anticipate and inspire<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios.<br>\n<span class=\"rubric\"><em>1 Cor 5:7-8</em></span><br>\nFratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et nequítiæ: sed in ázymis sinceritátis et veritátis.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor 5:7-8</em></span><br>\nBrethren, purge out the old leaven, that you may be a new paste, as you are unleavened: for Christ our Pasch is sacrificed. Therefore let us feast, not with the old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps. 117:24; 117:1</em></span><br>\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.<br>\n<span class=\"marker\"><em>℣.</em></span> Confitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia eius. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>1 Cor 5:7</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Pascha nostrum immolátus est Christus.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVíctimæ pascháli laudes ímmolent Christiáni.<br>\nAgnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres.<br>\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus.<br>\nDic nobis, María, quid vidísti in via?<br>\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis.<br>\nAngélicos testes, sudárium et vestes.<br>\nSurréxit Christus, spes mea: præcédet vos in Galilǽam.<br>\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia.<br>\n<span class=\"rubric\"><em>Sequentia dicitur usque ad Sabbatum in Albis inclusive.</em></span>"
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia<br>\n<span class=\"rubric\"><em>Ps. 117:24; 117:1</em></span><br>\nThis is the day which the Lord hath made: let us rejoice and be glad in it.<br>\n<span class=\"marker\"><em>℣.</em></span> Give praise unto the Lord, for He is good: for His mercy endureth for ever. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>1 Cor. 5:7</em></span><br>\nChrist our Pasch is immolated.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nChristians! to the Paschal Victim offer your thankful praises.<br>\nThe Lamb the sheep redeemeth: Christ, who only is sinless, reconcileth sinners to the Father.<br>\nDeath and life contended in that conflict stupendous: the Prince of Life, who died, deathless reigneth.<br>\nSpeak, Mary, declaring what thou sawest wayfaring.<br>\n“The tomb of Christ who now liveth: and likewise the glory of the Risen.<br>\nBright Angels attesting, the shroud and napkin resting.<br>\nYea, Christ my hope is arisen: to Galilee He goeth before you.”<br>\nWe know that Christ is risen, henceforth ever living: Have mercy, Victor King, pardon giving. Amen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 16:1-7.</em></span><br>\nIn illo témpore: María Magdaléne et María Iacóbi et Salóme emérunt arómata, ut veniéntes úngerent Iesum. Et valde mane una sabbatórum, véniunt ad monuméntum, orto iam sole. Et dicébant ad ínvicem: Quis revólvet nobis lápidem ab óstio monuménti? Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde. Et introëúntes in monuméntum vidérunt iúvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt. Qui dicit illis: Nolíte expavéscere: Iesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, ecce locus, ubi posuérunt eum. Sed ite, dícite discípulis eius et Petro, quia præcédit vos in Galilǽam: ibi eum vidébitis, sicut dixit vobis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Mark<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Mark 16:1-7</em></span><br>\nAt that time, Mary Magdalen, and Mary the mother of James, and Salome bought sweet spices, that coming they might anoint Jesus. And very early in the morning, the first day of the week, they came to the sepulchre, the sun being now risen. And they said one to another: Who shall roll us back the stone from the door of the sepulchre? And looking, they saw the stone rolled back. For it was very great. And entering into the sepulchre, they saw a young man sitting on the right side, clothed with a white robe, and they were astonished. Who saith to them, Be not affrighted; ye seek Jesus of Nazareth, who was crucified: He is risen, He is not here; behold the place where they laid Him. But go, tell His disciples, and Peter, that He goeth before you into Galilee; there you shall see Him, as He told you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 75:9-10.</em></span><br>\nTerra trémuit, et quiévit, dum resúrgeret in iudício Deus, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 75:9-10.</em></span><br>\nThe earth trembled and was still when God arose in judgment, alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, quǽsumus, Dómine, preces pópuli tui cum oblatiónibus hostiárum: ut, Paschálibus initiáta mystériis, ad æternitátis nobis medélam, te operánte, profíciant.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We beseech Thee, O Lord, accept the prayers of Thy people together with the Sacrifice they offer, that what has been begun by the Paschal Mysteries, by Thy working may profit us unto eternal healing.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hac potíssimum die gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially on this day when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Cor 5:7-8</em></span><br>\nPascha nostrum immolátus est Christus, allelúia: itaque epulémur in ázymis sinceritátis et veritátis, allelúia, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Cor 5:7-8</em></span><br>\nChrist our Pasch is immolated, alleluia: therefore let us feast with the unleavened bread of sincerity and truth, alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSpíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concordes.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nPour forth upon us, O Lord, the spirit of Thy love, that, by Thy loving kindness, Thou mayest make to be of one mind those whom Thou hast satisfied with the Paschal Sacraments.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

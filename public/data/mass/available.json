@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "years": [
+    2026,
+    2027
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

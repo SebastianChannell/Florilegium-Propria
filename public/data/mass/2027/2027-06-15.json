@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-06-15",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria tertia infra Hebdomadam IV post Octavam Pentecostes",
+  "rank": "IV. classis",
+  "note": "Commemoratio : Ss. Viti, Modesti atque Crescentiæ Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 26:1; 26:2</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>óminus illuminátio mea et salus mea, quem timebo? Dóminus defensor vitæ meæ, a quo trepidábo? qui tríbulant me inimíci mei, ipsi infirmáti sunt, et cecidérunt.<br>\n<span class=\"rubric\"><em>Ps 26:3</em></span><br>\nSi consístant advérsum me castra: non timébit cor meum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>óminus illuminátio mea et salus mea, quem timebo? Dóminus defensor vitæ meæ, a quo trepidábo? qui tríbulant me inimíci mei, ipsi infirmáti sunt, et cecidérunt."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps. 26:1-2</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord is my light and my salvation; whom should I fear? The Lord is my life’s refuge; of whom should I be afraid? My enemies that trouble me, themselves stumble and fall.<br>\n<span class=\"rubric\"><em>Ps 26:3</em></span><br>\nThough an army encamp against me, my heart will not fear.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord is my light and my salvation; whom should I fear? The Lord is my life’s refuge; of whom should I be afraid? My enemies that trouble me, themselves stumble and fall."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDa nobis, quǽsumus, Dómine: ut et mundi cursus pacífice nobis tuo órdine dirigátur; et Ecclésia tua tranquílla devotióne lætétur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Viti, Modesti atque Crescentiæ Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>a Ecclésiæ tuæ, quǽsumus, Dómine, sanctis Martýribus tuis Vito, Modésto atque Crescéntia intercedéntibus, supérbe non sápere, sed tibi plácita humilitáte profícere: ut, prava despíciens, quæcúmque recta sunt, libera exérceat caritáte.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant us, we beseech You, O Lord, that the course of the world may be directed according to Your rule in peace and that Your Church may have the joy of serving You undisturbed.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Vitus, Modestus and Crescentia, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant O Lord, we pray, that through the intercession of thy Holy Martyrs Vitus, Modestus and Crescentia, thy Church be not high-minded, but grow in that humility which is pleasing to thee, so that despising evil, she may practice whatever is good with unbounded charity<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános<br>\n<span class=\"rubric\"><em>Rom 8:18-23</em></span><br>\nFratres: Exístimo, quod non sunt condígnæ passiónes huius témporis ad futúram glóriam, quæ revelábitur in nobis. Nam exspectátio creatúræ revelatiónem filiórum Dei exspéctat. Vanitáti enim creatúra subiécta est, non volens, sed propter eum, qui subiécit eam in spe: quia et ipsa creatúra liberábitur a servitúte corruptiónis, in libertátem glóriæ filiórum Dei. Scimus enim, quod omnis creatúra ingemíscit et párturit usque adhuc. Non solum autem illa, sed et nos ipsi primítias spíritus habéntes: et ipsi intra nos gémimus, adoptiónem filiórum Dei exspectántes, redemptiónem córporis nostri: in Christo Iesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Romans<br>\n<span class=\"rubric\"><em>Rom 8:18-23</em></span><br>\nBrethren: I reckon that the sufferings of the present time are not worthy to be compared with the glory to come that will be revealed in us. For the eager longing of creation awaits the revelation of the sons of God. For creation was made subject to vanity - not by its own will but by reason of Him Who made it subject - in hope, because creation itself also will be delivered from its slavery to corruption into the freedom of the glory of the sons of God. For we know that all creation groans and travails in pain until now. And not only it, but we ourselves also who have the first-fruits of the Spirit - we ourselves groan within ourselves, waiting for the adoption as sons of God, the redemption of our body, in Christ Jesus our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 78:9; 78:10</em></span><br>\nPropítius esto, Dómine, peccátis nostris: ne quando dicant gentes: Ubi est Deus eórum?<br>\n<span class=\"marker\"><em>℣.</em></span> Adiuva nos, Deus, salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 9:5; 9:10</em></span><br>\nDeus, qui sedes super thronum, et iúdicas æquitátem: esto refúgium páuperum in tribulatióne. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps. 78:9-10</em></span><br>\nPardon our sins, O Lord; why should the nations say, Where is their God?<br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God our Saviour; because of the glory of Your name, O Lord, deliver us. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps. 9:5; 9:10</em></span><br>\nO God, seated on Your throne, judging justly: be a stronghold for the oppressed in times of distress. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 5:1-11</em></span><br>\nIn illo témpore: Cum turbæ irrúerent in Iesum, ut audírent verbum Dei, et ipse stabat secus stagnum Genésareth. Et vidit duas naves stantes secus stagnum: piscatóres autem descénderant et lavábant rétia. Ascéndens autem in unam navim, quæ erat Simónis, rogávit eum a terra redúcere pusíllum. Et sedens docébat de navícula turbas. Ut cessávit autem loqui, dixit ad Simónem: Duc in altum, et laxáte rétia vestra in captúram. Et respóndens Simon, dixit illi: Præcéptor, per totam noctem laborántes, nihil cépimus: in verbo autem tuo laxábo rete. Et cum hoc fecíssent, conclusérunt píscium multitúdinem copiósam: rumpebátur autem rete eórum. Et annuérunt sóciis, qui erant in ália navi, ut venírent et adiuvárent eos. Et venérunt, et implevérunt ambas navículas, ita ut pæne mergeréntur. Quod cum vidéret Simon Petrus, prócidit ad génua Iesu, dicens: Exi a me, quia homo peccátor sum, Dómine. Stupor enim circumdéderat eum et omnes, qui cum illo erant, in captúra píscium, quam céperant: simíliter autem Iacóbum et Ioánnem, fílios Zebedǽi, qui erant sócii Simónis. Et ait ad Simónem Iesus: Noli timére: ex hoc iam hómines eris cápiens. Et subdúctis ad terram návibus, relictis ómnibus, secuti sunt eum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 5:1-11</em></span><br>\nAt that time, while the crowds were pressing upon Jesus to hear the word of God, He was standing by Lake Genesareth. And He saw two boats moored by the lake, but the fishermen had left them and were washing their nets. And getting into one of the boats, the one that was Simon’s, He asked him to put out a little from the land. And sitting down, He began to teach the crowds from the boat. But when He had ceased speaking, He said to Simon, Put out into the deep, and lower your nets for a catch. And Simon answered and said to Him, Master, the whole night through we have toiled and have taken nothing; but at Your word I will lower the net. And when they had done so, they enclosed a great number of fishes, but their net was breaking. And they beckoned to their comrades in the other boat to come and help them. And they came and filled both the boats, so that they began to sink. But when Simon Peter saw this, he fell down at Jesus’ knees, saying, Depart from me, for I am a sinful man, O Lord. For he and all who were with him were amazed at the catch of fish they had made; and so were also James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon, Do not be afraid; henceforth you shall catch men. And when they had brought their boats to land, they left all and followed Him.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 12:4-5</em></span><br>\nIllúmina óculos meos, ne umquam obdórmiam in morte: ne quando dicat inimícus meus: Præválui advérsus eum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 12:4-5</em></span><br>\nGive light to my eyes that I may never sleep in death, lest my enemy say, I have overcome him."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oblatiónibus nostris, quǽsumus, Dómine, placáre suscéptis: et ad te nostras étiam rebélles compélle propítius voluntátes.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Viti, Modesti atque Crescentiæ Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>icut glóriam divínæ poténtiæ múnera pro Sanctis obláta testántur: sic nobis efféctum, Dómine, tuæ salvatiónis impéndant.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Be appeased, we beseech You, O Lord, by accepting our offerings, and in Your kindness make even our rebellious wills turn to You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Vitus, Modestus and Crescentia, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>s the gifts, we offer in honor of thy Saints, O Lord, bear witness to the glory of thy divine power; so may they win for us the benefits of thy salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 17:3</em></span><br>\nDóminus firmaméntum meum, et refúgium meum, et liberátor meus: Deus meus, adiútor meus."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps. 17:3</em></span><br>\nO Lord, my rock, my fortress, my deliverer: my God, my rock of refuge!"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nMystéria nos, Dómine, quǽsumus, sumpta puríficent: et suo múnere tueántur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Viti, Modesti atque Crescentiæ Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>epléti, Dómine, benedictióne sollémni: quǽsumus; ut, per intercessiónem sanctórum Mártyrum tuórum Viti, Modésti et Crescéntiæ, medicína sacraménti et corpóribus nostris prosit et méntibus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the sacrament we have received cleanse us, we beseech You, O Lord, and by its grace protect us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Vitus, Modestus and Crescentia, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e, who have been filled with thy solemn blessing, ask, O Lord, that, through the intercession of thy holy Martyrs Vitus, Modestus and Crescentia, this healing sacrament may benefit both our bodies and our souls.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

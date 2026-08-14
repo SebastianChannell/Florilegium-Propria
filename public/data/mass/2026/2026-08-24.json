@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-24",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Bartholomæi Apostoli",
+  "rank": "II. classis",
+  "note": "Scriptura: Feria Secunda infra Hebdomadam XIII post Octavam Pentecostes IV. Augusti",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"rubric\"><em>Ps 138:1-2.</em></span><br>\nDómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>o me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened.<br>\n<span class=\"rubric\"><em>Ps 138:1-2</em></span><br>\nO Lord, You have probed me and You know me; You know when I sit and when I stand.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>o me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens sempitérne Deus, qui huius diei venerándam sanctámque lætítiam in beáti Apóstoli tui Bartholomǽi festivitáte tribuísti: da Ecclésiæ tuæ, quǽsumus; et amáre quod crédidit, et prædicáre quod dócuit.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty, eternal God, Who bestowed on us the devout and holy joy of this day to celebrate the feast of Your blessed Apostle Bartholomew, grant unto Your Church, we beseech You, both to love what he believed and to preach what he taught.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>1 Cor 12:27-31</em></span><br>\nFratres: Vos estis corpus Christi et membra de membro. Et quosdam quidem pósuit Deus in Ecclésia primum apóstolos, secúndo prophetas, tertio doctores, deinde virtútes, exinde grátias curationum, opitulatiónes, gubernatiónes, genera linguarum, interpretatiónes sermonum. Numquid omnes apóstoli? numquid omnes prophétæ? numquid omnes doctóres? numquid omnes virtútes? numquid omnes grátiam habent curationum? numquid omnes linguis loquúntur? numquid omnes interpretántur? Æmulámini autem charísmata melióra.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 12:27-31</em></span><br>\nBrethren: You are the body of Christ, member for member. And God indeed has placed some in the Church, first Apostles, secondly prophets, thirdly teachers; after that miracles, then gifts of healing, services of help, power of administration, and the speaking of various tongues. Are all Apostles? Are all prophets? Are all teachers? Are all workers of miracles? Do all have the gift of healing? Do all speak with tongues? Do all interpret? Yet strive after the greater gifts.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:17; 44:18</em></span><br>\nConstítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine.<br>\n<span class=\"marker\"><em>℣.</em></span> Pro patribus tuis nati sunt tibi fílii: proptérea pópuli confitebúntur tibi.<br>\nAllelúia, allelúia.<br>\n<span class=\"marker\"><em>℣.</em></span> Te gloriósus Apostolórum chorus laudat, Dómine. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:17-18</em></span><br>\nYou shall make them princes through all the land; they shall remember Your name, O Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> The place of your fathers your sons shall have; therefore shall nations praise You. Alleluia, alleluia.<br>\n<span class=\"marker\"><em>℣.</em></span> The glorious choir of the Apostles praises You, O Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 6:12-19</em></span><br>\nIn illo témpore: Exiit Iesus in montem oráre, et erat pernóctans in oratióne Dei. Et cum dies factus esset, vocavit discípulos suos, et elégit duódecim ex ipsis - quos et Apóstolos nominávit -: Simónem, quem cognominávit Petrum, et Andream fratrem eius, Iacóbum et Ioánnem, Philíppum et Bartholomæum, Matthǽum et Thomam, Iacóbum Alphæi et Simónem, qui vocátur Zelótes, et Iudam Iacóbi, et Iudam Iscariótem, qui fuit próditor. Et descéndens cum illis, stetit in loco campéstri, et turba discipulórum eius, et multitúdo copiósa plebis ab omni Iudæa, et Ierúsalem, et marítima, et Tyri, et Sidónis, qui vénerant, ut audírent eum et sanaréntur a languóribus suis. Et, qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébat eum tángere: quia virtus de illo exíbat, et sanábat omnes.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 6:12-19</em></span><br>\nAt that time, Jesus went out to the mountain to pray, and continued all night in prayer to God. And when day broke, He summoned His disciples; and from these He chose twelve - whom He also named Apostles-  Simon, whom He named Peter, and his brother Andrew; James and John; Philip and Bartholomew; Matthew and Thomas; James the son of Alpheus, and Simon called the Zealot; Jude the brother of James, and Judas Iscariot, who turned traitor. And coming down with them, He took His stand on a level stretch, with a crowd of His disciples, and a great multitude of people from all Judea and Jerusalem, and the sea coast of Tyre and Sidon, who came to listen to Him and to be healed of their diseases. And those who were troubled with unclean spirits were cured. And all the crowd were trying to touch Him, for power went forth from Him and healed all.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nMihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nTo me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Beáti Apóstoli tui Bartholomǽi sollémnia recenséntes, quǽsumus, Dómine: ut eius auxílio tua benefícia capiámus, pro quo tibi laudis hóstias immolámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We beseech You, O Lord, that we who keep the feast of Your blessed Apostle Bartholomew, may, by his help, obtain Your blessings, since we offer You this sacrifice of praise in his honor.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28</em></span><br>\nVos, qui secúti estis me, sedébitis super sedes, iudicántes duódecim tribus Israël."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28</em></span><br>\nYou who have followed Me shall sit on thrones judging the twelve tribes of Israel."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSumptum, Dómine, pignus redemptiónis ætérnæ: sit nobis, quǽsumus; interveniénte beáto Bartholomǽo Apóstolo tuo, vitæ præséntis auxílium páriter et futúræ.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe have received, O Lord, the pledge of everlasting redemption; may it, by the intercession of blessed Bartholomew, Your Apostle, be our help both now and in the life to come.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-12-05",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica II Adventus",
+  "rank": "I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Is 30:30</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet Dóminus glóriam vocis suæ in lætítia cordis vestri.<br>\n<span class=\"rubric\"><em>Ps 79:2</em></span><br>\nQui regis Israël, inténde: qui dedúcis, velut ovem, Ioseph.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet Dóminus glóriam vocis suæ in lætítia cordis vestri."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Isa 30:30</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>eople of Sion, behold the Lord shall come to save the nations; and the Lord shall make the glory of His voice to be heard, in the joy of your heart.<br>\n<span class=\"rubric\"><em>Ps 79:2</em></span><br>\nO Shepherd of Israel, hearken, O Guide of the flock of Joseph!<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>eople of Sion, behold the Lord shall come to save the nations; and the Lord shall make the glory of His voice to be heard, in the joy of your heart."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nExcita, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut, per eius advéntum, purificátis tibi méntibus servíre mereámur:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nStir up our hearts, O Lord, to prepare the ways of Your only-begotten Son, so that through His coming we may be able to serve You with purified minds.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Lectio Epístolæ beáti Pauli Apostoli ad Romános<br>\n<span class=\"rubric\"><em>Rom 15:4-13.</em></span><br>\nFratres: Quæcúmque scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam et consolatiónem Scripturárum spem habeámus. Deus autem patiéntiæ et solácii det vobis idípsum sápere in altérutrum secúndum Iesum Christum: ut unánimes, uno ore honorificétis Deum et Patrem Dómini nostri Iesu Christi. Propter quod suscípite ínvicem, sicut et Christus suscépit vos in honórem Dei. Dico enim Christum Iesum minístrum fuísse circumcisiónis propter veritátem Dei, ad confirmándas promissiónes patrum: gentes autem super misericórdia honoráre Deum, sicut scriptum est: Proptérea confitébor tibi in géntibus, Dómine, et nómini tuo cantábo. Et íterum dicit: Lætámini, gentes, cum plebe eius. Et iterum: Laudáte, omnes gentes, Dóminum: et magnificáte eum, omnes pópuli. Et rursus Isaías ait: Erit radix Iesse, et qui exsúrget régere gentes, in eum gentes sperábunt. Deus autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe et virtúte Spíritus Sancti.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Romans<br>\n<span class=\"rubric\"><em>Rom 15:4-13</em></span><br>\nBrethren: Whatever things have been written have been written for our instruction, that through the patience and the consolation afforded by the Scriptures we may have hope. May then the God of patience and of comfort grant you to be of one mind towards one another according to Jesus Christ; that, one in spirit, you may with one mouth glorify the God and Father of our Lord Jesus Christ. Wherefore receive one another, even as Christ has received you to the honor of God. For I say that Christ Jesus has been a minister of the circumcision in order to show God’s fidelity in confirming the promises made to our fathers, but that the Gentiles glorify God because of His mercy, as it is written, Therefore will I praise You among the Gentiles, and will sing to Your name. And again He says, Rejoice, you Gentiles, with His people. And again, Praise the Lord, all you Gentiles; and sing His praises, all you peoples. And again Isaias says, There shall be the root of Jesse, and He Who shall arise to rule the Gentiles... in Him the Gentiles shall hope. Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope and in the power of the Holy Spirit.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 49:2-3; 49:5</em></span><br>\nEx Sion species decóris eius: Deus maniféste véniet,<br>\n<span class=\"marker\"><em>℣.</em></span> Congregáte illi sanctos eius, qui ordinavérunt testaméntum eius super sacrifícia. Allelúia, allelúia,<br>\n<span class=\"rubric\"><em>Ps 121:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 49:2-3, 5</em></span><br>\nFrom Sion, perfect in beauty, God shines forth.<br>\n<span class=\"marker\"><em>℣.</em></span> Gather His faithful ones before Him, those who have made a covenant with Him by sacrifice. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 121:1</em></span><br>\nI rejoiced because they said to me: We will go up to the house of the Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 11:2-10</em></span><br>\nIn illo tempore: Cum audísset Ioánnes in vínculis ópera Christi, mittens duos de discípulis suis, ait illi: Tu es, qui ventúrus es, an alium exspectámus? Et respóndens Iesus, ait illis: Eúntes renuntiáte Ioánni, quæ audístis et vidístis. Cæci vident, claudi ámbulant, leprósi mundántur, surdi áudiunt, mórtui resúrgunt, páuperes evangelizántur: et beátus est, qui non fúerit scandalizátus in me. Illis autem abeúntibus, cœpit Iesus dícere ad turbas de Ioánne: Quid exístis in desértum vidére? arúndinem vento agitátam? Sed quid exístis vidére? hóminem móllibus vestitum? Ecce, qui móllibus vestiúntur, in dómibus regum sunt. Sed quid exístis vidére? Prophétam? Etiam dico vobis, et plus quam Prophétam. Hic est enim, de quo scriptum est: Ecce, ego mitto Angelum meum ante fáciem tuam, qui præparábit viam tuam ante te.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 11:2-10</em></span><br>\nAt that time, when John had heard in prison of the works of Christ, he sent two of his disciples to say to Him, Are You He Who is to come, or shall we look for another? And Jesus answering said to them, Go and report to John what you have heard and seen: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise, the poor have the gospel preached to them. And blessed is he who is not scandalized in Me. Then, as they went away, Jesus began to say to the crowds concerning John, What did you go out to the desert to see? A reed shaken by the wind? But what did you go out to see? A man clothed in soft garments? Behold, those who wear soft garments are in the houses of kings. But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet. This is he of whom it is written, ‘Behold, I send my messenger before Your face, who shall make ready Your way before You.’<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 84:7-8</em></span><br>\nDeus, tu convérsus vivificábis nos, et plebs tua lætábitur in te: osténde nobis, Dómine, misericórdiam tuam, et salutáre tuum da nobis."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 84:7-8</em></span><br>\nWill You not, O God, give us life; and shall not Your people rejoice in You? Show us, O Lord, Your kindness, and grant us Your salvation."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Placáre, quǽsumus, Dómine, humilitátis nostræ précibus et hóstiis: et, ubi nulla suppétunt suffrágia meritórum, tuis nobis succúrre præsídiis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Be appeased, we beseech You, O Lord, by the prayers and offerings of our human frailty, and where the support of our own merits is lacking, come to our assistance with Your protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Adventu</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum. Quem pérdito hóminum géneri Salvatórem miséricors et fidélis promisísti: cuius véritas instrúeret ínscios, sánctitas iustificáret ímpios, virtus adiuváret infírmos. Dum ergo prope est ut véniat quem missúrus es, et dies affúlget liberatiónis nostræ, in hac promissiónum tuárum fide, piis gáudiis exsultámus. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cœléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Advent</em></span><br>\nIt is truly fitting and proper, right and profitable to salvation, that we should at all times and in all places give thanks to You, Lord, holy Father, Almighty and everlasting God, through Christ our Lord. For You have promised Him, O faithful and merciful One, as a Saviour for the lost human race; so that His truth might instruct the ignorant, His holiness might sanctify sinners, and His power might strengthen the weak. Since, therefore, the time of His coming is near, and the day of our liberation is dawning, we trust in Your promises and exult with joyous love. And, therefore, with Angels and Archangels, with Thrones and Dominations, and with the whole host of the heavenly army, we sing a hymn to Your glory, saying without ceasing:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Bar 5:5; 4:36</em></span><br>\nIerúsalem, surge et sta in excélso, et vide iucunditátem, quæ véniet tibi a Deo tuo."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Bar 5:5; 4:36</em></span><br>\nUp, Jerusalem! stand upon the heights; and behold the joy that comes to you from your God."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nRepléti cibo spirituális alimóniæ, súpplices te, Dómine, deprecámur: ut, huius participatióne mystérii, dóceas nos terréna despícere et amáre cœléstia.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe who have been refreshed by the food of spiritual nourishment, humbly beseech You, O Lord, that through partaking of this sacrament You will teach us to disdain the things of earth and love those of heaven.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

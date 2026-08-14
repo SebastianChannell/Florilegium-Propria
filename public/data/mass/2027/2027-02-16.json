@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-02-16",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Tertia infra Hebdomadam I in Quadragesima",
+  "rank": "III. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 89:1; 89:2</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>ómine, refúgium factus es nobis a generatióne et progénie: a sǽculo et in sǽculum tu es.<br>\n<span class=\"rubric\"><em>Ps 89:2</em></span><br>\nPriúsquam montes fíerent, aut formarétur terra et orbis: a sǽculo et usque in sǽculum tu es Deus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>ómine, refúgium factus es nobis a generatióne et progénie: a sǽculo et in sǽculum tu es."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 89:1-2</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ord, You have been our refuge through all generations; from everlasting to everlasting You are.<br>\n<span class=\"rubric\"><em>Ps 89:2</em></span><br>\nBefore the mountains were begotten and the earth and the world were brought forth, from everlasting to everlasting, You are God.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ord, You have been our refuge through all generations; from everlasting to everlasting You are."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nRéspice, Dómine, famíliam tuam: et præsta; ut apud te mens nostra tuo desidério fúlgeat, quæ se carnis maceratióne castígat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nLook upon Your household, O Lord, and grant that our minds, chastened by mortification of the flesh, may, because of their desire for You, shine in Your sight.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Isaíæ Prophétæ<br>\n<span class=\"rubric\"><em>Is 55:6-11</em></span><br>\nIn diébus illis: Locútus est Isaías Prophéta, dicens: Quǽrite Dóminum, dum inveníri potest: invocáte eum, dum prope est. Derelínquat ímpius viam suam, et vir iníquus cogitatiónes suas, et revertátur ad Dóminum: et miserébitur eius, et ad Deum nostrum: quóniam multus est ad ignoscéndum. Non enim cogitationes meæ cogitatiónes vestræ: neque viæ vestræ viæ meæ, dicit Dóminus. Quia sicut exaltántur cœli a terra, sic exaltátæ sunt viæ meæ a viis vestris, et cogitatiónes meæ a cogitatiónibus vestris. Et quómodo descéndit imber et nix de cœlo, et illuc ultra non revértitur, sed inébriat terram, et infúndit eam, et germináre eam facit, et dat semen serénti, et panem comedénti: sic erit verbum meum, quod egrediétur de ore meo: non revertétur ad me vácuum, sed fáciet quæcúmque volui, et prosperábitur in his, ad quæ misi illud: ait Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Prophecy of Isaias<br>\n<span class=\"rubric\"><em>Isa 55:6-11</em></span><br>\nIn those days, the Prophet Isaias spoke, saying, “Seek the Lord while He may be found: call upon Him while He is near. Let the wicked forsake his way and the unjust man his thoughts, and let him return to the Lord, and He will have mercy on him, and to our God, for He is bountiful to forgive. For My thoughts are not your thoughts: nor your ways My ways, says the Lord. For as the heavens are exalted above the earth, so are My ways exalted above your ways, and My thoughts above your thoughts. And as the rain and the snow come down from heaven, and return no more thither, but soak the earth and water it, and make it to spring, and give seed to the sower and bread to the eater; so shall My word be, which shall go forth from My mouth; it shall not return to Me void, but it shall do whatsoever I please, and shall prosper in the things for which I sent it, says the Lord almighty.”<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 140:2</em></span><br>\nDirigátur orátio mea sicut incénsum in conspéctu tuo, Dómine,<br>\n<span class=\"marker\"><em>℣.</em></span> Elevátio mánuum meárum sacrifícium vespertínum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 140:2</em></span><br>\nLet my prayer come like incense before You, O Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> The lifting up of my hands, like the evening sacrifice."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 21:10-17</em></span><br>\nIn illo témpore: Cum intrásset Iesus Ierosólymam, commóta est univérsa cívitas, dicens: Quis est hic? Pópuli autem dicébant: Hic est Iesus Prophéta a Názareth Galilǽæ. Et intrávit Iesus in templum Dei, et eiiciébat omnes vendéntes, et eméntes in templo; et mensas nummulariórum et cáthedras vendéntium colúmbas evértit: et dicit eis: Scriptum est: Domus mea domus oratiónis vocábitur: vos autem fecístis illam spelúncam latrónum. Et accessérunt ad eum cæci et claudi in templo: et sanávit eos. Vidéntes autem príncipes sacerdótum et scribæ mirabília, quæ fecit, et púeros clamantes in templo, et dicéntes: Hosánna fílio David: indignáti sunt, et dixérunt ei: Audis, quid isti dicunt? Iesus autem dixit eis: Utique. Numquam legístis: Quia ex ore infántium et lacténtium perfecísti laudem? Et relíctis illis, ábiit foras extra civitátem in Bethániam: ibíque mansit.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 21:10-17</em></span><br>\nAt that time, when Jesus entered Jerusalem, all the city was thrown into commotion, saying, Who is this? But the crowds kept on saying, This is Jesus the prophet from Nazareth of Galilee. And Jesus entered the temple of God, and cast out all those who were selling and buying in the temple, and He overturned the tables of the money-changers and the seats of those who sold the doves. And He said to them, It is written, ‘My house shall be called a house of prayer’; but you have make it a den of thieves. And the blind and the lame came to Him in the temple, and He healed them. But the chief priests and the Scribes, seeing the wonderful deeds that He did, and the children crying out in the temple, and saying, Hosanna to the Son of David, were indignant, and said to Him, Do You hear what these are saying? And Jesus said to them, Yes; have you never read, ‘Out of the mouth of infants and sucklings You have perfected praise’? And leaving them, He went out of the city to Bethany and He stayed there.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 30:15-16</em></span><br>\nIn te sperávi, Dómine; dixi: Tu es Deus meus, in mánibus tuis témpora mea."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 30:15-16</em></span><br>\nMy trust is in You, O Lord; I say, “You are my God.” In Your hands is my destiny."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oblátis, quǽsumus, Dómine, placáre munéribus: et a cunctis nos defénde perículis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Be appeased, we beseech You, O Lord, by the gifts we offer, and safeguard us from all dangers.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 4:2</em></span><br>\nCum invocárem te, exaudísti me, Deus iustítiæ meæ: in tribulatióne dilatásti me: miserére mihi, Dómine, et exáudi oratiónem meam."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 4:2</em></span><br>\nWhen I call, answer me, O my just God, You Who relieve me when I am in distress; have pity on me, O Lord, and hear my prayer!"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, omnípotens Deus: ut illíus salutáris capiámus efféctum, cuius per hæc mystéria pignus accépimus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super Populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>scéndant ad te, Dómine, preces nostræ: et ab Ecclésia tua cunctam repélle nequítiam.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, almighty God, that we may obtain that salvation whose pledge we have received in this divine sacrament.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay our prayers ascend unto You, O Lord, and banish all wickedness from Your Church.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

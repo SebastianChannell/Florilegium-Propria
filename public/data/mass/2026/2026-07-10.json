@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-10",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Ss. Septem Fratrum Martyrum, ac Rufinæ et Secundæ Virginum et Martyrum",
+  "rank": "III. classis",
+  "note": "Scriptura: Feria sexta infra Hebdomadam VI post Octavam Pentecostes",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 112:1; 112:9</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>audáte, púeri, Dóminum, laudáte nomen Dómini: qui habitáre facit stérilem in domo, matrem filiórum lætántem.<br>\n<span class=\"rubric\"><em>Ps 112:2</em></span><br>\nSit nomen Dómini benedíctum: ex hoc nunc, ei usque in sǽculum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>audáte, púeri, Dóminum, laudáte nomen Dómini: qui habitáre facit stérilem in domo, matrem filiórum lætántem."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 112:1, 9</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>raise the Lord, you children, praise the name of the Lord. He establishes in her home the barren wife as the joyful mother of children.<br>\n<span class=\"rubric\"><em>Ps 112:2</em></span><br>\nBlessed be the name of the Lord both now and forever.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>raise the Lord, you children, praise the name of the Lord. He establishes in her home the barren wife as the joyful mother of children."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that we who know how courageously Your holy Martyrs have confessed the faith, may experience their goodness as they intercede for us with You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Prov 31:10-31</em></span><br>\nMulíerem fortem quis invéniet? Procul et de últimis fínibus prétium eius. Confídit in ea cor viri sui, et spóliis non indigébit. Reddet ei bonum, et non malum, ómnibus diébus vitæ suæ. Quæsívit lanam et linum, et operáta est consílio mánuum suárum. Facta est quasi navis institóris, de longe portans panem suum. Et de nocte surréxit, dedítque prædam domésticis suis, et cibária ancíllis suis. Considerávit agrum, et emit eum: de fructu mánuum suárum plantávit víneam. Accínxit fortitúdine lumbos suos, et roborávit bráchium suum. Gustávit, et vidit, quia bona est negotiátio eius: non exstinguétur in nocte lucérna eius. Manum suam misit ad fórtia, et dígiti eius apprehendérunt fusum. Manum suam apéruit ínopi, et palmas suas exténdit ad páuperem. Non timébit dómui suæ a frigóribus nivis: omnes enim doméstici eius vestíti sunt duplícibus. Stragulátam vestem fecit sibi: byssus et púrpura induméntum eius. Nóbilis in portis vir eius, quando séderit cum senatóribus terræ. Síndonem fecit et véndidit, et cíngulum trádidit Chananǽo. Fortitúdo et decor induméntum eius, et ridébit in die novíssimo. Os suum apéruit sapiéntiæ, et lex cleméntiæ in lingua eius. Considerávit sémitas domus suæ, et panem otiósa non comédit. Surrexérunt fílii eius, et beatíssimam prædicavérunt: vir eius, et laudávit eam. Multæ fíliæ congregavérunt divítias: tu supergréssa es univérsas. Fallax grátia, et vana est pulchritúdo: múlier timens Dóminum, ipsa laudábitur. Date ei de fructu mánuum suárum: et laudent eam in portis ópera eius.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Proverbs<br>\n<span class=\"rubric\"><em>Prov 31:10-31</em></span><br>\nWhen one finds a worthy wife, her value is far beyond pearls. Her husband, entrusting his heart to her, has an unfailing prize. She brings him good, and not evil, all the days of her life. She obtains wool and flax and makes cloth with skillful hands. Like merchant ships, she secures her provisions from afar. She rises while it is still night, and distributes food to her household. She picks out a field to purchase; out of her earnings she plants a vineyard. She is girt about with strength, and sturdy are her arms. She enjoys the success of her dealings; at night her lamp is undimmed. She puts her hands to the distaff, and her fingers ply the spindle. She reaches out her hands to the poor, and extends her arms to the needy. She fears not the snow for her household; all her charges are doubly clothed. She makes her own coverlets; fine linen and purple are her clothing. Her husband is prominent at the city gates as he sits with the elders of the land. She makes garments and sells them, and stocks the merchants with belts. She is clothed with strength and dignity, and she laughs at the days to come. She opens her mouth in wisdom, and on her tongue is kindly counsel. She watches the conduct of her household, and eats not her food in idleness. Her children rise up and praise her; her husband, too, extols her: Many are the women of proven worth, but you have excelled them all. Charm is deceptive and beauty fleeting; the woman who fears the Lord is to be praised. Give her a reward of her labors, and let her works praise her at the city gates.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 123:7-8.</em></span><br>\nAnima nostra, sicut passer, erépta est de láqueo venántium.<br>\n<span class=\"marker\"><em>℣.</em></span> Láqueus contrítus est, et nos liberáti sumus: adiutórium nostrum in nómine Dómini, qui fecit cœlum et terram.<br>\nAllelúia, allelúia.<br>\n<span class=\"marker\"><em>℣.</em></span> Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secuta est, ínclita tenens regna cœléstia. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 123:7-8</em></span><br>\nWe were rescued like a bird from the fowlers’ snare.<br>\n<span class=\"marker\"><em>℣.</em></span> Broken was the snare, and we were freed. Our help is in the name of the Lord, Who made heaven and earth. Alleluia, alleluia.<br>\n<span class=\"marker\"><em>℣.</em></span> This is the true brotherhood, which overcame the wickedness of the world; it followed Christ, attaining the noble kingdom of heaven."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 12:46-50</em></span><br>\nIn illo témpore: Loquente Iesu ad turbas, ecce, Mater eius et fratres stabant foris, quæréntes loqui ei. Dixit autem ei quidam: Ecce, mater tua et fratres tui foris stant, quæréntes te. At ipse respóndens dicénti sibi, ait: Quæ est mater mea et qui sunt fratres mei? Et exténdens manum in discípulos suos, dixit: Ecce mater mea et fratres mei. Quicúmque enim fécerit voluntátem Patris mei, qui in cœlis est: ipse meus frater et soror et mater est.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 12:46-50</em></span><br>\nAt that time, as Jesus was still speaking to the crowds, His mother and His brethren were standing outside, seeking to speak to Him. And someone said to Him, Behold, Your mother and your brethren are standing outside, seeking You. But He answered and said to him who told Him, Who is My mother and who are My brethren? And stretching forth His hand toward His disciples, He said, Behold My mother and My brethren! For whoever does the will of My Father in heaven, he is My brother and sister and mother.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 123:7</em></span><br>\nAnima nostra, sicut passer, erépta est de láqueo venántium: láqueus contrítus est, et nos liberáti sumus."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 123:7</em></span><br>\nOur soul hath been delivered as a sparrow out of the snare of the fowlers. The snare is broken, and we are delivered."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sacrifíciis præséntibus, quǽsumus, Dómine, inténde placátus: et, intercedéntibus Sanctis tuis, devotióni nostræ profíciant et salúti.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Look with favor, we beseech You, O Lord, upon the offerings here before You, that, through the intercession of Your Saints, they may be beneficial for our devotion and salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 12:50</em></span><br>\nQuicúmque fécerit voluntátem Patris mei, qui in cœlis est: ipse meus frater et soror et mater est, dicit Dóminus."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 12:50</em></span><br>\nWhoever does the will of My Father in heaven, he is My brother and sister and mother, says the Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, omnípotens Deus: ut, intercedéntibus Sanctis tuis, illíus salutáris capiámus efféctum; cuius per heec mystéria pignus accépimus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that, by the intercession of Your Saints, we may obtain the effect of that salvation pledged to us through this sacred rite.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

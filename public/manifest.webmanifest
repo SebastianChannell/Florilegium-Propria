@@ -1,0 +1,17 @@
+{
+  "name": "Florilegium Propria",
+  "short_name": "Propria",
+  "description": "Daily Mass propers of the 1962 Roman Missal in Latin and English.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070606",
+  "theme_color": "#070606",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

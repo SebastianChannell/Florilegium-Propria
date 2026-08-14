@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-05-24",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica Pentecostes",
+  "rank": "I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sap 1:7.</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>píritus Dómini replévit orbem terrárum, allelúia: et hoc quod cóntinet ómnia, sciéntiam habet vocis, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 67:2</em></span><br>\nExsúrgat Deus, et dissipéntur inimíci eius: et fúgiant, qui odérunt eum, a fácie eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>píritus Dómini replévit orbem terrárum, allelúia: et hoc quod cóntinet ómnia, sciéntiam habet vocis, allelúia, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Wis 1:7.</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Spirit of the Lord fills the world, alleluia, is all-embracing, and knows man’s utterance, alleluia, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps. 67:2</em></span><br>\nGod arises; His enemies are scattered, and those who hate Him flee before Him.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Spirit of the Lord fills the world, alleluia, is all-embracing, and knows man’s utterance, alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui hodiérna die corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de eius semper consolatióne gaudére.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, You Who on this day have taught the hearts of the faithful by the light of the Holy Spirit, grant us by that Holy Spirit Himself, to know what is right and ever to rejoice in His help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Acts 2:1-11</em></span><br>\nCum compleréntur dies Pentecóstes, erant omnes discípuli pariter in eódem loco: et factus est repénte de cœlo sonus, tamquam adveniéntis spíritus veheméntis: et replévit totam domum, ubi erant sedentes. Et apparuérunt illis dispertítæ linguæ tamquam ignis, sedítque supra síngulos eórum: et repléti sunt omnes Spíritu Sancto, et cœpérunt loqui váriis linguis, prout Spíritus Sanctus dabat éloqui illis. Erant autem in Ierúsalem habitántes Iudǽi, viri religiósi ex omni natióne, quæ sub cœlo est. Facta autem hac voce, convénit multitúdo, et mente confúsa est, quóniam audiébat unusquísque lingua sua illos loquéntes. Stupébant autem omnes et mirabántur, dicéntes: Nonne ecce omnes isti, qui loquúntur, Galilǽi sunt? Et quómodo nos audívimus unusquísque linguam nostram, in qua nati sumus? Parthi et Medi et Ælamítæ et qui hábitant Mesopotámiam, Iudǽam et Cappadóciam, Pontum et Asiam, Phrýgiam et Pamphýliam, Ægýptum et partes Líbyæ, quæ est circa Cyrénen, et ádvenæ Románi, Iudǽi quoque et Prosélyti, Cretes et Arabes: audívimus eos loquéntes nostris linguis magnália Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 2:1-11.</em></span><br>\nWhen the days of Pentecost were drawing to a close, they were all together in one place. And suddenly there came a sound from heaven, as of a violent wind blowing, and it filled the whole house where they were sitting. And there appeared to them parted tongues as of fire, which settled upon each of them. And they were all filled with the Holy spirit and began to speak in foreign tongues, even as the Holy Spirit prompted them to speak. Now there were staying at Jerusalem, devout Jews, from every nation under heaven. And when this sound was heard, the multitude gathered and were bewildered in mind, because each heard them speaking in his own language. But they were all amazed and marvelled saying, Behold, are not all these that are speaking Galileans? And how have we heard each his own language in which he was born? Parthians and Medes and Elamites, and inhabitants of Mesopotamia, Judea, and Cappadocia, Pontus and Asia, Phrygia and Pamphilia, Egypt and the parts of Libya about Cyrene, and visitors from Rome, Jews also and proselytes, Cretens and Arabians, we have heard them speaking in our own languages of the wonderful works of God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 103:30</em></span><br>\nEmítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ. Allelúia. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVeni, Sancte Spíritus,<br>\net emítte cǽlitus<br>\nlucis tuæ rádium.<br>\n<br>\nVeni, pater páuperum;<br>\nveni, dator múnerum;<br>\nveni, lumen córdium.<br>\n<br>\nConsolátor óptime,<br>\ndulcis hospes ánimæ,<br>\ndulce refrigérium.<br>\n<br>\nIn labóre réquies,<br>\nin æstu tempéries,<br>\nin fletu solácium.<br>\n<br>\nO lux beatíssima,<br>\nreple cordis íntima<br>\ntuórum fidélium.<br>\n<br>\nSine tuo númine<br>\nnihil est in hómine,<br>\nnihil est innóxium.<br>\n<br>\nLava quod est sórdidum,<br>\nriga quod est áridum,<br>\nsana quod est sáucium.<br>\n<br>\nFlecte quod est rígidum,<br>\nfove quod est frígidum,<br>\nrege quod est dévium.<br>\n<br>\nDa tuis fidélibus,<br>\nin te confidéntibus,<br>\nsacrum septenárium.<br>\n<br>\nDa virtútis méritum,<br>\nda salútis éxitum,<br>\nda perénne gáudium.<br>\nAmen. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps. 103:30</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Send forth Your Spirit, and they shall be created: and You shall renew the face of the earth. Alleluia. <span class=\"rubric\">Kneel.</span><br>\n<span class=\"marker\"><em>℣.</em></span> Come, O Holy Spirit, fill the hearts of Your faithful: and kindle in them the fire of Your love.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nHoly Spirit! Lord of light!<br>\nFrom Thy clear celestial height,<br>\nThy pure, beaming radiance give:<br>\n<br>\nCome, Thou, Father of the poor!<br>\nCome, with treasures which endure!<br>\nCome, Thou light of all that live!<br>\n<br>\nThou of all consolers best,<br>\nVisiting the troubled breast,<br>\nDost refreshing peace bestow:<br>\n<br>\nThou in toil art comfort sweet;<br>\nPleasant coolness in the heat;<br>\nSolace in the midst of woe.<br>\n<br>\nLight immortal! Light divine!<br>\nVisit Thou these hearts of Thine,<br>\nAnd our inmost being fill.<br>\n<br>\nIf Thou take Thy grace away,<br>\nNothing pure in man will stay;<br>\nAll his good is turn’d to ill.<br>\n<br>\nHeal our wounds - our strength renew;<br>\nOn our dryness pour Thy dew;<br>\nWash the stains of guilt away:<br>\n<br>\nBend the stubborn heart and will;<br>\nMelt the frozen, warm the chill;<br>\nGuide the steps that go astray.<br>\n<br>\nThou, on those who evermore<br>\nThee confess and Thee adore,<br>\nIn Thy sevenfold gifts descend.<br>\n<br>\nGive them comfort when they die;<br>\nGive them life with Thee on high;<br>\nGive them joys which never end.<br>\nAmen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 14:23-31</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Si quis díligit me, sermónem meum servábit, et Pater meus díliget eum, et ad eum veniémus et mansiónem apud eum faciémus: qui non díligit me, sermónes meos non servat. Et sermónem quem audístis, non est meus: sed eius, qui misit me, Patris. Hæc locútus sum vobis, apud vos manens. Paráclitus autem Spíritus Sanctus, quem mittet Pater in nómine meo, ille vos docébit ómnia et súggeret vobis ómnia, quæcúmque díxero vobis. Pacem relínquo vobis, pacem meam do vobis: non quómodo mundus dat, ego do vobis. Non turbétur cor vestrum neque formídet. Audístis, quia ego dixi vobis: Vado et vénio ad vos. Si diligerétis me, gauderétis útique, quia vado ad Patrem: quia Pater maior me est. Et nunc dixi vobis, priúsquam fiat: ut, cum factum fúerit, credátis. Iam non multa loquar vobíscum. Venit enim princeps mundi huius, et in me non habet quidquam. Sed ut cognóscat mundus, quia díligo Patrem, et sicut mandátum dedit mihi Pater, sic fácio.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 14:23-31.</em></span><br>\nAt that time, Jesus said to His disciples: If anyone love Me, he will keep My word, and My Father will love him, and We will come to him and make Our abode with him. He who does not love Me, does not keep My words. And the word that you have heard is not Mine, but the Father’s Who sent Me. These things I have spoken to you while yet dwelling with you. But the Advocate, the Holy Spirit, Whom the Father will send in My Name, He will teach you all things, and bring to your mind whatever I have said to you. Peace I leave with you, My peace I give to you; not as the world gives do I give to you. Do not let your heart be troubled, or be afraid. You have heard Me say to you, ‘I go away and I am coming to you.’ If you loved Me, you would indeed rejoice that I am going to the Father, for the Father is greater than I. And now I have told you before it comes to pass, that when it has come to pass you may believe. I will no longer speak much with you, for the prince of the world is coming and in Me he has nothing. But he comes that the world may know that I love the Father, and that I do as the Father has commanded Me.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 67:29-30</em></span><br>\nConfírma hoc, Deus, quod operátus es in nobis: a templo tuo, quod est in Ierúsalem, tibi ófferent reges múnera, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 67:29-30</em></span><br>\nConfirm, O God, what You have wrought in us; from Your temple, which is in Jerusalem, kings shall offer gifts to You. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Múnera, quǽsumus, Dómine, obláta sanctífica: et corda nostra Sancti Spíritus illustratióne emúnda.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Sanctify these offerings, we beseech You, O Lord, and cleanse our hearts by the light of the Holy Spirit.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Spiritu Sancto</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui, ascéndens super omnes cælos sedénsque ad déxteram tuam, promíssum Spíritum Sanctum hodierna die in fílios adoptiónis effúdit. Quaprópter profúsis gáudiis totus in orbe terrárum mundus exsúltat. Sed et supérnæ Virtútes atque angélicæ Potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Spirit</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who ascending above all in the heavens and sitting at Thy Right Hand, poured out the Holy Spirit upon the children of adoption. Wherefore the whole world doth rejoice with overflowing joy; and the heavenly Hosts also and the angelic Powers sing together the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Act 2:2; 2:4</em></span><br>\nFactus est repénte de cœlo sonus, tamquam adveniéntis spíritus veheméntis, ubi erant sedéntes, allelúia: et repléti sunt omnes Spíritu Sancto, loquéntes magnália Dei, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Acts 2:2; 2:4</em></span><br>\nSuddenly there came a sound from heaven, as of a violent wind blowing, where they were sitting, alleluia: and they were all filled with the Holy Spirit, speaking of the wonderful works of God, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSancti Spíritus, Dómine, corda nostra mundet infúsio: et sui roris íntima aspersióne fecúndet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the inpouring of the Holy Spirit cleanse our hearts, O Lord, and make them fertile through the dew He sprinkles upon them.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-05-21",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Sexta Quattuor temporum Pentecostes",
+  "rank": "Dies Octavæ I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 70:8 70:23</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>epleátur os meum laude tua, allelúia: ut possim cantáre, allelúia: gaudébunt lábia mea, dum cantávero tibi, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 70:1-2</em></span><br>\nIn te, Dómine, sperávi, non confúndar in ætérnum: in iustítia tua líbera me et éripe me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>epleátur os meum laude tua, allelúia: ut possim cantáre, allelúia: gaudébunt lábia mea, dum cantávero tibi, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 70:8; 70:23</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et my mouth be filled with Your praise, alleluia: that I may sing, alleluia. My lips shall shout for joy as I sing Your praises, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 70:1-2</em></span><br>\nIn You, O Lord, I take refuge; let me never be put to shame, in Your justice rescue me, and deliver me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et my mouth be filled with Your praise, alleluia: that I may sing, alleluia. My lips shall shout for joy as I sing Your praises, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDa, quǽsumus, Ecclésiæ tuæ, miséricors Deus: ut, Sancto Spíritu congregáta, hostíli nullátenus incursióne turbétur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant to Your Church, we beseech You, almighty God, that, united by the Holy Spirit, she may in no way be harmed by any assault of the enemy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Ioélis Prophétæ<br>\n<span class=\"rubric\"><em>Ioël 2:23-24; 2:26-27</em></span><br>\nHæc dicit Dóminus Deus: Exsultáte, fílii Sion, et lætámini in Dómino, Deo vestro: quia dedit vobis doctórem iustítiæ, et descéndere fáciet ad vos imbrem matutínum et serótinum, sicut in princípio. Et implebúntur áreæ fruménto et redundábunt torculária vino et óleo. Et comedétis vescéntes et saturabímini, et laudábitis nomen Dómini, Dei vestri, qui fecit mirabília vobíscum: et non confundétur pópulus meus in sempitérnum. Et sciétis, quia in médio Israël ego sum: et ego Dóminus, Deus vester, et non est ámplius: et non confundétur pópulus meus in ætérnum: ait Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Joel<br>\n<span class=\"rubric\"><em>Joel 2:23-24; 26-27</em></span><br>\nThus says the Lord God: O children of Sion, exult and rejoice in the Lord, your God! He has given you the teacher of justice: He has made the rain come down for you, the early and the late rain as before. The threshing floors shall be full of grain and the vats shall overflow with wine and oil. You shall eat and be filled, and shall praise the name of the Lord, your God, because He has dealt wondrously with you; My people shall nevermore be put to shame. And you shall know that I am in the midst of Israel; I am the Lord, your God, and there is no other; My people shall nevermore be put to shame, says the Lord almighty.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 12:1</em></span><br>\nO quam bonus et suávis est, Dómine, Spíritus tuus in nobis! Allelúia. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVeni, Sancte Spíritus,<br>\net emítte cǽlitus<br>\nlucis tuæ rádium.<br>\n<br>\nVeni, pater páuperum;<br>\nveni, dator múnerum;<br>\nveni, lumen córdium.<br>\n<br>\nConsolátor óptime,<br>\ndulcis hospes ánimæ,<br>\ndulce refrigérium.<br>\n<br>\nIn labóre réquies,<br>\nin æstu tempéries,<br>\nin fletu solácium.<br>\n<br>\nO lux beatíssima,<br>\nreple cordis íntima<br>\ntuórum fidélium.<br>\n<br>\nSine tuo númine<br>\nnihil est in hómine,<br>\nnihil est innóxium.<br>\n<br>\nLava quod est sórdidum,<br>\nriga quod est áridum,<br>\nsana quod est sáucium.<br>\n<br>\nFlecte quod est rígidum,<br>\nfove quod est frígidum,<br>\nrege quod est dévium.<br>\n<br>\nDa tuis fidélibus,<br>\nin te confidéntibus,<br>\nsacrum septenárium.<br>\n<br>\nDa virtútis méritum,<br>\nda salútis éxitum,<br>\nda perénne gáudium.<br>\nAmen. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Wis 12:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> O how good and sweet is Your Spirit, O Lord, within us! Alleluia. <span class=\"rubric\">Kneel.</span><br>\n<span class=\"marker\"><em>℣.</em></span> Come, O Holy Spirit, fill the hearts of Your faithful; and kindle in them the fire of Your love.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nHoly Spirit! Lord of light!<br>\nFrom Thy clear celestial height,<br>\nThy pure, beaming radiance give:<br>\n<br>\nCome, Thou, Father of the poor!<br>\nCome, with treasures which endure!<br>\nCome, Thou light of all that live!<br>\n<br>\nThou of all consolers best,<br>\nVisiting the troubled breast,<br>\nDost refreshing peace bestow:<br>\n<br>\nThou in toil art comfort sweet;<br>\nPleasant coolness in the heat;<br>\nSolace in the midst of woe.<br>\n<br>\nLight immortal! Light divine!<br>\nVisit Thou these hearts of Thine,<br>\nAnd our inmost being fill.<br>\n<br>\nIf Thou take Thy grace away,<br>\nNothing pure in man will stay;<br>\nAll his good is turn’d to ill.<br>\n<br>\nHeal our wounds - our strength renew;<br>\nOn our dryness pour Thy dew;<br>\nWash the stains of guilt away:<br>\n<br>\nBend the stubborn heart and will;<br>\nMelt the frozen, warm the chill;<br>\nGuide the steps that go astray.<br>\n<br>\nThou, on those who evermore<br>\nThee confess and Thee adore,<br>\nIn Thy sevenfold gifts descend.<br>\n<br>\nGive them comfort when they die;<br>\nGive them life with Thee on high;<br>\nGive them joys which never end.<br>\nAmen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 5:17-26</em></span><br>\nIn illo témpore: Factum est in una diérum, et Iesus sedébat docens. Et erant pharisǽi sedéntes, et legis doctóres, qui vénerant ex omni castéllo Galilǽæ et Iudǽæ et Ierúsalem: et virtus Dómini erat ad sanándum eos. Et ecce, viri portántes in lecto hóminem, qui erat paralýticus: et quærébant eum inférre, et pónere ante eum. Et non inveniéntes, qua parte illum inférrent præ turba, ascendérunt supra tectum, et per tégulas summisérunt eum cum lecto in médium ante Iesum. Quorum fidem ut vidit, dixit: Homo, remittúntur tibi peccáta tua. Et cœpérunt cogitáre scribæ et pharisǽi, dicéntes: Quis est hic, qui lóquitur blasphémias&nbsp;? Quis potest dimíttere peccáta nisi solus Deus? Ut cognóvit autem Iesus cogitatiónes eórum, respóndens dixit ad illos: Quid cogitátis in córdibus vestris? Quid est facílius dícere: Dimittúntur tibi peccáta, an dícere: Surge et ámbula? Ut autem sciátis, quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, ait paralýtico: Tibi dico, surge, tolle lectum tuum et vade in domum tuam. Et conféstim consúrgens coram illis, tulit lectum, in quo iacébat: et ábiit in domum suam, magníficans Deum. Et stupor apprehéndit omnes et magnificábant Deum. Et repléti sunt timóre, dicéntes: Quia vídimus mirabília hódie.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 5:17-26</em></span><br>\nAt that time, it came to pass on one of the days, that Jesus sat teaching. And there were Pharisees and teachers of the Law sitting by, who had come out of every village of Galilee and Judea and out of Jerusalem. And the power of the Lord was present to heal them. And behold, some men were carrying upon a pallet a man who was paralyzed, and they were trying to bring him in and to lay him before Him. And as they found no way of bringing him in, because of the crowd, they went up onto the roof and lowered him through the tiles, with his pallet, into the midst before Jesus. And seeing their faith, He said, Man, your sins are forgiven you. And the Scribes and Pharisees began to argue, saying, Who is this man who speaks blasphemies? Who can forgive sins, but God only? But Jesus, knowing their thoughts, answered and said to them, “Why are you arguing in your hearts? Which is easier, to say, 'Your sins are forgiven you,' or to say, 'Arise and walk'?” But that you may know that the Son of Man has power on earth to forgive sins - He said to the paralytic - I say to you, arise, take up your pallet and go to your house. And immediately he arose before them, took up what he had been lying on, and went away to his house, glorifying God. And astonishment seized upon them all, and they glorified God and were filled with fear, saying, We have seen wonderful things today.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 145:2</em></span><br>\nLauda, ánima mea, Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 145:1-2</em></span><br>\nPraise the Lord, O my soul; I will praise the Lord all my life; I will sing praise to my God while I live, alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sacrifícia, Dómine, tuis obláta conspéctibus, ignis ille divínus absúmat, qui discipulórum Christi, Fílii tui, per Spíritum Sanctum corda succéndit.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the sacrificial gifts offered in Your sight, O Lord, be consumed by that divine fire which the Holy Spirit enkindled in the hearts of the disciples of Christ, Your Son.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Spiritu Sancto</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui, ascéndens super omnes cælos sedénsque ad déxteram tuam, promíssum Spíritum Sanctum hodierna die in fílios adoptiónis effúdit. Quaprópter profúsis gáudiis totus in orbe terrárum mundus exsúltat. Sed et supérnæ Virtútes atque angélicæ Potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Spirit</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who ascending above all in the heavens and sitting at Thy Right Hand, poured out the Holy Spirit upon the children of adoption. Wherefore the whole world doth rejoice with overflowing joy; and the heavenly Hosts also and the angelic Powers sing together the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioannes 14:18</em></span><br>\nNon vos relínquam órphanos: véniam ad vos íterum, allelúia: et gaudébit cor vestrum, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 14:18</em></span><br>\nI will not leave you orphans; I will come to you again, alleluia: and your heart shall rejoice, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSúmpsimus, Dómine, sacri dona mystérii: humíliter deprecántes; ut, quæ in tui commemoratiónem nos fácere præcepísti, in nostræ profíciant infirmitátis auxílium:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe who have received the gift of Your Blessed Sacrament, O Lord, humbly pray that what You have taught us to do in commemoration of You, may profit and help us in our weakness.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

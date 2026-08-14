@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-09-18",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Josephi de Cupertino Confessoris",
+  "rank": "III. classis",
+  "note": "Scriptura: Sabbato infra Hebdomadam XVII post Octavam Pentecostes II. Septembris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Eccli 1:14-15</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>iléctio Dei honorábilis sapiéntia: quibus autem apparúerit in visu, díligunt eam in visióne et in agnitióne magnálium suórum.<br>\n<span class=\"rubric\"><em>Ps 83:2.</em></span><br>\nQuam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>iléctio Dei honorábilis sapiéntia: quibus autem apparúerit in visu, díligunt eam in visióne et in agnitióne magnálium suórum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ecclus 1:14-15</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he love of God is honorable wisdom; and they to whom she shall show herself, love her by the sight, and by the knowledge of her great works.<br>\n<span class=\"rubric\"><em>Ps 83:2</em></span><br>\nHow lovely is Your dwelling place, O Lord of Hosts! My soul yearns and pines for the courts of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he love of God is honorable wisdom; and they to whom she shall show herself, love her by the sight, and by the knowledge of her great works."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui ad unigénitum Fílium tuum exaltátum a terra ómnia tráhere disposuísti: pérfice propítius; ut, méritis et exémplo seráphici Confessóris tui Ioséphi, supra terrénas omnes cupiditátes eleváti, ad eum perveníre mereámur:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who willed that all things be drawn unto Your Son when He was raised above the earth, mercifully grant, by the merits and example of Your seraphic Confessor Joseph, that, having been raised above all earthly desires, we may be found worthy to come unto Him.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>1 Cor 13:1-8</em></span><br>\nFratres: Si linguis hóminum loquar et Angelorum, caritátem autem non hábeam, factus sum velut æs sonans aut cýmbalum tínniens. Et si habúero prophetiam, et nóverim mystéria ómnia et omnem sciéntiam: et si habúero omnem fidem, ita ut montes tránsferam, caritátem autem non habúero, nihil sum. Et si distribúere in cibos páuperum omnes facultátes meas, et si tradídere corpus meum, ita ut árdeam, caritátem autem non habúero, nihil mihi prodest. Cáritas pátiens est, benígna est: cáritas non æmulátur, non agit pérperam, non inflátur, non est ambitiósa, non quærit quæ sua sunt, non irritátur, non cógitat malum, non gaudet super iniquitáte, congáudet autem veritáti: ómnia suffert, ómnia credit, ómnia sperat, ómnia sústinet. Cáritas numquam éxcidit: sive prophétiæ evacuabúntur, sive linguæ cessábunt, sive sciéntia destruétur.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor 13:1-8</em></span><br>\nBrethren: If I should speak with tongues of men and of angels, but do not have charity, I have become as sounding brass or a tinkling cymbal. And if I have prophecy and know all mysteries and all knowledge, and if I have all faith so as to remove mountains, yet do not have charity, I am nothing. And if I distribute all my goods to feed the poor, and if I deliver my body to be burned, yet do not have charity, it profits me nothing. Charity is patient, is kind; charity does not envy, is not pretentious, is not puffed up, is not ambitious, is not self-seeking, is not provoked; thinks no evil, does not rejoice over wickedness, but rejoices with the truth; bears with all things, believes all things, hopes all things, endures all things. Charity never fails, whereas prophecies will disappear, and tongues will cease, and knowledge will be destroyed.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 20:4-5</em></span><br>\nDómine, prævenísti eum in benedictiónibus dulcédinis: posuísti in cápite eius corónam de lápide pretióso.<br>\n<span class=\"marker\"><em>℣.</em></span> Vitam pétiit a te, et tribuísti ei longitudinem dierum in sǽculum, et in sǽculum sǽculi. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Eccle 11:13.</em></span><br>\nOculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput eius. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 20:4-5</em></span><br>\nO Lord, You welcomed him with goodly blessings, You placed on his head a crown of pure gold.<br>\n<span class=\"marker\"><em>℣.</em></span> He asked life of You: You gave him length of days forever and ever. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ecclus 11:13</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The eye of God looks favorably upon him; He raises him free of the vile dust, and lifts up his head. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 22:1-14</em></span><br>\nIn illo témpore: Loquebátur Iesus princípibus sacerdótum et pharisǽis in parábolis, dicens: Símile factum est regnum cœlórum hómini regi, qui fecit núptias fílio suo. Et misit servos suos vocáre invitátos ad nuptias, et nolébant veníre. Iterum misit álios servos, dicens: Dícite invitátis: Ecce, prándium meum parávi, tauri mei et altília occísa sunt, et ómnia paráta: veníte ad núptias. Illi autem neglexérunt: et abiérunt, álius in villam suam, álius vero ad negotiatiónem suam: réliqui vero tenuérunt servos eius, et contuméliis afféctos occidérunt. Rex autem cum audísset, iratus est: et, missis exercítibus suis, pérdidit homicídas illos et civitátem illórum succéndit. Tunc ait servis suis: Núptiæ quidem parátæ sunt, sed, qui invitáti erant, non fuérunt digni. Ite ergo ad exitus viárum et, quoscúmque invenéritis, vocáte ad núptias. Et egréssi servi eius in vias, congregavérunt omnes, quos invenérunt, malos et bonos: et implétæ sunt núptiæ discumbéntium. Intrávit autem rex, ut vidéret discumbéntes, et vidit ibi hóminem non vestítum veste nuptiáli. Et ait illi: Amíce, quómodo huc intrásti non habens vestem nuptiálem? At ille obmútuit. Tunc dixit rex minístris: Ligátis mánibus et pédibus eius, míttite eum in ténebras exterióres: ibi erit fletus et stridor déntium. Multi enim sunt vocáti, pauci vero elécti.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 22:1-14</em></span><br>\nAt that time, Jesus spoke to the chief priests and the Pharisees in parables, saying, The kingdom of heaven is like a king who made a marriage feast for his son. And he sent his servants to call in those invited to the marriage feast, but they would not come. Again he sent out other servants, saying, ‘Tell those who are invited, behold, I have prepared my dinner; my oxen and fatlings are killed, and everything is ready; come to the marriage feast.’ But they made light of it, and went off, one to his farm, and another to his business; and the rest laid hold of his servants, treated them shamefully, and killed them. But when the king heard of it, he was angry; and he sent his armies, destroyed those murderers, and burnt their city. Then he said to his servants, ‘The marriage feast indeed is ready, but those who were invited were not worthy; go therefore to the crossroads, and invite to the marriage feast whomever you shall find.’ And his servants went out into the roads, and gathered all whom they found, both good and bad; and the marriage feast was filled with guests. Now the king went in to see the guests, and he saw there a man who had not on a wedding garment. And he said to him, ‘Friend, how did you come in here without a wedding garment?’ But he was speechless. Then the king said to the attendants, ‘Bind his hands and feet and cast him forth into the darkness outside, where there will be the weeping and the gnashing of teeth.’ For many are called, but few are chosen.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 34:13</em></span><br>\nEgo autem, cum mihi molésti essent, induébar cilício. Humiliábam in ieiúnio ánimam meam: et orátio mea in sinu meo convertétur."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 34:13</em></span><br>\nBut as for me, when they were troublesome to me, I was clothed with haircloth, and I humbled my soul with fasting, and poured forth prayers within my bosom."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Laudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum: quibus nos et præséntibus éxui malis confídimus et futúris.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 68:30-31</em></span><br>\nEgo sum pauper et dolens: salus tua, Deus, suscépit me. Laudábo nomen Dei cum cantico: et magnificábo eum in laude."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 68:30-31</em></span><br>\nI am afflicted and in pain; let Your saving help, O God, protect me. I will praise the name of God in song, and I will glorify Him with thanksgiving."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nRefécti cibo potúque cœlésti, Deus noster, te súpplices exorámus: ut, in cuius hæc commemoratióne percépimus, eius muniámur et précibus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nRefreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

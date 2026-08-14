@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-10-25",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Secunda infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+  "rank": "IV. classis",
+  "note": "Commemoratio : Ss. Chrysanthi et Dariæ Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ier 29:11; 29:12; 29:14</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>icit Dóminus: Ego cógito cogitatiónes pacis, et non afflictiónis: invocábitis me, et ego exáudiam vos: et redúcam captivitátem vestram de cunctis locis.<br>\n<span class=\"rubric\"><em>Ps 84:2</em></span><br>\nBenedixísti, Dómine, terram tuam: avertísti captivitátem Iacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>icit Dóminus: Ego cógito cogitatiónes pacis, et non afflictiónis: invocábitis me, et ego exáudiam vos: et redúcam captivitátem vestram de cunctis locis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Jer 29:11-12; 29:14</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord says: “I think thoughts of peace, and not of affliction. You shall call upon Me, and I will hear you; and I will bring back your captivity from all places.”<br>\n<span class=\"rubric\"><em>Ps 84:2</em></span><br>\nYou have favored, O Lord, Your land; You have restored the well-being of Jacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord says: “I think thoughts of peace, and not of affliction. You shall call upon Me, and I will hear you; and I will bring back your captivity from all places.”"
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nAbsólve, quǽsumus, Dómine, tuórum delícta populórum: ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, tua benignitáte liberémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Chrysanthi et Dariæ Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>eatórum Mártyrum tuórum, Dómine, Chrysánthi et Daríæ, quǽsumus, adsit nobis orátio: ut, quos venerámur obséquio, eórum pium iúgiter experiámur auxílium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nForgive, we beseech You, O Lord, the sins of Your faithful people, so that by Your goodness we may be released from the net of sin in which we have been caught by our weakness.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Chrysanthus and Daria, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay the prayer of Your blessed Martyrs, Chrysanthus and Daria, defend us, O Lord, that we may ever enjoy the loving help of those whom we honor by this celebration.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses<br>\n<span class=\"rubric\"><em>Phil 3:17-21; 4:1-3</em></span><br>\nFratres: Imitatóres mei estóte, et observáte eos, qui ita ámbulant, sicut habétis formam nostram. Multi enim ámbulant, quos sæpe dicébam vobis - nunc autem et flens dico - inimícos Crucis Christi: quorum finis intéritus: quorum Deus venter est: et glória in confusióne ipsórum, qui terréna sápiunt. Nostra autem conversátio in cœlis est: unde étiam Salvatórem exspectámus, Dóminum nostrum Iesum Christum, qui reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ, secúndum operatiónem, qua étiam possit subiícere sibi ómnia. Itaque, fratres mei caríssimi et desideratíssimi, gáudium meum et coróna mea: sic state in Dómino, caríssimi. Evódiam rogo et Sýntychen déprecor idípsum sápere in Dómino. Etiam rogo et te, germáne compar, ádiuva illas, quæ mecum laboravérunt in Evangélio cum Cleménte et céteris adiutóribus meis, quorum nómina sunt in libro vitæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Philippians<br>\n<span class=\"rubric\"><em>Phil 3:17-21; 4:1-3</em></span><br>\nBrethren: Be imitators of me, and mark those who walk after the pattern you have in us. For many walk, of whom I have told you often and now tell you even weeping, that they are enemies of the Cross of Christ. Their end is ruin, their god is the belly, their glory is in their shame, they mind the things of earth. But our citizenship is in heaven from which also we eagerly await a Saviour, our Lord Jesus Christ, Who will refashion the body of our lowliness, conforming it to the body of His glory by exerting the power by which He is able also to subject all things to Himself. So then, my brethren, beloved and longed for, my joy and my crown, stand fast thus in the Lord, beloved. I entreat Evodia and I exhort Syntyche to be of one mind in the Lord. And I beseech you also, my loyal comrade, help them, for they have toiled with me in the gospel, as have Clement and the rest of my fellow-workers whose names are in the book of life.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 43:8-9</em></span><br>\nLiberásti nos, Dómine, ex affligéntibus nos: et eos, qui nos odérunt, confudísti.<br>\n<span class=\"marker\"><em>℣.</em></span> In Deo laudábimur tota die, et in nómine tuo confitébimur in sǽcula. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 129:1-2</em></span><br>\nDe profúndis clamávi ad te, Dómine: Dómine, exáudi oratiónem meam. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 43:8-9</em></span><br>\nYou saved us, O Lord, from our foes, and those who hated us You put to shame.<br>\n<span class=\"marker\"><em>℣.</em></span> In God we gloried day by day; Your name we praised always. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 129:1-2</em></span><br>\nOut of the depths I have cried to thee, O Lord: Lord, hear my prayer.<br>\nAlleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 9:18-26</em></span><br>\nIn illo témpore: Loquénte Iesu ad turbas, ecce, princeps unus accéssit et adorábat eum, dicens: Dómine, fília mea modo defúncta est: sed veni, impóne manum tuam super eam, et vivet. Et surgens Iesus sequebátur eum et discípuli eius. Et ecce múlier, quæ sánguinis fluxum patiebátur duódecim annis, accéssit retro et tétigit fímbriam vestiménti eius. Dicébat enim intra se: Si tetígero tantum vestiméntum eius, salva ero. At Iesus convérsus et videns eam, dixit: Confíde, fília, fides tua te salvam fecit. Et salva facta est múlier ex illa hora. Et cum venísset Iesus in domum príncipis, et vidísset tibícines et turbam tumultuántem, dicebat: Recédite: non est enim mórtua puélla, sed dormit. Et deridébant eum. Et cum eiécta esset turba, intrávit et ténuit manum eius. Et surréxit puélla. Et éxiit fama hæc in univérsam terram illam.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 9:18-26</em></span><br>\nAt that time, as Jesus was speaking to the crowds, behold, a ruler came up and worshipped Him, saying, “Lord, my daughter has just now died; but come and lay Your hand upon her, and she will return to life.” And Jesus arose and followed him, and so did His disciples. Now a woman who for twelve years had been suffering from hemorrhage, came up behind him and touched the tassel of His cloak saying to herself, “If I touch but His cloak I shall be saved.” But Jesus, turning and seeing her, said, “Take courage, daughter; your faith has saved you.” And the woman was restored to health from that moment. And when Jesus came to the ruler's house, and saw the flute players and the crowd making a din, He said, “Begone, the girl is asleep, not dead.” And they laughed Him to scorn. But when the crowd had been put out, He went in and took her by the hand; and the girl arose. And the report of this spread throughout all that district.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 129:1-2</em></span><br>\nDe profúndis clamávi ad te, Dómine: Dómine, exáudi oratiónem meam: de profúndis clamávi ad te, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 129:1-2</em></span><br>\nOut of the depths I cry to You, O Lord; Lord, hear my prayer! Out of the depths I cry to You, O Lord."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Pro nostræ servitútis augménto sacrifícium tibi, Dómine, laudis offérimus: ut, quod imméritis contulísti, propítius exsequáris.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Chrysanthi et Dariæ Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ópuli tui, quǽsumus, Dómine, tibi grata sit hóstia, quæ in natalítiis sanctórum Mártyrum tuórum Chrysánthi et Daríæ sollémniter immolátur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We offer You O Lord, the sacrifice of praise that we may serve You even better, so that You may graciously complete what You have given us, Your undeserving servants.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Chrysanthus and Daria, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, may the offering which Your people sacrifice on the anniversary of the death of Your holy Martyrs, Chrysanthus and Daria, be pleasing to You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Marc 11:24</em></span><br>\nAmen, dico vobis, quidquid orántes pétitis, crédite, quia accipiétis, et fiet vobis."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Mark 11:24</em></span><br>\nAmen I say to you, all things whatever you ask for in prayer, believe that you shall receive, and it shall be done to you."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, omnípotens Deus: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subiacére perículis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Chrysanthi et Dariæ Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ýsticis, Dómine, repléti sumus votis et gáudiis: præsta, quǽsumus; ut, intercessiónibus sanctórum Mártyrum tuórum Chrysánthi et Daríæ, quæ temporáliter ágimus, spirituáliter consequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, almighty God, let not human dangers overcome us to whom You grant joyful participation in things divine.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Chrysanthus and Daria, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>Y</em></strong></span>ou have filled us with spiritual joy and delight; grant, we beseech You, O Lord, that by the intercession of Your holy Martyrs, Chrysanthus and Daria, we may spiritually attain what now we ritually perform.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-27",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Sexta infra Hebdomadam Passionis",
+  "rank": "III. classis",
+  "note": "Commemoratio : S. Joannis Damasceni Confessoris et Ecclesiæ Doctoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 30:10, 16, 18</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserére mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn te, Dómine, sperávi, non confúndar in ætérnum: in iustítia tua libera me.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserére mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 30:10, 16, 18</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ave pity on me, O Lord, for I am in distress; rescue me from the clutches of my enemies and my persecutors. O Lord, let me not be put to shame, for I call upon You.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn You, O Lord, I take refuge; let me never be put to shame. In Your justice rescue me.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ave pity on me, O Lord, for I am in distress; rescue me from the clutches of my enemies and my persecutors. O Lord, let me not be put to shame, for I call upon You."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nCórdibus nostris, quǽsumus, Dómine, grátiam tuam benígnus infúnde: ut peccáta nostra castigatióne voluntária cohibéntes, temporáliter pótius macerémur, quam supplíciis deputémur ætérnis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Ioannis Damasceni Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>mnípotens sempitérne Deus, qui, ad cultum sacrárum imáginum asseréndum, beátum Ioánnem cœlésti doctrína et admirábili spíritus fortitúdine imbuísti: concéde nobis eius intercessióne et exémplo; ut, quorum cólimus imagines, virtútes imitémur et patrocínia sentiámus.<br>\n<span class=\"rubric\"><em>Commemoratio Septem Dolorum B. M. V.</em></span><br>\nDeus, in cuius passióne, secúndum Simeónis prophetíam, dulcíssimam ánimam gloriósæ Vírginis et Matris Maríæ dolóris gladius pertransívit: concéde propítius; ut, qui transfixiónem eius et passiónem venerándo recólimus, gloriósis méritis et précibus ómnium Sanctórum Cruci fidéliter astántium intercedéntibus, passiónis tuæ efféctum felícem consequámur:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGraciously pour forth Your grace into our hearts, we beseech You, O Lord, that, keeping our sinful inclinations under control by self-denial, we may suffer for a brief while rather than be condemned to everlasting punishment.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. John Damascene, Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>lmighty, eternal God, Who to defend the honor paid to sacred images, filled blessed John with heavenly learning and wondrous strength of soul, grant that, by his intercession and example, we may imitate the virtues of those whose images we honor and may enjoy the help of their patronage.<br>\n<span class=\"rubric\"><em>For Our Lady of the Seven Sorrows</em></span><br>\nO God, in Whose Passion the sword, according to the prophecy of blessed Simeon, pierced through the soul of Mary, the glorious Virgin and Mother, mercifully grant that we, who reverently commemorate her piercing through and her suffering, may, by the interceding glorious merits of all the saints faithfully standing by the Cross, obtain the abundant fruit of Your passion.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Ieremíæ Prophétæ<br>\n<span class=\"rubric\"><em>Ier 17:13-18</em></span><br>\nIn diébus illis: Dixit Ieremías: Dómine, omnes, qui te derelínquunt, confundéntur: recedéntes a te in terra scribéntur: quóniam dereliquérunt venam aquárum vivéntium Dóminum. Sana me. Dómine, et sanábor: salvum me fac, et salvus ero: quóniam laus mea tu es. Ecce, ipsi dicunt ad me: Ubi est verbum Dómini? Véniat. Et ego non sum turbátus, te pastórem sequens: et diem hóminis non desiderávi, tu scis. Quod egréssum est de lábiis meis, rectum in conspéctu tuo fuit. Non sis tu mihi formídini, spes mea tu in die afflictiónis. Confundántur, qui me persequúntur, et non confúndar ego: páveant illi, et non páveam ego. Induc super eos diem afflictiónis, et dúplici contritióne cóntere eos, Dómine, Deus noster.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from Jeremiah the Prophet<br>\n<span class=\"rubric\"><em>Jer 17:13-18</em></span><br>\nIn those days, Jeremia said: O Lord, all who forsake You shall be in disgrace; the rebels in the land shall be put to shame; they have forsaken the source of living waters, the Lord. Heal me, Lord, that I may be healed; save me, that I may be saved, for it is You whom I praise. See how they say to me, ‘Where is the word of the Lord? Let it come to pass!’ Yet I am not troubled, following You as my shepherd; the day without remedy I have not desired. You know what passed my lips; it is present before You. Do not be my ruin, You, my refuge in the day of misfortune. Let my persecutors, not me, be confounded; let them, not me, be broken. Bring upon them the day of misfortune, crush them with repeated destruction, O Lord, our God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 34:20, 22</em></span><br>\nPacífice loquebántur mihi inimíci mei: et in ira molésti erant mihi.<br>\n<span class=\"marker\"><em>℣.</em></span> Vidísti, Dómine, ne síleas: ne discédas a me.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adiuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 34:20, 22</em></span><br>\nMy enemies spoke peaceably to me: and in anger they afflicted me.<br>\n<span class=\"marker\"><em>℣.</em></span> You, O Lord, have seen; be not silent; be not far from me!<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 11:47-54</em></span><br>\nIn illo témpore: Collegérunt pontífices et pharisǽi concílium advérsus Iesum, et dicébant: Quid fácimus, quia hic homo multa signa facit? Si dimíttimus eum sic, omnes credent in eum: et vénient Románi, et tollent nostrum locum et gentem. Unus autem ex ipsis, Cáiphas nómine, cum esset póntifex anni illíus, dixit eis: Vos nescítis quidquam, nec cogitátis, quia éxpedit vobis, ut unus moriátur homo pro pópulo, et non tota gens péreat. Hoc autem a semetípso non dixit: sed cum esset póntifex anni illíus, prophetávit, quod Iesus moritúrus erat pro gente, et non tantum pro gente, sed ut fílios Dei, qui erant dispérsi, congregáret in unum. Ab illo ergo die cogitavérunt, ut interfícerent eum. Iesus ergo iam non in palam ambulábat apud Iudǽos: sed ábiit in regiónem iuxta desértum, in civitátem, quæ dícitur Ephrem, et ibi morabátur cum discípulis suis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 11:47-54</em></span><br>\nAt that time, the chief priests and Pharisees gathered together a council against Jesus, and said, What are we doing? for this man is working many signs. If we let Him alone as He is, all will believe in Him, and the Romans will come and take away both our place and our nation. But one of them, Caiphas, being high priest that year, said to them, You know nothing at all; nor do you reflect that it is expedient for us that one man die for the people, instead of the whole nation perishing. This, however, he said not of himself; but being high priest that year, he prophesied that Jesus was to die for the nation; and not only for the nation, but that He might gather into one the children of God who were scattered abroad. So from that day forth their plan was to put Him to death. Jesus therefore no longer went about openly among the Jews, but withdrew to the district near the desert, to a town called Ephrem; and there He stayed with His disciples.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:12, 121, 42</em></span><br>\nBenedíctus es, Dómine, doce me iustificatiónes tuas: et non tradas calumniántibus me supérbis: et respondébo exprobrántibus mihi verbum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:12, 121, 42</em></span><br>\nBlessed are You, O Lord; teach me Your statutes. Let not the proud oppress me; so shall I have an answer for those who reproach me."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Præsta nobis, miséricors Deus: ut digne tuis servíre semper altáribus mereámur; et eórum perpétua participatióne salvári.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Ioannis Damasceni Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>U</em></strong></span>t, quæ tibi, Dómine, offérimus, dona tuo sint digna conspéctu: beáti Ioánnis et Sanctórum, quos eius ópera expósitos in templis cólimus, pia suffragátio conspíret.<br>\n<span class=\"rubric\"><em>Commemoratio Septem Dolorum B. M. V.</em></span><br>\nOfférimus tibi preces et hóstias, Dómine Iesu Christe, humíliter supplicántes: ut, qui Transfixiónem dulcíssimi spíritus beátæ Maríæ, Matris tuæ, précibus recensémus; suo suorúmque sub Cruce Sanctórum consórtium multiplicáto piíssimo intervéntu, méritis mortis tuæ, méritum cum beátis habeámus:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant us, O merciful God, that we may ever have the grace to serve Your altars worthily, and may we be saved by constantly partaking of the sacrifice.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. John Damascene, Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, may the holy intercession of blessed John be united with that of Your Saints whose images, through his efforts, we venerate in our churches, and thus may the gifts we offer You be found worthy in Your sight.<br>\n<span class=\"rubric\"><em>For the Seven Sorrows</em></span><br>\nO Lord Jesus Christ, we offer You prayers and sacrificial gifts, humbly beseeching You that, as we prayerfully recall the piercing of the most sweet soul of Your blessed Mother Mary, so through the merits of Your death and the manifold intercession of her and her holy friends at the foot of the Cross, we may have our reward with the blessed.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Sancta Cruce</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui salútem humáni géneris in ligno Crucis constituísti: ut, unde mors oriebátur, inde vita resúrgeret: et, qui in ligno vincébat, in ligno quoque vincerétur: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Cross</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who didst establish the salvation of mankind on the tree of the Cross; that whence death came, thence also life might arise again, and that he, who overcame by the tree, by the tree also might be overcome: Through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 26:12</em></span><br>\nNe tradíderis me, Dómine, in animas persequéntium me: quóniam insurrexérunt in me testes iníqui, et mentíta est iníquitas sibi."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 26:12</em></span><br>\nGive me not up, O Lord, to the wishes of my foes; for false witnesses have risen up against me, and such as breathe out violence."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSumpti sacrifícii, Dómine, perpetua nos tuítio non derelínquat: et nóxia semper a nobis cuncta depéllat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Ioannis Damasceni Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>umpta nos, quǽsumus, Dómine, dona cœléstibus armis tueántur: et beáti Ioánnis patrocínia circúmdent Sanctórum unánimi suffrágio cumuláta; quorum imágines evícit in Ecclésia esse venerándas.<br>\n<span class=\"rubric\"><em>Commemoratio Septem Dolorum B. M. V.</em></span><br>\nSacrifícia, quæ súmpsimus, Dómine Iesu Christe, Transfixiónem Matris tuæ et Vírginis devóte celebrántes: nobis ímpetrent apud cleméntiam tuam omnis boni salutáris efféctum:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>oncéde, quǽsumus, omnípotens Deus: ut, qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the abiding protection of the sacrament we have received, O Lord, never forsake us, and always keep us from all things harmful.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. John Damascene, Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e beseech You, O Lord, that the gifts we have eaten may be as heavenly weapons to guard us; and may we be protected by the patronage of blessed John, reinforced by the united prayers of the Saints, the veneration of whose images by the Church, he gloriously vindicated.<br>\n<span class=\"rubric\"><em>For the Seven Sorrows</em></span><br>\nO Lord Jesus Christ, may the sacrifices of which we have partaken, while devoutly celebrating the piercing of Your Virgin Mother’s soul, obtain for us, through Your kindness, the good effect of salvation.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, almighty God, that we who seek the grace of Your protection, having been delivered from all evils, may serve You with untroubled minds.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

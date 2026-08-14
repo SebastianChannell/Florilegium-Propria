@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-04-25",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica IV Post Pascha",
+  "rank": "II. classis",
+  "note": "Commemoratio: S. Marci Evangelistæ",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 97:1; 97:2</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>antáte Dómino cánticum novum, allelúia: quia mirabília fecit Dóminus, allelúia: ante conspéctum géntium revelávit iustítiam suam, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 97:1</em></span><br>\nSalvávit sibi déxtera eius: et bráchium sanctum eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>antáte Dómino cánticum novum, allelúia: quia mirabília fecit Dóminus, allelúia: ante conspéctum géntium revelávit iustítiam suam, allelúia, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 97:1; 97:2</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ing ye to the Lord a new canticle, alleluia: because the Lord hath done wonderful things, alleluia. He hath revealed his justice in the sight of the Gentiles, alleluia, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 97:1</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>is right hand hath wrought for him salvation, and his arm is holy.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ing ye to the Lord a new canticle, alleluia: because the Lord hath done wonderful things, alleluia. He hath revealed his justice in the sight of the Gentiles, alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Marci Evangelistæ</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui beátum Marcum Evangelístam tuum evangélicæ prædicatiónis grátia sublimásti: tríbue, quǽsumus; eius nos semper et eruditióne profícere et oratióne deféndi.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, of Whom it cometh that the minds of thy faithful people be all of one will, grant unto the same thy people that they may love the thing which Thou commandest, and desire that which Thou dost promise, that so, amid the sundry and manifold changes of the world, our hearts may surely there be fixed, where true joys are to be found.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Mark the Evangelist</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who didst exalt thy blessed Evangelist Mark, by giving him grace to preach thine Evangel, grant unto us, we beseech thee, ever to follow more and more what he teacheth, and ever to be shielded from all evil by his prayers.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Iacóbi Apóstoli<br>\n<span class=\"rubric\"><em>Ias 1:17-21</em></span><br>\nCaríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio nec vicissitúdinis obumbrátio. Voluntárie enim génuit nos verbo veritátis, ut simus inítium áliquod creatúræ eius. Scitis, fratres mei dilectíssimi. Sit autem omnis homo velox ad audiéndum: tardus autem ad loquéndum et tardus ad iram. Ira enim viri iustítiam Dei non operátur. Propter quod abiiciéntes omnem immundítiam et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. James the Apostle<br>\n<span class=\"rubric\"><em>Jas 1:17-21</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>early beloved: Every best gift, and every perfect gift, is from above, coming down from the Father of lights, with whom there is no change, nor shadow of alteration. For of his own will hath he begotten us by the word of truth, that we might be some beginning of his creatures. You know, my dearest brethren. And let every man be swift to hear, but slow to speak, and slow to anger. For the anger of man worketh not the justice of God. Wherefore casting away all uncleanness, and abundance of naughtiness, with meekness receive the ingrafted word, which is able to save your souls.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "alleluia",
+      "kind": "alleluia",
+      "latin": {
+        "label": "Allelúia.",
+        "html": "Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 117:16.</em></span><br>\nDéxtera Dómini fecit virtútem: déxtera Dómini exaltávit me. Allelúia.<br>\n<span class=\"rubric\"><em>Rom 6:9</em></span><br>\nChristus resúrgens ex mórtuis iam non móritur: mors illi ultra non dominábitur. Allelúia."
+      },
+      "english": {
+        "label": "Alleluia.",
+        "html": "Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 117:16</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me: Alleluia.<br>\n<span class=\"rubric\"><em>Rom 6:9</em></span><br>\n<span class=\"rubric\"><strong><em>K</em></strong></span>nowing that Christ rising again from the dead, dieth now no more, death shall no more have dominion over him. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 16:5-14</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Vado ad eum, qui misit me: et nemo ex vobis intérrogat me: Quo vadis? Sed quia hæc locútus sum vobis, tristítia implévit cor vestrum. Sed ego veritátem dico vobis: expédit vobis, ut ego vadam: si enim non abíero, Paráclitus non véniet ad vos: si autem abíero, mittam eum ad vos. Et cum vénerit ille, árguet mundum de peccáto et de iustítia et de iudício. De peccáto quidem, quia non credidérunt in me: de iustítia vero, quia ad Patrem vado, et iam non vidébitis me: de iudício autem, quia princeps huius mundi iam iudicátus est. Adhuc multa hábeo vobis dícere: sed non potéstis portáre modo. Cum autem vénerit ille Spíritus veritátis, docébit vos omnem veritátem. Non enim loquétur a semetípso: sed quæcúmque áudiet, loquétur, et quæ ventúra sunt, annuntiábit vobis. Ille me clarificábit: quia de meo accípiet et annuntiábit vobis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 16:5-14</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>t that time: Jesus said to His disciples: I go to him that sent me, and none of you asketh me: Whither goest thou? But because I have spoken these things to you, sorrow hath filled your heart. But I tell you the truth: it is expedient to you that I go: for if I go not, the Paraclete will not come to you; but if I go, I will send him to you. And when he is come, he will convince the world of sin, and of justice, and of judgment. Of sin: because they believed not in me. And of justice: because I go to the Father; and you shall see me no longer. And of judgment: because the prince of this world is already judged. I have yet many things to say to you: but you cannot bear them now. But when he, the Spirit of truth, is come, he will teach you all truth. For he shall not speak of himself; but what things soever he shall hear, he shall speak; and the things that are to come, he shall shew you. He shall glorify me; because he shall receive of mine, and shall shew it to you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 65:1-2; 65:16</em></span><br>\nIubiláte Deo, univérsa terra, psalmum dícite nómini eius: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 65:1-2; 85:16</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>hout with joy to God, all the earth, sing ye a psalm to His Name: come and hear, and I will tell you, all ye that fear God, what great things the Lord hath done for my soul, alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Deus, qui nos, per huius sacrifícii veneránda commércia, uníus summæ divinitátis partícipes effecísti: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Marci Evangelistæ</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>eáti Marci Evangelístæ tui sollemnitáte tibi múnera deferéntes, quǽsumus, Dómine: ut, sicut illum prædicátio evangélica fecit gloriósum: ita nos eius intercéssio et verbo et ópere tibi reddat accéptos.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O God, who by the august communion of this sacrifice hast make us partakers of one Sovereign Godhead, grant we beseech thee, that as we know thy truth, so we may follow it up by worthy behavior.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Mark the Evangelist</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e offer thee our gifts, O Lord, on the Festival of blessed Mark, thy Evangelist, and we pray, that we may ever profit by his teaching, and defended by his prayers.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioann 16:8</em></span><br>\nCum vénerit Paráclitus Spíritus veritátis, ille árguet mundum de peccáto et de iustítia et de iudício, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 16:8</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>nd when he is come, he will convince the world of sin, and of justice, and of judgment, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nAdésto nobis, Dómine, Deus noster: ut per hæc, quæ fidéliter súmpsimus, et purgémur a vítiis et a perículis ómnibus eruámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Marci Evangelistæ</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>ríbuant nobis, quǽsumus, Dómine, contínuum tua sancta præsídium: quo, beáti Marci evangelístæ tui précibus, nos ab ómnibus semper tueántur advérsis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nStand by us, O Lord, our God, that by what we have faithfully received we may be cleansed from our vices and rescued from all dangers.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Mark the Evangelist</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay thy holy mysteries, we ask, O Lord, be to us a continual safeguard, and through the prayers of blessed Mark, thy Evangelist, ever defend us from all adversities.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

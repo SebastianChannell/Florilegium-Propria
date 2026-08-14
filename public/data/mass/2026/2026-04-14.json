@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-14",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Justini Martyris",
+  "rank": "III. classis",
+  "note": "Commemoratio ad Laudes tantum: Ss. Tiburtii, Valeriani, et Maximi Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:85; 118:46;</em></span><br>\n<span class=\"rubric\"><strong><em>N</em></strong></span>arravérunt mihi iníqui fabulatiónes, sed non ut lex tua: ego autem loquébar de testimóniis tuis in conspéctu regum, et non confundébar. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 118:1;</em></span><br>\nBeáti immaculáti in via, qui ámbulant in lege Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>N</em></strong></span>arravérunt mihi iníqui fabulatiónes, sed non ut lex tua: ego autem loquébar de testimóniis tuis in conspéctu regum, et non confundébar. Alleluia, alleluia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:85; 118:46;</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he wicked have told me fables: but not as thy law. And I spoke of thy testimonies before kings: and I was not ashamed. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 118:1;</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>lessed are the undefiled in the way, who walk in the law of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he wicked have told me fables: but not as thy law. And I spoke of thy testimonies before kings: and I was not ashamed. Alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui per stultítiam Crucis eminéntem Iesu Christi sciéntiam beátum Iustínum Mártyrem mirabíliter docuísti: eius nobis intercessióne concéde; ut, errórum circumventióne depúlsa, fídei firmitátem consequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Tiburtii, Valeriani, et Maximi Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Tibúrtii, Valeriáni et Máximi sollémnia cólimus; eórum étiam virtútes imitémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who through the preaching of the Cross, which is to them that perish foolishness, didst wonderfully teach unto thy blessed martyr Justin the excellency of the knowledge of Christ Jesus Our Lord, grant unto us at his prayers the grace to cast off all false teaching and ever to hold fast to the faith.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Tiburtius, Valerian et Maximus, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>lmighty God, for Whom holy Tiburtius, Valerian, and Maximus uplifted their testimony, grant, we beseech Thee, unto all whosoever call the same to solemn memory, grace to imitate the example of their godly courage.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>1 Cor 1:18-25; 1:30</em></span><br>\nFratres: Verbum crucis pereúntibus quidem stultítia est: iis autem, qui salvi fiunt, id est nobis, Dei virtus est. Scriptum est enim: Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo. Ubi sápiens? ubi scriba? ubi conquisítor huius sǽculi? Nonne stultam fecit Deus sapiéntiam huius mundi? Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum: placuit Deo per stultítiam prædicatiónis salvos fácere credéntes. Quóniam et Iudæi signa petunt, et Græci sapiéntiam quærunt: nos autem prædicámus Christum crucifíxum: Iudæis quidem scándalum, géntibus autem stultítiam, ipsis autem vocátis Iudæis, atque Græcis. Christum Dei virtútem et Dei sapiéntiam: quia, quod stultum est Dei, sapiéntius est homínibus: et, quod infírmum est Dei, fórtius est homínibus. Ex ipso autem vos estis in Christo Iesu, qui factus est nobis sapiéntia a Deo et iustítia ei sanctificátio et redémptio.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor 1:18-25; 1:30;</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>or the word of the cross, to them indeed that perish, is foolishness; but to them that are saved, that is, to us, it is the power of God. For it is written: I will destroy the wisdom of the wise, and the prudence of the prudent I will reject. Where is the wise? Where is the scribe? Where is the disputer of this world? Hath not God made foolish the wisdom of this world? For seeing that in the wisdom of God the world, by wisdom, knew not God, it pleased God, by the foolishness of our preaching, to save them that believe. For both the Jews require signs, and the Greeks seek after wisdom: But we preach Christ crucified, unto the Jews indeed a stumbling-block, and unto the Gentiles foolishness: But unto them that are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. For the foolishness of God is wiser than men; and the weakness of God is stronger than men. But of him are you in Christ Jesus, who of God is made unto us wisdom, and justice, and sanctification, and redemption:<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "alleluia",
+      "kind": "alleluia",
+      "latin": {
+        "label": "Allelúia.",
+        "html": "<span class=\"rubric\"><em>1 Cor 3:19; 3:20</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>apiéntia huius mundi stultítia est apud Deum, scriptum est enim: Dóminus novit cogitatiónes sapiéntium, quóniam vanæ sunt.<br>\n<span class=\"rubric\"><em>1 Cor 1:19</em></span><br>\nPerdam sapiéntiam sapiéntium et prudentiam prudéntium reprobábo.<br>\nAlleluia, alleluia.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>apiéntia huius mundi stultítia est apud Deum, scriptum est enim: Dóminus novit cogitatiónes sapiéntium, quóniam vanæ sunt, alleluia<br>\n<span class=\"rubric\"><em>Phil 3:8</em></span><br>\nVerúmtamen exístimo ómnia detriméntum esse propter eminéntem sciéntiam Iesu Christi, Dómini mei. Allelúia."
+      },
+      "english": {
+        "label": "Alleluia.",
+        "html": "<span class=\"rubric\"><em>1 Cor 3:19; 3:20</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>or the wisdom of this world is foolishness with God. For it is written: The Lord knoweth the thoughts of the wise, that they are vain, alleluia.<br>\n<span class=\"rubric\"><em>1 Cor 1:19</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> will destroy the wisdom of the wise, and the prudence of the prudent I will reject, alleluia, alleluia.<br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>or the wisdom of this world is foolishness with God. For it is written: The Lord knoweth the thoughts of the wise, that they are vain, alleluia.<br>\n<span class=\"rubric\"><em>Phil 3:8</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>urthermore I count all things to be but loss for the excellent knowledge of Jesus Christ my Lord, alleluja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 12:2-8</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Nihil est opértum, quod non revelétur, neque abscónditum, quod non sciátur. Quóniam quæ in ténebris dixístis, in lúmine dicéntur: et quod in aurem locúti estis in cubículis, prædicábitur in tectis. Dico autem vobis amícis meis: Ne terreámini ab his, qui occidunt corpus et post hæc non habent ámplius, quid fáciant. Osténdam autem vobis, quem timeátis: timéte eum, qui, postquam occídent, habet potestátem míttere in gehénnam; ita dico vobis, hunc timéte. Nonne quinque pásseres véneunt dipóndio, et unus ex illis non est in oblivióne coram Deo? Sed et capílli capitis vestri omnes numeráti sunt. Nolíte ergo timére: multis passéribus pluris estis vos. Dico autem vobis: Omnis, quicúmque conféssus fúerit me coram homínibus, et Fílius hóminis confitébitur illum coram Angelis Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 12:2-8</em></span><br>\nFor there is nothing covered, that shall not be revealed: nor hidden, that shall not be known. For whatsoever things you have spoken in darkness, shall be published in the light: and that which you have spoken in the ear in the chambers, shall be preached on the housetops. And I say to you, my friends: Be not afraid of them who kill the body, and after that have no more that they can do. But I will shew you whom you shall fear: fear ye him, who after he hath killed, hath power to cast into hell. Yea, I say to you, fear him. Are not five sparrows sold for two farthings, and not one of them is forgotten before God? Yea, the very hairs of your head are all numbered. Fear not therefore: you are of more value than many sparrows. And I say to you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>1 Cor 2:2;</em></span><br>\nNon enim iudicávi me scire áliquid inter vos, nisi Iesum Christum, et hunc crucifíxum. Alleluia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>1 Cor 2:2;</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>or I judged not myself to know anything among you, but Jesus Christ, and him crucified. Alleluia"
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Múnera nostra, Dómine Deus, benígnus súscipe: quorum mirábile mystérium sanctus Martyr Iustínus advérsum impiórum calúmnias strénue deféndit.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Tiburtii, Valeriani, et Maximi Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>æc hóstia, quǽsumus, Dómine, quam sanctórum Mártyrum tuórum natalítia recenséntes offérimus: et víncula nostræ pravitátis absólvat, et tuæ nobis misericórdiæ dona concíliet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Graciously receive, O Lord, these our offerings thy wondrous mystery of which thy holy martyr Justin resolutely defended against the calumnies of the ungodly.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Tiburtius, Valerian et Maximus, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e beg, O Lord, that the sacrifice we offer in memory of the birthday of thy holy Martyrs may losen the bonds of our sins and win for us the gist of thy mercy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hoc potíssimum gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially in this season when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>2 Tim 4:8;</em></span><br>\nRepósita est mihi coróna iustítiæ, quam reddet mihi Dóminus in illa die iustus iudex. Alleluia"
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>2 Tim 4:8;</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>s to the rest, there is laid up for me a crown of justice, which the Lord the just judge will render to me in that day Alleluia"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nCœlésti alimónia refécti, súpplices te, Dómine, deprecámur: ut, beáti Iustíni Mártyris tui mónitis, de accéptis donis semper in gratiárum actióne maneámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Tiburtii, Valeriani, et Maximi Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>acro múnere satiáti, súpplices te, Dómine, deprecámur: ut, quod débitæ servitútis celebrámus offício, salvatiónis tuæ sentiámus augméntum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nRefreshed with the food of heaven, we humbly beseech thee, O Lord, that following the teaching of blessed Justin, thy martyr, we may ever be thankful for the gifts which we have received.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Tiburtius, Valerian et Maximus, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>aving taken our fill of thy sacred gift we humbly entreat thee, O Lord, that for the due service which we pay thee, we may enjoy an increase of thy  saving grace.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

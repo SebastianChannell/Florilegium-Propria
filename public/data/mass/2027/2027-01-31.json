@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-01-31",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica in Sexagesima",
+  "rank": "II. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 43:23-26</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xsúrge, quare obdórmis, Dómine? exsúrge, et ne repéllas in finem: quare fáciem tuam avértis, oblivísceris tribulatiónem nostram? adhæsit in terra venter noster: exsúrge, Dómine, ádiuva nos, et líbera nos.<br>\n<span class=\"rubric\"><em>Ps 43:2</em></span><br>\nDeus, áuribus nostris audívimus: patres nostri annuntiavérunt nobis.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xsúrge, quare obdórmis, Dómine? exsúrge, et ne repéllas in finem: quare fáciem tuam avértis, oblivísceris tribulatiónem nostram? adhæsit in terra venter noster: exsúrge, Dómine, ádiuva nos, et líbera nos."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 43:23-26</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>wake! Why are You asleep, O Lord? Arise! Cast us not off forever! Why do You hide Your face, forgetting our oppression? Our bodies are pressed to the earth. Arise, O Lord, help us, and deliver us.<br>\n<span class=\"rubric\"><em>Ps 43:2</em></span><br>\nO God, our ears have heard, our fathers have declared to us.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>wake! Why are You asleep, O Lord? Arise! Cast us not off forever! Why do You hide Your face, forgetting our oppression? Our bodies are pressed to the earth. Arise, O Lord, help us, and deliver us."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui cónspicis, quia ex nulla nostra actióne confídimus: concéde propítius; ut, contra advérsa ómnia, Doctóris géntium protectióne muniámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, You Who see that we put no trust in anything we do, mercifully grant that by the protection of the Doctor of the Gentiles we may be defended against all adversity.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>2 Cor 11:19-33; 12:1-9</em></span><br>\nFratres: Libénter suffértis insipiéntes: cum sitis ipsi sapiéntes. Sustinétis enim, si quis vos in servitútem rédigit, si quis dévorat, si quis áccipit, si quis extóllitur, si quis in fáciem vos cædit. Secúndum ignobilitátem dico, quasi nos infírmi fuérimus in hac parte. In quo quis audet, - in insipiéntia dico - áudeo et ego: Hebræi sunt, et ego: Israëlítæ sunt, et ego: Semen Abrahæ sunt, et ego: Minístri Christi sunt, - ut minus sápiens dico - plus ego: in labóribus plúrimis, in carcéribus abundántius, in plagis supra modum, in mórtibus frequénter. A Iudæis quínquies quadragénas, una minus, accépi. Ter virgis cæsus sum, semel lapidátus sum, ter naufrágium feci, nocte et die in profúndo maris fui: in itinéribus sæpe, perículis flúminum, perículis latrónum, perículis ex génere, perículis ex géntibus, perículis in civitáte, perículis in solitúdine, perículis in mari, perículis in falsis frátribus: in labóre et ærúmna, in vigíliis multis, in fame et siti, in ieiúniis multis, in frigóre et nuditáte: præter illa, quæ extrínsecus sunt, instántia mea cotidiána, sollicitúdo ómnium Ecclesiárum. Quis infirmátur, et ego non infírmor? quis scandalizátur, et ego non uror? Si gloriári opórtet: quæ infirmitátis meæ sunt, gloriábor. Deus et Pater Dómini nostri Iesu Christi, qui est benedíctus in sǽcula, scit quod non méntior. Damásci præpósitus gentis Arétæ regis, custodiébat civitátem Damascenórum, ut me comprehénderet: et per fenéstram in sporta dimíssus sum per murum, et sic effúgi manus eius. Si gloriári opórtet - non éxpedit quidem, - véniam autem ad visiónes et revelatiónes Dómini. Scio hóminem in Christo ante annos quatuórdecim, - sive in córpore néscio, sive extra corpus néscio, Deus scit - raptum huiúsmodi usque ad tértium cælum. Et scio huiúsmodi hóminem, - sive in córpore, sive extra corpus néscio, Deus scit:- quóniam raptus est in paradisum: et audivit arcána verba, quæ non licet homini loqui. Pro huiúsmodi gloriábor: pro me autem nihil gloriábor nisi in infirmitátibus meis. Nam, et si volúero gloriári, non ero insípiens: veritátem enim dicam: parco autem, ne quis me exístimet supra id, quod videt in me, aut áliquid audit ex me. Et ne magnitúdo revelatiónem extóllat me, datus est mihi stímulus carnis meæ ángelus sátanæ, qui me colaphízet. Propter quod ter Dóminum rogávi, ut discéderet a me: et dixit mihi: Súfficit tibi grátia mea: nam virtus in infirmitáte perfícitur. Libénter ígitur gloriábor in infirmitátibus meis, ut inhábitet in me virtus Christi.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the second letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>2 Cor. 11:19-33; 12:1-9</em></span><br>\nBrethren: You gladly put up with fools, because you are wise yourselves! For you suffer it if a man enslaves you, if a man devours you, if a man takes from you, if a man is arrogant, if a man slaps your face! I speak to my own shame, as though we had been weak. But wherein any man is bold - I am speaking foolishly - I also am bold. Are they Hebrews? So am I! Are they Israelites? So am I! Are they offspring of Abraham? So am I! Are they ministers of Christ? I - to speak as a fool - am more: in many more labors, in prisons more frequently, in lashes above measure, often exposed to death. From the Jews five times I received forty lashes less one. Thrice I was scourged, once I was stoned, thrice I suffered shipwreck, a night and a day I was adrift on the sea; in journeyings often, in perils from floods, in perils from robbers, in perils from my own nation, in perils from the Gentiles, in perils in the city, in perils in the wilderness, in perils in the sea, in perils from false brethren; in labor and hardships, in many sleepless nights, in hunger and thirst, in fastings often, in cold and nakedness. Besides those outer things, there is my daily pressing anxiety, the care of all the churches! Who is weak, and I am not weak? Who is made to stumble, and I am not inflamed? If I must boast, I will boast of the things that concern my weakness. The God and Father of the Lord Jesus, Who is blessed forevermore, knows that I do not lie. In Damascus the governor under King Aretas was guarding the city of the Damascenes in order to arrest me, but I was lowered in a basket through a window in the wall, and escaped his hands. If I must boast - it is not indeed expedient to do so - but I will come to visions and revelations of the Lord. I know a man in Christ who fourteen years ago - whether in the body I do not know, or out of the body I do not know, God knows - such a one was caught up to the third heaven. And I know such a man - whether in the body or out of the body I do not know, God knows that he was caught up into paradise and heard secret words that man may not repeat. Of such a man I will boast; but of myself I will glory in nothing save in my infirmities. For if I do wish to boast, I shall not be foolish; for I shall be speaking the truth. But I forbear, lest any man should reckon me beyond what he sees in me or hears from me. And lest the greatness of the revelations should puff me up, there was given me a thorn for the flesh, a messenger of Satan, to buffet me. Concerning this I thrice besought the Lord that it might leave me. And He has said to me, My grace is sufficient for you, for strength is made perfect in weakness. Gladly therefore I will glory in my infirmities, that the strength of Christ may dwell in me.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 82:19; 82:14</em></span><br>\nSciant gentes, quóniam nomen tibi Deus: tu solus Altíssimus super omnem terram,<br>\n<span class=\"marker\"><em>℣.</em></span> Deus meus, pone illos ut rotam, et sicut stípulam ante fáciem venti.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 59:4; 59:6</em></span><br>\nCommovísti, Dómine, terram, et conturbásti eam.<br>\n<span class=\"marker\"><em>℣.</em></span> Sana contritiónes eius, quia mota est.<br>\n<span class=\"marker\"><em>℣.</em></span> Ut fúgiant a fácie arcus: ut liberéntur elécti tui."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 82:19; 82:14</em></span><br>\nLet the nations know that God is Your name; You alone are the Most High over all the earth.<br>\n<span class=\"marker\"><em>℣.</em></span> O my God, make them like leaves in a whirlwind, like chaff before the wind.<br>\n<br>\n<span class=\"rubric\"><em>Tract</em></span><br>\n<span class=\"rubric\"><em>Ps 59:4,6</em></span><br>\nYou have rocked the country, O Lord, and split it open.<br>\n<span class=\"marker\"><em>℣.</em></span> Repair the cracks in it, for it is tottering.<br>\n<span class=\"marker\"><em>℣.</em></span> That they may flee out of bowshot; that Your loved ones may escape."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 8:4-15</em></span><br>\nIn illo témpore: Cum turba plúrima convenírent, et de civitátibus properárent ad Iesum, dixit per similitúdinem: Exiit, qui séminat, semináre semen suum: et dum séminat, áliud cécidit secus viam, et conculcátum est, et vólucres cæli comedérunt illud. Et áliud cécidit supra petram: et natum áruit, quia non habébat humórem. Et áliud cécidit inter spinas, et simul exórtæ spinæ suffocavérunt illud. Et áliud cécidit in terram bonam: et ortum fecit fructum céntuplum. Hæc dicens, clamábat: Qui habet aures audiéndi, áudiat. Interrogábant autem eum discípuli eius, quæ esset hæc parábola. Quibus ipse dixit: Vobis datum est nosse mystérium regni Dei, céteris autem in parábolis: ut vidéntes non vídeant, et audiéntes non intéllegant. Est autem hæc parábola: Semen est verbum Dei. Qui autem secus viam, hi sunt qui áudiunt: déinde venit diábolus, et tollit verbum de corde eórum, ne credéntes salvi fiant. Nam qui supra petram: qui cum audíerint, cum gáudio suscípiunt verbum: et hi radíces non habent: qui ad tempus credunt, et in témpore tentatiónis recédunt. Quod autem in spinas cécidit: hi sunt, qui audiérunt, et a sollicitudínibus et divítiis et voluptátibus vitæ eúntes, suffocántur, et non réferunt fructum. Quod autem in bonam terram: hi sunt, qui in corde bono et óptimo audiéntes verbum rétinent, et fructum áfferunt in patiéntia.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 8:4-15</em></span><br>\nAt that time, when a very great crowd was gathering together and men from every town were resorting to Jesus. He said in a parable: The sower went out to sow his seed. And as he sowed, some seed fell by the wayside and was trodden under foot, and the birds of the air ate it up. And other seed fell upon the rock, and as soon as it had sprung up it withered away, because it had no moisture. And other seed fell among thorns, and the thorns sprang up with it and choked it. And other seed fell upon good ground, and sprang up and yielded fruit a hundredfold. As He said these things He cried out, He who has ears to hear, let him hear! But His disciples then began to ask Him what this parable meant, He said to them, To you it is given to know the mystery of the kingdom of God, but to the rest in parables, that ‘Seeing they may not see, and hearing they may not understand.’ Now the parable is this: the seed is the word of God. And those by the wayside are they who have heard; then the devil comes and takes away the word from their heart, that they may not believe and be saved. Now those upon the rock are they who, when they have heard, receive the word with joy; and these have no root, but believe for a while, and in time of temptation fall away. And that which fell among the thorns, these are they who have heard, and as they go their way are choked by the cares and riches and pleasures of life, and their fruit does not ripen. But that upon good ground, these are they who, with a right and good heart, having heard the word, hold it fast, and bear fruit in patience.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 16:5; 16:6-7</em></span><br>\nPérfice gressus meos in sémitis tuis, ut non moveántur vestígia mea: inclína aurem tuam, et exáudi verba mea: mirífica misericórdias tuas, qui salvos facis sperántes in te, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 16:5-7</em></span><br>\nMake my steps steadfast in Your paths, that my feet may not falter. Incline Your ear to me; hear my word. Show Your wondrous kindness, O Lord, Saviour of those who trust in You."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oblátum tibi, Dómine, sacrifícium, vivíficet nos semper et múniat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May this sacrifice which we offer You, O Lord, ever give us new life and protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in maiestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre cotídie, una voce dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 42:4</em></span><br>\nIntroíbo ad altáre Dei, ad Deum, qui lætíficat iuventútem meam."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 42:4</em></span><br>\nI will go in to the altar of God, the God of my gladness and joy."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSúpplices te rogámus, omnípotens Deus: ut, quos tuis réficis sacraméntis, tibi étiam plácitis móribus dignánter deservíre concédas.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO almighty God, grant, we humbly beseech You, that those whom You refresh with Your sacrament may also worthily serve You in a way that is well pleasing to You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

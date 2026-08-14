@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-03-10",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Quarta infra Hebdomadam IV in Quadragesima",
+  "rank": "III. classis",
+  "note": "Commemoratio : Ss. Quadraginta Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ezech 36:23-26</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>um sanctificátus fúero in vobis, congregábo vos de univérsis terris: et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris: et dabo vobis spíritum novum.<br>\n<span class=\"rubric\"><em>Ps 33:2</em></span><br>\nBenedícam Dóminum in omni témpore: semper laus eius in ore meo.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>um sanctificátus fúero in vobis, congregábo vos de univérsis terris: et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris: et dabo vobis spíritum novum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ezechiel 36:23-26</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>hen I shall be sanctified in you, I will gather you from every land: and I will pour upon you clean water, and you shall be cleansed from all your filthiness: and I will give you a new spirit.<br>\n<span class=\"rubric\"><em>Ps 33:2</em></span><br>\nI will bless the Lord at all times; His praise shall be ever in my mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>hen I shall be sanctified in you, I will gather you from every land: and I will pour upon you clean water, and you shall be cleansed from all your filthiness: and I will give you a new spirit."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"marker\"><em>℣.</em></span> Flectámus génua.<br>\n<span class=\"marker\"><em>℟.</em></span> Leváte.<br>\nDeus, qui et iustis prǽmia meritórum et peccatóribus per ieiúnium véniam præbes: miserére supplícibus tuis; ut reátus nostri conféssio indulgéntiam valeat percípere delictórum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Lectio</em></strong></span><br>\nLéctio Ezechiélis Prophétæ.<br>\n<span class=\"rubric\"><em>Ezech 36:23-28</em></span><br>\nHæc dicit Dóminus Deus: Sanctificábo nomen meum magnum, quod pollútum est inter gentes, quod polluístis in médio eárum: ut sciant gentes, quia ego Dóminus, cum sanctificátus fúero in vobis coram eis. Tollam quippe vos de géntibus, et congregábo vos de univérsis terris, et addúcam vos in terram vestram. Et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris, et ab univérsis idólis vestris mundábo vos. Et dabo vobis cor novum, et spíritum novum ponam in médio vestri: et áuferam cor lapídeum de carne vestra, et dabo vobis cor cárneum. Et spíritum meum ponam in médio vestri: et fáciam, ut in præcéptis meis ambulétis, et iudícia mea custodiátis et operémini. Et habitábitis in terra, quam dedi pátribus vestris: et éritis mihi in pópulum, et ego ero vobis in Deum: dicit Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias.<br>\n<br>\n<span class=\"rubric\"><strong><em>Graduale</em></strong></span><br>\n<span class=\"rubric\"><em>Ps 38:12, 6</em></span><br>\nVeníte, fílii, audíte me: timórem Dómini docébo vos.<br>\n<span class=\"marker\"><em>℣.</em></span> Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur.<br>\n<br>\n<span class=\"rubric\"><strong><em>Oratio</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dóminus vobíscum.<br>\n<span class=\"marker\"><em>℟.</em></span> Et cum spíritu tuo.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, quos ieiúnia votíva castígant, ipsa quoque devótio sancta lætíficet; ut, terrénis afféctibus mitigátis, facílius cœléstia capiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Quadraginta Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta, quǽsumus, omnípotens Deus: ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"marker\"><em>℣.</em></span> Let us kneel.<br>\n<span class=\"marker\"><em>℟.</em></span> Arise.<br>\nO God, Who graciously grant to the righteous the rewards of their merits, and to sinners forgiveness through fasting, have mercy upon Your humble servants, so that, confessing our guilt, we may obtain pardon for our transgressions.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Lesson</em></strong></span><br>\nLesson from the Prophecy of Ezechiel<br>\n<span class=\"rubric\"><em>Ezech 36:23-28</em></span><br>\nThus says the Lord God: I will prove the holiness of My great Name, profaned among the nations, in whose midst you have profaned it. Thus the nations shall know that I am the Lord, when in their sight I prove My holiness through you. For I will take you away from among the nations, gather you from all the foreign lands, and bring you back to your own land. I will sprinkle clean water upon you to cleanse you from all your impurities, and from all your idols I will cleanse you. I will give you a new heart and place a new spirit within you, taking from your bodies your stony hearts and giving you natural hearts. I will put My spirit within you and make you live by My statutes, careful to observe My decrees. You shall live in the land I gave your fathers; you shall be My people, and I will be your God, says the Lord almighty.<br>\n<br>\n<span class=\"rubric\"><strong><em>Gradual</em></strong></span><br>\n<span class=\"rubric\"><em>Ps 33:12, 6</em></span><br>\nCome, children, hear Me, I will teach you the fear of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Look to Him that you may be radiant with joy, and your faces may not blush with shame.<br>\n<br>\n<span class=\"rubric\"><strong><em>Collect</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord be with you.<br>\n<span class=\"marker\"><em>℟.</em></span> And with thy spirit.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that we who are chastising the flesh by fasting, may rejoice in this holy practice, and thus, with earthly passions subdued, we may the more readily direct our thoughts to heavenly things.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Forty Holy Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, almighty God, that we who know how courageously Your holy Martyrs have confessed the faith, may experience their goodness as they intercede for us with You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Isaíæ Prophétæ.<br>\n<span class=\"rubric\"><em>Is 1:16-19</em></span><br>\nHæc dicit Dóminus Deus: Lavámini, mundi estóte, auférte malum cogitatiónum vestrárum ab óculis meis: quiéscite ágere pervérse, díscite benefácere: quærite iudícium, subveníte opprésso, iudicáte pupíllo, deféndite víduam. Et veníte et argúite me, dicit Dóminus: si fúerint peccáta vestra ut cóccinum, quasi nix dealbabúntur: et si fúerint rubra quasi vermículus, velut lana alba erunt. Si voluéritis et audiéritis me, bona terræ comedétis: dicit Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Prophecy of Isaias<br>\n<span class=\"rubric\"><em>Isa. 1:16-19</em></span><br>\nThus says the Lord God: Wash yourselves clean! Put away your misdeeds from before My eyes; cease doing evil; learn to do good. Make justice your aim: redress the wronged, hear the orphan’s plea, defend the widow. Come now, let us set things right, says the Lord: though your sins be like scarlet, they may become white as snow; though they be crimson red, they may become white as wool. If you are willing, and obey, you shall eat the good things of the land, says the Lord almighty.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 32:12, 6</em></span><br>\nBeáta gens, cuius est Dóminus Deus eórum: pópulus, quem elégit Dóminus in hereditátem sibi.<br>\n<span class=\"marker\"><em>℣.</em></span> Verbo Dómini cœli firmáti sunt: et spíritu oris eius omnis virtus eórum.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, ne memíneris<br>\niniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adiuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 32:12, 6</em></span><br>\nHappy the nation whose God is the Lord, the people whom He has chosen for His own inheritance.<br>\n<span class=\"marker\"><em>℣.</em></span> By the word of the Lord the heavens were made; by the breath of His mouth all their host.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 9:1-38</em></span><br>\nIn illo témpore: Prætériens Iesus vidit hóminem cæcum a nativitáte: et interrogavérunt eum discípuli eius: Rabbi, quis peccávit, hic aut paréntes eius, ut cæcus nascerétur? Respóndit Iesus: Neque hic peccávit neque paréntes eius: sed ut manifesténtur ópera Dei in illo. Me opórtet operári ópera eius, qui misit me, donec dies est: venit nox, quando nemo potest operári. Quámdiu sum in mundo, lux sum mundi. Hæc cum dixísset, éxspuit in terram, et fecit lutum ex sputo, et linívit lutum super óculos eius, et dixit ei: Vade, lava in natatória Síloë (quod interpretátur Missus). Abiit ergo, et lavit, et venit videns. Itaque vicíni, et qui víderant eum prius, quia mendícus erat, dicébant: Nonne hic est, qui sedébat et mendicábat? Alii dicébant: Quia hic est. Alii autem: Nequáquam, sed símilis est ei. Ille vero dicébat: Quia ego sum. Dicébant ergo ei: Quómodo apérti sunt tibi óculi? Respóndit: Ille homo, qui dícitur Iesus, lutum fecit, et unxit oculos meos, et dixit mihi: Vade ad natatória Síloë, et lava. Et ábii, et lavi, et vídeo. Et dixérunt ei: Ubi est ille? Ait: Néscio. Addúcunt eum ad pharisǽos, qui cæcus fúerat. Erat autem sábbatum, quando lutum fecit Iesus, et apéruit óculos eius. Iterum ergo interrogábant eum pharisǽi, quómodo vidísset. Ille autem dixit eis: Lutum mihi posuit super oculos, et lavi, et vídeo. Dicébant ergo ex pharisǽis quidam: Non est hic homo a Deo, qui sábbatum non custódit. Alii autem dicébant: Quómodo potest homo peccátor hæc signa fácere&nbsp;? Et schisma erat inter eos. Dicunt ergo cæco íterum: Tu quid dicis de illo, qui apéruit óculos tuos? Ille autem dixit: Quia Prophéta est. Non credidérunt ergo Iudǽi de illo, quia cæcus fuísset, et vidísset, donec vocavérunt paréntes eius, qui víderat: et interrogavérunt eos, dicéntes: Hic est fílius vester, quem vos dícitis, quia cæcus natus est? Quómodo ergo nunc videt? Respondérunt eis paréntes eius, et dixérunt: Scimus, quia hic est fílius noster, et quia cæcus natus est: quómodo autem nunc vídeat, nescímus: aut quis eius apéruit óculos, nos nescímus: ipsum interrogáte, ætátem habet, ipse de se loquátur. Hæc dixérunt paréntes eius, quóniam timébant Iudǽos: iam enim conspiráverant Iudǽi, ut, si quis eum confiterétur esse Christum, extra synagógam fíeret. Proptérea paréntes eius dixérunt: Quia ætátem habet, ipsum interrogáte. Vocavérunt ergo rursum hóminem, qui fúerat cæcus, et dixérunt ei: Da glóriam Deo. Nos scimus, quia hic homo peccátor est. Dixit ergo eis ille: Si peccátor est, néscio: unum scio, quia, cæcus cum essem, modo vídeo. Dixérunt ergo illi: Quid fecit tibi? quómodo apéruit tibi óculos? Respóndit eis: Dixi vobis iam, et audístis: quid íterum vultis audíre? Numquid et vos vultis discípuli eius fíeri? Maledixérunt ergo ei, et dixérunt: Tu discípulus illíus sis: nos autem Móysi discípuli sumus. Nos scimus, quia Móysi locútus est Deus: hunc autem nescímus, unde sit. Respóndit ille homo et dixit eis: In hoc enim mirábile est, quia vos néscitis, unde sit, et apéruit meos óculos: scimus autem, quia peccatóres Deus non audit: sed, si quis Dei cultor est et voluntátem eius facit, hunc exáudit. A sǽculo non est audítum, quia quis apéruit óculos cæci nati. Nisi esset hic a Deo, non póterat fácere quidquam. Respondérunt et dixérunt ei: In peccátis natus es totus, et tu doces nos? Et eiecérunt eum foras. Audívit Iesus, quia eiecérunt eum foras, et cum invenísset eum, dixit ei: Tu credis in Fílium Dei? Respóndit ille et dixit: Quis est, Dómine, ut credam in eum? Et dixit ei Iesus: Et vidísti eum, et qui lóquitur tecum, ipse est. At ille ait: Credo, Dómine. <span class=\"rubric\">Hic genuflectitur</span> Et prócidens adorávit eum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 9:1-38</em></span><br>\nAt that time, Jesus, passing by, saw a man blind from birth. And His disciples asked Him, Rabbi, who has sinned, this man or his parents, that he should be born blind? Jesus answered, Neither has this man sinned, nor his parents, but the works of God were to be made manifest in him. I must do the works of Him Who sent Me while it is day; night is coming, when no one can work. As long as I am in the world I am the light of the world. When He had said these things, He spat on the ground and made clay with the spittle, and spread the clay over his eyes, and said to him, Go, wash in the pool of Siloe - which is interpreted ‘Sent’. - So he went away, and washed, and returned seeing. The neighbors therefore and they who were wont to see him before as a beggar, began saying, Is not this he who used to sit and beg? Some said, It is he. But others said, By no means, he only resembles him. Yet the man declared, I am he. They therefore said to him, How were your eyes opened? He answered, The man who is called Jesus made clay and anointed my eyes, and said to me, ‘Go to the pool of Siloe and wash.’ And I went and washed, and I see. And they said to him, Where is He? He said, I do not know. They took him who had been blind to the Pharisees. Now it was a Sabbath on which Jesus made the clay and opened his eyes. Again, therefore, the Pharisees asked him how he received his sight. But he said to them, He put clay upon my eyes, and I washed, and I see. Therefore some of the Pharisees said, This man is not from God, for He does not keep the Sabbath. But others said, How can a man who is a sinner work these signs? And there was a division among them. Again therefore they said to the blind man, What do you say of Him Who opened your eyes? But he said, He is a prophet. The Jews therefore did not believe of him that he had been blind and had got his sight, until they called the parents of the one who had gained his sight, and questioned them, saying, Is this your son, of whom you say that he was born blind? How then does he now see? His parents answered them and said, We know that this is our son, and that he was born blind; but how he now sees we do not know, or who opened his eyes we ourselves do not know. Ask him; he is of age, let him speak for himself. These things his parents said because they feared the Jews. For already the Jews had agreed that if anyone were to confess Him to be the Christ, he should be put out of the synagogue. This is why his parents said, He is of age; question him. They therefore called a second time the man who had been blind, and said to him, Give glory to God! We ourselves know that this man is a sinner. He therefore said, Whether He is a sinner, I do not know. One thing I do know, that whereas I was blind, now I see. They therefore said to him, What did He do to you? How did He open your eyes? He answered them, I have told you already, and you have heard. Why would you hear again? Would you also become His disciples? They heaped abuse on him therefore, and said, You are His disciple, but we are disciples of Moses. We know that God spoke to Moses; but as for this man, we do not know where He is from. In answer the man said to them, Why, herein is the marvel, that you do not know where He is from, and yet He opened my eyes. Now we know that God does not hear sinners; but if anyone is a worshipper of God, and does His will, him He hears. Not from the beginning of the world has it been heard that anyone opened the eyes of a man born blind. If this man were not from God, He could do nothing. They answered and said to him, You were altogether born in sins, and do you teach us? And they turned him out. Jesus heard that they had cast him out, and when He had found him, said to him, Do you believe in the Son of God? He answered and said, Who is He, Lord, that I may believe in Him? And Jesus said to him, You have both seen Him, and He it is Who speaks with you. And he said, I believe, Lord. <span class=\"rubric\">Kneel.</span> And falling down, he worshipped Him.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 65:8-9, 20</em></span><br>\nBenedícite, gentes, Dóminum, Deum nostrum, et obaudíte vocem laudis eius: qui pósuit ánimam meam ad vitam, et non dedit commovéri pedes meos: benedíctus Dóminus, qui non amóvit deprecatiónem meam, et misericórdiam suam a me."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 65:8-9, 20</em></span><br>\nBless the Lord our God, you peoples, loudly sound His praise; He has given life to my soul, and has not let my feet slip. Blessed be God, Who refused me not my prayer or His kindness."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súpplices te rogámus, omnípotens Deus: ut his sacrifíciis peccáta nostra mundéntur; quia tunc veram nobis tríbuis et mentis et córporis sanitátem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Quadraginta Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>reces, Dómine, tuórum réspice oblationésque fidélium: ut et tibi gratæ sint pro tuórum festivitáte Sanctórum, et nobis cónferant tuæ propitiatiónis auxílium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We humbly entreat You, almighty God, that these sacrificial gifts may cleanse us from sin, for in this way You grant us true health of soul and body.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Forty Holy Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ook with favor, O Lord, upon the prayers and offerings of Your faithful, that they may be pleasing to You for the feast of Your Saints and may bring us the help of Your mercy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioann 9:11</em></span><br>\nLutum fecit ex sputo Dóminus, et linívit óculos meos: et ábii, et lavi, et vidi, et crédidi Deo."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Jn 9:11</em></span><br>\nThe Lord made clay of spittle, and anointed my eyes: and I went, and I washed, and I saw, and I have believed in God."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSacraménta, quæ súmpsimus, Dómine, Deus noster: et spirituálibus nos répleant aliméntis, et corporálibus tueántur auxíliis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Quadraginta Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>anctórum tuórum, Dómine, intercessióne placátus: præsta, quǽsumus; ut, quæ temporáli celebrámus actióne, perpétua salvatióne capiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>áteant aures misericórdiæ tuæ. Dómine, précibus supplicántium: et, ut peténtibus desideráta concédas; fac eos, quæ tibi sunt plácita, postuláre.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the sacrament we have received, O Lord, both fill us with spiritual nourishment and sustain us with bodily aid.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Forty Holy Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>e appeased by the prayers of Your Saints, O Lord, and grant, we beseech You, that the rites we perform in this life may avail for our eternal salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your merciful ears be open, O Lord, to the prayers of those who humbly entreat You; grant that they may ask for what pleases You so that You may fulfill their desires.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

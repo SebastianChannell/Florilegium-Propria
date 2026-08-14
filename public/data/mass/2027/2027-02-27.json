@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-02-27",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Sabbato infra Hebdomadam II in Quadragesima",
+  "rank": "III. classis",
+  "note": "Commemoratio : S. Gabrielis a Virgine Perdolente Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 18:8.</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ex Dómini irreprehensíbilis, convértens ánimas: testimónium Dómini fidéle, sapiéntiam præstans párvulis.<br>\n<span class=\"rubric\"><em>Ps 18:2</em></span><br>\nCœli enárrant glóriam Dei: et ópera mánuum eius annúntiat firmaméntum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ex Dómini irreprehensíbilis, convértens ánimas: testimónium Dómini fidéle, sapiéntiam præstans párvulis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 18:8</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he law of the Lord is perfect, refreshing the soul; the decree of the Lord is trustworthy, giving wisdom to the simple.<br>\n<span class=\"rubric\"><em>Ps 18:2</em></span><br>\nThe heavens declare the glory of God, and the firmament proclaims His handiwork.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he law of the Lord is perfect, refreshing the soul; the decree of the Lord is trustworthy, giving wisdom to the simple."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDa, quǽsumus, Dómine, nostris efféctum ieiúniis salutárem: ut castigátio carnis assúmpta, ad nostrárum vegetatiónem tránseat animárum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gabrielis a Virgine Perdolente Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui beátum Gabriélem dulcíssimæ Matris tuæ dolóres assídue recólere docuísti, ac per illam sanctitátis et miraculórum glória sublimásti: da nobis, eius intercessióne et exémplo; ita Genetrícis tuæ consociári flétibus, ut matérna eiúsdem protectióne salvémur:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant that our fasting may be beneficial to us, we beseech You, O Lord, so that by chastising our flesh we may obtain strength for our souls.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Gabriel of the Sorrowful Virgin, Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who taught blessed Gabriel to meditate continually on the sorrows of Your most sweet Mother and Who, through her, exalted him by the glory of a holy life and miracles; grant us through his intercession and example so to share in the sorrows of Your Mother that her motherly protection may save us.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Genesis<br>\n<span class=\"rubric\"><em>Gen 27:6-40</em></span><br>\nIn diébus illis: Dixit Rebécca fílio suo Iacob: Audívi patrem tuum loquéntem cum Esau fratre tuo, et dicéntem ei: Affer mihi de venatióne tua, et fac cibos, ut cómedam et benedícam tibi coram Dómino, ántequam móriar. Nunc ergo, fili mi, acquiésce consíliis meis: et pergens ad gregem, affer mihi duos hædos óptimos, ut fáciam ex eis escas patri tuo, quibus libénter véscitur: quas cum intúleris et coméderit, benedícat tibi, priúsquam moriátur. Cui ille respóndit: Nosti, quod Esau, frater meus, homo pilósus sit, et ego lenis: si attrectáverit me pater meus et sénserit, tímeo, ne putet me sibi voluísse illúdere, et indúcam super me maledictiónem pro benedictióne. Ad quem mater: In me sit, ait, ista maledíctio, fili mi: tantum audi vocem meam, et pergens affer quæ dixi. Abiit, et áttulit, dedítque matri. Parávit illa cibos, sicut velle nóverat patrem illíus. Et véstibus Esau valde bonis, quas apud se habébat domi, índuit eum: pelliculásque hædórum circúmdedit mánibus, et colli nuda protéxit. Dedítque pulméntum, et panes, quos cóxerat, trádidit. Quibus illátis, dixit: Pater mi! At ille respóndit: Audio. Quis es tu, fili mi? Dixítque Iacob: Ego sum primogénitus tuus Esau: feci, sicut præcepísti mihi: surge, sede, et cómede de venatióne mea, ut benedícat mihi ánima tua. Rursúmque Isaac ad fílium suum: Quómodo, inquit, tam cito inveníre potuísti, fili mi? Qui respóndit: Volúntas Dei fuit, ut cito occúrreret mihi quod volébam. Dixítque Isaac: Accéde huc, ut tangam te, fili mi, et probem, utrum tu sis fílius meus Esau, an non. Accéssit ille ad patrem, et palpáto eo, dixit Isaac: Vox quidem vox Iacob est, sed manus manus sunt Esau. Et non cognóvit eum, quia pilósæ manus similitúdinem maióris exprésserant. Benedícens ergo illi, ait: Tu es fílius meus Esau? Respóndit: Ego sum. At ille: Affer mihi, inquit, cibos de venatióne tua, fili mi, ut benedícat tibi ánima mea. Quos cum oblátos comedísset, óbtulit ei étiam vinum. Quo hausto, dixit ad eum: Accéde ad me, et da mihi ósculum, fili mi. Accéssit, et osculátus est eum. Statímque ut sensit vestimentórum illíus fragrántiam, benedícens illi, ait: Ecce, odor fílii mei sicut odor agri pleni, cui benedíxit Dóminus. Det tibi Deus de rore cœli, et de pinguédine terræ abundántiam fruménti et vini. Et sérviant tibi pópuli, et adorent te tribus: esto dóminus fratrum tuórum, et incurvéntur ante te fílii matris tuæ. Qui male díxerit tibi, sit ille maledíctus: et qui benedíxerit tibi, benedictiónibus repleátur. Vix Isaac sermónem impléverat, et egrésso Iacob foras, venit Esau, coctósque de venatióne cibos íntulit patri, dicens: Surge, pater mi, et cómede de venatióne fílii tui, ut benedícat mihi ánima tua. Dixítque illi Isaac: Quis enim es tu? Qui respóndit: Ego sum fílius tuus primogénitus Esau. Expávit Isaac stupóre veheménti, et ultra quam credi potest, admírans, ait: Quis ígitur ille est, qui dudum captam venatiónem áttulit mihi, et comédi ex ómnibus, priúsquam tu veníres? Benedixíque ei, et erit benedíctus. Audítis Esau sermónibus patris, irrúgiit clamóre magno, et consternátus, ait: Bénedic étiam et mihi, pater mi. Qui ait: Venit germánus tuus fraudulénter, et accépit benedictiónem tuam. At ille subiunxit: Iuste vocátum est nomen eius Iacob: supplantávit enim me en áltera vice: primogénita mea ante tulit, et nunc secúndo surrípuit benedictiónem meam. Rursúmque ad patrem: Numquid non reservásti, ait, et mihi benedictiónem? Respóndit Isaac: Dóminum tuum illum constítui, et omnes fratres eius servitúti illíus subiugávi: fruménto et vino stabilívi eum, et tibi post hæc, fili mi, ultra quid fáciam? Cui Esau: Num unam, inquit, tantum benedictiónem habes, pater? mihi quoque óbsecro ut benedícas. Cumque eiulátu magno fleret, motus Isaac, dixit ad eum: In pinguédine terræ, et in rore cœli désuper erit benedíctio tua.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Genesis<br>\n<span class=\"rubric\"><em>Gen 27:6-40</em></span><br>\nIn those days, Rebecca said to her son Jacob, I heard your father tell your brother Esau, ‘Bring me some game; prepare some savory food for me to eat, and then I will bless you in the sight of the Lord before I die.’ Now, my son, do what I tell you. Go to the flock and bring me two choice kids that I may make of them savory food for your father, such as he likes. Then bring it to your father to eat, that he may bless you before he dies. Jacob said to his mother Rebecca, But Esau my brother is a hairy man, while I am smooth. If my father touches me, it will seem to him that I am mocking him. Thus I shall bring a curse on myself instead of a blessing. His mother replied, Let the curse fall on me, my son! Do but listen to me; go, get them for me. He went, selected them, and brought them to his mother, who prepared savory food such as his father liked. Then Rebecca took the best clothes of her elder son Esau, which she had in the house, and put them on her younger son Jacob. She put the skins of the kids on his hands and over the smooth parts of his neck. Then she gave her son Jacob the savory food and bread she had prepared. He went to his father and said, Father! He answered, Here I am. Who are you, my son? And Jacob said to his father, I am Esau, your first-born. I have done as you told me; sit up, please! Eat again of my game, that you may bless me. Isaac replied, How did you find it so quickly, my son? He answered, The Lord your God let me come upon it. Then Isaac said to Jacob, Come close that I may touch you, my son, to know whether you are really my son Esau or not. Jacob went close to his father; Isaac touched him and said, The voice is the voice of Jacob, but the hands are the hands of Esau. - He did not recognize him because his hands were hairy like those of his brother Esau; so he blessed him. - Isaac said, Are you really my son Esau? Jacob answered, Yes, I am. Isaac continued, Set your game near me, my son, that I may eat it, and bless you. He set it before him and he ate of it, and he brought him some wine, which he drank. Then his father Isaac said to him, Come close and kiss me, my son. He came close and kissed him. When he smelled the fragrance of his garments, he blessed him and said, The fragrance of my son is like the fragrance of a field which the Lord has blessed! God give you dew from heaven, and fruitfulness of the earth, abundance of grain and wine. Let nations serve you, peoples bow down to you. Be master of your brothers; may your mother’s sons bow down to you. Cursed be those who curse you, blessed be those who bless you. Isaac had pronounced the blessing and Jacob had just left his father’s presence, when his brother Esau returned from hunting. He also prepared savory food and brought it to his father, saying, Sit up, father, and eat of your son’s game, that you may bless me. His father Isaac said to him, Who are you? He answered, I am Esau, your first-born son. Isaac was greatly disturbed, and asked, Who was it, then, that hunted game and brought it to me? Before you came I ate heartily and then blessed him; and he shall be blessed. On hearing his father’s words, Esau uttered a very loud and bitter cry, and said to him, Father, bless me too. But he answered, Your brother came deceitfully and received your blessing. Then he said, Must he, true to his name Jacob, supplant me now a second time? He took my birthright and now he has taken my blessing. He added, Have you not reserved a blessing for me? Isaac answered Esau, I have appointed him your lord, and have given him all his brothers as servants. I have enriched him with grain and wine; what then can I do for you, my son? But Esau said to his father, Have you only one blessing, father? Bless me also, my father. And Esau wept aloud. His father Isaac answered him, With the fruitfulness of the earth shall your dwelling be; with the dew of the heavens above.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 91:2-3</em></span><br>\nBonum est confitéri Dómino: et psállere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 91:2-3</em></span><br>\nIt is good to give thanks to the Lord, to sing praise to Your name, Most High.<br>\n<span class=\"marker\"><em>℣.</em></span> To proclaim Your kindness at dawn and Your faithfulness throughout the night."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 15:11-32</em></span><br>\nIn illo témpore: Dixit Iesus pharisǽis et scribis parábolam istam: Homo quidam hábuit duos fílios, et dixit adolescéntior ex illis patri: Pater, da mihi portiónem substántiæ, quæ me contíngit. Et divísit illis substántiam. Et non post multos dies, congregátis ómnibus, adolescéntior fílius péregre proféctus est in regiónem longínquam, et ibi dissipávit substántiam suam vivéndo luxurióse. Et postquam ómnia consummásset, facta est fames válida in regióne illa, et ipse cœpit egére. Et ábiit, et adhǽsit uni cívium regiónis illíus. Et misit illum in villam suam, ut pásceret porcos. Et cupiébat implére ventrem suum de síliquis, quas porci manducábant: et nemo illi dabat. In se autem revérsus, dixit: Quanti mercenárii in domo patris mei abúndant pánibus, ego autem hic fame péreo? Surgam, et ibo ad patrem meum, et dicam ei: Pater, peccávi in cœlum et coram te: iam non sum dignus vocári fílius tuus: fac me sicut unum de mercenáriis tuis. Et surgens venit ad patrem suum. Cum autem adhuc longe esset, vidit illum pater ipsíus, et misericórdia motus est, et accúrrens cécidit super collum eius, et osculátus est eum. Dixítque ei fílius: Pater, peccávi in cœlum et coram te, iam non sum dignus vocári fílius tuus. Dixit autem pater ad servos suos: Cito proférte stolam primam, et indúite illum, et date ánnulum in manum eius, et calceaménta in pedes eius: et addúcite vítulum saginátum et occídite, et manducémus et epulémur, quia hic fílius meus mórtuus erat, et revíxit: períerat, et invéntus est. Et cœpérunt epulári. Erat autem fílius eius sénior in agro: et cum veníret, et appropinquáret dómui, audívit symphóniam et chorum: et vocávit unum de servis, et interrogávit, quid hæc essent. Isque dixit illi: Frater tuus venit, et occídit pater tuus vítulum saginátum, quia salvum illum recépit. Indignátus est autem, et nolébat introíre. Pater ergo illíus egréssus, cœpit rogáre illum. At ille respóndens, dixit patri suo: Ecce, tot annis sérvio tibi, et numquam mandátum tuum præterívi, et numquam dedísti mihi hædum, ut cum amícis meis epulárer: sed postquam fílius tuus hic, qui devorávit substántiam suam cum meretrícibus, venit, occidísti illi vítulum saginátum. At ipse dixit illi: Fili, tu semper mecum es, et ómnia mea tua sunt: epulári autem et gaudére oportébat, quia frater tuus hic mórtuus erat, et revíxit: períerat, et invéntus est.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 15:11-32</em></span><br>\nAt that time, Jesus spoke to the Pharisees and Scribes this parable: A certain man had two sons. And the younger of them said to his father, ‘Father, give me the share of the property that falls to me.’ And he divided his means between them. And not many days later, the younger son gathered up all his wealth, and took his journey into a far country; and there he squandered his fortune in loose living. And after he had spent all, there came a grievous famine over that country, and he began himself to suffer want. And he went and joined one of the citizens of that country, who sent him to his farm to feed swine. And he longed to fill himself with the pods that the swine were eating, but no one offered to give them to him. But when he came to himself, he said, ‘How many hired men in my father’s house have bread in abundance, while I am perishing here with hunger! I will get up and go to my father, and will say to him, Father, I have sinned against heaven and before you. I am no longer worthy to be called your son; make me as one of your hired men.’ And he arose and went to his father. But while he was yet a long way off, his father saw him and was moved with compassion, and ran and fell upon his neck and kissed him. And the son said to him, ‘Father, I have sinned against heaven and before you. I am no longer worthy to be called your son.’ But the father said to his servants, ‘Fetch quickly the best robe and put it on him, and give him a ring for his finger and sandals for his feet; and bring out the fattened calf and kill it, and let us eat and make merry; because this my son was dead, and has come to life again; he was lost, and is found. And they began to make merry. Now his elder son was in the field; and as he came and drew near to the house, he heard music and dancing. And calling one of the servants he inquired what this meant. And he said to him, ‘Your brother has come, and your father has killed the fattened calf, because he has got him back safe.’ But he was angered and would not go in. His father, therefore, came out and began to entreat him. But he answered and said to his father, ‘Behold, these many years I have been serving you, and have never transgressed one of your commands; and yet you have never given me a kid that I might make merry with my friends. But when this your son comes, who has devoured his means with harlots, you have killed for him the fattened calf.’ But he said to him, ‘Son, you are always with me, and all that is mine is yours; but we were bound to make merry and rejoice, for this your brother was dead, and has come to life; he was lost, and is found.’<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 12:4-5</em></span><br>\nIllúmina óculos meos, ne umquam obdórmiam in morte: ne quando dicat inimícus meus: Præválui advérsus eum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 12:4-5</em></span><br>\nGive light to my eyes that I may not sleep in death lest my enemy say, I have overcome him."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "His sacrifíciis, Dómine, concéde placátus: ut, qui própriis orámus absólvi delíctis, non gravémur extérnis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gabrielis a Virgine Perdolente Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>alutárem hóstiam in memóriam sancti Gabriélis tibi, Dómine, offeréntes, fac nos sacrifícium mortis tuæ rite recólere: ac, méritis perdoléntis Vírginis, eiúsdem sacrifícii fructum copióse percípere:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Appeased by these sacrificial gifts, O Lord, grant that we who pray for absolution from our own sins may not be burdened by those which are foreign to us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Gabriel of the Sorrowful Virgin, Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, make us who offer You the saving sacrificial gifts in memory of blessed Gabriel recall in a fitting way the sacrifice of Your death; and by the merits of the sorrowing Virgin, may we receive abundantly the fruit of that very sacrifice.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luc 15:32</em></span><br>\nOpórtet te, fili, gaudére, quia frater tuus mórtuus fúerat, et revíxit: períerat, et invéntus est."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luke 15:32</em></span><br>\nYou ought to rejoice, my son, for your brother was dead, and has come to life; he was lost, and is found."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSacraménti tui, Dómine, divína libátio, penetrália nostri cordis infúndat: et sui nos partícipes poténter effíciat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gabrielis a Virgine Perdolente Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>uas tibi, Dómine, in festivitáte sancti Gabriélis Confessóris tui, pro collátis donis grátias ágimus: súscipe propítius per manus gloriósæ semper Vírginis Maríæ; ex qua carnem illam assumpsísti, cuius in hoc salutári convívio merúimus gustáre dulcédinem:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>amíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe grátiæ cœléstis innítitur, cœlésti étiam protectióne muniátur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the sacrament of which we have partaken, O Lord, penetrate the depths of our hearts and make us share in its strength.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Gabriel of the Sorrowful Virgin, Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, graciously accept the thanks we offer You for the gifts we have received on the feast of the blessed Gabriel, Your Confessor, through the hands of blessed Mary, ever Virgin, of whom You took that flesh whose sweetness we have been worthy to taste in this banquet of salvation.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\nGuard Your household, we beseech You, O Lord, with lasting kindness, so that those who rely entirely upon the hope of heavenly grace may indeed be supported by heavenly protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

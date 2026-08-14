@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-02-05",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Agathæ Virginis et Martyris",
+  "rank": "III. classis",
+  "note": "Scriptura: Feria VI infra Hebdomadam Sexagesimæ",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><strong><em>G</em></strong></span>audeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Agathæ Vírginis et Martyris: de cuius passióne gaudent Angeli et colláudant Fílium Dei.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nEructávit cor meum verbum bonum: dico ego ópera mea Regi.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>audeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Agathæ Vírginis et Martyris: de cuius passióne gaudent Angeli et colláudant Fílium Dei."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us all rejoice in the Lord, celebrating the feast in honor of blessed Agatha, Virgin and Martyr, for whose passion the angels rejoice and praise with one accord the Son of God.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us all rejoice in the Lord, celebrating the feast in honor of blessed Agatha, Virgin and Martyr, for whose passion the angels rejoice and praise with one accord the Son of God."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Agathæ Vírginis et Mártyris tuæ natalícia cólimus, per eius ad te exémpla gradiámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who among the other miracles of thy power have bestowed the victory of martyrdom even upon the weaker sex, graciously grant that we who commemorate the anniversary of the death of blessed Agatha, thy Virgin and Martyr, may come to thee by the path of her example.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios<br>\n<span class=\"rubric\"><em>1 Cor 1:26-31</em></span><br>\nFratres: Vidéte vocatiónem vestram: quia non multi sapiéntes secúndum carnem, non multi poténtes, non multi nóbiles: sed quæ stulta sunt mundi elégit Deus, ut confúndat sapiéntes: et infírma mundi elégit Deus, ut confúndat fórtia: et ignobília mundi et contemptibília elégit Deus, et ea quæ non sunt, ut ea quæ sunt destrúeret: ut non gloriétur omnis caro in conspéctu eius. Ex ipso autem vos estis in Christo Iesu, qui factus est nobis sapiéntia a Deo, et iustítia, et sanctificátio, et redémptio: ut, quemádmodum scriptum est: Qui gloriátur, in Dómino gloriétur.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 1:26-31</em></span><br>\nBrethren: Consider your own call, that there were not many wise according to the flesh, not many mighty, not many noble. But the foolish things of the world has God chosen to put to shame the wise, and the weak things of the world has God chosen to put to shame the strong, and the base things of the world and the despised has God chosen, and the things that are not, to bring to naught the things that are; lest any flesh should pride itself before Him. From Him you are in Christ Jesus, Who has become for us God-given wisdom, and justice, and sanctification, and redemption; so that, just as it is written, Let him who takes pride, take pride in the Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 45:6 et 5</em></span><br>\nAdiuvábit eam Deus vultu suo: Deus in médio eius, non commovébitur.<br>\n<span class=\"marker\"><em>℣.</em></span> Flúminis impetus lætíficat civitátem Dei: sanctificávit tabernáculum suum Altíssimus.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 125:5-6</em></span><br>\nQui séminant in lácrimis, in gáudio metent.<br>\n<span class=\"marker\"><em>℣.</em></span> Eúntes ibant et fiébant, mitténtes semina sua.<br>\n<span class=\"marker\"><em>℣.</em></span> Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 45:6, 5</em></span><br>\nGod will help her with His countenance. God is in her midst; she shall not be disturbed.<br>\n<span class=\"marker\"><em>℣.</em></span> There is a stream whose runlets gladden the city of God; the Most High has sanctified His dwelling.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 125:5-6</em></span><br>\nThose that sow in tears shall reap rejoicing.<br>\n<span class=\"marker\"><em>℣.</em></span> Although they go forth weeping, carrying the seed to be sown.<br>\n<span class=\"marker\"><em>℣.</em></span> They shall come back rejoicing, carrying their sheaves."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 19:3-12</em></span><br>\nIn illo témpore: Accessérunt ad Iesum pharisǽi, tentántes eum et dicéntes: Si licet hómini dimíttere uxórem suam quacúmque ex causa? Qui respóndens, ait eis: Non legístis, quia, qui fecit hóminem ab inítio, másculum et féminam fecit eos? et dixit: Propter hoc dimíttet homo patrem, et matrem, et adhærébit uxóri suæ, et erunt duo in carne una. Itaque iam non sunt duo, sed una caro. Quod ergo Deus coniúnxit, homo non séparet. Dicunt illi: Quid ergo Móyses mandávit dare libéllum repúdii, et dimíttere? Ait illis: Quóniam Móyses ad durítiam cordis vestri permísit vobis dimíttere uxóres vestras: ab inítio autem non fuit sic. Dico autem vobis, quia, quicúmque dimíserit uxórem suam, nisi ob fornicatiónem, et áliam dúxerit, mœchátur: et qui dimíssam dúxerit, mœchátur. Dicunt ei discípuli eius: Si ita est causa hóminis cum uxóre, non expédit núbere. Qui dixit illis: Non omnes cápiunt verbum istud, sed quibus datum est. Sunt enim eunúchi, qui de matris útero sic nati sunt; et sunt eunúchi, qui facti sunt ab homínibus; et sunt eunúchi, qui seípsos castravérunt propter regnum cœlórum. Qui potest cápere, cápiat.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 19:3-12.</em></span><br>\nAt that time, there came to Jesus some Pharisees, testing Him, and saying, Is it lawful for a man to put away his wife for any cause? But He answered and said to them, Have you not read that the Creator, from the beginning, made them male and female, and said, ‘For this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh’? Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder. They said to Him, Why then did Moses command to give a written notice of dismissal, and to put her away? He said to them, Because Moses, by reason of the hardness of your heart, permitted you to put away your wives; but it was not so from the beginning. And I say to you, that whoever puts away his wife, except for immorality, and marries another, commits adultery; and he who marries a woman who has been put away commits adultery. His disciples said to Him, If the case of a man with his wife is so, it is not expedient to marry. And He said, Not all can accept this teaching; but those to whom it has been given. For there are eunuchs who were born so from their mother’s womb; and there are eunuchs who were made so by men; and there are eunuchs who have made themselves so for the sake of the kingdom of heaven. Let him accept it who can.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:15.</em></span><br>\nAfferéntur Regi Vírgines post eam: próximæ eius afferéntur tibi."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:15</em></span><br>\nBehind her the virgins of her train are brought to the King. They are borne in to You."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, Dómine, múnera, quæ in beátæ Agathæ Vírginis et Mártyris tuæ sollemnitáte deférimus: cuius nos confídimus patrocínio liberári.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Accept, O Lord, the gifts we bring on the festival of blessed Agatha, Your Virgin and Martyr, through whose patronage we hope to be delivered.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "Qui me dignátus est ab omni plaga curáre et mamíllam meam meo péctori restitúere, ipsum ínvoco Deum vivum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "I invoke Him, the living God, Who deigned to cure me of every wound, and to restore my breast to my body."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nAuxiliéntur nobis, Dómine, sumpta mystéria: et, intercedénte beáta Agatha Vírgine et Mártyre tua, sempitérna fáciant protectióne gaudére.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the sacrament we have received, aid us, O Lord, and by the intercession of blessed Agatha, Your Virgin and Martyr, may it keep us forevermore under Your everlasting protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

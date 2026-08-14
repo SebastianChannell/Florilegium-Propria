@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-02-17",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Quarta Quatuor Temporum Quadragesimæ",
+  "rank": "III. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 24:6; 24:3; 24:22</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>eminíscere miseratiónum tuárum, Dómine, et misericórdiæ tuæ, quæ a sǽculo sunt: ne umquam dominéntur nobis inimíci nostri: líbera nos, Deus Israël, ex ómnibus angústiis nostris.<br>\n<span class=\"rubric\"><em>Ps 24:1-2</em></span><br>\nAd te, Dómine, levávi ánimam meam: Deus meus, in te confído, non erubéscam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>eminíscere miseratiónum tuárum, Dómine, et misericórdiæ tuæ, quæ a sǽculo sunt: ne umquam dominéntur nobis inimíci nostri: líbera nos, Deus Israël, ex ómnibus angústiis nostris."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 24:6, 3, 22</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>emember that Your compassion, O Lord, and Your kindness are from of old; let not our enemies exult over us; deliver us, O God of Israel, from all our tribulations.<br>\n<span class=\"rubric\"><em>Ps 24:1-2</em></span><br>\nTo You I lift up my soul, O Lord; in You, O my God, I trust; let me not be put to shame.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>emember that Your compassion, O Lord, and Your kindness are from of old; let not our enemies exult over us; deliver us, O God of Israel, from all our tribulations."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"marker\"><em>℣.</em></span> Flectámus génua.<br>\n<span class=\"marker\"><em>℟.</em></span> Leváte.<br>\nPreces nostras, quǽsumus, Dómine, cleménter exáudi: et contra cuncta nobis adversántia, déxteram tuæ maiestátis exténde.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Lectio</em></strong></span><br>\nLéctio libri Exodi<br>\n<span class=\"rubric\"><em>Exod 24:12-18</em></span><br>\nIn diébus illis: Dixit Dóminus ad Móysen: Ascénde ad me in montem, et esto ibi: dabóque tibi tábulas lapídeas, et legem ac mandáta quæ scripsi: ut dóceas fílios Israël. Surrexérunt Moyses et Iosue miníster eius: ascendénsque Moyses in montem Dei, senióribus ait: Exspectáte hic, donec revertámur ad vos. Habétis Aaron et Hur vobíscum: si quid natum fúerit quæstiónis, referétis ad eos. Cumque ascendísset Moyses, opéruit nubes montem, et habitávit glória Dómini super Sínai, tegens illum nube sex diébus: séptimo autem die vocávit eum de médio calíginis. Erat autem spécies glóriæ Dómini, quasi ignis ardens super vérticem montis; in conspéctu filiórum Israël. Ingressúsque Móyses médium nébulæ, ascéndit in montem: et fuit ibi quadragínta diébus et quadragínta nóctibus.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias.<br>\n<br>\n<span class=\"rubric\"><strong><em>Graduale</em></strong></span><br>\n<span class=\"rubric\"><em>Ps 24:17-18</em></span><br>\nTribulatiónes cordis mei dilatátæ sunt: de necessitátibus meis éripe me, Dómine.<br>\n<span class=\"marker\"><em>℣.</em></span> Vide humilitátem meam, et labórem meum: et dimítte ómnia peccáta mea.<br>\n<br>\n<span class=\"rubric\"><strong><em>Oratio</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dóminus vobíscum.<br>\n<span class=\"marker\"><em>℟.</em></span> Et cum spíritu tuo.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDevotiónem pópuli tui, quǽsumus, Dómine, benígnus inténde: ut, qui per abstinéntiam macerántur in córpore, per fructum boni óperis reficiántur in mente.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"marker\"><em>℣.</em></span> Let us kneel.<br>\n<span class=\"marker\"><em>℟.</em></span> Arise.<br>\nMercifully hear our prayers, we beseech You, O Lord; and stretch forth the right hand of Your Majesty against all things hostile to us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Lesson</em></strong></span><br>\nLesson from the book of Exodus<br>\n<span class=\"rubric\"><em>Ex. 24:12-18</em></span><br>\nIn those days, the Lord said to Moses, Come up to Me on the mountain and, while you are there, I will give you the stone tablets on which I have written the law and the commandments that you may teach the children of Israel. So Moses set out with Josue, his aide, and went up to the mountain of God. The elders, however, had been told by him, Wait here for us until we return to you. Aaron and Hur are staying with you. If anyone has a complaint, let him refer the matter to them. After Moses had gone up, a cloud covered the mountain. The glory of the Lord settled upon Mount Sinai. The cloud covered it for six days, and on the seventh day He called to Moses from the midst of the cloud. To the Israelites the glory of the Lord was seen as a consuming fire on the mountaintop. But Moses passes into the midst of the cloud as he went up on the mountain; and there he stayed for forty days and forty nights.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God.<br>\n<br>\n<span class=\"rubric\"><strong><em>Gradual</em></strong></span><br>\n<span class=\"rubric\"><em>Ps 24:17-18</em></span><br>\nRelieve the troubles of my heart, and bring me out of distress, O Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Put an end to my affliction and my suffering, and take away all my sins.<br>\n<br>\n<span class=\"rubric\"><strong><em>Collect</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord be with you.<br>\n<span class=\"marker\"><em>℟.</em></span> And with thy spirit.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, O Lord, look graciously upon the fervor of Your people, who mortify themselves in the flesh through abstinence: that they may be refreshed in spirit by the fruit of these good works.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Regum<br>\n<span class=\"rubric\"><em>3 Reg 19:3-8</em></span><br>\nIn diébus illis: Venit Elías in Bersabée Iuda, et dimísit ibi púerum suum, et perréxit in desértum, viam uníus diéi. Cumque venísset, et sedéret subter unam iuníperum, petívit ánimæ suæ, ut morerétur, et ait: Súfficit mihi, Dómine, tolle ánimam meam: neque enim mélior sum quam patres mei. Proiecítque se, et obdormívit in umbra iuníperi: et ecce, Angelus Dómini tétigit eum, et dixit illi: Surge et cómede. Respéxit, et ecce ad caput suum subcinerícius panis, et vas aquæ: comédit ergo et bibit, et rursum obdormívit. Reversúsque est Angelus Dómini secundo, et tétigit eum, dixítque illi: Surge, cómede: grandis enim tibi restat via. Qui cum surrexísset, comédit et bibit, et ambulávit in fortitúdine cibi illíus quadragínta diébus et quadragínta nóctibus, usque ad montem Dei Horeb.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Kings<br>\n<span class=\"rubric\"><em>3 Kgs. 19:3-8</em></span><br>\nIn those days, Elias came to Bersabee of Juda, and left his servant there, and he went forward one day’s journey into the desert. And when he was there, and sat under a juniper tree, he requested for his soul that he might die, and said, It is enough for me, Lord, take away my soul: for I am no better than my fathers. And he cast himself down, and slept in the shadow of the juniper tree: and behold an angel of the Lord touched him, and said to him, Arise and eat. He looked, and behold there was at his head a hearth cake, and a vessel of water: and he ate and drank, and fell asleep again. And the angel of the Lord came again the second time, and touched him, and said to him, Arise, eat: for you have yet a great way to go. And he arose, and ate, and drank, and walked in the strength of that food forty days and forty nights, to the mount of God, Horeb.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 24:17; 24:18; 24:1-4</em></span><br>\nDe necessitátibus meis éripe me, Dómine: vide humilitátem meam et labórem meum: et dimítte ómnia peccáta mea.<br>\n<span class=\"marker\"><em>℣.</em></span> Ad te, Dómine, levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei.<br>\n<span class=\"marker\"><em>℣.</em></span> Etenim univérsi, qui te exspéctant, non confundéntur: confundántur omnes faciéntes vana."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 24:17-18, 1-4.</em></span><br>\nBring me out of distress, O Lord; put an end to my affliction and my suffering, and take away all my sins.<br>\n<span class=\"marker\"><em>℣.</em></span> To You, I lift up my soul, O Lord. In You, O my God, I trust; let me not be put to shame, let not my enemies exult over me.<br>\n<span class=\"marker\"><em>℣.</em></span> No one who waits for You shall be put to shame; those shall be put to shame who heedlessly break faith."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 12:38-50</em></span><br>\nIn illo témpore: Respondérunt Iesu quidam de scribis et pharisǽis, dicéntes: Magíster, vólumus a te signum vidére. Qui respóndens, ait illis: Generátio mala et adúltera signum quærit: et signum non dábitur ei, nisi signum Ionæ Prophétæ. Sicut enim fuit Ionas in ventre ceti tribus diébus et tribus nóctibus: sic erit Fílius hóminis in corde terræ tribus diébus et tribus nóctibus. Viri Ninivítæ surgent in iudício cum generatióne ista, et condemnábunt eam: quia pæniténtiam egérunt in prædicatióne Ionæ. Et ecce plus quam Ionas hic. Regína Austri surget in iudício cum generatióne ista, et condemnábit eam: quia venit a fínibus terræ audire sapiéntiam Salomónis. Et ecce plus quam Sálomon hic. Cum autem immúndus spíritus exíerit ab hómine, ámbulat per loca árida, quærens réquiem, et non invénit. Tunc dicit: Revértar in domum meam, unde exívi. Et véniens invénit eam vacántem, scopis mundátam, et ornátam. Tunc vadit, et assúmit septem álios spíritus secum nequióres se, et intrántes hábitant ibi: et fiunt novíssima hóminis illíus peióra prióribus. Sic erit et generatióni huic péssimæ. Adhuc eo loquénte ad turbas, ecce, Mater eius et fratres stabant foris, quæréntes loqui ei. Dixit autem ei quidam: Ecce, mater tua et fratres tui foris stant, quæréntes te. At ipse respóndens dicénti sibi, ait: Quæ est mater mea, et qui sunt fratres mei? Et exténdens manum in discípulos suos, dixit: Ecce mater mea et fratres mei. Quicúmque enim fécerit voluntátem Patris mei, qui in cœlis est: ipse meus frater et soror et mater est.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 12:38-50</em></span><br>\nAt that time, certain of the Scribes and Pharisees answered Him, saying: Master, we would see a sign from You. But He answered and said to them, An evil and adulterous generation demands a sign, and no sign shall be given it but the sign of Jonah the prophet. For even as Jonah was in the belly of the fish three days and three nights, so will the Son of Man be three days and three nights in the heart of the earth. The men of Ninive will rise up in the judgment with this generation and will condemn it; for they repented at the preaching of Jonah, and behold, a greater than Jonah is here. The queen of the South will rise up in the judgment with this generation and will condemn it; for she came from the ends of the earth to hear the wisdom of Solomon, and behold, a greater than Solomon is here. But when the unclean spirit has gone out of a man, he roams through dry places in search of rest, and finds none. Then he says, ‘I will return to my house which I left’; and when he has come to it, he finds the place unoccupied, swept and decorated. Then he goes and takes with him seven other spirits more evil than himself, and they enter in and dwell there; and the last state of that man becomes worse than the first. So shall it be with this evil generation also. While He was still speaking to the crowds, His mother and His brethren were standing outside, seeking to speak to Him. And someone said to Him, Behold, Your mother and Your brethren are standing outside, seeking You. But He answered and said to him who told Him, Who is My mother and who are My brethren? And stretching forth His hand toward His disciples, He said, Behold My mother and My brethren! For whoever does the will of My Father in heaven, he is My brother and sister and mother.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:47; 118:48</em></span><br>\nMeditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mandáta tua, quæ diléxi."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:47-48</em></span><br>\nI will delight in Your commands, which I love exceedingly. And I will lift up my hands to Your commands which I love."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hóstias tibi, Dómine, placatiónis offérimus: ut et delícta nostra miserátus absólvas, et nutántia corda tu dírigas.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We offer You, O Lord, this sacrifice of atonement, that You would mercifully absolve our sins and direct our faltering hearts.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 5:2-4</em></span><br>\nIntéllege clamórem meum: inténde voci oratiónis meæ, Rex meus et Deus meus: quóniam ad te orábo, Dómine."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 5:2-4</em></span><br>\nAttend to my sighing, heed my call for help, my King and my God! To You, I pray, O Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nTui, Dómine, perceptióne sacraménti, et a nostris mundémur occúltis, et ab hóstium liberémur insídiis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"marker\"><em>℣.</em></span> Mentes nostras, quǽsumus, Dómine, lúmine tuæ claritátis illústra: ut vidére possímus, quæ agénda sunt; et, quæ recta sunt, ágere valeámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nBy receiving Your sacrament, O Lord, may we be cleansed of our secret sins and delivered from the snares of our enemies.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, we beseech You, shed light upon our minds by the brightness of Your glory, so that we may see what we must do and have strength to do what is right.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

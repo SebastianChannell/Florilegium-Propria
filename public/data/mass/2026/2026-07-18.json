@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-18",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Camilli de Lellis Confessoris",
+  "rank": "III. classis",
+  "note": "Commemoratio ad Laudes tantum: Ss. Symphorosæ et Septem Filiorum Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ioann 15:13</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>aiórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis.<br>\n<span class=\"rubric\"><em>Ps 40:2</em></span><br>\nBeátus, qui intéllegit super egénum et páuperem: in dic mala liberábit eum Dóminus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>aiórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>John 15:13</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>reater love than this no one has, that one lay down his life for his friends.<br>\n<span class=\"rubric\"><em>Ps 40:2</em></span><br>\nHappy is he who has regard for the lowly and the poor; in the day of misfortune the Lord will deliver him.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>reater love than this no one has, that one lay down his life for his friends."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui sanctum Camíllum, ad animárum in extrémo agóne luctántium subsídium, singulári caritátis prærogatíva decorásti: eius, quǽsumus, méritis, spíritum nobis tuæ dilectiónis infúnde; ut in hora éxitus nostri hostem víncere, et ad cœléstem mereámur corónam perveníre.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Symphorosæ et Septem Filiorum Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui nos concédis sanctórum Mártyrum tuórum Symphorósæ et filiórum eius natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who endowed St. Camillus with a special gift of charity for the help of souls struggling in their final agony, pour upon us, we beseech You, by his merits, the spirit of Your love, so that in the hour of our death we may be found worthy to overcome the enemy and attain the heavenly crown.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Symphorosa with her Seven Sons, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who permits us to celebrate the anniversary of the death of Your holy Martyrs, Symphorosa and her sons, grant that we may enjoy their companionship in everlasting happiness.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Ioánnis Apóstoli<br>\n<span class=\"rubric\"><em>1 Iohn 3:13-18</em></span><br>\nCaríssimi: Nolíte mirári, si odit vos mundus. Nos scimus, quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres. Qui non díligit, manet in morte: omnis, qui odit fratrem suum, homicída est. Et scitis, quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem. In hoc cognóvimus caritátem Dei, quóniam ille ánimam suam pro nobis pósuit: et nos debémus pro frátribus ánimas pónere. Qui habúerit substántiam huius mundi, et víderit fratrem suum necessitátem habére, et cláuserit víscera sua ab eo: quómodo cáritas Dei manet in eo? Filíoli mei, non diligámus verbo neque lingua, sed ópere et veritáte.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St John the Apostle<br>\n<span class=\"rubric\"><em>1 John 3:13-18.</em></span><br>\nBeloved: Do not be surprised if the world hates you. We know that we have passed from death to life, because we love the brethren. He who does not love abides in death. Everyone who hates his brother is a murderer. And you know that no murderer has eternal life abiding in him. In this we have come to know His love, that He laid down His life for us; and we likewise ought to lay down our life for the brethren. He who has the goods of this world and sees his brother in need and closes his heart to him, how does the love of God abide in him? My dear children, let us not love in word, neither with the tongue, but in deed and in truth.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\nOs iusti meditábitur sapiéntiam, et lingua eius loquétur iudícium.<br>\n<span class=\"marker\"><em>℣.</em></span> Lex Dei eius in corde ipsíus: et non supplantabúntur gressus eius. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 111:1</em></span><br>\nBeátus vir, qui timet Dóminum: in mandátis eius cupit nimis. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\nThe mouth of the just tells of wisdom, and his tongue utters what is right.<br>\n<span class=\"marker\"><em>℣.</em></span> The law of his God is in his heart, and his steps do not falter. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 111:1</em></span><br>\nHappy the man who fears the Lord, who greatly delights in His commands. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 15:12-16</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Hoc est præcéptum meum, ut diligátis ínvicem, sicut diléxi vos. Maiórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis. Vos amíci mei estis, si fecéritis quæ ego præcípio vobis. Iam non dicam vos servos: quia servus nescit, quid fáciat dóminus eius. Vos autem dixi amícos: quia ómnia, quæcúmque audívi a Patre meo, nota feci vobis. Non vos me elegístis: sed ego elégi vos, et pósui vos, ut eátis, et fructum afferátis: et fructus vester maneat: ut, quodcúmque petiéritis Patrem in nómine meo, det vobis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 15:12-16</em></span><br>\nAt that time, Jesus said to His disciples, This is My commandment, that you love one another as I have loved you. Greater love than this no one has, that one lay down his life for his friends. You are My friends if you do the things I command you. No longer do I call you servants, because the servant does not know what his master does. But I have called you friends, because all things that I have heard from My Father I have made known to you. You have not chosen Me, but I have chosen you, and have appointed you that you should go and bear fruit, and that your fruit should remain; that whatever you ask the Father in My name He may give you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nIn virtúte tua, Dómine, lætábitur iustus, et super salutáre tuum exsultábit veheménter: desidérium ánimæ eius tribuísti ei."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nO Lord, in Your strength the just man is glad; in Your victory how greatly he rejoices! You have granted him his heart’s desire."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hóstia immaculáta, qua illud Dómini nostri Iesu Christi imménsæ caritátis opus renovámus, sit, Deus Pater omnípotens, sancto Gamíllo intercedénte, contra omnes córporis et animæ infirmitates salutáre remedium, et in extrémo agóne solátium et tutéla.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Symphorosæ et Septem Filiorum Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>únera tibi, Dómine, nostra devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Iustórum, et nobis salutária, te miseránte, reddántur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Through the prayers of St. Camillus may this spotless sacrificial offering, by which we renew the work of our Lord Jesus Christ’s infinite charity, be a healing remedy against all infirmities of body and soul and a consolation and protection in our last agony.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration S. Symphorosa with her Seven Sons, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e offer You, O Lord, the gifts of our service; may they be pleasing to You for the honor of Your just ones and, through Your mercy, bring us salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:36; 25:40</em></span><br>\nInfírmus fui, et visitástis me. Amen, amen, dico vobis: Quámdiu fecístis uni ex his frátribus meis minimis, mihi fecístis."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:36, 40</em></span><br>\nI was sick and you visited Me: Amen, amen, I say to you, as long as you did it for one of these the least of My brethren, you did it for Me."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPer hæc cœléstia aliménta, quæ, sancti Camílli Confessóris tui sollémnia celebrántes, pia devotióne suscépimus: da, quǽsumus. Dómine; ut, in hora mortis nostræ sacraméntis refécti et culpis ómnibus expiáti, in sinum misericórdiæ tuæ læti súscipi mereámur:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Symphorosæ et Septem Filiorum Martyrum</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta nobis, quǽsumus, Dómine: intercedéntibus sanctis Martýribus tuis Symphorósa et fíliis eius; ut, quod ore contíngimus, pura mente capiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nThrough this heavenly food which we have received with holy devotion as we celebrate the feast of St. Camillus, Your Confessor, grant, we beseech You, O Lord, that in the hour of our death, strengthened by Your sacraments and absolved of all our sins, we may be found worthy to be taken up, rejoicing, into the bosom of Your mercy.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Symphorosa with her Seven Sons, Martyrs</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, O almighty and merciful God, that through the intercession of Your holy Martyrs, Symphorosa and her sons what we take into our mouths we may eat with pure heart.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

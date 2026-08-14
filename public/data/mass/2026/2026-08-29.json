@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-29",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "In Decollatione S. Joannis Baptistæ",
+  "rank": "III. classis",
+  "note": "Commemoratio ad Laudes tantum: S. Sabinæ Martyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:46-47</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>oquébar de testimóniis tuis in conspéctu regum, et non confundébar: et meditábar in mandátis tuis, quæ diléxi nimis.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nBonum est confitéri Dómino: et psállere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>oquébar de testimóniis tuis in conspéctu regum, et non confundébar: et meditábar in mandátis tuis, quæ diléxi nimis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:46-47</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> will speak of Your decrees before kings without being ashamed. And I will delight in Your commands, which I love exceedingly.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nIt is good to give thanks to the Lord, to sing to Your name, Most High.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> will speak of Your decrees before kings without being ashamed. And I will delight in Your commands, which I love exceedingly."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSancti Ioánnis Baptístæ Præcursóris et Martyris tui, quǽsumus, Dómine, veneránda festívitas: salutáris auxílii nobis præstet efféctum:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Sabinæ Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Sabínæ Mártyris tuæ natalícia cólimus, per eius ad te exémpla gradiámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the great festival of St. John the Baptist, Your Precursor and Martyr, we beseech You, O Lord, assure for us the results of Your saving help.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Sabina, Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who, amidst the wondrous work of thy divine power, dost make even weak women to be more than conquerors in the uplifting of their testimony, mercifully grant unto all us which do keep the birthday of thy blessed witness Sabina, grace to follow her steps toward thee.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Ieremíæ Prophétæ<br>\n<span class=\"rubric\"><em>Ier 1:17-19</em></span><br>\nIn diébus illis: Factum est verbum Dómini ad me, dicens: Accínge lumbos tuos, et surge, et lóquere ad Iuda ómnia, quæ ego præcípio tibi. Ne formides a fácie eórum: nec enim timére te fáciam vultum eórum. Ego quippe dedi te hódie in civitátem munítam, et in colúmnam férream, et in murum æreum, super omnem terram, régibus Iuda, princípibus eius, et sacerdótibus, et pópulo terræ. Et bellábunt advérsum te, et non prævalebunt: quia ego tecum sum, ait Dóminus, ut líberem te.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Jeremias<br>\n<span class=\"rubric\"><em>Jer 1:17-19</em></span><br>\nIn those days, the word of the Lord came to me, saying: Gird your loins; stand up and tell Juda all that I command you. Be not crushed on their account, as though I would leave you crushed before them; for it is I this day Who have made you a fortified city, a pillar of iron, a wall of brass, against the whole land; against Juda’s kings and princes, against its priests and people. They will fight against you, but not prevail over you, for I am with you to deliver you, says the Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 91:13; 91:14</em></span><br>\nIustus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\nAd annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Osee 14:6</em></span><br>\nIustus germinábit sicut lílium: et florébit in ætérnum ante Dóminum. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 91:13-14</em></span><br>\nThe just man shall flourish like the palm tree, like a cedar of Lebanon shall he grow in the house of the Lord.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> To proclaim Your kindness at dawn and Your faithfulness throughout the night. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Osee 14:6</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The just shall blossom like the lily; and flourish forever before the Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 6:17-29</em></span><br>\nIn illo témpore: Misit Heródes, ac ténuit Ioánnem, et vinxit eum in cárcere propter Herodíadem, uxorem Philíppi fratris sui, quia dúxerat eam. Dicebat enim Ioánnes Heródi: Non licet tibi habére uxórem fratris tui. Heródias autem insidiabátur illi, et volébat occídere eum, nec póterat. Heródes enim metuébat Ioánnem, sciens eum virum iustum et sanctum: et custodiébat eum, et audíto eo multa faciébat, et libénter eum audiébat. Et cum dies opportúnus accidísset, Heródes natális sui cœnam fecit princípibus et tribúnis et primis Galilææ. Cumque introísset fília ipsíus Herodíadis, et saltásset, et placuísset Heródi simúlque recumbéntibus; rex ait puéllæ: Pete a me, quod vis, et dabo tibi. Et iurávit illi: Quia quidquid petiéris dabo tibi, licet dimídium regni mei. Quæ cum exiísset, dixit matri suæ: Quid petam? At illa dixit: Caput Ioánnis Baptístæ. Cumque introísset statim cum festinatióne ad regem, petívit dicens: Volo, ut protínus des mihi in disco caput Ioánnis Baptístæ. Et contristátus est rex: propter iusiurándum et propter simul discumbéntes nóluit eam contristáre: sed misso spiculatóre, præcépit afférri caput eius in disco. Et decollávit eum in cárcere. Et áttulit caput eius in disco: et dedit illud puéllæ, et puella dedit matri suæ. Quo audíto, discípuli eius venérunt et tulérunt corpus eius: et posuérunt illud in monuménto.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Mark<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Mark 6:17-29</em></span><br>\nAt that time, Herod had sent and taken John, and bound him in prison, because of Herodias, his brother Philip’s wife, whom he had married. For John had said to Herod, It is not lawful for you to have your brother’s wife. But Herodias laid snares for him, and would have liked to put him to death, but she could not. For Herod feared John, knowing that he was a just and holy man, and protected him; and when he heard him talk, he did many things, and he liked to hear him. And a favorable day came when Herod on his birthday gave a banquet to the officials, tribunes and chief men of Galilee. And Herodias’ own daughter having come in and danced, she pleased Herod and his guests. And the king said to the girl, Ask of me what you will, and I will give it to you. And he swore to her, Whatever you ask, I will give you, even though it be the half of my kingdom. Then she went out and said to her mother, What am I to ask for? And she said, The head of John the Baptist. And she came in at once with haste to the king, and asked, saying, I want you right away to give me on a dish the head of John the Baptist. And grieved as he was, the king because of his oath and his guests, was unwilling to displease her. But sending an executioner, he commanded that his head be brought on a dish. Then he beheaded him in the prison, and brought his head on a dish, and gave it to the girl, and the girl gave it to her mother. His disciples, hearing of it, came and took away his body, and laid it in a tomb.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nIn virtúte tua, Dómine, lætábitur iustus, et super salutáre tuum exsultábit veheménter: desidérium ánimæ eius tribuísti ei."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nO Lord, in Your strength the just man is glad; in Your victory how greatly he rejoices! You have granted him his heart’s desire."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Múnera, quæ tibi, Dómine, pro sancti Martyris tui Ioánnis Baptístæ passióne deférimus: quǽsumus; ut eius obténtu nobis profíciant ad salútem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Sabinæ Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>óstias tibi, Dómine, beátæ Sabínæ Mártyris tuæ dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We pray, O Lord, that the offerings we bring You in memory of the agonizing death of Your holy Martyr, John the Baptist, may, by his help, be of profit for our salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Sabina, Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>raciously accept the sacrificial gifts offered You, O Lord, through the merits of blessed Sabina, Your Martyr, and grant they may prove an unfailing aid for us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nPosuísti, Dómine, in cápite eius corónam de lápide pretióso."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nYou placed on his head, O Lord, a crown of pure gold."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nCónferat nobis, Dómine, sancti Ioánnis Baptístæ sollémnitas: ut et magnífica sacraménta, quæ súmpsimus, significáta venerémur, et in nobis pótius édita gaudeámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Sabinæ Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>ivíni múneris largitáte satiáti, quǽsumus, Dómine, Deus noster: ut, intercedénte beáta Sabína Vírgine et Mártyre tua, in eius semper participatióne vivámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the solemn festival of St. John the Baptist bring us the grace, O Lord, both to venerate the foreshadowing of the wondrous sacrament we have received and to rejoice because it has been fulfilled in us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Sabina, Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e who have been refreshed by the richness of Your divine sacrament beseech You, O Lord our God, that through the intercession of blessed Sabina, Your Martyr, we may forevermore abide in its participation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

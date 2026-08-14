@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-11",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Quarta infra Hebdomadam III in Quadragesima",
+  "rank": "III. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 30:7-8</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>go autem in Dómino sperábo: exsultábo et lætábor in tua misericórdia: quia respexísti humilitátem meam.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn te, Dómine, sperávi, non confúndar in ætérnum: in iustítia tua líbera me et éripe me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>go autem in Dómino sperábo: exsultábo et lætábor in tua misericórdia: quia respexísti humilitátem meam."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 30:7-8</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>y trust is in the Lord. I will rejoice and be glad of your kindness, when You have seen my affliction.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn You, O Lord, I take refuge; let me never be put to shame. In your justice rescue me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>y trust is in the Lord. I will rejoice and be glad of your kindness, when You have seen my affliction."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta nobis, quǽsumus, Dómine: ut salutáribus ieiúniis erudíti, a nóxiis quoque vítiis abstinéntes, propitiatiónem tuam facílius impetrémus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, O Lord, that, improved by wholesome fasting, and thus abstaining from harmful sin, we may the more readily receive Your mercy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Exodi<br>\n<span class=\"rubric\"><em>Exod 20:12-24</em></span><br>\nHæc dicit Dóminus Deus: Honóra patrem tuum et matrem tuam, ut sis longǽvus super terram, quam Dóminus, Deus tuus, dabit tibi. Non occídes. Non mœcháberis. Non furtum fácies. Non loquéris contra próximum tuum falsum testimónium. Non concupísces domum próximi tui: nec desiderábis uxórem eius, non servum, non ancíllam, non bovem, non ásinum nec ómnia, quæ illíus sunt. Cunctus autem pópulus vidébat voces, et lámpades, et sónitum búccinæ, montémque fumántem: et, pertérriti ac pavóre concússi, stetérunt procul, dicéntes Móysi: Lóquere tu nobis, et audiámus: non loquátur nobis Dóminus, ne forte moriámur. Et ait Móyses ad pópulum: Nolite timére: ut enim probáret vos, venit Deus, et ut terror illíus esset in vobis, et non peccarétis. Stetítque pópulus de longe. Móyses autem accéssit ad calíginem, in qua erat Deus. Dixit prætérea Dóminus ad Móysen: Hæc dices fíliis Israël: Vos vidístis, quod de cœlo locútus sim vobis. Non faciétis deos argénteos, nec deos áureos faciétis vobis. Altáre de terra faciétis mihi, et offerétis super eo holocáusta et pacífica vestra, oves vestras et boves in omni loco, in quo memória fúerit nóminis mei.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Exodus<br>\n<span class=\"rubric\"><em>Ex 20:12-24</em></span><br>\nThus says the Lord God: Honor your father and your mother, that you may have a long life in the land which the Lord, your God, is giving you. You shall not kill. You shall not commit adultery. You shall not steal. You shall not bear false witness against your neighbor. You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male or female slave, not his ox or ass, nor anything else that belongs to him. When the people witnessed the thunder and lightning, the trumpet blast and the mountain smoking, they all feared and trembled. So they took up a position much farther away and said to Moses, You speak to us, and we will listen; but let not the Lord speak to us, or we shall die. Moses answered the people, Do not be afraid, for God has come to you only to test you and put His fear upon you, lest you should sin. Still the people remained at a distance, while Moses approached the cloud where God was. The Lord told Moses, Thus shall you speak to the Israelites: You have seen for yourselves that I have spoken to you from heaven. Do not make anything to rank with Me; neither gods of silver nor gods of gold shall you make for yourselves. An altar of earth you shall make for Me, and upon it you shall sacrifice your holocausts and peace offerings, your sheep and your oxen, in whatever place I choose for the remembrance of My name.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 6:3-4</em></span><br>\nMiserére mei, Dómine, quóniam infírmus sum: sana me, Dómine,<br>\n<span class=\"marker\"><em>℣.</em></span> Conturbáta sunt ómnia ossa mea: et ánima mea turbáta est valde.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\nDómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adiuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 6:3-4</em></span><br>\nHave pity on me, O Lord, for I am languishing; heal me, O Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> For my body is in terror; my soul, too, is utterly terrified.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\nO Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangéliim secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 15:1-20</em></span><br>\nIn illo témpore: Accessérunt ad Iesum ab Ierosólymis scribæ et pharisǽi, dicéntes: Quare discípuli tui transgrediúntur traditiónem seniórum? Non enim lavant manus suas, cum panem mandúcant. Ipse autem respóndens, ait illis: Quare et vos transgredímini mandátum Dei propter traditiónem vestram? Nam Deus dixit: Honóra patrem et matrem. Et: Qui male díxerit patri vel matri, morte moriátur. Vos autem dícitis: Quicúmque díxerit patri vel matri: munus quodcúmque est ex me, tibi próderit: et non honorificábit patrem suum aut matrem suam: et írritum fecístis mandátum Dei propter traditiónem vestram. Hypócritæ, bene prophetávit de vobis Isaías, dicens: Pópulus hic lábiis me honórat: cor autem eórum longe est a me. Sine causa autem colunt me, docéntes doctrínas et mandáta hóminum. Et convocátis ad se turbis, dixit eis: Audíte, et intellégite. Non quod intrat in os, coínquinat hóminem: sed quod procédit ex ore, hoc coínquinat hóminem. Tunc accedéntes discípuli eius, dixérunt ei: Scis, quia pharisǽi, audíto verbo hoc, scandalizáti sunt? At ille respóndens, ait: Omnis plantátio, quam non plantávit Pater meus cœléstis, eradicábitur. Sínite illos: cæci sunt et duces cæcórum. Cæcus autem si cæco ducátum præstet, ambo in fóveam cadunt. Respóndens autem Petrus, dixit ei: Edíssere nobis parábolam istam. At ille dixit: Adhuc et vos sine intelléctu estis? Non intellégitis, quia omne, quod in os intrat, in ventrem vadit, et in secéssum emíttitur&nbsp;? Quæ autem procédunt de ore, de corde éxeunt, et ea coínquinant hóminem: de corde enim éxeunt cogitatiónes malæ, homicídia, adultéria, fornicatiónes, furta, falsa testimónia, blasphémiæ. Hæc sunt, quæ coínquinant hóminem. Non lotis autem mánibus manducáre, non coínquinat hóminem.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 15:1-20</em></span><br>\nAt that time, the Scribes and Pharisees from Jerusalem came to Jesus, saying, Why do Your disciples transgress the tradition of the ancients? For they do not wash their hands when they take food. But He answered and said to them, And why do you transgress the commandment of God because of your tradition? For God said, ‘Honor your father and your mother’; and, ‘Let him who curses father or mother be put to death.’ But you say, ‘Whoever shall say to his father or mother, Any support you might have had from me is dedicated to God, does not have to honor his father or his mother.’ So you have made void the commandment of God by your tradition. Hypocrites, well did Isaiah prophesy of you, saying, ‘This people honors me with their lips, but their heart is far from Me; and in vain do they worship Me, teaching as doctrine the precepts of men.’ Then He called the crowd to Him, and said to them, Hear, and understand. What goes into the mouth does not defile a man; but it is what comes out of the mouth that defiles a man. Then His disciples came up and said to Him, Do You know that the Pharisees have taken offense at hearing this saying? But He answered and said, Every plant that My heavenly Father has not planted will be rooted up. Let them alone; they are blind guides of blind men. But if a blind man guide a blind man, both fall into a pit. But Peter spoke to Him, saying, Explain to us this parable. And He said, Are you also even yet without understanding? Do you not realize that whatever enters the mouth passes into the belly and is cast out into the drain? But the things that proceed out of the mouth come from the heart, and it is they that defile a man. For out of the heart come evil thoughts, murders, adulteries, immorality, thefts, false witness, blasphemies. These are the things that defile a man; but to eat with unwashed hands does not defile a man.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 108:21</em></span><br>\nDómine, fac mecum misericórdiam tuam, propter nomen tuum: quia suávis est misericórdia tua."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 108:21</em></span><br>\nO Lord, deal kindly with me for Your Name’s sake; because your kindness is generous."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, quǽsumus, Dómine, preces pópuli tui cum oblatiónibus hostiárum: et tua mystéria celebrántes, ab ómnibus nos defénde perículis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, receive, we beseech You, the prayers of Your people with offerings of sacrifices, and defend us, who celebrate Your mysteries, from all dangers.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 15:10</em></span><br>\nNotas mihi fecísti vias vitæ: adimplébis me lætítia cum vultu tuo, Dómine."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 15:11</em></span><br>\nYou will show me the path to life, You will fill me with fullness of joys in Your presence, O Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSanctíficet nos, Dómine, qua pasti sumus, mensa cœléstis: et a cunctis erróribus expiátos, supérnis promissiónibus reddat accéptos.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>oncéde, quǽsumus, omnípotens Deus: ut, qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the heavenly banquet with which we have been nourished, make us holy, O Lord; may it be an atonement for all our sins, and make us worthy of the heavenly promises.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\nGrant, almighty God, we beseech You, that we who seek the grace of Your protection, delivered from all evils, may serve You with untroubled minds.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

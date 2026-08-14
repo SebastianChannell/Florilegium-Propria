@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-10-28",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Ss. Simonis et Judæ Apostolorum",
+  "rank": "II. classis",
+  "note": "Scriptura: Feria Quinta infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"rubric\"><em>Ps 138:1-2.</em></span><br>\nDómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>o me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened.<br>\n<span class=\"rubric\"><em>Ps 138:1-2</em></span><br>\nO Lord, You have probed me and You know me; You know when I sit and when I stand.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>o me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui nos per beátos Apóstolos tuos Simónem et Iudam ad agnitiónem tui nóminis veníre tribuísti: da nobis eórum glóriam sempitérnam et proficiéndo celebráre, et celebrándo profícere.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who have given us a way of coming to know Your name through Your blessed Apostles Simon and Jude, grant us to honor their everlasting glory by becoming more holy and to become more holy by honoring it.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios<br>\n<span class=\"rubric\"><em>Eph 4:7-13</em></span><br>\nFratres: Unicuíque nostrum data est grátia secúndum mensúram donatiónis Christi. Propter quod dicit: Ascéndens in altum, captívam duxit captivitátem: dedit dona homínibus. Quod autem ascéndit, quid est, nisi quia et descéndit primum in inferióres partes terræ? Qui descéndit, ipse est et qui ascéndit super omnes cœlos, ut impléret ómnia. Et ipse dedit quosdam quidem apóstolos, quosdam autem prophétas, álios vero evangelístas, álios autem pastóres et doctóres, ad consummatiónem sanctórum in opus ministérii, in ædificatiónem córporis Christi: donec occurrámus omnes in unitátem fídei, et agnitiónis Fílii Dei, in virum perféctum, in mensúram ætátis plenitúdinis Christi.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Ephesians<br>\n<span class=\"rubric\"><em>Eph 4:7-13</em></span><br>\nBrethren: To each one of us grace was given according to the measure of Christ’s bestowal. Thus it says, Ascending on high, He led away captives: He gave gifts to men. Now this, He ascended, what does it mean but that He also first descended into the lower parts of the earth? He Who descended, He it is Who ascended also above all the heavens, that He might fill all things. And He Himself gave some men as apostles, and some as prophets, others again as evangelists, and others as pastors and teachers, in order to perfect the saints for a work of ministry, for building up the body of Christ, until we all attain to the unity of the faith and of the deep knowledge of the Son of God, to perfect manhood, to the mature measure of the fullness of Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:17-18</em></span><br>\nConstítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine.<br>\n<span class=\"marker\"><em>℣.</em></span> Pro pátribus tuis nati sunt tibi fílii: proptérea pópuli confitebúntur tibi. Allelúia, allelúia<br>\n<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nNimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:17-18</em></span><br>\nYou shall make them princes through all the land; they shall remember Your name, O Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> The place of your father your sons shall have; therefore shall nations praise You. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 138:17</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 15:17-25</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Hæc mando vobis, ut diligátis ínvicem. Si mundus vos odit: scitóte, quia me priórem vobis odio hábuit. Si de mundo fuissétis, mundus quod suum erat dilígeret; quia vero de mundo non estis, sed ego elegi vos de mundo, proptérea odit vos mundus. Mementóte sermónis mei, quem ego dixi vobis: Non est servus maior dómino suo. Si me persecúti sunt, et vos persequántur: si sermónem meum servavérunt, et vestrum servábunt. Sed hæc ómnia fácient vobis propter nomen meum: quia nésciunt eum, qui misit me. Si non veníssem et locútus fuíssem eis, peccátum non háberent: nunc autem excusatiónem non habent de peccáto suo. Qui me odit: et Patrem meum odit. Si ópera non fecíssem in eis, quæ nemo álius fecit, peccátum non háberent: nunc autem et vidérunt et odérunt et me et Patrem meum. Sed ut adimpleátur sermo, qui in lege eórum scriptus est: Quia ódio habuérunt me gratis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 15:17-25</em></span><br>\nAt that time, Jesus said to His disciples, These things I command you, that you may love one another. If the world hates you, know that it has hated Me before you. If you were of the world, the world would love what is its own. But because you are not of the world, but I have chosen you out of the world, therefore the world hates you. Remember the word that I have spoken to you: No servant is greater than his master. If they persecuted Me, they will persecute you also; if they have kept My word, they will keep yours also. But all these things they will do to you for My name’s sake, because they do not know Him Who sent me. If I had not come and spoken to them, they would have no sin. But now they have no excuse for their sin. He who hates Me hates My Father also. If I had not done among them works such as no one else has done, they would have no sin. But now they have seen, and have hated both Me and My Father; but that the word written in their Law may be fulfilled, ‘They have hated Me without cause.’<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 18:5</em></span><br>\nIn omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 18:5</em></span><br>\nThrough all the earth their voice resounds, and to the ends of the world, their message."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Glóriam, Dómine, sanctórum Apostolórum tuórum Simónis et Iudæ perpétuam venerántes: quǽsumus; ut eam, sacris mystériis expiati, dígnius celebrémus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We honor, O Lord, the everlasting glory of Your holy Apostles Simon and Jude; we beseech You, that, purified by this sacramental rite, we may the more worthily celebrate their glory.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28</em></span><br>\nVos, qui secúti estis me, sedébitis super sedes, iudicántes duódecim tribus Israël."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28</em></span><br>\nYou who have followed Me shall sit on thrones judging the twelve tribes of Israel."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPercéptis, Dómine, sacraméntis, supplíciter exorámus: ut, intercedéntibus beátis Apóstolis tuis Simóne et Iuda, quæ pro illórum veneránda gérimus passióne, nobis profíciant ad medélam.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nHaving received Your sacrament, we humbly beseech You, O Lord, that, by the intercession of Your blessed Apostles Simon and Jude, the rite we perform in honor of their passion may profit us as a healing remedy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

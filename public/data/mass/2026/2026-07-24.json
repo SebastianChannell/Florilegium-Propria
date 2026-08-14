@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-24",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria sexta infra Hebdomadam VIII post Octavam Pentecostes",
+  "rank": "IV. classis",
+  "note": "Commemoratio : S. Christinæ Virginis et Martyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 47:10-11.</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>uscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ: iustítia plena est déxtera tua.<br>\n<span class=\"rubric\"><em>Ps 47:2.</em></span><br>\nMagnus Dóminus, et laudábilis nimis: in civitáte Dei nostri, in monte sancto eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>uscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ: iustítia plena est déxtera tua."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 47:10-11</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth. Of justice Your right hand is full.<br>\n<span class=\"rubric\"><em>Ps 47:2</em></span><br>\nGreat is the Lord and wholly to be praised in the city of our God, His holy mountain.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth. Of justice Your right hand is full."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nLargíre nobis, quǽsumus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: ut, qui sine te esse non póssumus, secúndum te vívere valeámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Christinæ Virginis et Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>ndulgéntiam nobis, quǽsumus, Dómine, beáta Christína Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nEver graciously bestow upon us, we beseech You, O Lord, the spirit of thinking and doing what is right, so that we, who cannot exist without You, may have the strength to live in accordance with Your law.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Christina, Virgin and Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay blessed Christina, Virgin and Martyr, who was ever pleasing to You by the merit of her chastity and by her trust in Your power, implore for us Your forgiveness, we beseech You, O Lord.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános<br>\n<span class=\"rubric\"><em>Rom 8:12-17</em></span><br>\nFratres: Debitóres sumus non carni, ut secúndum carnem vivámus. Si enim secúndum carnem vixéritis, moriémini: si autem spíritu facta carnis mortificavéritis, vivétis. Quicúmque enim spíritu Dei aguntur, ii sunt fílii Dei. Non enim accepístis spíritum servitútis íterum in timóre, sed accepístis spíritum adoptiónis filiórum, in quo clamámus: Abba  - Pater. - Ipse enim Spíritus testimónium reddit spirítui nostro, quod sumus fílii Dei. Si autem fílii, et herédes: herédes quidem Dei, coherédes autem Christi.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Romans<br>\n<span class=\"rubric\"><em>Rom 8:12-17</em></span><br>\nBrethren: We are debtors, not to the flesh, that we should live according to the flesh, for if you live according to the flesh you will die; but if by the spirit you put to death the deeds of the flesh, you will live. For whoever are led by the Spirit of God, they are the sons of God. Now you have not received a spirit of bondage so as to be again in fear, but you have received a spirit of adoption as sons, by virtue of which we cry, Abba! Father! The Spirit Himself gives testimony to our spirit that we are sons of God. But if we are sons, we are heirs also: heirs indeed of God and joint heirs with Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 30:3</em></span><br>\nEsto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias.<br>\n<span class=\"rubric\"><em>Ps 70:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Deus, in te sperávi: Dómine, non confúndar in ætérnum.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 47:2</em></span><br>\nMagnus Dóminus, et laudábilis valde, in civitáte Dei nostri, in monte sancto eius. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 30:3</em></span><br>\nBe my rock of refuge, O God, a stronghold to give me safety.<br>\n<span class=\"rubric\"><em>Ps 70:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> In You, O God, I take refuge; O Lord, let me never be put to shame. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 47:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Great is the Lord and wholly to be praised in the city of our God, His holy mountain. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 16:1-9</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis parábolam hanc: Homo quidam erat dives, qui habébat víllicum: et hic diffamátus est apud illum, quasi dissipásset bona ipsíus. Et vocávit illum et ait illi: Quid hoc audio de te? redde ratiónem villicatiónis tuæ: iam enim non póteris villicáre. Ait autem víllicus intra se: Quid fáciam, quia dóminus meus aufert a me villicatiónem? fódere non váleo, mendicáre erubésco. Scio, quid fáciam, ut, cum amótus fúero a villicatióne, recípiant me in domos suas. Convocátis itaque síngulis debitóribus dómini sui, dicébat primo: Quantum debes dómino meo? At ille dixit: Centum cados ólei. Dixítque illi: Accipe cautiónem tuam: et sede cito, scribe quinquagínta. Deínde álii dixit: Tu vero quantum debes? Qui ait: Centum coros trítici. Ait illi: Accipe lítteras tuas, et scribe octogínta. Et laudávit dóminus víllicum iniquitátis, quia prudénter fecísset: quia fílii huius sǽculi prudentióres fíliis lucis in generatióne sua sunt. Et ego vobis dico: fácite vobis amicos de mammóna iniquitátis: ut, cum defecéritis, recípiant vos in ætérna tabernácula.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 16:1-9</em></span><br>\nAt that time, Jesus spoke to His disciples this parable: There was a certain rich man who had a steward, who was reported to him as squandering his possessions. And he called him and said to him, ‘What is this that I hear of you? Make an accounting of your stewardship, for you can be steward no longer.’ And the steward said within himself, ‘What shall I do, seeing that my master is taking away the stewardship from me? To dig I am not able; to beg I am ashamed. I know what I shall do, that when I am removed from my stewardship they may receive me into their houses.’ And he summoned each of his master’s debtors and said to the first, ‘How much do you owe my master?’ And he said, ‘A hundred jars of oil.’ He said to him, ‘Take your bond and sit down at once and write fifty.’ Then he said to another, ‘How much do you owe?’ He said, ‘A hundred kors of wheat.’ He said to him, ‘Take your bond and write eighty.’ And the master commended the unjust steward, in that he had acted prudently; for the children of this world, in relation to their own generation, are more prudent than the children of the light. And I say to you, make friends for yourselves with the mammon of wickedness, so that when you fail they may receive you into the everlasting dwellings.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 17:28; 17:32</em></span><br>\nPópulum húmilem salvum fácies, Dómine, et óculos superbórum humiliábis: quóniam quis Deus præter te, Dómine?"
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 17:28, 32</em></span><br>\nLowly people You save, O Lord, but haughty eyes You bring low; for who is God except You, O Lord?"
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, quǽsumus, Dómine, múnera, quæ tibi de tua largitáte deférimus: ut hæc sacrosáncta mystéria, grátiæ tuæ operánte virtúte, et præséntis vitæ nos conversatióne sanctíficent, et ad gáudia sempitérna perdúcant.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Christinæ Virginis et Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>óstias tibi, Dómine, beátæ Christínæ Vírginis et Mártyris tuæ dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Accept, we beseech You, O Lord, the gifts which we bring to You out of Your own bounty, so that these most holy sacramental rites may, by the power of Your grace, sanctify us in the conduct of our present life, and lead us to everlasting joy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Christina, Virgin and Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>raciously accept the sacrificial gifts offered You, O Lord, through the merits of blessed Christina, Your Virgin and Martyr, and grant they may prove an unfailing aid for us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 33:9</em></span><br>\nGustáte et vidéte, quóniam suávis est Dóminus: beátus vir, qui sperat in eo."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 33:9</em></span><br>\nTaste and see how good the Lord is; happy the man who takes refuge in Him."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSit nobis, Dómine, reparátio mentis et córporis cæléste mystérium: ut, cuius exséquimur cultum, sentiámus efféctum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Christinæ Virginis et Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>ivíni múneris largitáte satiáti, quǽsumus, Dómine, Deus noster: ut, intercedénte beáta Christína Vírgine et Mártyre tua, in eius semper participatióne vivámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the heavenly sacrament, O Lord, renew our minds and bodies, so that we may feel the benefit of the worship we perform.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Christina, Virgin and Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e who have been refreshed by the richness of Your divine sacrament beseech You, O Lord our God, that through the intercession of blessed Christina, Your Virgin and Martyr, we may forevermore abide in its participation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

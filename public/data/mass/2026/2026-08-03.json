@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-03",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria secunda infra Hebdomadam X post Octavam Pentecostes I. Augusti",
+  "rank": "IV. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 54:17-20; 54:23</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>um clamárem ad Dóminum, exaudívit vocem meam, ab his, qui appropínquant mihi: et humiliávit eos, qui est ante sǽcula et manet in ætérnum: iacta cogitátum tuum in Dómino, et ipse te enútriet.<br>\n<span class=\"rubric\"><em>Ps 54:2-3</em></span><br>\nExáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: inténde mihi et exáudi me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>um clamárem ad Dóminum, exaudívit vocem meam, ab his, qui appropínquant mihi: et humiliávit eos, qui est ante sǽcula et manet in ætérnum: iacta cogitátum tuum in Dómino, et ipse te enútriet."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 54:17-20; 54:23</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>hen I call upon the Lord, He heard my voice, from those who war against me; and He humbled them, Who is before all ages, and remains forever: cast your care upon the Lord, and He will support you.<br>\n<span class=\"rubric\"><em>Ps 54:2-3</em></span><br>\nHearken, O God, to my prayer; turn not away from my pleading; give heed to me, and answer me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>hen I call upon the Lord, He heard my voice, from those who war against me; and He humbled them, Who is before all ages, and remains forever: cast your care upon the Lord, and He will support you."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui omnipoténtiam tuam parcéndo máxime et miserándo maniféstas: multíplica super nos misericórdiam tuam; ut, ad tua promíssa curréntes, cœléstium bonórum fácias esse consórtes.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, You manifest Your power, particularly in forbearance and pity, show us Your mercy again and again, so that hastening toward Your promises we may become partakers of the blessings of heaven.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>1 Cor 12:2-11</em></span><br>\nFratres: Scitis, quóniam, cum gentes essétis, ad simulácra muta prout ducebámini eúntes. Ideo notum vobisfacio, quod nemo in Spíritu Dei loquens, dicit anáthema Iesu. Et nemo potest dícere, Dóminus Iesus, nisi in Spíritu Sancto. Divisiónes vero gratiárum sunt, idem autem Spíritus. Et divisiónes ministratiónum sunt, idem autem Dóminus. Et divisiónes operatiónum sunt, idem vero Deus, qui operátur ómnia in ómnibus. Unicuíque autem datur manifestátio Spíritus ad utilitátem. Alii quidem per Spíritum datur sermo sapiéntiæ álii autem sermo sciéntiæ secúndum eúndem Spíritum: álteri fides in eódem Spíritu: álii grátia sanitátum in uno Spíritu: álii operátio virtútum, álii prophetía, álii discrétio spirítuum, álii génera linguárum, álii interpretátio sermónum. Hæc autem ómnia operátur unus atque idem Spíritus, dívidens síngulis, prout vult.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 12:2-11</em></span><br>\nBrethren: You know that when you were Gentiles, you went to dumb idols according as you were led. Wherefore I give you to understand that no one speaking in the Spirit of God, says Anathema to Jesus. And no one can say Jesus is Lord, except in the Holy Spirit. Now there are varieties of gifts, but the same Spirit; and there are varieties of ministries, but the same Lord; and there are varieties of workings, but the same God, Who works all things in all. Now the manifestation of the Spirit is given to everyone for profit. To one through the Spirit is given the utterance of wisdom; and to another the utterance of knowledge, according to the same Spirit; to another faith, in the same Spirit; to another the gift of healing, in the one Spirit; to another the working of miracles; to another prophecy; to another the distinguishing of spirits; to another various kinds of tongues; to another interpretation of tongues. But all these things are the work of one and the same Spirit, Who allots to everyone according as He will.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 16:8; 16:2</em></span><br>\nCustódi me, Dómine, ut pupíllam óculi: sub umbra alárum tuárum prótege me.<br>\n<span class=\"marker\"><em>℣.</em></span> De vultu tuo iudícium meum pródeat: óculi tui vídeant æquitátem.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 64:2</em></span><br>\nTe decet hymnus, Deus, in Sion: et tibi reddétur votum in Ierúsalem. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 16:8, 2</em></span><br>\nKeep me, O Lord, as the apple of Your eye; hide me in the shadow of Your wings.<br>\n<span class=\"marker\"><em>℣.</em></span> From You let judgment come; Your eyes behold what is right.<br>\nAlleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 64:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> To You we owe our hymn of praise, O God, in Sion; to You must vows be fulfilled in Jerusalem. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 18:9-14</em></span><br>\nIn illo témpore: Dixit Iesus ad quosdam, qui in se confidébant tamquam iusti et aspernabántur céteros, parábolam istam: Duo hómines ascendérunt in templum, ut orárent: unus pharisǽus, et alter publicánus. Pharisǽus stans, hæc apud se orábat: Deus, grátias ago tibi, quia non sum sicut céteri hóminum: raptóres, iniústi, adúlteri: velut étiam hic publicánus. Ieiúno bis in sábbato: décimas do ómnium, quæ possídeo. Et publicánus a longe stans nolébat nec óculos ad cœlum leváre: sed percutiébat pectus suum, dicens: Deus, propítius esto mihi peccatóri. Dico vobis: descéndit hic iustificátus in domum suam ab illo: quia omnis qui se exáltat, humiliábitur: et qui se humíliat, exaltábitur.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 18:9-14</em></span><br>\nAt that time, Jesus spoke this parable to some who trusted in themselves as being just and despised others. Two men went up to the temple to pray, the one a Pharisee and the other a publican. The Pharisee stood and began to pray thus within himself: ‘O God, I thank You that I am not like the rest of men, robbers, dishonest, adulterers, or even like this publican. I fast twice a week; I pay tithes of all that I possess.’ But the publican, standing afar off, would not so much as lift up his eyes to heaven, but kept striking his breast, saying, ‘O God, be merciful to me the sinner!’ I tell you, this man went back to his home justified rather than the other; for everyone who exalts himself shall be humbled, and he who humbles himself shall be exalted.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 24:1-3</em></span><br>\nAd te, Dómine, levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 24:1-3</em></span><br>\nTo You I lift up my soul, O Lord. In You, O my God, I trust; let me not be put to shame, let not my enemies exult over me. No one who waits for You shall be put to shame."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Tibi, Dómine, sacrifícia dicáta reddántur: quæ sic ad honórem nóminis tui deferénda tribuísti, ut eadem remédia fíeri nostra præstáres.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Let the sacred gifts be offered to You, O Lord, Who have given them to be presented for the honor of Your name, for in them You have given us a remedy for all our ills.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 50:21</em></span><br>\nAcceptábis sacrificium iustítiæ, oblatiónes et holocáusta, super altáre tuum, Dómine."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 50:21</em></span><br>\nYou shall be pleased with due sacrifices, burnt offerings and holocausts on Your altar, O Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, Dómine, Deus noster: ut, quos divínis reparáre non désinis sacraméntis, tuis non destítuas benígnus auxíliis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, O Lord our God, that in Your mercy You will not withhold Your help from those whom You constantly restore with divine sacraments.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

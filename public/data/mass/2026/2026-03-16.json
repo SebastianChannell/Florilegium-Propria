@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-16",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Secunda infra Hebdomadam IV in Quadragesima",
+  "rank": "III. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 53:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, in nómine tuo salvum me fac, et in virtúte tua líbera me: Deus, exáudi oratiónem meam: áuribus pércipe verba oris mei.<br>\n<span class=\"rubric\"><em>Ps 53:5</em></span><br>\nQuóniam aliéni insurrexérunt in me: et fortes quæsiérunt ánimam meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, in nómine tuo salvum me fac, et in virtúte tua líbera me: Deus, exáudi oratiónem meam: áuribus pércipe verba oris mei."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 53:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, by your Name save me, and by your might deliver me, O God, hear my prayer; hearken to the words of my mouth.<br>\n<span class=\"rubric\"><em>Ps 53:5</em></span><br>\nFor haughty men have risen up against me, and fierce men seek my life.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, by your Name save me, and by your might deliver me, O God, hear my prayer; hearken to the words of my mouth."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, observatiónes sacras ánnua devotióne recoléntes, et córpore tibi placeámus et mente.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that we who devoutly keep the sacred observances year by year, may be pleasing to You both in body and soul.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Regum<br>\n<span class=\"rubric\"><em>3 Reg 3:16-28.</em></span><br>\nIn diébus illis: Venérunt duæ mulíeres meretríces ad regem Salomónem, steterúntque coram eo, quarum una ait: Obsecro, mi dómine: ego et múlier hæc habitabámus in domo una, et péperi apud eam in cubículo. Tértia autem die postquam ego péperi, péperit et hæc: et erámus simul, nullúsque álius nobíscum in domo, excéptis nobis duábus. Mórtuus est autem fílius mulíeris huius nocte: dórmiens quippe oppréssit eum. Et consúrgens intempéstæ noctis siléntio, tulit fílium meum de látere meo ancíllæ tuæ dormiéntis, et collocávit in sinu suo: suum autem fílium, qui erat mórtuus, pósuit in sinu meo. Cumque surrexíssem mane, ut darem lac fílio meo, appáruit mórtuus: quem diligéntius íntuens clara luce, deprehéndi non esse meum, quem genúeram. Respondítque áltera múlier: Non est ita, ut dicis, sed fílius tuus mórtuus est, meus autem vivit. E contrário illa dicébat: Mentiris: fílius quippe meus vivit, et fílius tuus mórtuus est. Atque in hunc modum contendébant coram rege. Tunc rex ait: Hæc dicit Fílius meus vivit, et fílius tuus mórtuus est. Et ista respóndit: Non, sed fílius tuus mórtuus est, meus autem vivit. Dixit ergo rex: Afférte mihi gládium. Cumque attulíssent gládium coram rege: Divídite, inquit, infántem vivum in duas partes, et dat dimídiam partem uni, et dimídiam partem álteri. Dixit autem múlier, cuius fílius erat vivus, ad regem - commóta sunt quippe víscera eius super fílio suo: - Obsecro, dómine, date illi infántem vivum, et nolíte interfícere eum. E contrário illa dicébat: Nec mihi nec tibi sit, sed dividátur. Respóndit rex et ait: Date huic infántem vivum, et non occidátur: hæc est enim mater eius. Audívit ítaque omnis Israël iudícium, quod iudicásset rex, et timuérunt regem, vidéntes sapiéntiam Dei esse in eo ad faciéndum iudícium.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Kings<br>\n<span class=\"rubric\"><em>3 Kings 3:16-28</em></span><br>\nIn those days, there came two women who were harlots, to king Solomon, and stood before him, and one of them said, I beseech you, my lord; I and this woman dwelt in one house, and I was delivered of a child with her in the chamber. And the third day after that I was delivered, she also was delivered; and we were together, and no other person with us in the house, only we two. And this woman’s child died in the night; for in her sleep she overlaid him. And rising in the dead time of the night, she took my child from my side, while I, your handmaid, was asleep, and laid it in her bosom; and laid her dead child in my bosom. And when I rose in the morning to give my child suck, behold it was dead; but considering him more diligently when it was clear day, I found it was not mine which I bore. And the other woman answered, It is not so as you say, but your child is dead and mine is alive. On the contrary she said, You lie; for my child lives and your child is dead. And in this manner they strove before the king. Then said the king, The one says: ‘My child is alive, and your child is dead.’ And the other answers: ‘No, but your child is dead, and mine lives.’ The king therefore said, Bring me a sword. And when they had brought a sword before the king, Divide, said he, the living child in two, and give half to the one, and half to the other. But the woman whose child was alive said to the king - for her heart was moved for her child, - I beseech you, my lord, give her the child alive, and do not kill it. But the other said, Let it neither be mine nor yours, but divide it. The king answered and said, Give the living child to this woman, and let it not be killed; for she is the mother thereof. And all Israel heard the judgment which the king had judged, and they feared the king, seeing that the wisdom of God was in him to do judgment.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 30:3</em></span><br>\nEsto mihi in Deum protectórem et in locum refúgii, ut salvum me fácias.<br>\n<span class=\"rubric\"><em>Ps 70:1.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Deus, in te sperávi: Dómine, non confúndar in ætérnum.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adiuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 30:3</em></span><br>\nBe my rock of refuge, O God, a stronghold to give me safety.<br>\n<span class=\"rubric\"><em>Ps 70:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> In You, O God, I take refuge; O Lord, let me never be put to shame.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\nO Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 2:13-25</em></span><br>\nIn illo témpore: Prope erat Pascha Iudæórum, et ascéndit Iesus Ierosólymam: et invénit in templo vendéntes boves et oves et colúmbas, et nummulários sedéntes. Et cum fecísset quasi flagéllum de funículis, omnes eiécit de templo, oves quoque et boves, et nummulariórum effúdit æs et mensas subvértit. Et his, qui colúmbas vendébant, dixit: Auférte ista hinc, et nolíte fácere domum Patris mei domum negotiatiónis. Recordáti sunt vero discípuli eius, quia scriptum est: Zelus domus tuæ comédit me. Respondérunt ergo Iudǽi, et dixérunt ei: Quod signum osténdis nobis, quia hæc facis? Respóndit Iesus et dixit eis: Sólvite templum hoc, et in tribus diébus excitábo illud. Dixérunt ergo Iudǽi: Quadragínta et sex annis ædificátum est templum hoc, et tu in tribus diébus excitábis illud? Ille autem dicébat de templo córporis sui. Cum ergo resurrexísset a mórtuis, recordáti sunt discípuli eius, quia hoc dicébat, et credidérunt Scriptúræ, et sermóni, quem dixit Iesus. Cum autem esset Ierosólymis in Pascha in die festo, multi credidérunt in nómine eius, vidéntes signa eius, quæ faciébat. Ipse autem Iesus non credébat semetípsum eis, eo quod ipse nosset omnes, et quia opus ei non erat, ut quis testimónium perhibéret de hómine: ipse enim sciébat, quid esset in hómine.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 2:13-25</em></span><br>\nAt that time, the Passover of the Jews was at hand, and Jesus went up to Jerusalem. And He found in the temple men selling oxen, sheep and doves, and money-changers at their tables. And making a kind of whip of cords, He drove them all out of the temple, also the sheep and oxen, and He poured out the money of the changers and overturned the tables. And to them who were selling the doves He said, Take these things away, and do not make the house of My Father a house of business. And His disciples remembered that it is written, The zeal of Your house has eaten Me up. The Jews therefore answered and said to Him, What sign do You show us, seeing that You do these things? In answer Jesus said to them, Destroy this temple, and in three days I will raise it up. The Jews therefore said, Forty-six years has this temple been in building, and will You raise it up in three days? But He was speaking of the temple of His body. When, accordingly, He had risen from the dead, His disciples remembered that He had said this, and they believed the Scripture and the word that Jesus had spoken. Now when He was at Jerusalem for the feast of the Passover, many believed in His name, seeing the signs that He was working. But Jesus did not trust Himself to them, in that He knew all men, and because He had no need that anyone should bear witness concerning man, for He Himself knew what was in man.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 99:1-2</em></span><br>\nIubiláte Deo, omnis terra, servíte Dómino in lætítia: intráte in conspéctu eius in exsultatióne: quia Dóminus ipse est Deus."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 99:1-2</em></span><br>\nSing joyfully to God, all you lands; serve the Lord with gladness; come before Him with joyful song: for the Lord, He is God."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oblátum tibi, Dómine, sacrifícium vivíficet nos semper et múniat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May this sacrifice that we offer You, O Lord, ever give us new life and protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 18:13, 14</em></span><br>\nAb occúltis meis munda me, Dómine: et ab aliénis parce servo tuo."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 18:13-14</em></span><br>\nCleanse me from my unknown faults, O Lord! From wanton sin especially, restrain Your servant."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSumptis, Dómine, salutáribus sacraméntis: ad redemptiónis ætérnæ, quǽsumus, proficiámus augméntum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eprecatiónem nostram, quǽsumus. Dómine, benígnus exáudi: et, quibus supplicándi præstas afféctum, tríbue defensiónis auxílium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech You, that as we have partaken of Your saving sacraments, we may make progress toward our everlasting salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>enerously heed our entreaty, O Lord, we beseech You, and grant Your helpful protection to those who have been given a desire to pray.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-01-09",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Die Nona Januarii",
+  "rank": "IV. classis",
+  "note": "Scriptura: Ad Romános, cap. 13",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Malach 3:1; 1 Par 29:12</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>cce, advénit dominátor Dóminus: et regnum in manu eius et potéstas et impérium.<br>\n<span class=\"rubric\"><em>Ps 71:1</em></span><br>\nDeus, iudícium tuum Regi da: et iustítiam tuam Fílio Regis.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>cce, advénit dominátor Dóminus: et regnum in manu eius et potéstas et impérium."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Mal 3:1; 1 Par. 29:12</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ehold, the Lord and Ruler is come; and the kingdom is in His hand, and power, and dominion.<br>\n<span class=\"rubric\"><em>Ps 71:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> O God, with Your judgment endow the King, and with Your justice, the King’s Son.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ehold, the Lord and Ruler is come; and the kingdom is in His hand, and power, and dominion."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui hodiérna die Unigénitum tuum géntibus stella duce revelásti: concéde propítius; ut, qui iam te ex fide cognóvimus, usque ad contemplándam spéciem tuæ celsitúdinis perducámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, You Who by the guidance of a star this day revealed Your only-begotten Son to the Gentiles; mercifully grant that we who know You now by faith, may come to behold You in glory.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Isaíæ Prophétæ<br>\n<span class=\"rubric\"><em>Is 60:1-6</em></span><br>\nSurge, illumináre, Ierúsalem: quia venit lumen tuum, et glória Dómini super te orta est. Quia ecce, ténebræ opérient terram et calígo pópulos: super te autem oriétur Dóminus, et glória eius in te vidébitur. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent. Tunc vidébis et áfflues, mirábitur et dilatábitur cor tuum, quando convérsa fúerit ad te multitúdo maris, fortitúdo géntium vénerit tibi. Inundátio camelórum opériet te, dromedárii Mádian et Epha: omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Isaias<br>\n<span class=\"rubric\"><em>Isa 60:1-6</em></span><br>\nRise up in splendor, O Jerusalem! Your light has come, the glory of the Lord shines upon you. See, darkness covers the earth, and thick clouds cover the peoples; but upon you the Lord shines, and over you appears His glory. Nations shall walk by your light, and kings by your shining radiance. Raise your eyes and look about; they all gather and come to you: your sons come from afar, and your daughters in the arms of their nurses. Then you shall be radiant at what you see, your heart shall throb and overflow, for the riches of the sea shall be emptied out before you, the wealth of nations shall be brought to you. Caravans of camels shall fill you, dromedaries from Madian and Epha; all from Saba shall come bearing gold and frankincense, and proclaiming the praises of the Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Isa 60:6; 60:1</em></span><br>\nOmnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.<br>\n<span class=\"marker\"><em>℣.</em></span> Surge et illumináre, Ierúsalem: quia glória Dómini super te orta est. Allelúia, allelúia<br>\n<span class=\"rubric\"><em>Matt 2:2.</em></span><br>\nVídimus stellam eius in Oriénte, et vénimus cum munéribus adoráre Dóminum. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Isa 60:6, 1</em></span><br>\nAll they from Saba shall come, bringing gold and frankincense, and proclaiming the praises of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Rise up in splendor, O Jerusalem, for the glory of the Lord shines upon you. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Matt 2:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> We have seen His star in the East: and have come with gifts to worship the Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 2:1-12</em></span><br>\nCum natus esset Iesus in Béthlehem Iuda in diébus Heródis regis, ecce, Magi ab Oriénte venerunt Ierosólymam, dicéntes: Ubi est, qui natus est rex Iudæórum? Vidimus enim stellam eius in Oriénte, et vénimus adoráre eum. Audiens autem Heródes rex, turbatus est, et omnis Ierosólyma cum illo. Et cóngregans omnes principes sacerdotum et scribas pópuli, sciscitabátur ab eis, ubi Christus nasceretur. At illi dixérunt ei: In Béthlehem Iudæ: sic enim scriptum est per Prophétam: Et tu, Béthlehem terra Iuda, nequáquam mínima es in princípibus Iuda; ex te enim éxiet dux, qui regat pópulum meum Israël. Tunc Heródes, clam vocátis Magis, diligénter dídicit ab eis tempus stellæ, quæ appáruit eis: et mittens illos in Béthlehem, dixit: Ite, et interrogáte diligénter de púero: et cum invenéritis, renuntiáte mihi, ut et ego véniens adórem eum. Qui cum audíssent regem, abiérunt. Et ecce, stella, quam víderant in Oriénte, antecedébat eos, usque dum véniens staret supra, ubi erat Puer. Vidéntes autem stellam, gavísi sunt gáudio magno valde. Et intrántes domum, invenérunt Púerum cum María Matre eius, <span class=\"rubric\">hic genuflectitur</span> et procidéntes adoravérunt eum. Et, apértis thesáuris suis, obtulérunt ei múnera, aurum, thus et myrrham. Et respónso accépto in somnis, ne redírent ad Heródem, per aliam viam revérsi sunt in regiónem suam.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 2:1-12</em></span><br>\nWhen Jesus was born in Bethlehem of Judea, in the days of King Herod, behold, Magi came from the East to Jerusalem, saying, Where is He that is born King of the Jews? For we have seen His star in the east and have come to worship Him. But when King Herod heard this, he was troubled, and so was all Jerusalem with him. And gathering together all the chief priests and Scribes of the people, he inquired of them where the Christ was to be born. And they said to him, In Bethlehem of Judea; for thus it is written by the prophet, ‘And you, Bethlehem, of the land of Juda, are by no means least among the princes of Juda; for from you shall come forth a leader who shall rule My people Israel.’ Then Herod summoned the Magi secretly, and carefully ascertained from them the time when the star had appeared to them. And sending them to Bethlehem, he said, Go and make careful inquiry concerning the Child, and when you have found Him, bring me word, that I too may go and worship Him. Now they, having heard the king, went their way. And behold, the star that they had seen in the East went before them, until it came and stood over the place where the Child was. And when they saw the star they rejoiced exceedingly. And entering the house, they found the Child with Mary His Mother, <span class=\"rubric\">genuflect</span> and falling down they worshipped Him. And opening their treasures they offered Him gifts of gold, frankincense and myrrh. And being warned in a dream not to return to Herod, they went back to their own country by another way.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 71:10-11</em></span><br>\nReges Tharsis, et ínsulæ múnera ófferent: reges Arabum et Saba dona addúcent: et adorábunt eum omnes reges terræ, omnes gentes sérvient ei."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 71:10-11</em></span><br>\nThe kings of Tharsis and the Isles shall offer gifts; the kings of Arabia and Saba shall bring tribute. All kings shall pay Him homage, all nations shall serve Him."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Ecclésiæ tuæ, quǽsumus, Dómine, dona propítius intuere: quibus non iam aurum, thus et myrrha profertur; sed quod eisdem munéribus declarátur, immolátur et súmitur, Iesus Christus, fílius tuus, Dóminus noster:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, look favorably upon the gifts of Your Church, which are no longer gifts of gold, frankincense and myrrh, but, as these gifts signify, our offering is Jesus Christ Your Son, our Lord, Who is now sacrifice and food.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Epiphania Domini</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Quia, cum Unigénitus tuus in substántia nostræ mortalitátis appáruit, nova nos immortalitátis suæ luce reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Epiphany</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and availing unto salvation, that we should in all times and in all places give thanks unto Thee, O holy Lord, Father almighty and everlasting God. For when Thine only begotten Son showed Himself in the substance of our mortal nature, He restored us by the new light of His own immortality. And therefore with angels and archangels, with thrones and dominions, and with all the heavenly hosts, we sing a hymn to Thy glory, saying without ceasing:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:2</em></span><br>\nVídimus stellam eius in Oriénte, et vénimus cum munéribus adoráre Dóminum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:2</em></span><br>\nWe have seen His star in the East and have come with gifts to worship the Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, quæ sollémni celebrámus officio, purificátæ mentis intellegéntia consequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that, by the understanding of our minds made pure, we may grasp what we celebrate by these solemn rites.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

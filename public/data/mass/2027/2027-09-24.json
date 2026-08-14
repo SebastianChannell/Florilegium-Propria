@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-09-24",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Sexta Quattuor Temporum Septembris",
+  "rank": "II. classis",
+  "note": "Commemoratio : Beatæ Mariæ Virginis de Mercede",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 104:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem eius semper.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nConfitémini Dómino et invocáte nomen eius: annuntiáte inter gentes ópera eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem eius semper."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 104:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>ejoice, O hearts that seek the Lord! Look to the Lord, and be strengthened; seek His face evermore.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nGive thanks to the Lord, invoke His name; make known among the nations His deeds.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>ejoice, O hearts that seek the Lord! Look to the Lord, and be strengthened; seek His face evermore."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, observatiónes sacras ánnua devotióne recoléntes, et córpore tibi placeámus et mente.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Beatæ Mariæ Virginis de Mercede</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui per gloriosíssimam Fílii tui Matrem, ad liberandos Christi fidéles a potestáte paganórum, nova Ecclésiam tuam prole amplificáre dignátus es: præsta, quǽsumus; ut, quam pie venerámur tanti óperis institutrícem, eius páriter méritis et intercessióne, a peccátis ómnibus et captivitáte dæmonis liberémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that we who devoutly keep the sacred observances year by year may be pleasing unto You both in body and soul.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Our Lady of Ransom</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who for the deliverance of Christians from the power of the pagans, graciously willed to enrich Your Church by a new religious offspring through the most glorious Mother of Your Son; grant, we beseech You, that by the merits and intercession of her whom we piously venerate as the founder of so great a work, we may be delivered from all our sins and from the captivity of the devil.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Osee Prophétæ<br>\n<span class=\"rubric\"><em>Osee 14:2-10</em></span><br>\nHæc dicit Dóminus Deus: Convértere, Israël, ad Dóminum, Deum tuum: quóniam corruísti in iniquitáte tua. Tóllite vobíscum verba, et convertímini ad Dóminum et dícite ei: Omnem aufer iniquitátem, áccipe bonum: et reddémus vítulos labiórum nostrórum. Assur non salvábit nos, super equum non ascendémus, nec dicémus ultra: Dii nostri ópera mánuum nostrárum: quia eius, qui in te est, miseréberis pupílli. Sanábo contritiónes eórum, díligam eos spontánee: quia avérsus est furor meus ab eis. Ero quasi ros, Israël germinábit sicut lílium, et erúmpet radix eius ut Líbani. Ibunt rami eius, et erit quasi olíva glória eius: et odor eius ut Líbani. Converténtur sedéntes in umbra eius: vivent trítico, et germinábunt quasi vínea: memoriále eius sicut vinum Líbani. Ephraim quid mihi ultra idóla? ego exáudiam, et dírigam eum ego ut abíetem viréntem: ex me fructus tuus invéntus est. Quis sápiens, et intélleget ista? intéllegens, et sciet hæc? Quia rectæ viæ Dómini, et iusti ambulábunt in eis: prævaricatóres vero córruent in eis.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Osee the Prophet<br>\n<span class=\"rubric\"><em>Osee 14:2-10</em></span><br>\nThus says the Lord God: “Return, O Israel, to the Lord your God; for you have fallen down by your iniquity. Take with you words, and return to the Lord, and say to Him: Take away all iniquity, and receive the good, and we will render the calves of our lips. Assyria shall not save us, we will not ride upon horses, neither will we say anymore: The works of our hands are our gods; for You will have mercy on the fatherless that is in You. I will heal their breaches, I will love them freely; for My wrath is turned away from them. I will be as the dew: Israel shall spring as the lily, and his root shall shoot forth as that of Lebanon. His branches shall spread, and his glory shall be as the olive tree, and his smell as that of Lebanon. They shall be converted that sit under his shadow, they shall live upon wheat, and they shall blossom as a vine: his memorial shall be as the wine of Lebanon. Ephraim shall say: What have I to do any more with idols? I will hear him, and will make him flourish like a green fig-tree: from Me is your fruit found. Who is wise, and he shall understand these things; prudent, and he shall know these things? For the ways of the Lord are right, and the just shall walk in them, but the transgressors shall fall in them.”<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 89:13; 89:1</em></span><br>\nConvértere, Dómine, aliquántulum, et deprecáre super servos tuos.<br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, refúgium factus es nobis, a generatióne et progénie."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 89:13, 1</em></span><br>\nReturn, O Lord! How long? Have pity on Your servants!<br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, You have been our refuge through all generations."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 7:36-50</em></span><br>\nIn illo témpore: Rogábat Iesum quidam de pharisǽis, ut manducáret cum illo. Et ingréssus domum pharisǽi, discúbuit. Et ecce múlier, quæ erat in civitáte peccátrix, ut cognóvit, quod accubuísset in domo pharisǽi, áttulit alabástrum unguénti: et stans retro secus pedes eius, lácrimis cœpit rigáre pedes eius, et capíllis cápitis sui tergébat, et osculabátur pedes eius, et unguénto ungébat. Videns autem pharisǽus, qui vocáverat eum, ait intra se, dicens: Hic si esset Prophéta, sciret útique, quæ et qualis est múlier, quæ tangit eum: quia peccátrix est. Et respóndens Iesus, dixit ad illum: Simon, hábeo tibi áliquid dícere. At ille ait: Magíster, dic. Duo debitóres erant cuidam fœneratóri: unus debébat denários quingéntos, et álius quinquagínta. Non habéntibus illis, unde rédderent, donávit utrísque. Quis ergo eum plus díligit? Respóndens Simon, dixit: Æstimo, quia is, cui plus donávit. At ille dixit ei: Recte iudicásti. Et convérsus ad mulíerem, dixit Simóni: Vides hanc mulíerem? Intrávi in domum tuam, aquam pédibus meis non dedísti: hæc autem lácrimis rigávit pedes meos et capíllis suis tersit. Osculum mihi non dedísti: hæc autem, ex quo intrávit, non cessávit osculári pedes meos. Oleo caput meum non unxísti: hæc autem unguénto unxit pedes meos. Propter quod dico tibi: Remittúntur ei peccáta multa, quóniam diléxit multum. Cui autem minus dimíttitur, minus díligit. Dixit autem ad illam: Remittúntur tibi peccáta. Et cœpérunt, qui simul accumbébant, dícere intra se: Quis est hic, qui étiam peccáta dimíttit? Dixit autem ad mulíerem: Fides tua te salvam fecit: vade in pace.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 7:36-50</em></span><br>\nAt that time, one of the Pharisees asked Jesus to dine with him; so He went into the house of the Pharisee and reclined at table. And behold, a woman in the town who was a sinner, upon learning that He was at table in the Pharisee’s house, brought an alabaster jar of ointment; and standing behind Him at His feet, she began to bathe His feet with her tears, and wiped them with the hair of her head, and kissed His feet, and anointed them with ointment. Now when the Pharisee, who had invited Him, saw it, he said to himself, This Man, were He a prophet, would surely know who and what manner of woman this is who is touching Him, for she is a sinner. And Jesus answered and said to him, Simon, I have something to say to you. And he said, Master, speak. A certain money-lender had two debtors; the one owed five hundred denarii, the other fifty. As they had no means of paying, he forgave them both. Which of them, therefore, will love him more? Simon answered and said, He, I suppose, to whom he forgave more. And He said to him, You have judged rightly. And turning to the woman, He said to Simon, Do you see this woman? I came into your house; you gave Me no water for My feet; but she has bathed My feet with tears, and has wiped them with her hair. You gave Me no kiss; but she, from the moment she entered, has not ceased to kiss My feet. You did not anoint My head with oil; but she has anointed My feet with ointment. Wherefore I say to you, her sins, many as they are, shall be forgiven her, because she has loved much. But he to whom little is forgiven, loves little. And they who were at table with Him began to say within themselves, Who is this Man, Who even forgives sins? But He said to the woman, Your faith has saved you, go in peace.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 102:2; 102:5</em></span><br>\nBénedic, ánima mea, Dómino, et noli oblivísci omnes retributiónes eius: et renovábitur, sicut áquilæ, iuvéntus tua."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 102:2, 5</em></span><br>\nBless the Lord, O my soul, and forget not all His benefits; and your youth shall be renewed like the eagle’s."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Accépta tibi sint, Dómine, quǽsumus, nostri dona ieiúnii: quæ et expiándo nos tua grátia dignos effíciant, et ad sempitérna promíssa perdúcant.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Beatæ Mariæ Virginis de Mercede</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>ua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the gift of our fasting, we beseech You, O Lord, be acceptable to You, and by its purifying power make us worthy of Your grace and bring us to the eternal bliss You have promised us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Our Lady of Ransom</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Beata Maria Virgine</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Et te in Festivitáte beátæ Maríæ semper Vírginis collaudáre, benedícere et prædicáre. Quæ et Unigénitum tuum Sancti Spíritus obumbratióne concépit: et, virginitátis glória permanénte, lumen ætérnum mundo effúdit, Iesum Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Blessed Virgin</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: and that we should praise and bless, and proclaim Thee, in the Feast of the Blessed Mary, ever-Virgin: Who also conceived Thine only-begotten Son by the overshadowing of the Holy Ghost, and the glory of her virginity still abiding, gave forth to the world the everlasting Light, Jesus Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, and the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:22; 118:24</em></span><br>\nAufer a me oppróbrium et contémptum, quia mandáta tua exquisívi, Dómine: nam et testimónia tua meditátio mea est."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:22, 24</em></span><br>\nTake away from me reproach and contempt, for I observe Your decrees, O Lord. Your decrees are my delight."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, benefícia potióra sumámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Beatæ Mariæ Virginis de Mercede</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>umptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cuius veneratióne hæc tuæ obtúlimus maiestáti.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, O almighty God, that, showing gratitude for the gifts we have received, we may obtain yet greater benefits.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Our Lady of Ransom</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>aving received the aids conducive to our salvation, O Lord, we beseech You, grant that we may everywhere be protected by the patronage of blessed Mary, ever Virgin, in veneration of whom we have made these offerings to Your Majesty.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

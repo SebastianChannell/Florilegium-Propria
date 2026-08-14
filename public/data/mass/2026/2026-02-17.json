@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-17",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria III infra Hebdomadam Quinquagesimæ",
+  "rank": "IV. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 30:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>sto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias: quóniam firmaméntum meum et refúgium meum es tu: et propter nomen tuum dux mihi eris, et enútries me.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn te, Dómine, sperávi, non confúndar in ætérnum: in iustítia tua líbera me et éripe me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>sto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias: quóniam firmaméntum meum et refúgium meum es tu: et propter nomen tuum dux mihi eris, et enútries me."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 30:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>e my rock of refuge, O God, a stronghold to give me safety. You are my rock and my fortress; for Your name’s sake You will lead and guide me.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn You, O Lord, I take refuge; let me never be put to shame. In Your justice rescue me and deliver me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>e my rock of refuge, O God, a stronghold to give me safety. You are my rock and my fortress; for Your name’s sake You will lead and guide me."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPreces nostras, quǽsumus, Dómine, cleménter exáudi: atque, a peccatórum vínculis absolútos, ab omni nos adversitáte custódi.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech You, mercifully hear our prayers; loose us from the chains of our sins and keep us from all adversity.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios<br>\n<span class=\"rubric\"><em>1 Cor 13:1-13</em></span><br>\nFratres: Si linguis hóminum loquar et Angelórum, caritátem autem non hábeam, factus sum velut æs sonans aut cýmbalum tínniens. Et si habúero prophetíam, et nóverim mystéria ómnia et omnem sciéntiam: et si habúero omnem fidem, ita ut montes tránsferam, caritátem autem non habúero, nihil sum. Et si distribúero in cibos páuperum omnes facultátes meas, et si tradídero corpus meum, ita ut árdeam, caritátem autem non habuero, nihil mihi prodest. Cáritas patiens est, benígna est: cáritas non æmulátur, non agit pérperam, non inflátur, non est ambitiósa, non quærit quæ sua sunt, non irritátur, non cógitat malum, non gaudet super iniquitáte, congáudet autem veritáti: ómnia suffert, ómnia credit, ómnia sperat, ómnia sústinet. Cáritas numquam éxcidit: sive prophétiæ evacuabúntur, sive linguæ cessábunt, sive sciéntia destruétur. Ex parte enim cognóscimus, et ex parte prophetámus. Cum autem vénerit quod perféctum est, evacuábitur quod ex parte est. Cum essem párvulus, loquébar ut párvulus, sapiébam ut párvulus, cogitábam ut párvulus. Quando autem factus sum vir, evacuávi quæ erant párvuli. Vidémus nunc per spéculum in ænígmate: tunc autem fácie ad fáciem. Nunc cognósco ex parte: tunc autem cognóscam, sicut et cógnitus sum. Nunc autem manent fides, spes, cáritas, tria hæc: maior autem horum est cáritas.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 13:1-13</em></span><br>\nBrethren: If I should speak with the tongues of men and of angels, but do not have charity, I have become as sounding brass or a tinkling cymbal. And if I have prophecy and know all mysteries and all knowledge, and if I have all faith so as to remove mountains, yet do not have charity, I am nothing. And if I distribute all my goods to feed the poor, and if I deliver my body to be burned, yet do not have charity, it profits me nothing. Charity is patient, is kind; charity does not envy, is not pretentious, is not puffed up, is not ambitious, is not self-seeking, is not provoked; thinks no evil, does not rejoice over wickedness, but rejoices with the truth; bears with all things, believes all things, hopes all things, endures all things. Charity never fails, whereas prophecies will disappear, and tongues will cease, and knowledge will be destroyed. For we know in part and we prophesy in part; but when that which is perfect has come, that which is imperfect will be done away with. When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away the things of a child. We see now through a mirror in an obscure manner, but then face to face. Now I know in part, but then I shall know even as I have been known. So there abide faith, hope and charity, these three; but the greatest of these is charity.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 76:15; 76:16</em></span><br>\nTu es Deus qui facis mirabília solus: notam fecísti in géntibus virtútem tuam.<br>\n<span class=\"marker\"><em>℣.</em></span> Liberásti in bráchio tuo pópulum tuum, fílios Israël et Ioseph."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 76:15-16</em></span><br>\nYou are the God Who alone works wonders; among the peoples You have made known Your power.<br>\n<span class=\"marker\"><em>℣.</em></span> With Your strong arm You delivered Your people, the sons of Israel and Joseph."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 18:31-43</em></span><br>\nIn illo témpore: Assúmpsit Iesus duódecim, et ait illis: Ecce, ascéndimus Ierosólymam, et consummabúntur ómnia, quæ scripta sunt per Prophétas de Fílio hominis. Tradétur enim Géntibus, et illudétur, et flagellábitur, et conspuétur: et postquam flagelláverint, occídent eum, et tértia die resúrget. Et ipsi nihil horum intellexérunt, et erat verbum istud abscónditum ab eis, et non intellegébant quæ dicebántur. Factum est autem, cum appropinquáret Iéricho, cæcus quidam sedébat secus viam, mendícans. Et cum audíret turbam prætereúntem, interrogábat, quid hoc esset. Dixérunt autem ei, quod Iesus Nazarénus transíret. Et clamávit, dicens: Iesu, fili David, miserére mei. Et qui præíbant, increpábant eum, ut tacéret. Ipse vero multo magis clamábat: Fili David, miserére mei. Stans autem Iesus, iussit illum addúci ad se. Et cum appropinquásset, interrogávit illum, dicens: Quid tibi vis fáciam? At ille dixit: Dómine, ut vídeam. Et Iesus dixit illi: Réspice, fides tua te salvum fecit. Et conféstim vidit, et sequebátur illum, magníficans Deum. Et omnis plebs ut vidit, dedit laudem Deo.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 18:31-43</em></span><br>\nAt that time, Jesus taking to Himself the Twelve said to them, Behold, we are going up to Jerusalem, and all things that have been written by the prophets concerning the Son of Man will be accomplished. For He will be delivered to the Gentiles, and will be mocked and scourged and spit upon; and after they have scourged Him, they will put Him to death; and on the third day He will rise again. And they understood none of these things and this saying was hidden from them, neither did they get to know the things that were being said. Now it came to pass as He drew near to Jericho, that a certain blind man was sitting by the wayside, begging; but hearing a crowd passing by, he inquired what this might be. And they told him that Jesus of Nazareth was passing by. And he cried out, saying, Jesus, Son of David, have mercy on me! And they who went in front angrily tried to silence him. But he cried out all the louder, Son of David, have mercy on me! Then Jesus stopped and commanded that he should be brought to Him. And when he drew near, He asked him, saying, What would you have Me do for you? And he said, Lord, that I may see. And Jesus said to him, Receive your sight, your faith has saved you. And at once he received his sight, and followed Him, glorifying God. And all the people upon seeing it gave praise to God.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:12-13</em></span><br>\nBenedíctus es, Dómine, doce me iustificatiónes tuas: in lábiis meis pronuntiávi ómnia iudícia oris tui."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:12-13</em></span><br>\nBlessed are You, O Lord; teach me Your statutes. With my lips I declare all the ordinances of Your mouth."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et, ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May these offerings, O Lord, we beseech You, wash away our sins; may it sanctify the bodies and souls of Your servants for the celebration of this sacrifice.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 77:29-30</em></span><br>\nManducavérunt, et saturári sunt nimis, et desidérium eórum áttulit eis Dóminus: non sunt fraudáti a desidério suo."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 77:29-30</em></span><br>\nThey ate and were wholly surfeited; the Lord had brought them what they craved: they were not defrauded of that which they craved."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, omnípotens Deus: ut, qui coeléstia aliménta percépimus, per hæc contra ómnia adversa muniámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, almighty God, that we who have received the Bread of heaven, may by it be protected from all adversity.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

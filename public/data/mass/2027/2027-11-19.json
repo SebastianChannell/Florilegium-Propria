@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-11-19",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Elisabeth Viduæ",
+  "rank": "III. classis",
+  "note": "Commemoratio ad Laudes tantum: S. Pontiani Papæ et Martyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:75; 118:120</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ognóvi, Dómine, quia ǽquitas iudícia tua, et in veritáte tua humiliásti me: confíge timóre tuo carnes meas, a mandátis tuis tímui.<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nBeáti immaculáti in via: qui ámbulant in lege Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ognóvi, Dómine, quia ǽquitas iudícia tua, et in veritáte tua humiliásti me: confíge timóre tuo carnes meas, a mandátis tuis tímui."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:75; 118:120</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> know, O Lord, that Your ordinances are just, and in Your faithfulness You have afflicted me. Pierce my flesh with Your fear; I fear Your ordinances.<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nHappy are they whose way is blameless, who walk in the law of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> know, O Lord, that Your ordinances are just, and in Your faithfulness You have afflicted me. Pierce my flesh with Your fear; I fear Your ordinances."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nTuórum corda fidélium, Deus miserátor, illústra: et, beátæ Elisabeth précibus gloriósis; fac nos próspera mundi despícere, et cœlésti semper consolatióne gaudére.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Pontiani Papæ et Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>regem tuum, Pastor ætérne, placátus inténde: et, per beátum Pontiánum Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO merciful God, enlighten the hearts of Your faithful people, and through the glorious prayers of blessed Elizabeth, make us look upon worldly prosperity as nought, and ever rejoice in heavenly consolation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Pontianus, Pope and Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ook forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed Pontianus thy Martyr and Sovereign Pontiff, whom thou didst constitute Shepherd of the whole Church.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Prov 31:10-31</em></span><br>\nMulíerem fortem quis invéniet? Procul et de últimis fínibus prétium eius. Confídit in ea cor viri sui, et spóliis non indigébit. Reddet ei bonum, et non malum, ómnibus diébus vitæ suæ. Quæsívit lanam et linum, et operáta est consílio mánuum suárum. Facta est quasi navis institóris, de longe portans panem suum. Et de nocte surréxit, dedítque prædam domésticis suis, et cibária ancíllis suis. Considerávit agrum, et emit eum: de fructu mánuum suárum plantávit víneam. Accínxit fortitúdine lumbos suos, et roborávit bráchium suum. Gustávit, et vidit, quia bona est negotiátio eius: non exstinguétur in nocte lucérna eius. Manum suam misit ad fórtia, et dígiti eius apprehendérunt fusum. Manum suam apéruit ínopi, et palmas suas exténdit ad páuperem. Non timébit dómui suæ a frigóribus nivis: omnes enim doméstici eius vestíti sunt duplícibus. Stragulátam vestem fecit sibi: byssus et púrpura induméntum eius. Nóbilis in portis vir eius, quando séderit cum senatóribus terræ. Síndonem fecit et véndidit, et cíngulum trádidit Chananǽo. Fortitúdo et decor induméntum eius, et ridébit in die novíssimo. Os suum apéruit sapiéntiæ, et lex cleméntiæ in lingua eius. Considerávit sémitas domus suæ, et panem otiósa non comédit. Surrexérunt fílii eius, et beatíssimam prædicavérunt: vir eius, et laudávit eam. Multæ fíliæ congregavérunt divítias: tu supergréssa es univérsas. Fallax grátia, et vana est pulchritúdo: múlier timens Dóminum, ipsa laudábitur. Date ei de fructu mánuum suárum: et laudent eam in portis ópera eius.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Proverbs<br>\n<span class=\"rubric\"><em>Prov 31:10-31</em></span><br>\nWhen one finds a worthy wife, her value is far beyond pearls. Her husband, entrusting his heart to her, has an unfailing prize. She brings him good, and not evil, all the days of her life. She obtains wool and flax and makes cloth with skillful hands. Like merchant ships, she secures her provisions from afar. She rises while it is still night, and distributes food to her household. She picks out a field to purchase; out of her earnings she plants a vineyard. She is girt about with strength, and sturdy are her arms. She enjoys the success of her dealings; at night her lamp is undimmed. She puts her hands to the distaff, and her fingers ply the spindle. She reaches out her hands to the poor, and extends her arms to the needy. She fears not the snow for her household; all her charges are doubly clothed. She makes her own coverlets; fine linen and purple are her clothing. Her husband is prominent at the city gates as he sits with the elders of the land. She makes garments and sells them, and stocks the merchants with belts. She is clothed with strength and dignity, and she laughs at the days to come. She opens her mouth in wisdom, and on her tongue is kindly counsel. She watches the conduct of her household, and eats not her food in idleness. Her children rise up and praise her; her husband, too, extols her: Many are the women of proven worth, but you have excelled them all. Charm is deceptive and beauty fleeting; the woman who fears the Lord is to be praised. Give her a reward of her labors, and let her works praise her at the city gates.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:3; 44:5</em></span><br>\nDiffúsa est grátia in labiis tuis: proptérea benedíxit te Deus in ætérnum.<br>\n<span class=\"marker\"><em>℣.</em></span> Propter veritátem et mansuetúdinem et iustítiam: et dedúcet te mirabíliter déxtera tua. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 44:5</em></span><br>\nSpécie tua et pulchritúdine tua inténde, próspere procéde et regna. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:3; 44:5</em></span><br>\nGrace is poured out upon your lips; thus God has blessed you forever.<br>\n<span class=\"marker\"><em>℣.</em></span> In the cause of truth and mercy and for the sake of justice: may your right hand show you wondrous deeds. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 44.5</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> In your splendor and your beauty ride on triumphant, and reign. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 13:44-52</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis parábolam hanc: Símile est regnum cœlórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Íterum símile est regnum cœlórum hómini negotiatóri, quærénti bonas margarítas. Invénta autem una pretiósa margaríta, ábiit, et véndidit ómnia, quæ hábuit, et emit eam. Íterum símile est regnum cœlórum sagénæ missæ in mare et ex omni génere píscium congregánti. Quam, cum impléta esset, educéntes, et secus litus sedéntes, elegérunt bonos in vasa, malos autem foras misérunt. Sic erit in consummatióne sǽculi: exíbunt Angeli, et separábunt malos de médio iustórum, et mittent eos in camínum ignis: ibi erit fletus et stridor déntium. Intellexístis hæc ómnia? Dicunt ei: Etiam. Ait illis: Ideo omnis scriba doctus in regno cœlórum símilis est hómini patrifamílias, qui profert de thesáuro suo nova et vétera.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 13:44-52.</em></span><br>\nAt that time, Jesus spoke this parable to His disciples: The kingdom of heaven is like a treasure hidden in a field; he who finds it hides it, and in his joy goes and sells all that he has and buys that field. Again, the kingdom of heaven is like a merchant in search of fine pearls. When he finds a single pearl of great price, he goes and sells all that he has and buys it. Again, the kingdom of heaven is like a net cast into the sea that gathered in fish of every kind. When it was filled, they hauled it out, and sitting down on the beach, they gathered the good fish into vessels, but threw away the bad. So will it be at the end of the world. The angels will go out and separate the wicked from among the just, and will cast them into the furnace of fire, where there will be the weeping, and the gnashing of teeth. Have you understood all these things? They said to Him, Yes. And He said to them, So then, every Scribe instructed in the kingdom of heaven is like a householder who brings forth from his storeroom things new and old.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:3</em></span><br>\nDiffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum, et in sǽculum sǽculi."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:3</em></span><br>\nGrace is poured out upon your lips; thus God has blessed you forever, and for ages of ages."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Pontiani Papæ et Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>blátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut, et gregis tui profíciat ubíque succéssus, et grati fiant nómini tuo, te gubernánte, pastóres.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the service of thy holy people be acceptable to Thee, O Lord, and honorable to thy saints, through whose merits we know that we have received help in trouble.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Pontianus, Pope and Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>y the offered gifts we beseech thee, O Lord, that thou kindly enlighten thy Church, so that thy flock may everywhere progress and prosper, and thy shepherds, under thy guidance may be pleasing to thy name.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 44:8</em></span><br>\nDilexísti iustítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 44:8</em></span><br>\nYou love justice and hate wickedness; therefore God, your God, has anointed you with the oil of gladness above your fellows."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSatiásti, Dómine, famíliam tuam munéribus sacris: eius, quǽsumus, semper interventióne nos réfove, cuius sollémnia celebrámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Pontiani Papæ et Martyris</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>efectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nThou hast fed thy servants, O Lord, with the holy gifts; comfort us ever we pray, by her intercession whose festival we celebrate.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Pontianus, Pope and Martyr</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>eing appeased, O Lord, guide thy Church, which has been nourished by holy refreshment, that under thy direction and powerful rule it may receive increase of liberty and may continue in religious integrity.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

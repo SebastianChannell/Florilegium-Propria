@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-03-15",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Secunda infra Hebdomadam Passionis",
+  "rank": "III. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 55:2</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserére mihi, Dómine, quóniam conculcávit me homo: tota die bellans tribulávit me.<br>\n<span class=\"rubric\"><em>Ps 55:3</em></span><br>\nConculcavérunt me inimíci mei tota die: quóniam multi bellántes advérsum me.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserére mihi, Dómine, quóniam conculcávit me homo: tota die bellans tribulávit me."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 55:2</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ave pity on me, O Lord, for men trample upon me; all the day they press their attack against me.<br>\n<span class=\"rubric\"><em>Ps 55:3</em></span><br>\nMy adversaries trample upon me all the day; yes, many fight against me. -- Have pity on me.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ave pity on me, O Lord, for men trample upon me; all the day they press their attack against me."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSanctífica, quǽsumus, Dómine, nostra ieiúnia: et cunctárum nobis indulgéntiam propítius largíre culpárum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech You, make holy our fasting, and graciously lavish upon us forgiveness for all our sins.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Ionæ Prophétæ.<br>\n<span class=\"rubric\"><em>Ionæ 3:1-10</em></span><br>\nIn diébus illis: Factum est verbum Dómini ad Ionam Prophétam secúndo, dicens: Surge, et vade in Níniven civitátem magnam: et prǽdica in ea prædicatiónem, quam ego loquor ad te. Et surréxit Ionas, et ábiit in Níniven iuxta verbum Dómini. Et Nínive erat civitas magna itínere trium diérum. Et cœpit Ionas introíre in civitátem itínere diéi uníus: et clamávit et dixit: Adhuc quadragínta dies, et Nínive subvertétur. Et credidérunt viri Ninivítæ in Deum: et prædicavérunt ieiúnium, et vestíti sunt saccis a maiore usque ad minórem. Et pervénit verbum ad regem Nínive: et surréxit de sólio suo, et abiécit vestiméntum suum a se, et indútus est sacco, et sedit in cínere. Et clamávit et dixit in Nínive ex ore regis et príncipum eius, dicens: Hómines et iuménta et boves et pécora non gustent quidquam: nec pascántur, et aquam non bibant. Et operiántur saccis hómines et iuménta, et clament ad Dóminum in fortitúdine, et convertátur vir a via sua mala, et ab iniquitáte, quæ est in mánibus eórum. Quis scit, si convertátur et ignóscat Deus: et revertátur a furóre iræ suæ, et non períbimus? Et vidit Deus ópera eórum, quia convérsi sunt de via sua mala: et misértus est pópulo suo Dóminus, Deus noster.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Prophecy of Jonas<br>\n<span class=\"rubric\"><em>Jonas 3:1-10</em></span><br>\nIn those days, the word of the Lord came to Jona a second time: Set out for the great city of Ninive, and announce to it the message that I will tell you. So Jona made ready and went to Ninive, according to the Lord’s bidding. Now Ninive was an enormously large city; it took three days to go through it. Jona began his journey through the city, and had gone but a single day’s walk announcing, Forty days more and Ninive shall be destroyed, when the people of Ninive believed God; they proclaimed a fast and all of them, great and small, put on sackcloth. When the news reached the King of Ninive, he rose from his throne, laid aside his robe, covered himself with sackcloth, and sat in the ashes. Then he had this proclaimed throughout Ninive, by decree of the king and his nobles: Neither man nor beast, neither cattle nor sheep, shall taste anything; they shall not eat, nor shall they drink water. Man and beast shall be covered with sackcloth and call loudly to God; every man shall turn from his evil way and from violence he has in hand. Who knows, God may relent and forgive, and withhold His blazing wrath, so that we shall not perish. And God saw by their actions how they turned from their evil way; and the Lord, our God, had mercy upon His people.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 53:4, 3</em></span><br>\nDeus, exáudi oratiónem meam: áuribus pércipe verba oris mei.<br>\n<span class=\"marker\"><em>℣.</em></span> Deus, in nómine tuo salvum me fac, et in virtúte tua líbera me.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adiuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 53:4, 3</em></span><br>\nO God, hear my prayer; hearken to the words of my mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> O God, by Your Name save me, and by your might deliver me.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 7:32-39</em></span><br>\nIn illo témpore: Misérunt príncipes et pharisǽi minístros, ut apprehénderent Iesum. Dixit ergo eis Iesus: Adhuc módicum tempus vobíscum sum: et vado ad eum, qui me misit. Quærétis me, et non inveniétis: et ubi ego sum, vos non potéstis veníre. Dixérunt ergo Iudǽi ad semetípsos: Quo hic itúrus est, quia non inveniémus eum? numquid in dispersiónem géntium itúrus est, et doctúrus gentes? Quis est hic sermo, quem dixit: Quærétis me, et non inveniétis: et ubi sum ego, vos non potéstis veníre? In novíssimo autem die magno festivitátis stabat Iesus, et clamábat, dicens: Si quis sitit, véniat ad me et bibat. Qui credit in me, sicut dicit Scriptúra, flúmina de ventre eius fluent aquæ vivæ. Hoc autem dixit de Spíritu, quem acceptúri erant credéntes in eum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 7:32-39</em></span><br>\nAt that time, the rulers and Pharisees sent attendants to seize Jesus. Jesus then said, Yet a little while I am with you, and then I go to Him Who sent Me. You will seek Me and will not find Me; and where I am you cannot come. The Jews therefore said among themselves, Where is He going that we shall not find Him? Will He go to those dispersed among the Gentiles , and teach the Gentiles? What is this statement that He has made, ‘You will seek Me and will not find Me, and where I am you cannot come’? Now on the last, the great day of the feast, Jesus stood and cried out, saying, If anyone thirst, let him come to Me and drink. He who believes in Me, as the Scripture says, ‘From within him there shall flow rivers of living waters.’ He said this, however, of the Spirit Whom they who believed in Him were to receive.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 6:5</em></span><br>\nDómine, convértere, et éripe ánimam meam: salvum me fac propter misericórdiam tuam."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 6:5</em></span><br>\nReturn, O Lord, save my life; rescue me because of Your kindness."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Concéde nobis, Dómine, Deus noster: ut hæc hóstia salutáris et nostrórum fiat purgátio delictórum, et tuæ propitiátio maiestátis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant us, O Lord our God, that this saving sacrifice may cleanse us of our sins and gain us the favor of Your majesty.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Sancta Cruce</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui salútem humáni géneris in ligno Crucis constituísti: ut, unde mors oriebátur, inde vita resúrgeret: et, qui in ligno vincébat, in ligno quoque vincerétur: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Cross</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who didst establish the salvation of mankind on the tree of the Cross; that whence death came, thence also life might arise again, and that he, who overcame by the tree, by the tree also might be overcome: Through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 23:10</em></span><br>\nDóminus virtútum ipse est Rex glóriæ."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 23:10</em></span><br>\nThe Lord of Hosts, He is the King of Glory."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSacraménti tui, quǽsumus, Dómine, participátio salutáris, et purificatiónem nobis tríbuat, et medélam.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>a, quǽsumus, Dómine, pópulo tuo salútem mentis et córporis: ut, bonis opéribus inhæréndo, tua semper mereátur protectióne deféndi.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the sacrament of salvation which we have received, we beseech You, O Lord, cleanse and restore us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, we beseech You, grant unto Your people health of soul and body, that, by persevering in good works, we may be always worthy of Your powerful protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

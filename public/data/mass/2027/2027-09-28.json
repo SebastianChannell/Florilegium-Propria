@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-09-28",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Wenceslai Ducis et Martyris",
+  "rank": "III. classis",
+  "note": "Scriptura: Feria Tertia infra Hebdomadam XIX post Octavam Pentecostes IV. Septembris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n virtúte tua, Dómine, lætábitur iustus: et super salutáre tuum exsultábit veheménter: desidérium ánimæ eius tribuísti ei.<br>\n<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nQuóniam prævenísti eum in benedictiónibus dulcédinis: posuísti in cápite eius corónam de lápide pretióso.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n virtúte tua, Dómine, lætábitur iustus: et super salutáre tuum exsultábit veheménter: desidérium ánimæ eius tribuísti ei."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n thy strength, O Lord, the king shall joy; and in thy salvation he shall rejoice exceedingly. Thou hast given him his heart's desire.<br>\n<span class=\"rubric\"><em>Ps 20:4</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>or thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n thy strength, O Lord, the king shall joy; and in thy salvation he shall rejoice exceedingly. Thou hast given him his heart's desire."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui beátum Wencesláum per martýrii palmam a terréno principátu ad cœléstem glóriam transtulísti: eius précibus nos ab omni adversitáte custódi; et eiúsdem tríbue gaudére consórtio.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who through the palm of martyrdom transported blessed Wenceslaus from an earthly dominion unto heavenly glory, keep us, by his prayers, from all harm and grant us to rejoice in his fellowship.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Sap 10:10-14</em></span><br>\nIustum dedúxit Dóminus per vias rectas, et ostendit illi regnum Dei, et dedit illi sciéntiam sanctórum: honestávit illum in labóribus, et complévit labores illíus. In fraude circumveniéntium illum áffuit illi, et honéstum fecit illum. Custodívit illum ab inimícis, et a seductóribus tutávit illum, et certámen forte dedit illi, ut vínceret et sciret, quóniam ómnium poténtior est sapiéntia. Hæc vénditum iustum non derelíquit, sed a peccatóribus liberávit eum: descendítque cum illo in fóveam, et in vínculis non derelíquit illum, donec afférret illi sceptrum regni, et poténtiam advérsus eos, qui eum deprimébant: et mendáces osténdit, qui maculavérunt illum, et dedit illi claritátem ætérnam, Dóminus, Deus noster.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Wisdom<br>\n<span class=\"rubric\"><em>Wis 10:10-14</em></span><br>\nShe conducted the just, when he fled from his brother's wrath, through the right ways, and shewed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours. In the deceit of them that overreached him, she stood by him, and made him honourable. She kept him safe from his enemies, and she defended him from seducers, and gave him a strong conflict, that he might overcome, and know that wisdom is mightier than all. She forsook not the just when he was sold, but delivered him from sinners: she went down with him into the pit. And in bands she left him not, till she brought him the sceptre of the kingdom, and power against those that oppressed him: and shewed them to be liars that had accused him, and gave him everlasting glory.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 111:1-2</em></span><br>\nBeátus vir, qui timet Dóminum: in mandátis eius cupit nimis.<br>\n<span class=\"marker\"><em>℣.</em></span> Potens in terra erit semen eius: generátio rectórum benedicétur.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nPosuísti, Dómine, super caput eius corónam de lápide pretióso. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 111:1-2</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>lessed is the man that feareth the Lord: he shall delight exceedingly in his commandments. His seed shall be mighty upon earth: the generation of the righteous shall be blessed. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 20:4</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>or thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones. Allelúja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 10:34-42</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Nolíte arbitrári, quia pacem vénerim míttere in terram: non veni pacem míttere, sed gládium. Veni enim separáre hóminem advérsus patrem suum, et fíliam advérsus matrem suam, et nurum advérsus socrum suam: et inimíci hóminis doméstici eius. Qui amat patrem aut matrem plus quam me, non est me dignus: et qui amat fílium aut fíliam super me, non est me dignus. Et qui non áccipit crucem suam, et séquitur me, non est me dignus. Qui invénit ánimam suam, perdet illam: et qui perdíderit ánimam suam propter me, invéniet eam. Qui récipit vos, me récipit: et qui me récipit, récipit eum, qui me misit. Qui récipit prophétam in nómine prophétæ, mercédem prophétæ accípiet: et qui récipit iustum in nómine iusti, mercédem iusti accípiet. Et quicúmque potum déderit uni ex mínimis istis cálicem aquæ frígidæ tantum in nómine discípuli: amen, dico vobis, non perdet mercédem suam.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 10:34-42</em></span><br>\nIn that time: Jesus said to his disciples: Do not think that I came to send peace upon earth: I came not to send peace, but the sword. For I came to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law. And as a man's enemies shall be they of his own household. He that loveth father or mother more than me, is not worthy of me; and he that loveth son or daughter more than me, is not worthy of me. And he that taketh not up his cross, and followeth me, is not worthy of me. He that findeth his life, shall lose it: and he that shall lose his life for me, shall find it. He that receiveth you, receiveth me: and he that receiveth me, receiveth him that sent me. He that receiveth a prophet in the name of a prophet, shall receive the reward of a prophet: and he that receiveth a just man in the name of a just man, shall receive the reward of a just man. And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you, he shall not lose his reward.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nGlória et honóre coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hou hast made him a little less than the angels, thou hast crowned him with glory and honour: and hast set him over the works of thy hands."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Munéribus nostris, quǽsumus, Dómine, precibúsque suscéptis: et cœléstibus nos munda mystériis, et cleménter exáudi.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "As thou hast received our gifts and prayers, O Lord, cleanse us, we ask by thy heavenly mysteries, and graciously hear us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 16:24</em></span><br>\nQui vult veníre post me, ábneget semetípsum, et tollat crucem suam, et sequátur me."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 16:24</em></span><br>\nHe who wishes to come after Me, let him deny himself, and take up his cross, and follow Me."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDa, quǽsumus, Dómine, Deus noster: ut, sicut tuórum commemoratióne Sanctórum temporáli gratulámur offício; ita perpétuo lætémur aspéctu.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech thee, O our God, that we who in time render joyful service in memory of thy saints, may be gladdened by their company in eternity.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

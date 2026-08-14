@@ -1,0 +1,2568 @@
+{
+  "schemaVersion": 1,
+  "year": 2026,
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  },
+  "days": {
+    "2026-01-01": {
+      "title": "In Circumcisione Domini",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-01.json"
+    },
+    "2026-01-02": {
+      "title": "Die Secunda Januarii",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-02.json"
+    },
+    "2026-01-03": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-03.json"
+    },
+    "2026-01-04": {
+      "title": "Sanctissimi Nominis Jesu",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-04.json"
+    },
+    "2026-01-05": {
+      "title": "Die Quinta Januarii",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Telesphori Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-05.json"
+    },
+    "2026-01-06": {
+      "title": "In Epiphania Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-06.json"
+    },
+    "2026-01-07": {
+      "title": "Die Septima Januarii",
+      "rank": "IV. classis",
+      "note": "Scriptura: Ad Romános, cap. 9",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-07.json"
+    },
+    "2026-01-08": {
+      "title": "Die Octava Januarii",
+      "rank": "IV. classis",
+      "note": "Scriptura: Ad Romános, cap. 12",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-08.json"
+    },
+    "2026-01-09": {
+      "title": "Die Nona Januarii",
+      "rank": "IV. classis",
+      "note": "Scriptura: Ad Romános, cap. 13",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-09.json"
+    },
+    "2026-01-10": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Ad Romános, cap. 14",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-10.json"
+    },
+    "2026-01-11": {
+      "title": "Sanctæ Familiæ Jesu Mariæ Joseph",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-11.json"
+    },
+    "2026-01-12": {
+      "title": "Die Duodecima Januarii",
+      "rank": "IV. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam I post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-12.json"
+    },
+    "2026-01-13": {
+      "title": "Commemoratio Baptismatis Domini Nostri Jesu Christi",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam I post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-13.json"
+    },
+    "2026-01-14": {
+      "title": "S. Hilarii Episcopi Confessoris Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Felicis Presbyteri et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-14.json"
+    },
+    "2026-01-15": {
+      "title": "S. Pauli Primi Eremitæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Mauri Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-15.json"
+    },
+    "2026-01-16": {
+      "title": "S. Marcelli Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam I post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-16.json"
+    },
+    "2026-01-17": {
+      "title": "S. Antonii Abbatis",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam I post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-17.json"
+    },
+    "2026-01-18": {
+      "title": "Dominica II post Epiphaniam",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-18.json"
+    },
+    "2026-01-19": {
+      "title": "Feria II infra Hebdomadam II post Epiphaniam",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Marii, Marthæ, Audifacis, et Abachum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-19.json"
+    },
+    "2026-01-20": {
+      "title": "Ss. Fabiani et Sebastiani Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam II post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-20.json"
+    },
+    "2026-01-21": {
+      "title": "S. Agnetis Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam II post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-21.json"
+    },
+    "2026-01-22": {
+      "title": "Ss. Vincentii et Anastasii Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam II post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-22.json"
+    },
+    "2026-01-23": {
+      "title": "S. Raymundi de Peñafort Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virgini et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-23.json"
+    },
+    "2026-01-24": {
+      "title": "S. Timothei Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam II post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-24.json"
+    },
+    "2026-01-25": {
+      "title": "Dominica III Post Epiphaniam",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-25.json"
+    },
+    "2026-01-26": {
+      "title": "S. Polycarpi Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam III post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-26.json"
+    },
+    "2026-01-27": {
+      "title": "S. Joannis Chrysostomi Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam III post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-27.json"
+    },
+    "2026-01-28": {
+      "title": "S. Petri Nolasci Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Agnetis Virginis et Martyris secundo",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-28.json"
+    },
+    "2026-01-29": {
+      "title": "S. Francisci Salesii Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam III post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-29.json"
+    },
+    "2026-01-30": {
+      "title": "S. Martinæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam III post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-30.json"
+    },
+    "2026-01-31": {
+      "title": "S. Joannis Bosco Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam III post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-01-31.json"
+    },
+    "2026-02-01": {
+      "title": "Dominica in Septuagesima",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-01.json"
+    },
+    "2026-02-02": {
+      "title": "In Purificatione Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam Septuagesimæ",
+      "sectionCount": 15,
+      "path": "/data/mass/2026/2026-02-02.json"
+    },
+    "2026-02-03": {
+      "title": "Feria III infra Hebdomadam Septuagesimæ",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Blasii Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-03.json"
+    },
+    "2026-02-04": {
+      "title": "S. Andreæ Corsini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-04.json"
+    },
+    "2026-02-05": {
+      "title": "S. Agathæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-05.json"
+    },
+    "2026-02-06": {
+      "title": "S. Titi Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Dorothæ Virginis et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-06.json"
+    },
+    "2026-02-07": {
+      "title": "S. Romualdi Abbatis",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-07.json"
+    },
+    "2026-02-08": {
+      "title": "Dominica in Sexagesima",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-08.json"
+    },
+    "2026-02-09": {
+      "title": "S. Cyrilli Episc. Alexandrini Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Appolloniæ Virginis et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-09.json"
+    },
+    "2026-02-10": {
+      "title": "S. Scholasticæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam Sexagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-10.json"
+    },
+    "2026-02-11": {
+      "title": "In Apparitione Beatæ Mariæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam Sexagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-11.json"
+    },
+    "2026-02-12": {
+      "title": "Ss. Septem Fundatorum Ordinis Servorum B. M. V.",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam Sexagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-12.json"
+    },
+    "2026-02-13": {
+      "title": "Feria VI infra Hebdomadam Sexagesimæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-13.json"
+    },
+    "2026-02-14": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Valentini Presbyteri et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-14.json"
+    },
+    "2026-02-15": {
+      "title": "Dominica in Quinquagesima",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-15.json"
+    },
+    "2026-02-16": {
+      "title": "Feria II infra Hebdomadam Quinquagesimæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-16.json"
+    },
+    "2026-02-17": {
+      "title": "Feria III infra Hebdomadam Quinquagesimæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-17.json"
+    },
+    "2026-02-18": {
+      "title": "Feria IV Cinerum",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 13,
+      "path": "/data/mass/2026/2026-02-18.json"
+    },
+    "2026-02-19": {
+      "title": "Feria V post Cineres",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-19.json"
+    },
+    "2026-02-20": {
+      "title": "Feria VI post Cineres",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-20.json"
+    },
+    "2026-02-21": {
+      "title": "Sabbato post Cineres",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-21.json"
+    },
+    "2026-02-22": {
+      "title": "Dominica I in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-22.json"
+    },
+    "2026-02-23": {
+      "title": "Feria Secunda infra Hebdomadam I in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Petri Damiani Episcopi Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-23.json"
+    },
+    "2026-02-24": {
+      "title": "S. Matthiæ Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio: Feria Tertia infra Hebdomadam I in Quadragesima",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-24.json"
+    },
+    "2026-02-25": {
+      "title": "Feria Quarta Quatuor Temporum Quadragesimæ",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-25.json"
+    },
+    "2026-02-26": {
+      "title": "Feria Quinta infra Hebdomadam I in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-26.json"
+    },
+    "2026-02-27": {
+      "title": "Feria Sexta Quattuor Temporum",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Gabrielis a Virgine Perdolente Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-27.json"
+    },
+    "2026-02-28": {
+      "title": "Sabbato Quattuor Temporum Quadrageismæ",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-02-28.json"
+    },
+    "2026-03-01": {
+      "title": "Dominica II in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-01.json"
+    },
+    "2026-03-02": {
+      "title": "Feria Secunda infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-02.json"
+    },
+    "2026-03-03": {
+      "title": "Feria Tertia infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-03.json"
+    },
+    "2026-03-04": {
+      "title": "Feria Quarta infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Casimiri Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-04.json"
+    },
+    "2026-03-05": {
+      "title": "Feria Quinta infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-05.json"
+    },
+    "2026-03-06": {
+      "title": "Feria Sexta infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : Ss. Perpetuæ et Felicitatis Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-06.json"
+    },
+    "2026-03-07": {
+      "title": "Sabbato infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Thomæ de Aquino Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-07.json"
+    },
+    "2026-03-08": {
+      "title": "Dominica III in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-08.json"
+    },
+    "2026-03-09": {
+      "title": "Feria Secunda infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Franciscæ Romanæ Viduæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-09.json"
+    },
+    "2026-03-10": {
+      "title": "Feria Tertia infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : Ss. Quadraginta Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-10.json"
+    },
+    "2026-03-11": {
+      "title": "Feria Quarta infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-11.json"
+    },
+    "2026-03-12": {
+      "title": "Feria Quinta infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-12.json"
+    },
+    "2026-03-13": {
+      "title": "Feria Sexta infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-13.json"
+    },
+    "2026-03-14": {
+      "title": "Sabbato infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-14.json"
+    },
+    "2026-03-15": {
+      "title": "Dominica IV in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-15.json"
+    },
+    "2026-03-16": {
+      "title": "Feria Secunda infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-16.json"
+    },
+    "2026-03-17": {
+      "title": "Feria Tertia infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Patricii Episcopi et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-17.json"
+    },
+    "2026-03-18": {
+      "title": "Feria Quarta infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Cyrilli Episcopi Hierosolymitani Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-18.json"
+    },
+    "2026-03-19": {
+      "title": "S. Joseph Sponsi B.M.V. Confessoris",
+      "rank": "I. classis",
+      "note": "Commemoratio: Feria Quinta infra Hebdomadam IV in Quadragesima",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-19.json"
+    },
+    "2026-03-20": {
+      "title": "Feria Sexta infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-20.json"
+    },
+    "2026-03-21": {
+      "title": "Sabbato infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Benedicti Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-21.json"
+    },
+    "2026-03-22": {
+      "title": "Dominica de Passione",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-22.json"
+    },
+    "2026-03-23": {
+      "title": "Feria Secunda infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-23.json"
+    },
+    "2026-03-24": {
+      "title": "Feria Tertia infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Gabrielis Archangeli",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-24.json"
+    },
+    "2026-03-25": {
+      "title": "In Annuntiatione Beate Mariæ Virgine",
+      "rank": "I. classis",
+      "note": "Commemoratio: Feria Quarta infra Hebdomadam Passionis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-25.json"
+    },
+    "2026-03-26": {
+      "title": "Feria Quinta infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-26.json"
+    },
+    "2026-03-27": {
+      "title": "Feria Sexta infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Joannis Damasceni Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-27.json"
+    },
+    "2026-03-28": {
+      "title": "Sabbato infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Joannis a Capistrano Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-28.json"
+    },
+    "2026-03-29": {
+      "title": "Dominica II Passionis seu in Palmis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 18,
+      "path": "/data/mass/2026/2026-03-29.json"
+    },
+    "2026-03-30": {
+      "title": "Feria Secunda Hebdomadæ Sanctæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-30.json"
+    },
+    "2026-03-31": {
+      "title": "Feria Tertia Hebdomadæ Sanctæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-03-31.json"
+    },
+    "2026-04-01": {
+      "title": "Feria Quarta Hebdomadæ Sanctæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-01.json"
+    },
+    "2026-04-02": {
+      "title": "De missa chrismatis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-02.json"
+    },
+    "2026-04-03": {
+      "title": "Feria Sexta in Passione et Morte Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 5,
+      "path": "/data/mass/2026/2026-04-03.json"
+    },
+    "2026-04-04": {
+      "title": "Sabbato Sancto",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 28,
+      "path": "/data/mass/2026/2026-04-04.json"
+    },
+    "2026-04-05": {
+      "title": "Dominica Resurrectionis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-05.json"
+    },
+    "2026-04-06": {
+      "title": "Die II infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-06.json"
+    },
+    "2026-04-07": {
+      "title": "Die III infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-07.json"
+    },
+    "2026-04-08": {
+      "title": "Die IV infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-08.json"
+    },
+    "2026-04-09": {
+      "title": "Die V infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-09.json"
+    },
+    "2026-04-10": {
+      "title": "Die VI infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-10.json"
+    },
+    "2026-04-11": {
+      "title": "Sabbato in Albis",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-11.json"
+    },
+    "2026-04-12": {
+      "title": "Dominica in Albis in Octava Paschæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-12.json"
+    },
+    "2026-04-13": {
+      "title": "S. Hermenegildi Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam I post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-13.json"
+    },
+    "2026-04-14": {
+      "title": "S. Justini Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Tiburtii, Valeriani, et Maximi Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-14.json"
+    },
+    "2026-04-15": {
+      "title": "Feria Quarta infra Hebdomadam I post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-15.json"
+    },
+    "2026-04-16": {
+      "title": "Feria Quinta infra Hebdomadam I post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-16.json"
+    },
+    "2026-04-17": {
+      "title": "Feria Sexta infra Hebdomadam I post Octavam Paschae",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Aniceti Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-17.json"
+    },
+    "2026-04-18": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam I post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-18.json"
+    },
+    "2026-04-19": {
+      "title": "Dominica II Post Pascha",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-19.json"
+    },
+    "2026-04-20": {
+      "title": "Feria Secunda infra Hebdomadam II post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-20.json"
+    },
+    "2026-04-21": {
+      "title": "S. Anselmi Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam II post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-21.json"
+    },
+    "2026-04-22": {
+      "title": "SS. Soteris et Caji Summorum Pontificum et Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam II post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-22.json"
+    },
+    "2026-04-23": {
+      "title": "Feria Quinta infra Hebdomadam II post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Georgii Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-23.json"
+    },
+    "2026-04-24": {
+      "title": "S. Fidelis de Sigmaringa Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam II post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-24.json"
+    },
+    "2026-04-25": {
+      "title": "S. Marci Evangelistæ",
+      "rank": "II. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam II post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-25.json"
+    },
+    "2026-04-26": {
+      "title": "Dominica III Post Pascha",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-26.json"
+    },
+    "2026-04-27": {
+      "title": "S. Petri Canisii Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-27.json"
+    },
+    "2026-04-28": {
+      "title": "S. Pauli a Cruce Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-28.json"
+    },
+    "2026-04-29": {
+      "title": "S. Petri Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-29.json"
+    },
+    "2026-04-30": {
+      "title": "S. Catharinæ Senensis Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-04-30.json"
+    },
+    "2026-05-01": {
+      "title": "S. Joseph Opificis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-01.json"
+    },
+    "2026-05-02": {
+      "title": "S. Athanasii Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-02.json"
+    },
+    "2026-05-03": {
+      "title": "Dominica IV Post Pascha",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-03.json"
+    },
+    "2026-05-04": {
+      "title": "S. Monicæ Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-04.json"
+    },
+    "2026-05-05": {
+      "title": "S. Pii V Papæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-05.json"
+    },
+    "2026-05-06": {
+      "title": "Feria Quarta infra Hebdomadam IV post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-06.json"
+    },
+    "2026-05-07": {
+      "title": "S. Stanislai Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-07.json"
+    },
+    "2026-05-08": {
+      "title": "Feria Sexta infra Hebdomadam IV post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-08.json"
+    },
+    "2026-05-09": {
+      "title": "S. Gregorii Nazianzeni Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-09.json"
+    },
+    "2026-05-10": {
+      "title": "Dominica V Post Pascha",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-10.json"
+    },
+    "2026-05-11": {
+      "title": "Ss. Philippi et Jacobi Apostolorum",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Secunda in Rogationibus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-11.json"
+    },
+    "2026-05-12": {
+      "title": "Ss. Nerei, Achillei et Domitillæ Virg. atque Pancratii Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia in Rogationibus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-12.json"
+    },
+    "2026-05-13": {
+      "title": "In Vigilia Ascensionis",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Roberti Bellarmino Episcopi Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-13.json"
+    },
+    "2026-05-14": {
+      "title": "In Ascensione Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-14.json"
+    },
+    "2026-05-15": {
+      "title": "S. Joannis Baptistæ de la Salle Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-15.json"
+    },
+    "2026-05-16": {
+      "title": "S. Ubaldi Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-16.json"
+    },
+    "2026-05-17": {
+      "title": "Dominica post Ascensionem",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-17.json"
+    },
+    "2026-05-18": {
+      "title": "S. Venantii Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria II post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-18.json"
+    },
+    "2026-05-19": {
+      "title": "S. Petri Celestini Papæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Pudentianæ Virginis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-19.json"
+    },
+    "2026-05-20": {
+      "title": "S. Bernardini Senensis Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-20.json"
+    },
+    "2026-05-21": {
+      "title": "Feria V infra Hebdomadam post Ascensionem",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-21.json"
+    },
+    "2026-05-22": {
+      "title": "Feria VI infra Hebdomadam post Ascensionem",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-22.json"
+    },
+    "2026-05-23": {
+      "title": "Sabbato in Vigilia Pentecostes",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-23.json"
+    },
+    "2026-05-24": {
+      "title": "Dominica Pentecostes",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-24.json"
+    },
+    "2026-05-25": {
+      "title": "Die II infra octavam Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-25.json"
+    },
+    "2026-05-26": {
+      "title": "Die III infra octavam Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-26.json"
+    },
+    "2026-05-27": {
+      "title": "Feria Quarta Quattuor Temporum Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-27.json"
+    },
+    "2026-05-28": {
+      "title": "Die Quinta infra octavam Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-28.json"
+    },
+    "2026-05-29": {
+      "title": "Feria Sexta Quattuor temporum Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-29.json"
+    },
+    "2026-05-30": {
+      "title": "Sabbato Quattuor Temporum Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-30.json"
+    },
+    "2026-05-31": {
+      "title": "Dominica Sanctissimæ Trinitatis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-05-31.json"
+    },
+    "2026-06-01": {
+      "title": "S. Angelæ Mericiæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam I post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-01.json"
+    },
+    "2026-06-02": {
+      "title": "Feria Tertia infra Hebdomadam I post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Marcellini, Petri, atque Erasmi, Episcopi, Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-02.json"
+    },
+    "2026-06-03": {
+      "title": "Feria Quarta infra Hebdomadam I post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-03.json"
+    },
+    "2026-06-04": {
+      "title": "Festum Sanctissimi Corporis Christi",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-04.json"
+    },
+    "2026-06-05": {
+      "title": "S. Bonifatii Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam I post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-05.json"
+    },
+    "2026-06-06": {
+      "title": "S. Norberti Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam I post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-06.json"
+    },
+    "2026-06-07": {
+      "title": "Dominica II Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-07.json"
+    },
+    "2026-06-08": {
+      "title": "Feria II infra Hebdomadam II post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-08.json"
+    },
+    "2026-06-09": {
+      "title": "Feria III infra Hebdomadam II post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Primi et Feliciani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-09.json"
+    },
+    "2026-06-10": {
+      "title": "S. Margaritæ Reginæ Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam II post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-10.json"
+    },
+    "2026-06-11": {
+      "title": "S. Barnabæ Apostoli",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam II post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-11.json"
+    },
+    "2026-06-12": {
+      "title": "Sacratissimi Cordis Domini Nostri Jesu Christi",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-12.json"
+    },
+    "2026-06-13": {
+      "title": "S. Antonii de Padua Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam II post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-13.json"
+    },
+    "2026-06-14": {
+      "title": "Dominica III Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-14.json"
+    },
+    "2026-06-15": {
+      "title": "Feria secunda infra Hebdomadam III post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Viti, Modesti atque Crescentiæ Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-15.json"
+    },
+    "2026-06-16": {
+      "title": "Feria tertia infra Hebdomadam III post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-16.json"
+    },
+    "2026-06-17": {
+      "title": "S. Gregorii Barbadici Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam III post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-17.json"
+    },
+    "2026-06-18": {
+      "title": "S. Ephræm Syri Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: SS. Marci et Marcelliani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-18.json"
+    },
+    "2026-06-19": {
+      "title": "S. Julianæ de Falconeriis Virginis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Gervasii et Protasii Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-19.json"
+    },
+    "2026-06-20": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Silverii Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-20.json"
+    },
+    "2026-06-21": {
+      "title": "Dominica IV Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-21.json"
+    },
+    "2026-06-22": {
+      "title": "S. Paulini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam IV post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-22.json"
+    },
+    "2026-06-23": {
+      "title": "In Vigilia S. Joannis Baptistæ",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria tertia infra Hebdomadam IV post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-23.json"
+    },
+    "2026-06-24": {
+      "title": "In Nativitate S. Joannis Baptistæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-24.json"
+    },
+    "2026-06-25": {
+      "title": "S. Gulielmi Abbatis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam IV post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-25.json"
+    },
+    "2026-06-26": {
+      "title": "Ss. Joannis et Pauli Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria sexta infra Hebdomadam IV post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-26.json"
+    },
+    "2026-06-27": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam IV post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-27.json"
+    },
+    "2026-06-28": {
+      "title": "Dominica V Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-28.json"
+    },
+    "2026-06-29": {
+      "title": "SS. Apostolorum Petri et Pauli",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-29.json"
+    },
+    "2026-06-30": {
+      "title": "In Commemoratione S. Pauli Apostoli",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria tertia infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-06-30.json"
+    },
+    "2026-07-01": {
+      "title": "Pretiosissimi Sanguinis Domini Nostri Jesu Christi",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-01.json"
+    },
+    "2026-07-02": {
+      "title": "In Visitatione B. Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Processi et Martiniani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-02.json"
+    },
+    "2026-07-03": {
+      "title": "S. Irenæi Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria sexta infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-03.json"
+    },
+    "2026-07-04": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-04.json"
+    },
+    "2026-07-05": {
+      "title": "Dominica VI Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-05.json"
+    },
+    "2026-07-06": {
+      "title": "Feria secunda infra Hebdomadam VI post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-06.json"
+    },
+    "2026-07-07": {
+      "title": "Ss. Cyrilli et Methodii Pont. et Conf.",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria tertia infra Hebdomadam VI post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-07.json"
+    },
+    "2026-07-08": {
+      "title": "S. Elisabeth Reg. Portugaliæ Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam VI post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-08.json"
+    },
+    "2026-07-09": {
+      "title": "Feria quinta infra Hebdomadam VI post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-09.json"
+    },
+    "2026-07-10": {
+      "title": "Ss. Septem Fratrum Martyrum, ac Rufinæ et Secundæ Virginum et Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria sexta infra Hebdomadam VI post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-10.json"
+    },
+    "2026-07-11": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Pii I Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-11.json"
+    },
+    "2026-07-12": {
+      "title": "Dominica VII Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-12.json"
+    },
+    "2026-07-13": {
+      "title": "Feria secunda infra Hebdomadam VII post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-13.json"
+    },
+    "2026-07-14": {
+      "title": "S. Bonaventuræ Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria tertia infra Hebdomadam VII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-14.json"
+    },
+    "2026-07-15": {
+      "title": "S. Henrici Imperatoris Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam VII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-15.json"
+    },
+    "2026-07-16": {
+      "title": "Beatæ Mariæ Virginis de Monte Carmelo",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam VII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-16.json"
+    },
+    "2026-07-17": {
+      "title": "Feria sexta infra Hebdomadam VII post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Alexii Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-17.json"
+    },
+    "2026-07-18": {
+      "title": "S. Camilli de Lellis Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Symphorosæ et Septem Filiorum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-18.json"
+    },
+    "2026-07-19": {
+      "title": "Dominica VIII Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-19.json"
+    },
+    "2026-07-20": {
+      "title": "S. Hieronymi Æmiliani Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Margaritæ, Virg. et Mart.",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-20.json"
+    },
+    "2026-07-21": {
+      "title": "S. Laurentii a Brundusio Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Praxedis Virginis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-21.json"
+    },
+    "2026-07-22": {
+      "title": "S. Mariæ Magdalenæ Pœnitentis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam VIII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-22.json"
+    },
+    "2026-07-23": {
+      "title": "S. Apollinaris Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Liborii Episcopi et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-23.json"
+    },
+    "2026-07-24": {
+      "title": "Feria sexta infra Hebdomadam VIII post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Christinæ Virginis et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-24.json"
+    },
+    "2026-07-25": {
+      "title": "S. Jacobi Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Christophori Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-25.json"
+    },
+    "2026-07-26": {
+      "title": "Dominica IX Post Pentecosten",
+      "rank": "II. classis",
+      "note": "Commemoratio: S. Annæ Matris B.M.V.",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-26.json"
+    },
+    "2026-07-27": {
+      "title": "Feria secunda infra Hebdomadam IX post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Pantaleonis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-27.json"
+    },
+    "2026-07-28": {
+      "title": "Ss. Nazarii et Celsi Martyrum, Victoris I Papæ et Martyris ac Innocentii I Papæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria tertia infra Hebdomadam IX post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-28.json"
+    },
+    "2026-07-29": {
+      "title": "S. Marthæ Virginis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-29.json"
+    },
+    "2026-07-30": {
+      "title": "Feria quinta infra Hebdomadam IX post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Abdon et Sennen Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-30.json"
+    },
+    "2026-07-31": {
+      "title": "S. Ignatii Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria sexta infra Hebdomadam IX post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-07-31.json"
+    },
+    "2026-08-01": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Martyrum Machabæorum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-01.json"
+    },
+    "2026-08-02": {
+      "title": "Dominica X Post Pentecosten I. Augusti",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-02.json"
+    },
+    "2026-08-03": {
+      "title": "Feria secunda infra Hebdomadam X post Octavam Pentecostes I. Augusti",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-03.json"
+    },
+    "2026-08-04": {
+      "title": "S. Dominici Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria tertia infra Hebdomadam X post Octavam Pentecostes I. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-04.json"
+    },
+    "2026-08-05": {
+      "title": "S. Mariæ ad Nives",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam X post Octavam Pentecostes I. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-05.json"
+    },
+    "2026-08-06": {
+      "title": "In Transfiguratione Domini Nostri Jesu Christi",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Xysti II Papæ, Felicissimi et Agapiti Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-06.json"
+    },
+    "2026-08-07": {
+      "title": "S. Cajetani Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Donati Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-07.json"
+    },
+    "2026-08-08": {
+      "title": "S. Joannis Mariæ Vianney Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Cyriaci, Largi et Smaragdi Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-08.json"
+    },
+    "2026-08-09": {
+      "title": "Dominica XI Post Pentecosten II. Augusti",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-09.json"
+    },
+    "2026-08-10": {
+      "title": "S. Laurentii Martyris",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam XI post Octavam Pentecostes II. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-10.json"
+    },
+    "2026-08-11": {
+      "title": "Feria tertia infra Hebdomadam XI post Octavam Pentecostes II. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Tiburtii et Susannæ Virginis, Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-11.json"
+    },
+    "2026-08-12": {
+      "title": "S. Claræ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam XI post Octavam Pentecostes II. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-12.json"
+    },
+    "2026-08-13": {
+      "title": "Feria quinta infra Hebdomadam XI post Octavam Pentecostes II. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Hippolyti et Cassiani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-13.json"
+    },
+    "2026-08-14": {
+      "title": "In Vigilia Assumptionis B.M.V.",
+      "rank": "IV. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Eusebii Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-14.json"
+    },
+    "2026-08-15": {
+      "title": "In Assumptione Beatæ Mariæ Virginis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-15.json"
+    },
+    "2026-08-16": {
+      "title": "Dominica XII Post Pentecosten III. Augusti",
+      "rank": "II. classis",
+      "note": "Commemoratio: S. Joachim Confessoris, Patris B. M. V.",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-16.json"
+    },
+    "2026-08-17": {
+      "title": "S. Hyacinthi Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam XII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-17.json"
+    },
+    "2026-08-18": {
+      "title": "Feria Tertia infra Hebdomadam XII post Octavam Pentecostes III. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Agapiti Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-18.json"
+    },
+    "2026-08-19": {
+      "title": "S. Joannis Eudes Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-19.json"
+    },
+    "2026-08-20": {
+      "title": "S. Bernardi Abbatis et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-20.json"
+    },
+    "2026-08-21": {
+      "title": "S. Joannæ Franciscæ Frémiot de Chantal Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-21.json"
+    },
+    "2026-08-22": {
+      "title": "Immaculati Cordis Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Timothei, Hippolyti et Symphoriani Martyres",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-22.json"
+    },
+    "2026-08-23": {
+      "title": "Dominica XIII Post Pentecosten IV. Augusti",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-23.json"
+    },
+    "2026-08-24": {
+      "title": "S. Bartholomæi Apostoli",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XIII post Octavam Pentecostes IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-24.json"
+    },
+    "2026-08-25": {
+      "title": "S. Ludovici Regis Franciæ Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XIII post Octavam Pentecostes IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-25.json"
+    },
+    "2026-08-26": {
+      "title": "Feria Quarta infra Hebdomadam XIII post Octavam Pentecostes IV. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Zephyrini Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-26.json"
+    },
+    "2026-08-27": {
+      "title": "S. Josephi Calasanctii Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XIII post Octavam Pentecostes IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-27.json"
+    },
+    "2026-08-28": {
+      "title": "S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Hermetis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-28.json"
+    },
+    "2026-08-29": {
+      "title": "In Decollatione S. Joannis Baptistæ",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Sabinæ Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-29.json"
+    },
+    "2026-08-30": {
+      "title": "Dominica XIV Post Pentecosten V. Augusti",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-30.json"
+    },
+    "2026-08-31": {
+      "title": "S. Raymundi Nonnati Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XIV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-08-31.json"
+    },
+    "2026-09-01": {
+      "title": "Feria Tertia infra Hebdomadam XIV post Octavam Pentecostes V. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Ægidii Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-01.json"
+    },
+    "2026-09-02": {
+      "title": "S. Stephani Hungariæ Regis Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XIV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-02.json"
+    },
+    "2026-09-03": {
+      "title": "S. Pii X Papæ Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XIV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-03.json"
+    },
+    "2026-09-04": {
+      "title": "Feria Sexta infra Hebdomadam XIV post Octavam Pentecostes V. Augusti",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-04.json"
+    },
+    "2026-09-05": {
+      "title": "S. Laurentii Justiniani Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XIV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-05.json"
+    },
+    "2026-09-06": {
+      "title": "Dominica XV Post Pentecosten I. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-06.json"
+    },
+    "2026-09-07": {
+      "title": "Feria Secunda infra Hebdomadam XV post Octavam Pentecostes I. Septembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-07.json"
+    },
+    "2026-09-08": {
+      "title": "Nativitate Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Hadriani Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-08.json"
+    },
+    "2026-09-09": {
+      "title": "Feria Quarta infra Hebdomadam XV post Octavam Pentecostes I. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Gorgonii Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-09.json"
+    },
+    "2026-09-10": {
+      "title": "S. Nicolai de Tolentino Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XV post Octavam Pentecostes I. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-10.json"
+    },
+    "2026-09-11": {
+      "title": "Feria Sexta infra Hebdomadam XV post Octavam Pentecostes I. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Proti et Hyacinthi Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-11.json"
+    },
+    "2026-09-12": {
+      "title": "S. Nominis Beatæ Mariæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XV post Octavam Pentecostes I. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-12.json"
+    },
+    "2026-09-13": {
+      "title": "Dominica XVI Post Pentecosten II. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-13.json"
+    },
+    "2026-09-14": {
+      "title": "In Exaltatione Sanctæ Crucis",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XVI post Octavam Pentecostes II. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-14.json"
+    },
+    "2026-09-15": {
+      "title": "Septem Dolorum Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Nicomedis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-15.json"
+    },
+    "2026-09-16": {
+      "title": "Ss. Cornelii Papæ et Cypriani Episcopi, Martyrum",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Euphemiæ, Luciæ et Geminiani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-16.json"
+    },
+    "2026-09-17": {
+      "title": "Feria Quinta infra Hebdomadam XVI post Octavam Pentecostes II. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Impressionis Stigmatum S. Francisci",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-17.json"
+    },
+    "2026-09-18": {
+      "title": "S. Josephi de Cupertino Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XVI post Octavam Pentecostes II. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-18.json"
+    },
+    "2026-09-19": {
+      "title": "S. Januarii Episcopi et Sociorum Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XVI post Octavam Pentecostes II. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-19.json"
+    },
+    "2026-09-20": {
+      "title": "Dominica XVII Post Pentecosten III. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-20.json"
+    },
+    "2026-09-21": {
+      "title": "S. Matthæi Apostoli et Evangelistæ",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XVII post Octavam Pentecostes III. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-21.json"
+    },
+    "2026-09-22": {
+      "title": "S. Thomæ de Villanova Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Mauritii et Sociorum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-22.json"
+    },
+    "2026-09-23": {
+      "title": "Feria Quarta Quattuor Temporum Septembris",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Lini Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-23.json"
+    },
+    "2026-09-24": {
+      "title": "Beatæ Mariæ Virginis de Mercede",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XVII post Octavam Pentecostes III. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-24.json"
+    },
+    "2026-09-25": {
+      "title": "Feria Sexta Quattuor Temporum Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-25.json"
+    },
+    "2026-09-26": {
+      "title": "Sabbato Quattuor Temporum Septembris",
+      "rank": "II. classis",
+      "note": "Commemoratio : Ss. Cypriani et Justinæ Virginis, Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-26.json"
+    },
+    "2026-09-27": {
+      "title": "Dominica XVIII Post Pentecosten IV. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-27.json"
+    },
+    "2026-09-28": {
+      "title": "S. Wenceslai Ducis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XVIII post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-28.json"
+    },
+    "2026-09-29": {
+      "title": "In Dedicatione S. Michaëlis Archangelis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-29.json"
+    },
+    "2026-09-30": {
+      "title": "S. Hieronymi Presbyteris Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XVIII post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-09-30.json"
+    },
+    "2026-10-01": {
+      "title": "Feria Quinta infra Hebdomadam XVIII post Octavam Pentecostes IV. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Remigii Episcopi et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-01.json"
+    },
+    "2026-10-02": {
+      "title": "Ss. Angelorum Custodum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XVIII post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-02.json"
+    },
+    "2026-10-03": {
+      "title": "S. Theresiæ a Jesu Infante Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XVIII post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-03.json"
+    },
+    "2026-10-04": {
+      "title": "Dominica XIX Post Pentecosten I. Octobris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-04.json"
+    },
+    "2026-10-05": {
+      "title": "Feria Secunda infra Hebdomadam XIX post Octavam Pentecostes I. Octobris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Placidi et Sociorum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-05.json"
+    },
+    "2026-10-06": {
+      "title": "S. Brunonis Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XIX post Octavam Pentecostes I. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-06.json"
+    },
+    "2026-10-07": {
+      "title": "Sanctissimi Rosarii Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Marci Papæ Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-07.json"
+    },
+    "2026-10-08": {
+      "title": "S. Birgittæ Viduæ",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Sergii, Bacchi, Marcelli et Apuleji Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-08.json"
+    },
+    "2026-10-09": {
+      "title": "S. Joannis Leonardi Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Dionysii Epíscopi, Rustici et Eleutherii Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-09.json"
+    },
+    "2026-10-10": {
+      "title": "S. Francisci Borgiæ Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XIX post Octavam Pentecostes I. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-10.json"
+    },
+    "2026-10-11": {
+      "title": "Dominica XX Post Pentecosten II. Octobris",
+      "rank": "II. classis",
+      "note": "Commemoratio: Maternitatis Beatæ Mariæ Virginis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-11.json"
+    },
+    "2026-10-12": {
+      "title": "Feria Secunda infra Hebdomadam XX post Octavam Pentecostes II. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-12.json"
+    },
+    "2026-10-13": {
+      "title": "S. Eduardi Regis Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XX post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-13.json"
+    },
+    "2026-10-14": {
+      "title": "S. Callisti Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XX post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-14.json"
+    },
+    "2026-10-15": {
+      "title": "S. Teresiæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XX post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-15.json"
+    },
+    "2026-10-16": {
+      "title": "S. Hedwigis Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XX post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-16.json"
+    },
+    "2026-10-17": {
+      "title": "S. Margaritæ Mariæ Alaquoque Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XX post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-17.json"
+    },
+    "2026-10-18": {
+      "title": "Dominica XXI Post Pentecosten IV. Octobris",
+      "rank": "II. classis",
+      "note": "Commemoratio: S. Lucæ Evangelistæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-18.json"
+    },
+    "2026-10-19": {
+      "title": "S. Petri de Alcantara Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XXI post Octavam Pentecostes IV. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-19.json"
+    },
+    "2026-10-20": {
+      "title": "S. Joannis Cantii Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XXI post Octavam Pentecostes IV. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-20.json"
+    },
+    "2026-10-21": {
+      "title": "Feria Quarta infra Hebdomadam XXI post Octavam Pentecostes IV. Octobris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Hilarionis Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-21.json"
+    },
+    "2026-10-22": {
+      "title": "Feria Quinta infra Hebdomadam XXI post Octavam Pentecostes IV. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-22.json"
+    },
+    "2026-10-23": {
+      "title": "S. Antonii Mariæ Claret Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XXI post Octavam Pentecostes IV. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-23.json"
+    },
+    "2026-10-24": {
+      "title": "S. Raphaëlis Archangeli",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXI post Octavam Pentecostes IV. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-24.json"
+    },
+    "2026-10-25": {
+      "title": "In festo Domino nostro Jesu Christi Regis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-25.json"
+    },
+    "2026-10-26": {
+      "title": "Feria Secunda infra Hebdomadam XXII post Octavam Pentecostes V. Octobris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Evaristi Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-26.json"
+    },
+    "2026-10-27": {
+      "title": "Feria Tertia infra Hebdomadam XXII post Octavam Pentecostes V. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-27.json"
+    },
+    "2026-10-28": {
+      "title": "Ss. Simonis et Judæ Apostolorum",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XXII post Octavam Pentecostes V. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-28.json"
+    },
+    "2026-10-29": {
+      "title": "Feria Quinta infra Hebdomadam XXII post Octavam Pentecostes V. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-29.json"
+    },
+    "2026-10-30": {
+      "title": "Feria Sexta infra Hebdomadam XXII post Octavam Pentecostes V. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-30.json"
+    },
+    "2026-10-31": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXII post Octavam Pentecostes V. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-10-31.json"
+    },
+    "2026-11-01": {
+      "title": "Omnium Sanctorum",
+      "rank": "I. classis",
+      "note": "Commemoratio: Dominica XXIII Post Pentecosten I. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-01.json"
+    },
+    "2026-11-02": {
+      "title": "In Commemoratione Omnium Fidelium Defunctorum Ad primam Missam",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-02.json"
+    },
+    "2026-11-03": {
+      "title": "Feria Tertia infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-03.json"
+    },
+    "2026-11-04": {
+      "title": "S. Caroli Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Mart. Vitalis et Agricolæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-04.json"
+    },
+    "2026-11-05": {
+      "title": "Feria Quinta infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-05.json"
+    },
+    "2026-11-06": {
+      "title": "Feria Sexta infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-06.json"
+    },
+    "2026-11-07": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-07.json"
+    },
+    "2026-11-08": {
+      "title": "Dominica V quæ superfuit Post Epiphaniam III. Novembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-08.json"
+    },
+    "2026-11-09": {
+      "title": "In Dedicatione Basilicæ Ss. Salvatoris",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Theodori Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-09.json"
+    },
+    "2026-11-10": {
+      "title": "S. Andreæ Avellini Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Tryphonis, Respicii, et Nymphæ Virg., Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-10.json"
+    },
+    "2026-11-11": {
+      "title": "S. Martini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Mennæ Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-11.json"
+    },
+    "2026-11-12": {
+      "title": "S. Martini Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-12.json"
+    },
+    "2026-11-13": {
+      "title": "S. Didaci Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-13.json"
+    },
+    "2026-11-14": {
+      "title": "S. Josaphat Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-14.json"
+    },
+    "2026-11-15": {
+      "title": "Dominica VI quæ superfuit Post Epiphaniam IV. Novembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-15.json"
+    },
+    "2026-11-16": {
+      "title": "S. Gertrudis Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-16.json"
+    },
+    "2026-11-17": {
+      "title": "S. Gregorii Thaumaturgi Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-17.json"
+    },
+    "2026-11-18": {
+      "title": "In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-18.json"
+    },
+    "2026-11-19": {
+      "title": "S. Elisabeth Viduæ",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Pontiani Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-19.json"
+    },
+    "2026-11-20": {
+      "title": "S. Felicis de Valois Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-20.json"
+    },
+    "2026-11-21": {
+      "title": "In Presentatione Beatæ Mariæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-21.json"
+    },
+    "2026-11-22": {
+      "title": "Dominica XXIV et ultima Post Pentecosten V. Novembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-22.json"
+    },
+    "2026-11-23": {
+      "title": "S. Clementis Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Felicitatis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-23.json"
+    },
+    "2026-11-24": {
+      "title": "S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Chrysogoni Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-24.json"
+    },
+    "2026-11-25": {
+      "title": "S. Catharinæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XXIV post Octavam Pentecostes V. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-25.json"
+    },
+    "2026-11-26": {
+      "title": "S. Silvestri Abbatis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Petri Alexandrini Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-26.json"
+    },
+    "2026-11-27": {
+      "title": "Feria Sexta infra Hebdomadam XXIV post Octavam Pentecostes V. Novembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-27.json"
+    },
+    "2026-11-28": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXIV post Octavam Pentecostes V. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-28.json"
+    },
+    "2026-11-29": {
+      "title": "Dominica I Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-29.json"
+    },
+    "2026-11-30": {
+      "title": "S. Andreæ Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio: Feria II infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-11-30.json"
+    },
+    "2026-12-01": {
+      "title": "Feria III infra Hebdomadam I Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-01.json"
+    },
+    "2026-12-02": {
+      "title": "S. Bibianæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria IV infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-02.json"
+    },
+    "2026-12-03": {
+      "title": "S. Francisci Xaverii Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria V infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-03.json"
+    },
+    "2026-12-04": {
+      "title": "S. Petri Chrysologi Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria VI infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-04.json"
+    },
+    "2026-12-05": {
+      "title": "Sabbato infra Hebdomadam I Adventus",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Sabbæ Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-05.json"
+    },
+    "2026-12-06": {
+      "title": "Dominica II Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-06.json"
+    },
+    "2026-12-07": {
+      "title": "S. Ambrosii Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria II infra Hebdomadam II Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-07.json"
+    },
+    "2026-12-08": {
+      "title": "In Conceptione Immaculata Beatæ Mariæ Virginis",
+      "rank": "I. classis",
+      "note": "Commemoratio: Feria III infra Hebdomadam II Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-08.json"
+    },
+    "2026-12-09": {
+      "title": "Feria IV infra Hebdomadam II Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-09.json"
+    },
+    "2026-12-10": {
+      "title": "Feria V infra Hebdomadam II Adventus",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Melchiadis Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-10.json"
+    },
+    "2026-12-11": {
+      "title": "S. Damasi Papæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria VI infra Hebdomadam II Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-11.json"
+    },
+    "2026-12-12": {
+      "title": "Sabbato infra Hebdomadam II Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-12.json"
+    },
+    "2026-12-13": {
+      "title": "Dominica III Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-13.json"
+    },
+    "2026-12-14": {
+      "title": "Feria II infra Hebdomadam III Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-14.json"
+    },
+    "2026-12-15": {
+      "title": "Feria III infra Hebdomadam III Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-15.json"
+    },
+    "2026-12-16": {
+      "title": "Feria IV Quattuor Temporum in Adventu",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Eusebii Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-16.json"
+    },
+    "2026-12-17": {
+      "title": "Feria V infra Hebdomadam III Adventus",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-17.json"
+    },
+    "2026-12-18": {
+      "title": "Feria VI Quattuor Temporum in Adventu",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-18.json"
+    },
+    "2026-12-19": {
+      "title": "Sabbato Quattuor Temporum in Adventu",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-19.json"
+    },
+    "2026-12-20": {
+      "title": "Dominica IV Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-20.json"
+    },
+    "2026-12-21": {
+      "title": "S. Thomæ Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio: Feria II infra Hebdomadam IV Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-21.json"
+    },
+    "2026-12-22": {
+      "title": "Feria III infra Hebdomadam IV Adventus",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-22.json"
+    },
+    "2026-12-23": {
+      "title": "Feria IV infra Hebdomadam IV Adventus",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-23.json"
+    },
+    "2026-12-24": {
+      "title": "In Vigilia Nativitatis Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-24.json"
+    },
+    "2026-12-25": {
+      "title": "In Nativitate Domini in nocte",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-25.json"
+    },
+    "2026-12-26": {
+      "title": "S. Stephani Protomartyris",
+      "rank": "II. classis",
+      "note": "Commemoratio: Diei II infra Octavam Nativitatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-26.json"
+    },
+    "2026-12-27": {
+      "title": "Dominica Infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio: S. Joannis Apostoli et Evangelistæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-27.json"
+    },
+    "2026-12-28": {
+      "title": "Diei IV infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio : Ss. Innocentium",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-28.json"
+    },
+    "2026-12-29": {
+      "title": "Die V infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Thomæ Cantuariensis Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-29.json"
+    },
+    "2026-12-30": {
+      "title": "Die VI infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-30.json"
+    },
+    "2026-12-31": {
+      "title": "Die VII infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Silvestri Papæ et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2026/2026-12-31.json"
+    }
+  }
+}

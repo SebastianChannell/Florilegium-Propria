@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-01-25",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "In Conversione S. Pauli Apostoli",
+  "rank": "III. classis",
+  "note": "Scriptura: Feria II infra Hebdomadam Septuagesimæ",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>2 Tim 1:12</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>cio, cui crédidi, et certus sum, quia potens est depósitum meum serváre in illum diem, iustus iudex.<br>\n<span class=\"rubric\"><em>Ps 138:1-2</em></span><br>\nDómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>cio, cui crédidi, et certus sum, quia potens est depósitum meum serváre in illum diem, iustus iudex."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>2 Tim. 1:12</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> know Whom I have believed, and I am certain that He is able to guard the trust committed to me, against that day; being a just Judge.<br>\n<span class=\"rubric\"><em>Ps 138:1-2</em></span><br>\nO Lord, You have probed me and You know me; You know when I sit and when I stand.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> know Whom I have believed, and I am certain that He is able to guard the trust committed to me, against that day; being a just Judge."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui univérsum mundum beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, qui eius hódie Conversiónem cólimus, per eius ad te exémpla gradiámur.<br>\n<span class=\"rubric\"><em>Pro S. Petro</em></span><br>\nDeus, qui beáto Petro Apóstolo tuo, collátis clávibus regni cœléstis, ligándi atque solvéndi pontifícium tradidísti: concéde; ut, intercessiónis eius auxílio, a peccatórum nostrórum néxibus liberémur:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who taught the whole world by the preaching of Your blessed Apostle Paul, grant, we beseech You, that we who today celebrate his conversion may draw nearer to You by way of example.<br>\n<span class=\"rubric\"><em>For St. Peter</em></span><br>\nO God, who together with the keys of the kingdom of heaven didst bestow on thy blessed Apostle Peter the pontifical power of binding and loosing, grant that by the aid of this intercession, we may be released from the bonds of our sins.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Act 9:1-22</em></span><br>\nIn diébus illis: Saulus adhuc spirans minárum et cædis in discípulos Dómini, accés sit ad príncipem sacerdótum, et pétiit ab eo epístolas in Damáscum ad synagógas: ut, si quos invenísset huius viæ viros ac mulíeres, vinctos perdúceret in Ierúsalem. Et cum iter fáceret, cóntigit, ut appropinquáret Damásco: et súbito circumfúlsit eum lux de cœlo. Et cadens in terram, audívit vocem dicéntem sibi: Saule, Saule, quid me perséqueris? Qui dixit: Quis es, Dómine? Et ille: Ego sum Iesus, quem tu perséqueris: durum est tibi contra stímulum calcitráre. Et tremens ac stupens, dixit: Dómine, quid me vis fácere? Et Dóminus ad eum: Surge et ingrédere civitátem, et ibi dicétur tibi, quid te opórteat fácere. Viri autem illi, qui comitabántur cum eo, stabant stupefácti, audiéntes quidem vocem, néminem autem vidéntes. Surréxit autem Saulus de terra, apertísque óculis nihil vidébat. Ad manus autem illum trahéntes, introduxérunt Damáscum. Et erat ibi tribus diébus non videns, et non manducávit neque bibit. Erat autem quidam discípulus Damásci, nómine Ananías: et dixit ad illum in visu Dóminus: Ananía. At ille ait: Ecce ego, Dómine. Et Dóminus ad eum: Surge et vade in vicum, qui vocátur Rectus: et quære in domo Iudæ Saulum nómine Tarsénsem: ecce enim orat. Et vidit virum, Ananíam nómine, intrœúntem et imponéntem sibi manus, ut visum recipiat. Respóndit autem Ananías: Dómine, audívi a multis de viro hoc, quanta mala fécerit sanctis tuis in Ierúsalem: et hic habet potestátem a princípibus sacerdótum alligándi omnes, qui ínvocant nomen tuum. Dixit autem ad eum Dóminus: Vade, quóniam vas electiónis est mihi iste, ut portet nomen meum coram géntibus et régibus et fíliis Israël. Ego enim osténdam illi, quanta opórteat eum pro nómine meo pati. Et ábiit Ananías et introívit in domum: et impónens ei manus, dixit: Saule frater, Dóminus misit me Iesus, qui appáruit tibi in via, qua veniébas, ut vídeas et impleáris Spíritu Sancto. Ei conféstim cecidérunt ab óculis eius tamquam squamæ, et visum recépit: et surgens baptizátus est. Et cum accepísset cibum, confortátus est. Fuit autem cum discípulis, qui erant Damásci, per dies áliquot. Et contínuo in synagógis prædicábat Iesum, quóniam hic est Fílius Dei. Stupébant autem omnes, qui audiébant, et dicébant: Nonne hic est, qui expugnábat in Ierúsalem eos, qui invocábant nomen istud: et huc ad hoc venit, ut vinctos illos dúcere ad príncipes sacerdótum?  Saulus autem multo magis convalescébat, et confundébat Iudæos, qui habitábant Damásci, affírmans, quóniam hic est Christus.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of the Apostles<br>\n<span class=\"rubric\"><em>Acts 9:1-22</em></span><br>\nIn those days, Saul, still breathing threats of slaughter against the disciples of the Lord, went to the high priest and asked him for letters to the synagogues at Damascus, that if he found any men or women belonging to this Way, he might bring them in bonds to Jerusalem. And as he went on his journey, it came to pass that he drew near to Damascus, when suddenly a light from heaven shone round about him; and falling to the ground, he heard a voice saying to him, Saul, Saul, why do you persecute Me? And he said, Who are You, Lord? And He said, I am Jesus, whom you are persecuting. It is hard for you to kick against the goad. And he, trembling and amazed, said, Lord, what will You have me do? And the Lord said to him, Arise and go into the city, and it will be told you what you must do. Now the men who journeyed with him stood speechless, hearing indeed the voice, but seeing no one. And Saul arose from the ground, but when his eyes were opened, he could see nothing. And leading him by the hand, they brought him into Damascus. And for three days he could not see, and he neither ate nor drank. Now there was in Damascus a certain disciple named Ananias and the Lord said to him in a vision, Ananias. And he said, Here I am, Lord. And the Lord said to him, Arise and go to the street called Straight and ask at the house of Judas for a man of Tarsus named Saul. For behold, he is praying. And he saw a man named Ananias come in and lay his hands upon him that he might recover his sight. But Ananias answered, Lord, I have heard from many about this man, how much evil he has done to Your saints in Jerusalem. And here too he has authority from the high priests to arrest all who invoke Your name. But the Lord said to him, Go, for this man is a chosen vessel to Me, to carry My name among nations and kings and the children of Israel. For I will show him how much he must suffer for My name. So Ananias departed and entered the house, and laying his hands upon him, he said, Brother Saul, the Lord has sent me - Jesus, Who appeared to you on your journey - that you may recover your sight and be filled with the Holy Spirit. And straightway there fell from his eyes something like scales, and he recovered his sight, and arose, and was baptized. And after taking some food, he regained his strength. Now for some days he joined the disciples in Damascus, and straightway in the synagogues he began to preach that Jesus is the Son of God. And all who heard him were amazed and said, Is not this he who used to make havoc in Jerusalem of those who called upon this name, and who has come here for the purpose of taking them in bonds to the chief priests? But Saul grew all the stronger and confounded the Jews who were living in Damascus, proving that this is the Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Gal 2:8; 2:9</em></span><br>\nQui operátus est Petro in apostolátum, operátus est ei mihi inter gentes: et cognovérunt grátiam Dei, quæ data est mihi.<br>\n<span class=\"marker\"><em>℣.</em></span> Grátia Dei in me vácua non fuit: sed grátia eius semper in me manet.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\nTu es vas electiónis, sancte Paule Apóstole: vere digne es glorificándus.<br>\n<span class=\"marker\"><em>℣.</em></span> Prædicátor veritátis et doctor géntium in fide et veritáte.<br>\n<span class=\"marker\"><em>℣.</em></span> Per te omnes gentes cognovérunt grátiam Dei.<br>\n<span class=\"marker\"><em>℣.</em></span> Intercéde pro nobis ad Deum, qui te elégit."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Gal 2:8-9</em></span><br>\nHe Who worked in Peter for the apostleship, worked also in me among the Gentiles: and they recognized the grace of God that was given to me.<br>\n<span class=\"marker\"><em>℣.</em></span> The grace of God in me has not been fruitless; but His grace always remains in me.<br>\n<br>\n<span class=\"rubric\"><em>Tract</em></span>"
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 12:32-34</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Nolíte timére, pusíllus grex, quia complácuit Patri vestro dare vobis regnum. Véndite quæ possidétis, et date eleemósynam. Fácite vobis sácculos, qui non veteráscunt, thesáurum non deficiéntem in cœlis: quo fur non apprópiat, neque tínea corrúmpit. Ubi enim thesáurus vester est, ibi et cor vestrum erit.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 12:32-34</em></span><br>\nAt that time, Jesus said to His disciples, Do not be afraid, little flock, for it has pleased your Father to give you the kingdom. Sell what you have and give alms. Make for yourselves purses that do not grow old, a treasure unfailing in heaven, where neither thief draws near nor moth destroys. For where your treasure is, there also will your heart be.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nMihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nTo me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Apóstoli tui Pauli précibus, Dómine, plebis tuæ dona sanctífica: ut, quæ tibi tuo grata sunt institúto, gratióra fiant patrocínio supplicántis.<br>\n<span class=\"rubric\"><em>Pro S. Petro</em></span><br>\nEcclésiæ tuæ, quǽsumus, Dómine, preces et hóstias beáti Petri Apóstoli comméndet orátio: ut, quod pro illíus glória celebrámus, nobis prosit ad véniam.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, make holy the offerings of Your people, through the prayer of Paul, Your Apostle, that those things which You have established as pleasing to You may be more pleasing through his patronal intercession.<br>\n<span class=\"rubric\"><em>For St. Peter</em></span><br>\nWe beseech You, O Lord, may the prayer of the blessed Apostle, Peter, recommend the petitions and offerings of Your Church, so that what we celebrate in his honor may obtain forgiveness for us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28-29</em></span><br>\nAmen, dico vobis: quod vos, qui reliquístis ómnia et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28-29</em></span><br>\nAmen I say to you that you, who have left all things and followed Me, shall receive a hundredfold, and shall possess life everlasting."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSanctificáti, Dómine, salutári mystério: quǽsumus; ut nobis eius non desit orátio, cuius nos donásti patrocínio gubernári.<br>\n<span class=\"rubric\"><em>Pro S. Petro</em></span><br>\nLætíficet nos, Dómine, munus oblátum: ut, sicut in Apóstolo tuo Petro te mirábilem prædicámus; sic per illum tuæ sumámus indulgéntiæ largitátem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMade holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of him under whose patronal care You have granted us to be ruled may never fail us.<br>\n<span class=\"rubric\"><em>For St. Peter</em></span><br>\nO Lord, may the gift we offer bring us joy, that as we praise Your wondrous work in Your Apostle Peter, so through him may we share Your generous forgiveness.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

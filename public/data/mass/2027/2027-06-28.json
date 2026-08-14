@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-06-28",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "In Vigilia Ss. Petri et Pauli Apostolorum",
+  "rank": "II. classis",
+  "note": "Scriptura: Feria secunda infra Hebdomadam VI post Octavam Pentecostes",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ioannes 21:18-19</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>icit Dóminus Petro: Cum esses iúnior, cingébas te et ambulábas, ubi volébas: cum autem senúeris, exténdes manus tuas, et álius te cinget et ducet, quo tu non vis: hoc autem dixit, signíficans, qua morte clarificatúrus esset Deum.<br>\n<span class=\"rubric\"><em>Ps 18:2.</em></span><br>\nCœli enárrant glóriam Dei: et ópera mánuum eius annúntiat firmaméntum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>icit Dóminus Petro: Cum esses iúnior, cingébas te et ambulábas, ubi volébas: cum autem senúeris, exténdes manus tuas, et álius te cinget et ducet, quo tu non vis: hoc autem dixit, signíficans, qua morte clarificatúrus esset Deum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>John 21:18-19</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord said to Peter, When you were young you girded yourself and walked where you would. But when you are old you will stretch forth your hands, and another will gird you, and lead you where you would not.Now this He said to signify by what manner of death he should glorify God.<br>\n<span class=\"rubric\"><em>Ps 18:1</em></span><br>\nThe heavens declare the glory of God, and the firmament proclaims His handiwork.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord said to Peter, When you were young you girded yourself and walked where you would. But when you are old you will stretch forth your hands, and another will gird you, and lead you where you would not.Now this He said to signify by what manner of death he should glorify God."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut nullis nos permíttas perturbatiónibus cóncuti; quos in apostólicæ confessiónis petra solidásti.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that we, whom you solidly established upon the rock of apostolic faith, be not troubled by any distress.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Act 3:1-10.</em></span><br>\nIn diébus illis: Petrus et Ioánnes ascendébant in templum ad horam oratiónis nonam. Et quidam vir, qui erat claudus ex útero matris suæ, baiulabátur: quem ponébant cotídie ad portam templi, quæ dícitur Speciósa, ut péteret eleemósynam ab introeúntibus in templum. Is cum vidísset Petrum et Ioánnem incipiéntes introíre in templum, rogábat, ut eleemósynam acciperet. Intuens autem in eum Petrus cum Ioánne, dixit: Réspice in nos. At ille intendébat in eos, sperans se áliquid acceptúrum ab eis. Petrus autem dixit: Argéntum et aurum non est mihi; quod autem habeo, hoc tibi do: In nómine Iesu Christi Nazaréni surge, et ámbula. Et apprehénsa manu eius déxtera, allevávit eum, et protínus consolidátæ sunt bases eius et plantæ. Et exsíliens stetit, et ambulábat: et intrávit cum illis in templum, ámbulans et exsíliens et laudans Deum. Et vidit omnis populus eum ambulántem et laudántem Deum. Cognoscébant autem illum, quod ipse erat, qui ad eleemósynam sedébat ad Speciósam portam templi: et impléti sunt stupore et écstasi in eo, quod contígerat illi.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 3:1-10</em></span><br>\nIn those days, Peter and John were going up into the temple at the ninth hour of prayer. And a certain man, who had been lame from his mother’s womb, was being carried by, whom they laid daily at the gate of the temple called the Beautiful, that he might ask alms of those going into the temple. And he, seeing Peter and John about to go into the temple, asked for an alms. But Peter, gazing upon him with John, said, Look at us. And he looked at them earnestly, hoping to receive something from them. But Peter said, Silver and gold I have none; but what I have, that I give you. In the name of Jesus Christ of Nazareth, arise and walk. And taking him by the right hand, he raised him up, and immediately his feet and ankles became strong. And leaping up, he stood and began to walk, and went with them into the temple, walking and leaping and praising God. And all the people saw him walking and praising God. And they recognized him as the man who used to sit for alms at the Beautiful Gate of the temple, and they were filled with wonder and amazement at what had happened to him.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 18:5; 18:2</em></span><br>\nIn omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Cœli enárrant glóriam Dei: et ópera mánuum eius annúntiat firmaméntum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 18:5, 2</em></span><br>\nThrough all the earth their voice resounds, and to the ends of the world, their message.<br>\n<span class=\"marker\"><em>℣.</em></span> The heavens declare the glory of God, and the firmament proclaims His handiwork."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 21:15-10</em></span><br>\nIn illo témpore: Dixit Iesus Simóni Petro: Simon Ioánnis, díligis me plus his? Dicit ei: Etiam, Dómine, tu scis, quia amo te. Dicit ei: Pasce agnos meos. Dicit ei íterum: Simon Ioánnis, díligis me? Ait illi: Etiam, Dómine, tu scis, quia amo te. Dicit ei: Pasce agnos meos. Dicit ei tértio: Simon Ioánnis, amas me? Contristátus est Petrus, quia dixit ei tértio, Amas me? et dixit ei: Dómine, tu ómnia nosti: tu scis, quia amo te. Dixit ei: Pasce oves meas. Amen, amen, dico tibi: cum esses iúnior, cingébas te et ambulábas, ubi volébas: cum autem senúeris, exténdes manus tuas, et álius te cinget et ducet, quo tu non vis. Hoc autem dixit, signíficans, qua morte clarificatúrus esset Deum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 21:15-19</em></span><br>\nAt that time, Jesus said to Simon Peter, Simon, son of John, do you love Me more than these do? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. He said to him a second time, Simon, son of John, do you love Me? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. A third time He said to him, Simon, son of John, do you love Me? Peter was grieved because He said to him for the third time, Do you love Me? And he said to Him, Lord, You know all things, You know that I love You. He said to him, Feed My sheep. Amen, amen, I say to you, when you were young you girded yourself and walked where you would. But when you are old you will stretch forth your hands, and another will gird you, and lead you where you would not. Now this He said to signify by what manner of death he should glorify God.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nMihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nTo me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Munus pópuli tui, quǽsumus, Dómine, apostólica intercessióne sanctífica: nosque a peccatórum nostrórum máculis emúnda.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Sanctify the gift of Your people, we beseech You, O Lord, by the intercession of the Apostles, and cleanse us from the stains of our sins.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioannes 21:15; 21:17</em></span><br>\nSimon Ioánnis, díligis me plus his? Dómine, tu ómnia nosti: tu scis, Dómine, quia amo te."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 21:15, 17</em></span><br>\nSimon, son of John, do you love Me more than these do? Lord, You know all things; You know, Lord, that I love You."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuos cœlésti, Dómine, aliménto satiásti: apostólicis intercessiónibus ab omni adversitáte custódi.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, by the intercession of Your Apostles, defend from all harm those whom You have filled with heavenly food.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

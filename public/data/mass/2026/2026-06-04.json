@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-06-04",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Festum Sanctissimi Corporis Christi",
+  "rank": "I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 80:17</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ibávit eos ex ádipe fruménti, allelúia: et de petra, melle saturávit eos, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nExsultáte Deo, adiutóri nostro: iubiláte Deo Iacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ibávit eos ex ádipe fruménti, allelúia: et de petra, melle saturávit eos, allelúia, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps. 80:17.</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>e fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nSing joyfully to God our strength; acclaim the God of Jacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>e fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui nobis sub Sacraménto mirábili passiónis tuæ memóriam reliquísti: tríbue, quǽsumus, ita nos Córporis et Sánguinis tui sacra mystéria venerári; ut redemptiónis tuæ fructum in nobis iúgiter sentiámus:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, You Who in this wondrous sacrament have left us a memorial of Your passion, grant us, we beseech You, so to venerate the sacred mysteries of Your Body and Blood that we may ever experience within us the effect of Your redemption.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epistolæ beáti Pauli Apóstoli ad Corinthios<br>\n<span class=\"rubric\"><em>1 Cor 11:23-29</em></span><br>\nFratres: Ego enim accépi a Dómino quod et trádidi vobis, quóniam Dóminus Iesus, in qua nocte tradebátur, accépit panem, et grátias agens fregit, et dixit: Accípite, et manducáte: hoc est corpus meum, quod pro vobis tradétur: hoc fácite in meam commemoratiónem. Simíliter et cálicem, postquam cenávit, dicens: Hic calix novum Testaméntum est in meo sánguine. Hoc fácite, quotiescúmque bibétis, in meam commemoratiónem. Quotiescúmque enim manducábitis panem hunc et cálicem bibétis, mortem Dómini annuntiábitis, donec véniat. Itaque quicúmque manducáverit panem hunc vel bíberit cálicem Dómini indígne, reus erit córporis et sánguinis Dómini. Probet autem seípsum homo: et sic de pane illo edat et de calice bibat. Qui enim mandúcat et bibit indígne, iudícium sibi mandúcat et bibit: non diiúdicans corpus Dómini.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 11:23-29.</em></span><br>\nBrethren: I myself have received from the Lord - what I also delivered to you, - that the Lord Jesus, on the night in which He was betrayed, took bread, and giving thanks broke, and said, Take and eat. This is My Body which shall be given up for you; do this in remembrance of Me. In like manner also the cup, after He had supped, saying, This is the new covenant in My Blood; do this as often as you drink it, in remembrance of Me. For as often as you shall eat this Bread and drink the cup, you proclaim the death of the Lord, until He comes. Therefore whoever eats this Bread or drinks the cup of the Lord unworthily, will be guilty of the Body and the Blood of the Lord. But let a man prove himself, and so let him eat of that Bread and drink of the cup; for he who eats and drinks unworthily, without distinguishing the Body, eats and drinks judgment to himself.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 144:15-16</em></span><br>\nOculi ómnium in te sperant, Dómine: et tu das illis escam in témpore opportúno,<br>\n<span class=\"marker\"><em>℣.</em></span> Aperis tu manum tuam: et imples omne animal benedictióne. Allelúia, allelúia,<br>\n<span class=\"rubric\"><em>Ioannes 6:56-57</em></span><br>\nCaro mea vere est cibus, et sanguis meus vere est potus: qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in eo. Alleluia.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\n<span class=\"rubric\"><em>Thomæ de Aquino. <span class=\"rubric\">infra octavam ad libitum Celebrantis omitti potest, iuxta Rubricas.</span></em></span><br>\nLauda, Sion, Salvatórem,<br>\nlauda ducem et pastórem<br>\nin hymnis et cánticis.<br>\n<br>\nQuantum potes, tantum aude:<br>\nquia maior omni laude,<br>\nnec laudáre súfficis.<br>\n<br>\nLaudis thema speciális,<br>\npanis vivus et vitális<br>\nhódie propónitur.<br>\n<br>\nQuem in sacræ mensa cenæ<br>\nturbæ fratrum duodénæ<br>\ndatum non ambígitur.<br>\n<br>\nSit laus plena, sit sonóra,<br>\nsit iucúnda, sit decóra<br>\nmentis iubilátio.<br>\n<br>\nDies enim sollémnis agitur,<br>\nin qua mensæ prima recólitur<br>\nhuius institútio.<br>\n<br>\nIn hac mensa novi Regis,<br>\nnovum Pascha novæ legis<br>\nPhase vetus términat.<br>\n<br>\nVetustátem nóvitas,<br>\numbram fugat véritas,<br>\nnoctem lux elíminat.<br>\n<br>\nQuod in cœna Christus gessit,<br>\nfaciéndum hoc expréssit<br>\nin sui memóriam.<br>\n<br>\nDocti sacris institútis,<br>\npanem, vinum in salútis<br>\nconsecrámus hóstiam.<br>\n<br>\nDogma datur Christiánis,<br>\nquod in carnem transit panis<br>\net vinum in sánguinem.<br>\n<br>\nQuod non capis, quod non vides,<br>\nanimosa fírmat fides,<br>\npræter rerum órdinem.<br>\n<br>\nSub divérsis speciébus,<br>\nsignis tantum, et non rebus,<br>\nlatent res exímiæ.<br>\n<br>\nCaro cibus, sanguis potus:<br>\nmanet tamen Christus totus<br>\nsub utráque spécie.<br>\n<br>\nA suménte non concísus,<br>\nnon confráctus, non divísus:<br>\nínteger accípitur.<br>\n<br>\nSumit unus, sumunt mille:<br>\nquantum isti, tantum ille:<br>\nnec sumptus consúmitur.<br>\n<br>\nSumunt boni, sumunt mali<br>\nsorte tamen inæquáli,<br>\nvitæ vel intéritus.<br>\n<br>\nMors est malis, vita bonis:<br>\nvide, paris sumptiónis<br>\nquam sit dispar éxitus.<br>\n<br>\nFracto demum sacraménto,<br>\nne vacílles, sed meménto,<br>\ntantum esse sub fragménto,<br>\nquantum toto tégitur.<br>\n<br>\nNulla rei fit scissúra:<br>\nsigni tantum fit fractúra:<br>\nqua nec status nec statúra<br>\nsignáti minúitur.<br>\n<br>\nEcce panis Angelórum,<br>\nfactus cibus viatórum:<br>\nvere panis filiórum,<br>\nnon mitténdus cánibus.<br>\n<br>\nIn figúris præsignátur,<br>\ncum Isaac immolátur:<br>\nagnus paschæ deputátur:<br>\ndatur manna pátribus.<br>\n<br>\nBone pastor, panis vere,<br>\nIesu, nostri miserére:<br>\ntu nos pasce, nos tuére:<br>\ntu nos bona fac vidére<br>\nin terra vivéntium.<br>\n<br>\nTu, qui cuncta scis et vales:<br>\nqui nos pascis hic mortáles:<br>\ntuos ibi commensáles,<br>\ncoherédes et sodáles<br>\nfac sanctórum cívium.<br>\nAmen. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps. 144:15-16.</em></span><br>\nThe eyes of all look hopefully to You, O Lord; and You give them their food in due season.<br>\n<span class=\"marker\"><em>℣.</em></span> You open Your hand; and satisfy the desire of every living thing. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>John 6:56-57</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> My Flesh is food indeed, and My Blood is drink indeed. He who eats My Flesh, and drinks My Blood, abides in Me and I in him.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nO Sion, thy Redeemer praising,<br>\nSongs of joy to Him upraising,<br>\nLaud thy Pastor and thy Guide:<br>\n<br>\nSwell thy notes most high and daring;<br>\nFor His praise is past declaring,<br>\nAnd thy loftiest powers beside.<br>\n<br>\n‘Tis a theme with praise that gloweth,<br>\nFor the bread that life bestoweth<br>\nGoes this day before us out;<br>\n<br>\nWhich, His holy supper taking,<br>\nTo the brethren twelve His breaking<br>\nNone hath ever called in doubt.<br>\n<br>\nFull, then, be our praise and sounding,<br>\nModest and with joy abounding<br>\nBe our mind’s triumphant state;<br>\n<br>\nFor the festal’s prosecution,<br>\nWhen the first blest institution<br>\nOf this feast we celebrate.<br>\n<br>\nIn the new King’s new libation,<br>\nIn the new law’s new oblation,<br>\nEnds the ancient Paschal rite;<br>\n<br>\nAncient forms new substance chaseth,<br>\nTypic shadows truth displaceth,<br>\nDay dispels the gloom of night.<br>\n<br>\nWhen He did at supper seated,<br>\nChrist enjoined to be repeated,<br>\nWhen His love we celebrate:<br>\n<br>\nThus obeying His dictation,<br>\nBlood and wine of our salvation,<br>\nWe the victim consecrate.<br>\n<br>\n‘Tis for Christian faith asserted,<br>\nBread is into flesh converted,<br>\nInto blood the holy wine:<br>\n<br>\nSight and intellect transcending,<br>\nNature’s laws to marvel bending,<br>\n‘Tis confirmed by faith divine.<br>\n<br>\nUnder either kind remaining,<br>\nForm, not substance, still retaining,<br>\nWondrous things our spirit sees:<br>\n<br>\nFlesh and blood thy palate staining,<br>\nYet still Christ entire remaining,<br>\nUnder either species.<br>\n<br>\nAll untorn for eating given,<br>\nUndivided and unriven,<br>\nWhole He’s taken and unrent;<br>\n<br>\nBe there one, or crowds surrounding,<br>\nHe is equally abounding,<br>\nNor, though eaten, ever spent.<br>\n<br>\nBoth to good and bad ‘tis broken,<br>\nBut on each a different token<br>\nor of life, or death attends:<br>\n<br>\nLife to good, to bad damnation;<br>\nLo, of one same manducation<br>\nHow dissimilar the ends.<br>\n<br>\nWhen the priest the victim breaketh,<br>\nSee thy faith in no wise shaketh,<br>\nKnow that every fragment taketh<br>\nAll that ‘neath the whole there lies:<br>\n<br>\nThis in Him no fracture maketh,<br>\n‘Tis the figure only breaketh,<br>\nForm, or state, no change there taketh<br>\nPlace in what it signifies.<br>\n<br>\nBread, that angels eat in heaven,<br>\nNow becomes the pilgrim’s leaven,<br>\nBread in truth to children given,<br>\nThat must ne’er to dogs be thrown.<br>\n<br>\nHe, in ancient types disguised,<br>\nWas the Isaac sacrificed,<br>\nFor the feast a lamb devised,<br>\nManna to the Fathers shown.<br>\n<br>\nBread, whose shepherd-care doth tend us,<br>\nJesu Christ, Thy mercy send us,<br>\nDo Thou feed us, Thou defend us,<br>\nLead us where true joys attend us,<br>\nIn the land where life is given:<br>\n<br>\nThou all ken and might possessing,<br>\nMercies aye to us largessing,<br>\nMake us share Thy cup of blessing,<br>\nHeritage and love’s caressing<br>\nWith the denizens of heaven.<br>\nAmen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia sancti Evangéli secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 6:56-59</em></span><br>\nIn illo témpore: Dixit Iesus turbis Iudæórum: Caro mea vere est cibus et sanguis meus vere est potus. Qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui mandúcat me, et ipse vivet propter me. Hic est panis, qui de cœlo descéndit. Non sicut manducavérunt patres vestri manna, et mórtui sunt. Qui mandúcat hunc panem, vivet in ætérnum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 6:56-59.</em></span><br>\nAt that time, Jesus said to the crowds of the Jews: My Flesh is food indeed, and My Blood is drink indeed. He who eats My Flesh, and drinks My Blood, abides in Me and I in him. As the living Father has sent Me, and as I live because of the Father, so he who eats Me, he also shall live because of Me. This is the Bread that has come down from heaven; not as your fathers ate the manna, and died. He who eats this Bread shall live forever.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Levit 21:6</em></span><br>\nSacerdótes Dómini incénsum et panes ófferunt Deo: et ideo sancti erunt Deo suo, et non pólluent nomen eius, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Lev 21:6</em></span><br>\nThe priests of the Lord offer incense and loaves to God, and therefore they shall be sacred to their God and shall not profane His name. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Ecclésiæ tuæ, quǽsumus, Dómine, unitátis et pacis propítius dona concéde: quæ sub oblátis munéribus mýstice designántur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Graciously give Your Church, we beseech You, O Lord, the gifts of unity and peace which are betokened by the gifts we offer.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Sanctissimo Sacramento</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum. Qui remótis carnálium victimárum inánibus umbris, Corpus et Sánguinem suum nobis in sacrifícium commendávit: ut in omni loco offerátur nómini tuo, quæ tibi sola complácuit, oblátio munda. In hoc ígitur inscrutábilis sapientiæ, et imménsæ caritátis mystério, idípsum quod semel in Cruce perfécit, non cessat mirabíliter operári, ipse ófferens, ipse et oblátio. Et nos, unam secum hóstiam effectos, ad sacrum ínvitat convívium, in quo ipse cibus noster súmitur, recólitur memória Passiónis eius, mens implétur grátia, et futúræ glóriæ nobis pignus datur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cœléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Blessed Sacrament</em></span><br>\nIt is truly right and just, proper and helpful toward salvation, that we always and everywhere give thanks to you, O Lord, holy Father, almighty and eternal God, through Christ our Lord; for he abolished the animal sacrifices that were empty shadows and entrusted to us his own body and blood for a sacrifice, so that in every place might be offered to your name that clean oblation which alone has pleased you. So in this mystery of unsearchable wisdom and boundless love, being himself the one who offers and the victim, he ever wondrously effects what he accomplished once on the cross. Making us one victim with himself, he invites us to the sacred banquet in which he, our food, is eaten, the memory of his passion is renewed, the soul is filled with grace and a pledge of future glory is given. Therefore with the Angels and Archangels, the Thrones and Dominations, and all the militant hosts of heaven, we continuously praise your glory in song, and say:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Cor 11:26-27</em></span><br>\nQuotiescúmque manducábitis panem hunc et cálicem bibétis, mortem Dómini annuntiábitis, donec véniat: itaque quicúmque manducáverit panem vel bíberit calicem Dómini indígne, reus erit córporis et sánguinis Dómini, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Cor. 11:26-27.</em></span><br>\nAs often as you shall eat this Bread and drink the cup, you proclaim the death of the Lord, until He comes. Therefore whoever eats this Bread or drinks the cup of the Lord unworthily, will be guilty of the Body and Blood of the Lord. Alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nFac nos, quǽsumus, Dómine, divinitátis tuæ sempitérna fruitióne repléri: quam pretiósi Corporis et Sanguinis tui temporalis percéptio præfigúrat:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, O Lord, that we may be filled with that everlasting enjoyment of Your Godhead, as foreshadowed here on earth by the partaking of Your precious Body and Blood.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

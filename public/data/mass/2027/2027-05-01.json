@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-05-01",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Joseph Opificis",
+  "rank": "I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sap. 10:17</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>apiéntia réddidit iustis mercédem labórum suórum, et dedúxit illos in via mirábili, et fuit illis in velaménto diéi et in luce stellárum per noctem, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 126:1</em></span><br>\nNisi Dóminus ædificáverit domum, in vanum labórant qui ædíficant eam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>apiéntia réddidit iustis mercédem labórum suórum, et dedúxit illos in via mirábili, et fuit illis in velaménto diéi et in luce stellárum per noctem, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sap. 10:17</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>isdom rendered to the just the wages of their labors, and conducted them in a wonderful way: and she was to them for a covert by day, and for the light of stars by night, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 126:1</em></span><br>\n<span class=\"rubric\"><strong><em>U</em></strong></span>nless the Lord build the house, they labor in vain who build it.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>isdom rendered to the just the wages of their labors, and conducted them in a wonderful way: and she was to them for a covert by day, and for the light of stars by night, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nRerum cónditor Deus, qui legem labóris humáno géneri statuísti: concéde propítius; ut, sancti Ioseph exémplo et patrocínio, ópera perficiámus quæ præcipis, et præmia consequámur quæ promíttis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Creator of all things, Who dost impose on man the law of work; grant in Thy goodness that, by the example and patronage of blessed Joseph, we may both accomplish the work Thou dost command and attain the reward Thou hast promised.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Colossénses.<br>\n<span class=\"rubric\"><em>Col. 3:14-15, 17, 23-24</em></span><br>\nFratres: Caritátem habéte, quod est vínculum perfectiónis, et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore, et grati estóte. Omne quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Iesu Christi, grátias agéntes Deo et Patri per ipsum. Quodcúmque fácitis, ex ánimo operámini sicut Dómino, et non homínibus, sciéntes quod a Dómino accipiétis retributiónem hereditátis. Dómino Christo servíte.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul to the Colossians<br>\n<span class=\"rubric\"><em>Col. 3:14-15, 17, 23-24</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>rethren: Have charity, which is the bond of perfection. And let the peace of Christ rejoice in your hearts, wherein also you are called in one body: and be ye thankful. All whatsoever you do in word or in work, do all in the name of the Lord Jesus Christ, giving thanks to God and the Father by Him. Whatsoever you do, do it from the heart, as to the Lord, and not to men: knowing that you shall receive of the Lord the reward of inheritance. Serve ye the Lord Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "alleluia",
+      "kind": "alleluia",
+      "latin": {
+        "label": "Allelúia.",
+        "html": "Allelúia, allelúia.<br>\n<span class=\"marker\"><em>℣.</em></span> De quacúmque tribulatióne clamáverint ad me, exáudiam eos, et ero protéctor eórum semper. Allelúia.<br>\n<span class=\"marker\"><em>℣.</em></span> Fac nos innócuam, Ioseph, decúrrere vitam: sitque tuo semper tuta patrocínio. Allelúia."
+      },
+      "english": {
+        "label": "Alleluia.",
+        "html": "Allelúja, allelúja.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n whatever tribulation they shall cry to me, I will hear them and be their protector always. Allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> Obtain to us, O Joseph, to lead an innocent life; and may it ever be safe through thy patronage. Allelúja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 13:54-58</em></span><br>\nIn illo témpore: Véniens Iesus in pátriam suam, docébat eos in synagógis eórum, ita ut miraréntur et dícerent: Unde huic sapiéntia hæc et virtútes? Nonne hic est fabri fílius? Nonne mater eius dícitur María, et fratres eius Iacóbus et Ioseph et Simon et Iudas? Et soróres eius nonne omnes apud nos sunt? Unde ergo huic ómnia ista? Et scandalizabántur in eo. Iesus autem dixit eis: Non est prophéta sine honóre nisi in pátria sua et in domo sua. Et non fecit ibi virtútes multas propter incredulitátem illórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 13:54-58</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>t that time: Jesus coming into His country, He taught them in their synagogues, so that they wondered and said: How came this Man by this wisdom and miracles? Is not this the carpenter's Son? Is not His mother called Mary, and His brethren James, and Joseph, and Simon, and Jude: and His sisters, are they not all with us? Whence therefore hath He all these things? And they were scandalized in His regard. But Jesus said to them: A prophet is not without honour, save in his own country, and in his own house. And He wrought not many miracles there, because of their unbelief.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 89:17</em></span><br>\nBónitas Dómini Dei nostri sit super nos, et opus mánuum nostrárum secúnda nobis, et opus mánuum nostrárum secúnda, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 89:17</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et the brightness of the Lord our God be upon us: and direct Thou the works of our hands over us; yea, the work of our hands do Thou direct. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Quas tibi, Dómine, de opéribus mánuum nostrárum offérimus hóstias, sancti Ioseph interpósito suffrágio, pignus fácias nobis unitátis et pacis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May these gifts, the work of our hands, that we offer Thee in sacrifice, O Lord, become for us, by the intercession of blessed Joseph, a pledge of unity and peace.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de S. Ioseph</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Et te in Solemnitáte beáti Ioseph débitis magnificáre præcóniis, benedícere et prædicáre. Qui et vir iustus, a te Deíparæ Vírgini Sponsus est datus: et fidélis servus ac prudens, super Famíliam tuam est constitútus: ut Unigénitum tuum, Sancti Spíritus obumbratióne concéptum, paterna vice custodíret, Iesum Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>St. Joseph</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: and that we should magnify with due praises, bless and proclaim Thee on the solemnity of blessed Joseph; who, being a just man, was given by Thee as a Spouse to the Virgin Mother of God, and, as a faithful and prudent servant was set over Thy Family, that, with fatherly care, he might guard Thine only-begotten Son, conceived by the overshadowing of the Holy Ghost, even Jesus Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, and the Powers stand in awe. The heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with them we entreat Thee that Thou mayest bid our voices also to be admitted, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 13:54-55</em></span><br>\nUnde huic sapiéntia hæc et virtútes? Nonne hic est fabri fílius? Nonne mater eius dícitur María? Allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 13:54-55</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ow came this Man by this wisdom and miracles? Is not this the carpenter's Son? Is not His mother called Mary? Alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nHæc sancta quæ súmpsimus, Dómine, per intercessiónem beáti Ioseph; et operatiónem nostram cómpleant, et prǽmia confírment.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay these holy mysteries which we have received, O Lord, by the intercession of blessed Joseph, supply what is wanting in our works, and assure us of Thy rewards.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

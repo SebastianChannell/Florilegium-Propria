@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-01",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Pretiosissimi Sanguinis Domini Nostri Jesu Christi",
+  "rank": "I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Apoc 5:9-10</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>edemísti nos, Dómine, in sánguine tuo, ex omni tribu et lingua et pópulo et natióne: et fecísti nos Deo nostro regnum.<br>\n<span class=\"rubric\"><em>Ps 88:2</em></span><br>\nMisericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>edemísti nos, Dómine, in sánguine tuo, ex omni tribu et lingua et pópulo et natióne: et fecísti nos Deo nostro regnum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Apoc 5:9-10</em></span><br>\n<span class=\"rubric\"><strong><em>Y</em></strong></span>ou have redeemed us, O Lord, with Your Blood, out of every tribe and tongue and people and nation, and have made us for our God a kingdom.<br>\n<span class=\"rubric\"><em>Ps 88:2</em></span><br>\nThe favors of the Lord I will sing forever; through all generations my mouth shall proclaim Your faithfulness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>Y</em></strong></span>ou have redeemed us, O Lord, with Your Blood, out of every tribe and tongue and people and nation, and have made us for our God a kingdom."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens sempitérne Deus, qui unigénitum Fílium tuum mundi Redemptórem constituísti, ac eius Sánguine placári voluísti: concéde, quǽsumus, salútis nostræ prétium sollémni cultu ita venerári, atque a præséntis vitæ malis eius virtúte deféndi in terris; ut fructu perpétuo lætémur in cœlis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty, eternal God, Who made Your only-begotten Son the Redeemer of the world, and willed to be reconciled by His Blood, grant us, we beseech You, so to worship in this sacred rite the price of our salvation, and to be so protected by its power against the evils of the present life on earth, that we may enjoy its everlasting fruit in heaven.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos.<br>\n<span class=\"rubric\"><em>Hebr 9:11-15</em></span><br>\nFratres: Christus assístens Póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manufáctum, id est, non huius creatiónis: neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta. Si enim sanguis hircórum et taurórum, et cinis vítulæ aspérsus, inquinátos sanctíficat ad emundatiónem carnis: quanto magis sanguis Christi, qui per Spíritum Sanctum semetípsum óbtulit immaculátum Deo, emundábit consciéntiam nostram ab opéribus mórtuis, ad serviéndum Deo vivénti? Et ídeo novi Testaménti mediátor est: ut, morte intercedénte, in redemptiónem eárum prævaricatiónum, quæ erant sub prióri Testaménto, repromissiónem accípiant, qui vocáti sunt ætérnæ hereditátis, in Christo Iesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Reading from the letter of St. Paul to the Hebrews<br>\n<span class=\"rubric\"><em>Heb 9:11-15.</em></span><br>\nBrethren: When Christ appeared as high priest of the good things to come, He entered once for all through the greater and more perfect tabernacle, not made by hands - that is, not of this creation, - nor again by virtue of blood of goats and calves, but by virtue of His own blood, into the Holies, having obtained eternal redemption. For if the blood of goats and bulls and the sprinkled ashes of a heifer sanctify the unclean unto the cleansing of the flesh, how much more will the Blood of Christ, Who through the Holy Spirit offered Himself unblemished unto God, cleanse your conscience from dead works to serve the living God? And this is why He is mediator of a new covenant, that whereas a death has taken place for redemption from the transgressions committed under the former covenant, they who have been called may receive eternal inheritance according to the promise, in Christ Jesus our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>1 Ioann 5:6-8</em></span><br>\nHic est, qui venit per aquam et sánguinem, Iesus Christus: non in aqua solum, sed in aqua et sánguine.<br>\n<span class=\"marker\"><em>℣.</em></span> Tres sunt, qui testimónium dant in cœlo: Pater, Verbum et Spíritus Sanctus; et hi tres unum sunt. Et tres sunt, qui testimónium dant in terra: Spíritus, aqua et sanguis: et hi tres unum sunt. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>1 Ioann 5:9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Si testimónium hóminum accípimus, testimónium Dei maius est. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>1 John 5:6-8</em></span><br>\nThis is He Who came in water and in blood, Jesus Christ; not in the water only, but in the water and in the blood.<br>\n<span class=\"marker\"><em>℣.</em></span> There are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are one. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>1 John 5:9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> If we receive the testimony of men, the testimony of God is greater. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 19:30-35</em></span><br>\nIn illo témpore: Cum accepísset Iesus acétum, dixit: Consummátum est. Et inclináto cápite trádidit spíritum. Iudæi ergo - quóniam Parascéve erat -, ut non remanérent in cruce córpora sábbato - erat enim magnus dies ille sábbati -, rogavérunt Pilátum, ut frangeréntur eórum crura et tolleréntur. Venérunt ergo mílites: et primi quidem fregérunt crura et altérius, qui crucifíxus est cum eo. Ad Iesum autem cum venissent, ut vidérunt eum iam mórtuum, non fregérunt eius crura, sed unus mílitum láncea latus eius apéruit, et contínuo exívit sanguis et aqua. Et qui vidit, testimónium perhíbuit; et verum est testimónium eius.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 19:30-35</em></span><br>\nAt that time, when Jesus had taken the wine, He said, It is consummated! And bowing His head, He gave up His spirit. The Jews therefore, since it was the Preparation Day, in order that the bodies might not remain upon the cross on the Sabbath, for that Sabbath was a solemn day, besought Pilate that their legs might be broken, and that they might be taken away. The soldiers therefore came and broke the legs of the first, and of the other, who had been crucified with Him. But when they came to Jesus, and saw that He was already dead, they did not break His legs; but one of the soldiers opened His side with a lance, and immediately there came out Blood and water. And he who saw it has borne witness, and his witness is true.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>1 Cor 10:16</em></span><br>\nCalix benedictiónis, cui benedícimus, nonne communicátio sánguinis Christi est? et panis, quem frángimus, nonne participátio córporis Dómini est?"
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>1 Cor. 10:16</em></span><br>\nThe Cup of blessing that we bless, is it not the sharing of the Blood of Christ? And the Bread that we break, is it not the partaking of the Body of the Lord?"
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Per hæc divína mystéria, ad novi, quǽsumus, Testaménti mediatórem Iesum accedámus: et super altária tua, Dómine virtútum, aspersiónem sánguinis mélius loquéntem, quam Abel, innovémus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Through this divine rite, we beseech You, may we draw near to Jesus, the mediator of the new covenant, and renew upon Your altar, O Lord of hosts, the sprinkling of blood more eloquent than that of Abel.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Sancta Cruce</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui salútem humáni géneris in ligno Crucis constituísti: ut, unde mors oriebátur, inde vita resúrgeret: et, qui in ligno vincébat, in ligno quoque vincerétur: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Cross</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who didst establish the salvation of mankind on the tree of the Cross; that whence death came, thence also life might arise again, and that he, who overcame by the tree, by the tree also might be overcome: Through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Hebr 9:28</em></span><br>\nChristus semel oblátus est ad multórum exhauriénda peccáta: secúndo sine peccáto apparébit exspectántibus se in salútem."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Heb 9:28</em></span><br>\nChrist was offered once to take away the sins of many; the second time with no part in sin He will appear unto the salvation of those who await Him."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nAd sacram, Dómine, mensam admíssi, háusimus aquas in gáudio de fóntibus Salvatóris: sanguis eius fiat nobis, quǽsumus, fons aquæ in vitam ætérnam saliéntis:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAdmitted to the sacred banquet, O Lord, we have drawn water in joy from the Saviour’s fountain; may His Blood, we beseech You, become for us a fountain of water springing up unto life everlasting.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

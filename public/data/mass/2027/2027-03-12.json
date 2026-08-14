@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-03-12",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Sexta infra Hebdomadam IV in Quadragesima",
+  "rank": "III. classis",
+  "note": "Commemoratio : S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 18:15</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>editátio cordis mei in conspéctu tuo semper: Dómine, adiútor meus, et redémptor meus.<br>\n<span class=\"rubric\"><em>Ps 18:2</em></span><br>\nCœli enárrant glóriam Dei: et ópera mánuum eius annúntiat firmaméntum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>editátio cordis mei in conspéctu tuo semper: Dómine, adiútor meus, et redémptor meus."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 18:15</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et the thought of my heart find favor before You, O Lord, my Rock and my Redeemer.<br>\n<span class=\"rubric\"><em>Ps 18:2</em></span><br>\nThe heavens declare the glory of God, and the firmament proclaims His handiwork.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et the thought of my heart find favor before You, O Lord, my Rock and my Redeemer."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui ineffabílibus mundum rénovas sacraméntis: præsta, quǽsumus; ut Ecclésia tua et ætérnis profíciat institútis, et temporálibus non destituátur auxíliis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui ánimæ fámuli tui Gregórii ætérnæ beatitúdinis prǽmia contulísti: concéde propítius; ut, qui peccatórum nostrórum póndere prémimur, eius apud te précibus sublevémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who by your wondrous sacraments renew the world, grant that Your church may benefit from Your eternal decrees and not be deprived of temporal help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Gregory the Great, Pope, Confessor and Doctor of the Church</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who granted the rewards of everlasting happiness to the soul of Your servant Gregory, mercifully grant that we who are weighed down with the burden of our sins may be raised up by his prayers to You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Regum.<br>\n<span class=\"rubric\"><em>3 Reg 17:17-24</em></span><br>\nIn diébus illis: Ægrotávit fílius mulíeris matris famílias, et erat languor fortíssimus, ita ut non remanéret in eo hálitus. Dixit ergo ad Elíam: Quid mihi et tibi, vir Dei? Ingréssus es ad me, ut rememoraréntur iniquitátes meæ, et interfíceres fílium meum? Et ait ad eam Elías: Da mihi fílium tuum. Tulítque eum de sinu eius, et portávit in cenáculum, ubi ipse manébat, et pósuit super léctulum suum, et clamávit ad Dóminum, et dixit: Dómine, Deus meus, étiam ne víduam, apud quam ego utcúmque susténtor, afflixísti, ut interfíceres fílium eius? Et expándit se, atque mensus est super púerum tribus vícibus, et clamávit ad Dóminum, et ait: Dómine, Deus meus, revertátur, óbsecro, ánima púeri huius in víscera eius. Et exaudívit Dóminus vocem Elíæ: et revérsa est ánima púeri intra eum, et revíxit. Tulítque Elías púerum, et depósuit eum de cenáculo in inferiórem domum, et trádidit matri suæ, et ait illi: En, vivit fílius tuus. Dixítque múlier ad Elíam: Nunc in isto cognóvi, quóniam vir Dei es tu, et verbum Dómini in ore tuo verum est.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Kings<br>\n<span class=\"rubric\"><em>3 Kings 17:17-24</em></span><br>\nIn those days, the son of the woman, the mistress of the house, fell sick, and the sickness was very grievous, so that there was no breath left in him. And she said to Elias, What have I to do with you, O man of God? Have you come to me that my iniquities should be remembered, and that you should kill my son? And Elias said to her, Give me your son. And he took him out of her bosom, and carried him into the upper chamber where he abode, and laid him upon his own bed, and he cried to the Lord, and said, O Lord my God, have You afflicted also the widow, with whom I am after a sort maintained, so as to kill her son? And he stretched, and measured himself upon the child three times, and cried to the Lord and said, O Lord my God, let the soul of this child, I beseech You, return into his body. And the Lord heard the voice of Elias; and the soul of the child returned into him, and he revived. And Elias took the child, and brought him down from the upper chamber to the house below, and delivered him to his mother, and said to her, Behold, your son lives. And the woman said to Elias, Now by this I knew that you are a man of God, and the word of the Lord in your mouth is true.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 117:8-9</em></span><br>\nBonum est confídere in Dómino, quam confídere in hómine.<br>\n<span class=\"marker\"><em>℣.</em></span> Bonum est speráre in Dómino, quam speráre in princípibus.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adiuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 117:8-9</em></span><br>\nIt is better to take refuge in the Lord rather than to trust in man.<br>\n<span class=\"marker\"><em>℣.</em></span> It is better to take refuge in the Lord rather than to trust in princes.<br>\n<br>\n<span class=\"rubric\"><em>Tract</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 11:1-45</em></span><br>\nIn illo témpore: Erat quidam languens Lázarus a Bethánia, de castéllo Maríæ et Marthæ, soróris eius. (María autem erat, quæ unxit Dóminum unguénto, et extérsit pedes eius capíllis suis: cuius frater Lázarus infirmabátur.) Misérunt ergo soróres eius ad eum, dicéntes: Dómine, ecce, quem amas infirmátur. Audiens autem Iesus, dixit eis: Infírmitas hæc non est ad mortem, sed pro glória Dei, ut glorificétur Fílius Dei per eam. Diligébat autem Iesus Martham et sorórem eius, Maríam, et Lázarum. Ut ergo audívit, quia infirmabátur, tunc quidem mansit in eódem loco duóbus diébus. Déinde post hæc dixit discípulis suis: Eámus in Iudǽam íterum. Dicunt ei discípuli: Rabbi, nunc quærébant te Iudǽi lapidáre, et íterum vadis illuc? Respóndit Iesus: Nonne duódecim sunt horæ diéi? Si quis ambuláverit in die, non offéndit, quia lucem huius mundi videt: si autem ambuláverit in nocte, offéndit, quia lux non est in eo. Hæc ait, et post hæc dixit eis: Lázarus, amícus noster, dormit: sed vado, ut a somno éxcitem eum. Dixérunt ergo discípuli eius: Dómine, si dormit, salvus erit. Díxerat autem Iesus de morte eius: illi autem putavérunt, quia de dormitióne somni díceret. Tunc ergo Iesus dixit eis maniféste: Lazarus mórtuus est: et gáudeo propter vos, ut credátis, quóniam non eram ibi: sed eámus ad eum. Dixit ergo Thomas, qui dícitur Dídymus, ad condiscípulos: Eámus et nos, ut moriámur cum eo. Venit itaque Iesus, et invénit eum quátuor dies iam in monuménto habéntem. (Erat autem Bethánia iuxta Ierosólymam quasi stádiis quíndecim.) Multi autem ex Iudǽis vénerant ad Martham et Maríam, ut consolaréntur eas de fratre suo. Martha ergo, ut audívit quia Iesus venit, occúrrit illi: María autem domi sedébat. Dixit ergo Martha ad Iesum: Dómine, si fuísses hic, frater meus non fuísset mórtuus: sed et nunc scio, quia, quæcúmque popósceris a Deo, dabit tibi Deus. Dicit illi Iesus: Resúrget frater tuus. Dicit ei Martha: Scio, quia resúrget in resurrectióne in novíssimo die. Dixit ei Iesus: Ego sum resurréctio et vita: qui credit in me, étiam si mórtuus fúerit, vivet: et omnis, qui vivit et credit in me, non moriétur in ætérnum. Credis hoc? Ait illi: Utique, Dómine, ego crédidi, quia tu es Christus, Fílius Dei vivi, qui in hunc mundum venísti. Et cum hæc dixísset, ábiit et vocávit Maríam, sorórem suam, siléntio, dicens: Magíster adest, et vocat te. Illa ut audívit, surgit cito, et venit ad eum: nondum enim vénerat Iesus in castéllum; sed erat adhuc in illo loco, ubi occúrrerat ei Martha. Iudǽi ergo, qui erant cum ea in domo et consolabántur eam, cum vidíssent Maríam, quia cito surréxit et éxiit, secúti sunt eam, dicéntes: Quia vadit ad monuméntum, ut ploret ibi. María ergo, cum venísset, ubi erat Iesus, videns eum, cécidit ad pedes eius, et dicit ei: Dómine, si fuísses hic, non esset mórtuus frater meus. Iesus ergo, ut vidit eam plorántem, et Iudǽos, qui vénerant cum ea, plorántes, infrémuit spíritu, et turbávit seípsum, et dixit: Ubi posuístis eum? Dicunt ei: Dómine, veni et vide. Et lacrimátus est Iesus. Dixérunt ergo Iudǽi: Ecce, quómodo amábat eum. Quidam autem ex ipsis dixérunt: Non póterat hic, qui apéruit óculos cæci nati, facere, ut hic non morerétur? Iesus ergo rursum fremens in semetípso, venit ad monuméntum. Erat autem spelúnca, et lapis superpósitus erat ei. Ait Iesus: Tóllite lápidem. Dicit ei Martha, soror eius, qui mórtuus fúerat: Dómine, iam fetet, quatriduánus est enim. Dicit ei Iesus: Nonne dixi tibi, quóniam, si credíderis, vidébis glóriam Dei? Tulérunt ergo lápidem: Iesus autem, elevátis sursum óculis, dixit: Pater, grátias ago tibi, quóniam audísti me. Ego autem sciébam, quia semper me audis, sed propter pópulum, qui circúmstat, dixi: ut credant, quia tu me misísti. Hæc cum dixísset, voce magna clamávit: Lázare, veni foras. Et statim pródiit, qui fúerat mórtuus, ligátus pedes et manus ínstitis, et fácies illíus sudário erat ligáta. Dixit eis Iesus: Sólvite eum, et sínite abíre. Multi ergo ex Iudǽis, qui vénerant ad Maríam et Martham, et víderant quæ fecit Iesus, credidérunt in eum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 11:1-45</em></span><br>\nAt that time, a certain man was sick, Lazarus of Bethany, the village of Mary and her sister Martha. Now it was Mary who anointed the Lord with ointment, and wiped His feet dry with her hair, whose brother Lazarus was sick. The sisters therefore sent to Him, saying, Lord, behold, he whom You love is sick. But when Jesus heard this, He said to them, This sickness is not unto death, but for the glory of God, that through it the Son of God may be glorified. Now Jesus loved Martha and her sister Mary, and Lazarus. So when He heard that he was sick, He remained two more days in the same place. Then afterwards He said to His disciples, Let us go again into Judea. The disciples said to Him, Rabbi, just now the Jews were seeking to stone You; and do You go there again? Jesus answered, Are there not twelve hours in the day? If a man walks in the day, he does not stumble, because he sees the light of this world. But if he walks in the night, he stumbles, because the light is not in him. These things He spoke, and after this He said to them, Lazarus, our friend, sleeps. But I go that I may wake him from sleep. His disciples therefore said, Lord, if he sleeps, he will be safe. Now Jesus had spoken of his death, but they thought He was speaking of the repose of sleep. So then Jesus said to them plainly, Lazarus is dead; and I rejoice on your account that I was not there, that you may believe. But let us go to him. Thomas, who is called the Twin, said therefore to his fellow-disciples, Let us also go, that we may die with Him. Jesus therefore came and found him already four days in the tomb. Now Bethany was close to Jerusalem, some fifteen stadia distant. And many of the Jews had come to Martha and Mary, to comfort them on account of their brother. When, therefore, Martha heard that Jesus was coming, she went to meet Him. But Mary remained at home. Martha therefore said to Jesus, Lord, if You had been here my brother would not have died. But even now I know that whatever You shall ask of God, God will give it to You. Jesus said to her, Your brother shall rise. Martha said to Him, I know that he will rise at the resurrection, on the last day. Jesus said to her, I am the resurrection and the life; he who believes in Me, even if he die, shall live; and whoever lives and believes in Me, shall never die. Do you believe this? She said to Him, ‘Yes, Lord, I believe that You are the Christ, the Son of God, Who have come into the world. And when she had said this, she went away and quietly called Mary her sister, saying, The Master is here and calls you. As soon as she heard this, she rose quickly and came to Him, for Jesus had not yet come into the village, but was still at the place where Martha had met Him. When, therefore, the Jews who were with her in the house and were comforting her, saw Mary rise up quickly and go out, they followed her, saying, She is going to the tomb to weep there. When, therefore, Mary came where Jesus was, and saw Him, she fell at His feet, and said to him, Lord, if You had been here, my brother would not have died. When, therefore, Jesus saw her weeping, and the Jews who had come with her weeping, He groaned in spirit and was troubled, and said, Where have you laid him? They said to Him, Lord, come and see. And Jesus wept. The Jews therefore said, See how He loved him. But some of them said, Could not He Who opened the eyes of the blind, have caused that this man should not die? Jesus therefore, again groaning in Himself, came to the tomb. Now it was a cave and a stone was laid against it. Jesus said, Take away the stone. Martha, the sister of him who was dead, said to Him, Lord, by this time he is already decayed, for he is dead four days. Jesus said to her, Have I not told you that if you believe you shall behold the glory of God? They therefore removed the stone. And Jesus, raising His eyes, said, Father, I give You thanks that You have heard Me. Yet I knew that You always hear Me; but because of the people who stand round, I spoke, that they may believe that You have sent Me. When He had said this, He cried out with a loud voice, Lazarus, come forth! And at once he who had been dead came forth, bound feet and hands with bandages, and his face was tied up with a cloth. Jesus said to them, Unbind him, and let him go. Many therefore of the Jews who had come to Mary, and had seen what He did, believed in Him.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 17:28; 17:32</em></span><br>\nPópulum húmilem salvum fácies, Dómine, et óculos superbórum humiliábis: quóniam quis Deus præter te, Dómine?"
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 17:28, 32</em></span><br>\nLowly people You save, O Lord, but haughty eyes You bring low; for who is God except You, O Lord?"
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Múnera nos, Dómine, quǽsumus, obláta puríficent: et te nobis iugiter fáciant esse placátum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>nnue nobis, quǽsumus, Dómine: ut intercessióne beáti Gregórii hæc nobis prosit oblátio, quam immolándo totíus mundi tribuísti relaxári delícta.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the gifts we offer, O Lord, cleanse us, we beseech You, that You may be always merciful to us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration S. Gregory the Great, Pope, Confessor and Doctor of the Church</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, O Lord, that through the intercession of blessed Gregory, this sacrifice may benefit us; for You have provided that by offering it, the sins of the whole world should be forgiven.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioann 11:33, 35, 43, 44, 39</em></span><br>\nVidens Dóminus flentes soróres Lázari ad monuméntum, lacrimátus est coram Iudǽis, et exclamávit: Lázare, veni foras: et pródiit ligátis mánibus et pédibus, qui fúerat quatriduánus mórtuus."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Jn 11:33, 35, 43-44, 39</em></span><br>\nThe Lord, seeing the sisters of Lazarus weeping at the tomb, wept before the Jews, and cried out: Lazarus, come forth”: and he who had been dead four days came forth, bound hands and feet."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nHæc nos, quǽsumus, Dómine, participátio sacraménti: et a propriis reátibus indesinénter expédiat, et ab ómnibus tueátur advérsis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui beátum Gregórium Pontíficem Sanctórum tuórum méritis coæquásti: concéde propítius; ut, qui commemoratiónis eius festa percólimus, vitæ quoque imitémur exémpla.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>a nobis, quǽsumus, omnípotens Deus: ut, qui infirmitátis nostræ cónscii, de tua virtúte confídimus, sub tua semper pietáte gaudeámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the reception of this sacrament, we beseech You, O Lord, always free us from sin and protect us from all that works against us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Gregory the Great, Pope, Confessor and Doctor of the Church</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who made Your Bishop, blessed Gregory, an equal to the saints in merit, graciously grant that we, who keep this feast in his memory, may also imitate the example given by his life.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant us, we beseech You, almighty God, that, conscious of our weakness, we may place our trust in Your strength, and rejoice forever in Your fatherly love.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

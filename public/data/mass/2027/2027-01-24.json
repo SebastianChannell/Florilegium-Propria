@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-01-24",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica in Septuagesima",
+  "rank": "II. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 17:5; 17:6; 17:7</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ircumdedérunt me gémitus mortis, dolóres inférni circumdedérunt me: et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam.<br>\n<span class=\"rubric\"><em>Ps 17:2-3</em></span><br>\nDíligam te, Dómine, fortitúdo mea: Dóminus firmaméntum meum, et refúgium meum, et liberátor meus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ircumdedérunt me gémitus mortis, dolóres inférni circumdedérunt me: et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 17:5-7</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he terrors of death surged round me, the cords of the nether world enmeshed me. In my distress I called upon the Lord; from His holy temple He heard my voice.<br>\n<span class=\"rubric\"><em>Ps 17:2-3</em></span><br>\nI love You, O Lord, my strength, O Lord, my rock, my fortress, my deliverer.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he terrors of death surged round me, the cords of the nether world enmeshed me. In my distress I called upon the Lord; from His holy temple He heard my voice."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPreces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut, qui iuste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech You, graciously hear the prayers of Your people, that we who are justly punished for our sins may be mercifully delivered for the glory of Your name.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>1 Cor 9:24-27; 10:1-5</em></span><br>\nFratres: Nescítis, quod ii, qui in stádio currunt, omnes quidem currunt, sed unus áccipit bravíum? Sic cúrrite, ut comprehendátis. Omnis autem, qui in agóne conténdit, ab ómnibus se ábstinet: et illi quidem, ut corruptíbilem corónam accípiant; nos autem incorrúptam. Ego ígitur sic curro, non quasi in incértum: sic pugno, non quasi áërem vérberans: sed castígo corpus meum, et in servitútem rédigo: ne forte, cum áliis prædicáverim, ipse réprobus effíciar. Nolo enim vos ignoráre, fratres, quóniam patres nostri omnes sub nube fuérunt, et omnes mare transiérunt, et omnes in Móyse baptizáti sunt in nube et in mari: et omnes eándem escam spiritálem manducavérunt, et omnes eúndem potum spiritálem bibérunt bibébant autem de spiritáli, consequénte eos, petra: petra autem erat Christus: sed non in plúribus eórum beneplácitum est Deo.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 9:24-27; 10:1-5</em></span><br>\nBrethren: Do you not know that those who run in a race, all indeed run, but one receives the prize? So run as to obtain it. And everyone in a contest abstains from all things - and they indeed to receive a perishable crown, but we an imperishable. I, therefore, so run as not without a purpose; I so fight as not beating the air; but I chastise my body and bring it into subjection, lest perhaps after preaching to others I myself should be rejected. For I would not have you ignorant, brethren, that our fathers were all under the cloud, and all passed through the sea, all were baptized in Moses, in the cloud and in the sea. And all ate the same spiritual food, and all drank the same spiritual drink for they drank from the spiritual rock which followed them, and the rock was Christ. Yet with most of them God was not well pleased.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 9:10-11; 9:19-20</em></span><br>\nAdiútor in opportunitátibus, in tribulatióne: sperent in te, qui novérunt te: quóniam non derelínquis quæréntes te, Dómine,<br>\n<span class=\"marker\"><em>℣.</em></span> Quóniam non in finem oblívio erit páuperis: patiéntia páuperum non períbit in ætérnum: exsúrge, Dómine, non præváleat homo.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 129:1-4</em></span><br>\nDe profúndis clamávi ad te. Dómine: Dómine, exáudi vocem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Fiant aures tuæ intendéntes in oratiónem servi tui.<br>\n<span class=\"marker\"><em>℣.</em></span> Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit?<br>\n<span class=\"marker\"><em>℣.</em></span> Quia apud te propitiátio est, et propter legem tuam sustínui te, Dómine."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 9:10-11; 9:19-20</em></span><br>\nA helper in due time in tribulation. Let them trust in thee who know thy name: for thou hast not forsaken them that seek thee, O Lord.<br>\nFor the poor man shall not be forgotten to the end: the patience of the poor shall not perish for ever. Arise, O Lord, let not man be strengthened.<br>\n<br>\n<span class=\"rubric\"><em>Tract</em></span><br>\n<span class=\"rubric\"><em>Ps 129:1-4</em></span><br>\nOut of the depths I cry to You, O Lord; Lord, hear my voice!<br>\n<span class=\"marker\"><em>℣.</em></span> Let Your ears be attentive to the prayer of Your servant.<br>\n<span class=\"marker\"><em>℣.</em></span> If You, O Lord, mark iniquities, Lord, who can stand it?<br>\n<span class=\"marker\"><em>℣.</em></span> But with You is forgiveness, and by reason of Your law I have waited for You, O Lord."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 20:1-16</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis parábolam hanc: Simile est regnum coelórum hómini patrifamílias, qui éxiit primo mane condúcere operários in víneam suam. Conventióne autem facta cum operáriis ex denário diúrno, misit eos in víneam suam. Et egréssus circa horam tértiam, vidit álios stantes in foro otiósos, et dixit illis: Ite et vos in víneam meam, et quod iustum fúerit, dabo vobis. Illi autem abiérunt. Iterum autem éxiit circa sextam et nonam horam: et fecit simíliter. Circa undécimam vero éxiit, et invénit álios stantes, et dicit illis: Quid hic statis tota die otiósi? Dicunt ei: Quia nemo nos condúxit. Dicit illis: Ite et vos in víneam meam. Cum sero autem factum esset, dicit dóminus víneæ procuratóri suo: Voca operários, et redde illis mercédem, incípiens a novíssimis usque ad primos. Cum veníssent ergo qui circa undécimam horam vénerant, accepérunt síngulos denários. Veniéntes autem et primi, arbitráti sunt, quod plus essent acceptúri: accepérunt autem et ipsi síngulos denários. Et accipiéntes murmurábant advérsus patremfamílias, dicéntes: Hi novíssimi una hora fecérunt et pares illos nobis fecísti, qui portávimus pondus diéi et æstus. At ille respóndens uni eórum, dixit: Amíce, non facio tibi iniúriam: nonne ex denário convenísti mecum? Tolle quod tuum est, et vade: volo autem et huic novíssimo dare sicut et tibi. Aut non licet mihi, quod volo, fácere? an óculus tuus nequam est, quia ego bonus sum? Sic erunt novíssimi primi, et primi novíssimi. Multi enim sunt vocáti, pauci vero elécti.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 20:1-16</em></span><br>\nAt that time, Jesus spoke to His disciples this parable: The kingdom of heaven is like a householder who went out early in the morning to hire laborers for his vineyard. And having agreed with the laborers for a denarius a day, he sent them into his vineyard. And about the third hour, he went out and saw others standing in the market place idle; and he said to them, ‘Go you also into the vineyard, and I will give you whatever is just.’ So they went. And again he went out about the sixth, and about the ninth hour, and did as before. But about the eleventh hour he went out and found others standing about and he said to them, ‘Why do you stand here all day idle?’ They said to him, ‘Because no man has hired us.’ He said to them, ‘Go you also into the vineyard.’ But when evening had come, the owner of the vineyard said to his steward, ‘Call the laborers, and pay them their wages, beginning from the last even to the first.’ Now when they of the eleventh hour came, they received each a denarius. And when the first in their term came, they thought that they would receive more; but they also received each his denarius. And on receiving it, they began to murmur against the householder, saying, ‘These last have worked a single hour, and you have put them on a level with us, who have borne the burden of the day’s heat.’ But answering one of them, he said, ‘Friend, I do you no injustice; did you not agree with me for a denarius? Take what is yours and go; I choose to give to this last even as to you. Have I not a right to do what I choose? Or are you envious because I am generous?’ Even so the last shall be first, and the first last; for many are called, but few are chosen.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nBonum est confitéri Dómino, et psállere nómini tuo, Altíssime."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nIt is good to give thanks to the Lord, and to sing praise to Your name, Most High."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Munéribus nostris, quǽsumus, Dómine, precibúsque suscéptis: et cœléstibus nos munda mystériis, et cleménter exáudi.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "As thou hast received our gifts and prayers, O Lord, cleanse us, we ask by thy heavenly mysteries, and graciously hear us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in maiestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre cotídie, una voce dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 30:17-18</em></span><br>\nIllúmina fáciem tuam super servum tuum, et salvum me fac in tua misericórdia: Dómine, non confúndar, quóniam invocávi te."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 30:17-18</em></span><br>\nLet Your face shine upon Your servant; save me in Your kindness. O Lord, let me not be put to shame, for I call upon You."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nFidéles tui, Deus, per tua dona firméntur: ut eadem et percipiéndo requírant, et quæréndo sine fine percípiant.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay Your faithful people, O God, be strengthened by Your gifts; that by receiving them, they may still desire them, and by desiring them, may evermore receive them.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

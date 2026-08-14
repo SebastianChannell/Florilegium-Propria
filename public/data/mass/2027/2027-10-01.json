@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-10-01",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Sexta infra Hebdomadam XIX post Octavam Pentecostes IV. Septembris",
+  "rank": "IV. classis",
+  "note": "Commemoratio : S. Remigii Episcopi et Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>alus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum.<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nAttendite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>alus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum"
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><strong><em>I</em></strong></span> am the salvation of the people, says the Lord; in whatever tribulation they shall cry to Me, I will hear them; and I will be their Lord forever.<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nHearken, My people, to My teaching; incline your ears to the words of My mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> am the salvation of the people, says the Lord; in whatever tribulation they shall cry to Me, I will hear them; and I will be their Lord forever."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens et miséricors Deus, univérsa nobis adversántia propitiátus exclúde: ut mente et córpore páriter expedíti, quæ tua sunt, líberis méntibus exsequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Remigii Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>v</em></strong></span>. Da, quǽsumus, omnípotens Deus: ut beáti Remígii Confessóris tui atque Pontíficis veneránda solémnitas, et devotiónem nobis áugeat et salútem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty and merciful God, graciously keep away from us all misfortune, that, unhampered in soul and body, we may perform with peaceful minds the works that are Yours.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Remigius, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>v</em></strong></span>. Grant, we beseech thee, almighty God, that the venerable feast of Remigius thy blessed Confessor and Bishop may increase our devotion and promote our salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios<br>\n<span class=\"rubric\"><em>Ephes 4:23-28</em></span><br>\nFratres: Renovámini spíritu mentis vestræ, et indúite novum hóminem, qui secúndum Deum creátus est in iustítia et sanctitáte veritátis. Propter quod deponéntes mendácium, loquímini veritátem unusquísque cum próximo suo: quóniam sumus ínvicem membra. Irascímini, et nolíte peccáre: sol non occídat super iracúndiam vestram. Nolíte locum dare diábolo: qui furabátur, iam non furétur; magis autem labóret, operándo mánibus suis, quod bonum est, ut hábeat, unde tríbuat necessitátem patiénti.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Ephesians<br>\n<span class=\"rubric\"><em>Eph 4:23-28</em></span><br>\nBrethren: Be renewed in the spirit of your mind, and put on the new man, which has been created according to God in justice and holiness of truth. Wherefore, put away lying and speak truth each one with his neighbor, because we are members of one another. Be angry and do not sin; do not let the sun go down upon your anger; do not give place to the devil. He who was wont to steal, let him steal no longer; but rather let him labor, working with his hands at what is good, that he may have something to share with him who suffers need.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 140:2</em></span><br>\nDirigátur orátio mea, sicut incénsum in conspéctu tuo, Dómine.<br>\n<span class=\"marker\"><em>℣.</em></span> Elevatio mánuum meárum sacrifícium vespertínum. Allelúia, allelúia<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nConfitémini Dómino, et invocáte nomen eius: annuntiáte inter gentes ópera eius. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 140:2</em></span><br>\nLet my prayer come like incense before You, O Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> The lifting up of my hands, like the evening sacrifice. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Give thanks to the Lord, invoke His name; make known among the nations His deeds. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 22:1-14</em></span><br>\nIn illo témpore: Loquebátur Iesus princípibus sacerdótum et pharisǽis in parábolis, dicens: Símile factum est regnum cœlórum hómini regi, qui fecit núptias fílio suo. Et misit servos suos vocáre invitátos ad nuptias, et nolébant veníre. Iterum misit álios servos, dicens: Dícite invitátis: Ecce, prándium meum parávi, tauri mei et altília occísa sunt, et ómnia paráta: veníte ad núptias. Illi autem neglexérunt: et abiérunt, álius in villam suam, álius vero ad negotiatiónem suam: réliqui vero tenuérunt servos eius, et contuméliis afféctos occidérunt. Rex autem cum audísset, iratus est: et, missis exercítibus suis, pérdidit homicídas illos et civitátem illórum succéndit. Tunc ait servis suis: Núptiæ quidem parátæ sunt, sed, qui invitáti erant, non fuérunt digni. Ite ergo ad exitus viárum et, quoscúmque invenéritis, vocáte ad núptias. Et egréssi servi eius in vias, congregavérunt omnes, quos invenérunt, malos et bonos: et implétæ sunt núptiæ discumbéntium. Intrávit autem rex, ut vidéret discumbéntes, et vidit ibi hóminem non vestítum veste nuptiáli. Et ait illi: Amíce, quómodo huc intrásti non habens vestem nuptiálem? At ille obmútuit. Tunc dixit rex minístris: Ligátis mánibus et pédibus eius, míttite eum in ténebras exterióres: ibi erit fletus et stridor déntium. Multi enim sunt vocáti, pauci vero elécti.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 22:1-14</em></span><br>\nAt that time, Jesus spoke to the chief priests and the Pharisees in parables, saying, The kingdom of heaven is like a king who made a marriage feast for his son. And he sent his servants to call in those invited to the marriage feast, but they would not come. Again he sent out other servants, saying, “Tell those who are invited, behold, I have prepared my dinner; my oxen and fatlings are killed, and everything is ready; come to the marriage feast.” But they made light of it, and went off, one to his farm, and another to his business; and the rest laid hold of his servants, treated them shamefully, and killed them. But when the king heard of it, he was angry; and he sent his armies, destroyed those murderers, and burnt their city. Then he said to his servants, “The marriage feast indeed is ready, but those who were invited were not worthy; go therefore to the crossroads, and invite to the marriage feast whomever you shall find.” And his servants went out into the roads, and gathered all whom they found, both good and bad; and the marriage feast was filled with guests. Now the king went in to see the guests, and he saw there a man who had not on a wedding garment. And he said to him, “Friend, how did you come in here without a wedding garment?” But he was speechless. Then the king said to the attendants, “Bind his hands and feet and cast him forth into the darkness outside, where there will be the weeping and the gnashing of teeth.” For many are called, but few are chosen.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 137:7</em></span><br>\nSi ambulávero in médio tribulatiónis, vivificábis me, Dómine: et super iram inimicórum meórum exténdes manum tuam, et salvum me fáciet déxtera tua."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 137:7</em></span><br>\nThough I walk amid distress, You preserve me, O Lord; against the anger of my enemies You raise Your hand; Your right hand saves me."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hæc múnera, quǽsumus, Dómine, quæ óculis tuæ maiestátis offérimus, salutária nobis esse concéde.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Remigii Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ancti tui, quǽsumus, Dómine, nos ubíque lætíficant: ut, dum eórum mérita recólimus, patrocínia sentiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant, we beseech You, O Lord, that these gifts which we offer in the sight of Your majesty, may be the means of our salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Remigius, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your Saints, we beseech You, O Lord, everywhere make us joyful: so that, while we reflect upon their merits, we may enjoy their help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:4-5</em></span><br>\nTu mandásti mandáta tua custodíri nimis: útinam dirigántur viæ meæ, ad custodiéndas iustificatiónes tuas."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:4-5</em></span><br>\nYou have commanded that Your precepts be diligently kept. Oh, that I might be firm in the ways of keeping Your statutes!"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nTua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et tuis semper fáciat inhærére mandátis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Remigii Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta, quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, intercedénte beáto Remígio Confessóre tuo atque Pontífice, benefícia potióra sumámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay Your healing power, O Lord, mercifully deliver us from our waywardness and make us ever keep Your commandments.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Remigius, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, almighty God, that as we thank You for the favors we have received, we may, by the intercession of blessed Remigius, Your Confessor and Bishop, obtain still greater blessings.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

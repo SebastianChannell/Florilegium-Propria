@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-09-22",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Quarta Quattuor Temporum Septembris",
+  "rank": "II. classis",
+  "note": "Commemoratio : S. Thomæ de Villanova Episcopi et Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 80:2; 80:3; 80:4; 80:5</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xsultáte Deo, adiutóri nostro: iubiláte Deo Iacob: súmite psalmum iucúndum cum cíthara: cánite in inítio mensis tuba, quia præcéptum in Israël est, et iudícium Deo Iacob.<br>\n<span class=\"rubric\"><em>Ps 80:6</em></span><br>\nTestimónium in Ioseph pósuit illud, cum exíret de terra Ægýpti: linguam, quam non nóverat, audívit.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xsultáte Deo, adiutóri nostro: iubiláte Deo Iacob: súmite psalmum iucúndum cum cíthara: cánite in inítio mensis tuba, quia præcéptum in Israël est, et iudícium Deo Iacob."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 80:2-5</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ing joyfully to God our strength; acclaim the God of Jacob. Take up a pleasant psalm with the harp; blow the trumpet in the beginning of the month; for it is a statute in Israel, an ordinance of the God of Jacob.<br>\n<span class=\"rubric\"><em>Ps 80:6</em></span><br>\nHe made it a decree for Joseph, when he came forth from the land of Egypt: he heard an unfamiliar speech.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ing joyfully to God our strength; acclaim the God of Jacob. Take up a pleasant psalm with the harp; blow the trumpet in the beginning of the month; for it is a statute in Israel, an ordinance of the God of Jacob."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"marker\"><em>℣.</em></span> Flectámus génua.<br>\n<span class=\"marker\"><em>℟.</em></span> Leváte.<br>\nMisericórdiæ tuæ remédiis, quǽsumus, Dómine, fragílitas nostra subsístat: ut, quæ sua conditióne attéritur, tua cleméntia reparétur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Lectio</em></strong></span><br>\nLéctio Amos Prophétæ<br>\n<span class=\"rubric\"><em>Amos 9:13-15</em></span><br>\nHæc dicit Dóminus Deus: Ecce, dies véniunt: et comprehéndet arátor messórem, et calcátor uvæ mitténtem semen: et stillábunt montes dulcédinem, et omnes colles culti erunt. Et convértam captivitátem pópuli mei Israël: et ædificábunt civitátes desértas et inhabitábunt: et plantábunt víneas et bibent vinum eárum: et fácient hortos et cómedent fructus eórum. Et plantábo eos super humum suam: et non evéllam eos ultra de terra sua, quam dedi eis: dicit Dóminus, Deus tuus.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias.<br>\n<br>\n<span class=\"rubric\"><strong><em>Graduale</em></strong></span><br>\n<span class=\"rubric\"><em>Ps 112,5-7</em></span><br>\nQuis sicut Dóminus, Deus noster, qui in altis hábitat, et humilia réspicit in cœlo et in terra?<br>\n<span class=\"marker\"><em>℣.</em></span> Súscitans a terra ínopem et de stércore érigens páuperem.<br>\n<br>\n<span class=\"rubric\"><strong><em>Oratio</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dóminus vobíscum.<br>\n<span class=\"marker\"><em>℟.</em></span> Et cum spíritu tuo.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, Dómine, famíliæ tuæ supplicánti: ut, dum a cibis corporálibus se ábstinet, a vítiis quoque mente ieiúnet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Thomæ de Villanova Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui beátum Thomam Pontíficem insígnis in páuperes misericórdiæ virtúte decorásti: quǽsumus; ut, eius intercessióne, in omnes, qui te deprecántur, divítias misericórdiæ tuæ benígnus effúndas.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"marker\"><em>℣.</em></span> Let us kneel.<br>\n<span class=\"marker\"><em>℟.</em></span> Arise.<br>\nMay our frailty, we beseech You, O Lord, find support in the help of Your mercy; so that what is marred by its own nature may be restored by Your grace.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Lesson</em></strong></span><br>\n<span class=\"rubric\"><em>Amos 9:13-15</em></span><br>\nThus says the Lord God: Yes, days are coming, when the plowman shall overtake the reaper, and the vintager, him who sows the seed; the juice of grapes shall drip down the mountains, and all the hills shall run with it. I will bring about the restoration of My people Israel; they shall rebuild and inhabit their ruined cities, plant vineyards and drink the wine, set out gardens and eat the fruits. I will plant them upon their own ground; never again shall they be plucked from the land I have given them, say I, the Lord, your God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God.<br>\n<br>\n<span class=\"rubric\"><strong><em>Gradual</em></strong></span><br>\n<span class=\"rubric\"><em>Ps 112:5-7</em></span><br>\nWho is like the Lord, our God, Who is enthroned on high and looks upon the heavens and the earth below?<br>\n<span class=\"marker\"><em>℣.</em></span> He raises up the lowly from the dust; from the dunghill He lifts up the poor.<br>\n<br>\n<span class=\"rubric\"><strong><em>Collect</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord be with you.<br>\n<span class=\"marker\"><em>℟.</em></span> And with thy spirit.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech You, grant to Your praying household that, as they fast from bodily food, they may also abstain mentally from sin.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Thomas of Villanova, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who endowed blessed Bishop Thomas with the virtue of special pity for the poor, we beseech You, through his intercession, generously to pour forth the riches of Your mercy upon all those who pray to You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Esdræ<br>\n<span class=\"rubric\"><em>Neh 8:1-10</em></span><br>\nIn diébus illis: Congregátus est omnis pópulus quasi vir unus ad platéam, quæ est ante portam aquárum: et dixérunt Esdræ scribæ, ut afférret librum legis Moysi, quam præcéperat Dóminus Israéli. Attulit ergo Esdras sacérdos legem coram multitúdine virórum et mulíerum, cunctísque qui póterant intellégere, in die prima mensis séptimi. Et legit in eo apérte in platéa, quæ erat ante portam aquárum, de mane usque ad médiam diem, in conspéctu virórum et mulíerum et sapiéntium: et aures omnis pópuli erant eréctæ ad librum. Stetit autem Esdras scriba super gradum lígneum, quem fécerat ad loquendum. Et apéruit librum coram omni pópulo: super univérsum quippe pópulum eminébat: et cum aperuísset eum, stetit omnis pópulus. Et benedíxit Esdras Dómino, Deo magno: et respóndit omnis pópulus: Amen, Amen: élevans manus suas: et incurváti sunt et adoravérunt Deum proni in terram. Porro levítæ siléntium faciébant in pópulo ad audiéndam legem: pópulus autem stabat in gradu suo. Et legérunt in libro legis Dei distíncte et apérte ad intellegéndum: et intellexérunt, cum legerétur. Dixit autem Nehemías, et Esdras sacérdos et scriba, et levítæ interpretántes univérso pópulo: Dies sanctificátus est Dómino, Deo nostro, nolíte lugére et nolíte flere. Et dixit eis: Ite, comédite pínguia et bíbite mulsum, et míttite partes his, qui non præparavérunt sibi: quia sanctus dies Dómini est, et nolíte contristári: gáudium étenim Dómini est fortitúdo nostra.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Esdra<br>\n<span class=\"rubric\"><em>2 Esd. 8:1-10</em></span><br>\nIn those days, all the people were gathered together as one man, to the street which is before the water-gate, and they spoke to Esdras the scribe, to bring the book of the law of Moses, which the Lord had commanded to Israel. Then Esdras the priest brought the law before the multitude of men and women, and all those that could understand, on the first day of the seventh month. And he read it plainly in the street that was before the water-gate, from the morning until midday, before the men and the women and all those that could understand; and the ears of all the people were attentive to the book. And Esdras the scribe stood upon a step of wood, which he made to speak upon. And he opened the book before all the people, for he was above all the people; and when he had opened it, all the people stood. And Esdras blessed the Lord the great God, and all the people answered, Amen, Amen, lifting up their hands: and they bowed down, and adored God, with their faces to the ground. Now the Levites made silence among the people to hear the law; and the people stood in their place: and they read in the book of the law of God distinctly and plainly to be understood; and they understood when it was read. And Nehemias, and Esdras the priest and scribe, and the Levites who interpreted to all the people, said, This is a holy day to the Lord our God; do not mourn nor weep. And he said to them, Go, eat fat meats and drink sweet wine, and send portions to them that have not prepared for themselves; because it is the holy day of the Lord, and be not sad, for the joy of the Lord is our strength.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 32:12&nbsp;; 32:6</em></span><br>\nBeáta gens, cuius est Dóminus Deus eórum: pópulus, quem elégit Dóminus in hereditátem sibi.<br>\n<span class=\"marker\"><em>℣.</em></span> Verbo Dómini cœli firmáti sunt: et spíritu oris eius omnis virtus eórum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 32:12, 6</em></span><br>\nHappy the nation whose God is the Lord, the people the Lord has chosen for His own inheritance.<br>\n<span class=\"marker\"><em>℣.</em></span> By the word of the Lord the heavens were made; by the breath of His mouth all their host."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 9:16-28</em></span><br>\nIn illo témpore: Respóndens unus de turba, dixit ad Iesum: Magíster, áttuli fílium meum ad te, habéntem spíritum mutum: qui, ubicúmque eum apprehénderit, allídit illum, et spumat et stridet déntibus et aréscit: et dixi discípulis tuis, ut eiícerent illum, et non potúerunt. Qui respóndens eis, dixit: O generátio incrédula, quámdiu apud vos ero? quámdiu vos pátiar? Afférte illum ad me. Et attúlerunt eum. Et cum vidísset eum, statim spíritus conturbávit illum: et elísus in terram, volutabátur spumans. Et interrogávit patrem eius: Quantum témporis est, ex quo ei hoc áccidit? At ille ait: Ab infántia: et frequénter eum in ignem et in aquas misit, ut eum pérderet. Sed si quid potes, ádiuva nos, misértus nostri. Iesus autem ait illi: Si potes credere, ómnia possibília sunt credénti. Et contínuo exclámans pater pueri, cum lácrimis aiébat: Credo, Dómine: ádiuva incredulitátem meam. Et cum vidéret Iesus concurréntem turbam, comminátus est spirítui immundo, dicens illi: Surde et mute spíritus, ego præcípio tibi, exi ab eo: et ámplius ne intróëas in eum. Et exclámans et multum discérpens eum, éxiit ab eo, et factus est sicut mórtuus, ita ut multi dícerent: Quia mórtuus est. Iesus autem tenens manum eius, elevávit eum, et surréxit. Et cum introísset in domum, discípuli eius secréto interrogábant eum: Quare nos non potúimus eiícere eum? Et dixit illis: Hoc genus in nullo potest exíre nisi in oratióne et ieiúnio.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Mark<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Mark 9:16-28</em></span><br>\nAt that time, one of the crowd answering, said to Jesus, Master, I have brought to You my son, who has a dumb spirit; and wherever it seizes him it throws him down, and he foams and grinds his teeth; and he is wasting away. And I told Your disciples to cast it out, but they could not. And He answered and said to them, O unbelieving generation, how long shall I be with you? How long shall I put up with you? Bring him to Me. And they brought him to Him; and the spirit, when it saw Jesus, immediately threw the boy into convulsions, and he fell down on the ground, and rolled about foaming at the mouth. So He asked his father, How long is it since this has come upon him? And he said, From his infancy. Oftentimes it has thrown him into the fire and into the waters to destroy him. But if You can do anything, have compassion on us and help us. But Jesus said to him, If you can believe, all things are possible to him who believes. At once the father of the boy cried out, and said with tears, I do believe; help my unbelief. Now when Jesus saw that a crowd was rapidly gathering. He rebuked the unclean spirit, saying to it, Deaf and dumb spirit, I command you, go out of him and enter him no more. And crying out and violently convulsing him, it went out of him, and he became like one dead, so that many said, He is dead. But Jesus took him by the hand, and raised him and he stood up. And when He had come into the house, His disciples asked Him privately, Why could not we cast it out? And He said to them, This kind can be cast out in no way except by prayer and fasting.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:47; 118:48</em></span><br>\nMeditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mandáta tua, quæ diléxi."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:47-48</em></span><br>\nI will delight in Your commands, which I love exceedingly. And I will lift up my hands to Your commands, which I love."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Thomæ de Villanova Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ancti tui, quǽsumus, Dómine, nos ubíque lætíficant: ut, dum eórum mérita recólimus, patrocínia sentiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May this offering, O Lord, we beseech You, wipe away our transgressions, and make holy the minds and bodies of Your servants for celebrating this sacrifice.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Thomas of Villanova, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your Saints, we beseech You, O Lord, everywhere make us joyful: so that, while we reflect upon their merits, we may enjoy their help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Neh 8:10</em></span><br>\nComédite pínguia et bíbite mulsum, et míttite partes his, qui non præparavérunt sibi: sanctus enim dies Dómini est, nolíte contristári: gáudium étenim Dómini est fortitúdo nostra."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>2 Esd. 8:10</em></span><br>\nEat fat meats, and drink sweet wine, and send portions to those who have not prepared for themselves: because it is the holy day of the Lord, be not sad, for the joy of the Lord is our strength."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSuméntes, Dómine, dona cœléstia, supplíciter deprecámur: ut, quæ sédula servitúte, donánte te, gérimus, dignis sénsibus tuo múnere capiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Thomæ de Villanova Episcopi et Confessoris</em></span><br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræsta, quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, intercedénte beáto Thomæ Confessóre tuo atque Pontífice, benefícia potióra sumámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nIn partaking of Your heavenly gifts, we humbly entreat You, O Lord, that by Your grace we may receive what, through Your bounty, we perform in diligent service.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Thomas of Villanova, Bishop and Confessor</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, almighty God, that as we thank You for the favors we have received, we may, by the intercession of blessed Thomas, Your Confessor and Bishop, obtain still greater blessings.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

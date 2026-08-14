@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-02",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "In Purificatione Beatæ Mariæ Virginis",
+  "rank": "II. classis",
+  "note": "Scriptura: Feria II infra Hebdomadam Septuagesimæ",
+  "sections": [
+    {
+      "id": "de-benedictione-candelarum",
+      "kind": "proper",
+      "latin": {
+        "label": "De Benedictione Candelarum",
+        "html": "<span class=\"rubric\"><em> Si candelarum benedictio et processio, ob defectum ministrorum sacrorum, forma solemni fieri nequeat, licet formam simplicem adhibere, etiam absque cantu, dummodo tres saltem ministrantes celebranti inserviant.</em></span><br>\n<span class=\"rubric\"><em> Celebrans indutus pluviali albo, vel sine Casula, cum ministris similiter indutis, procedit ad benedicendum Candelas, in medio ante Altare vel ad latus Epistolæ positas, et ipse ibidem stans versus ad Altare, dicit manibus iunctis in tono feriali:</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dóminus vobíscum.<br>\n<span class=\"marker\"><em>℟.</em></span> Et cum spíritu tuo.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus. Domine sancte, Pater omnípotens, ætérne Deus, qui ómnia ex níhilo creásti, et iussu tuo per ópera apum hunc liquorem ad perfectionem cérei veníre fecísti: et qui hodiérna die petitiónem iusti Simeónis implésti: te humíliter deprecámur; ut has candélas ad usus hóminum et sanitátem córporum et animárum, sive in terra sive in aquis, per invocatiónem tui sanctíssimi nóminis et per intercessiónem beátæ Maríæ semper Vírginis, cuius hódie festa devóte celebrántur, et per preces ómnium Sanctórum tuórum, bene <span class=\"rubric-symbol\">✠</span> dícere et sancti <span class=\"rubric-symbol\">✠</span> ficáre dignéris: et huius plebis tuæ, quæ illas honorífice in mánibus desíderat portare teque cantando laudare, exáudias voces de cœlo sancto tuo et de sede maiestátis tuæ: et propítius sis ómnibus clamántibus ad te, quos redemísti pretióso Sánguine Fílii tui: Qui tecum vivit et regnat in sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Blessing of Candles",
+        "html": "<span class=\"rubric\"><em> If the blessing of candles and the procession cannot take place in the solemn form, because of the absence of sacred ministers, it is lawful to use the simple form, even without chant, provided that at least three servers assist the celebrant.</em></span><br>\n<span class=\"rubric\"><em> The celebrant vests in a white cope or without the chasuble, and goes with the ministers who are similarly vested to bless the candles, which are placed in the center before the altar or on the epistle side. Standing and facing the altar, the priest chants without inflection, with his hands joined:</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord be with you.<br>\n<span class=\"marker\"><em>℟.</em></span> And with thy spirit.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray. O Holy Lord, Father almighty, everlasting God, who hast created all things out of nothing, and by Thy command hast caused this liquid to become perfect wax by the labor of bees: and who, on this day didst fulfill the petition of the righteous man Simeon: we humbly entreat Thee, that by the invocation of Thy most holy Name and through the intercession of Blessed Mary ever Virgin whose feast is today devoutly observed, and by the prayers of all Thy Saints, Thou wouldst vouchsafe to bless <span class=\"rubric-symbol\">✠</span> and sanctify <span class=\"rubric-symbol\">✠</span> these candles for the service of men and for the health of their bodies and souls, whether on land or on sea: and that Thou wouldst hear from Thy holy heaven, and from the throne of Thy Majesty the voices of this Thy people, who desire to carry them in their hands with honor, and to praise Thee with hymns; and wouldst be propitious to all that call upon Thee, whom Thou hast redeemed with the precious Blood of Thy Son: Who liveth and reigneth with thee, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "de-distributione-candelarum",
+      "kind": "proper",
+      "latin": {
+        "label": "De Distributione Candelarum",
+        "html": "<span class=\"rubric\"><em> Tum dignior ex Clero accedit ad Altare, et ab eo Celebrans accipit Candelam, non genuflectens nec osculans manum illius. Postea Celebrans stans in medio ante Altare versus ad populum, distríbuit Candelas, primum digniori, a quo ipse acceperat; deinde Diacono et Subdiacono paratis, et aliis Clericis singulatim per ordinem, ultimo laicis: omnibus genuflectentibus, Candelam et manum Celebrantis osculantibus, exceptis Prælatis, si adsint. Et cum inceperit distribuere Candelas, a Choro cantatur:</em></span><br>\n<span class=\"rubric\"><em>Antiphona Luc 2:32.</em></span><br>\n<span class=\"rubric\"><em>Ant. </em></span>Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël.<br>\n<span class=\"rubric\"><em>Luc 2:29-31.</em></span><br>\n<span class=\"rubric\"><strong><em>N</em></strong></span>unc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace<br>\n<span class=\"rubric\"><em> Deinde repetitur tota Antiphona “Lumen ad revelatiónem géntium” quæ similiter repetitur post quemlibet Versum.</em></span><br>\n<span class=\"rubric\"><em>Ant. </em></span>Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël.<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>uia vidérunt óculi mei salutáre tuum.<br>\n<span class=\"rubric\"><em>Ant. </em></span>Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël.<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>uod parásti ante fáciem ómnium populorum.<br>\n<span class=\"rubric\"><em>Ant. </em></span>Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>lória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"rubric\"><em>Ant. </em></span>Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>icut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><em>Ant. </em></span>Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël."
+      },
+      "english": {
+        "label": "The Distribution of Candles",
+        "html": "<span class=\"rubric\"><em> Next the senior cleric goes to the altar and the celebrant, without genuflecting, receives a candle from him. Then the celebrant stands in the center before the altar, turns toward the people, and distributes the candles, first to the senior cleric from whom he has received the candle, then to the vested deacon and subdeacon, and to the other clerics in order, one by one, and last of all to the laity. All kneel with the exception of prelates, if any are present. When the distribution of the candles begins, the choir sings:</em></span><br>\n<span class=\"rubric\"><em>Antiphon Luc 2:32</em></span><br>\n<span class=\"rubric\"><em>Ant. </em></span>A light for the revelation of the Gentiles: and for the glory of Thy people Israel.<br>\n<span class=\"rubric\"><em>Luc 2:29-31</em></span><br>\n<span class=\"rubric\"><strong><em>N</em></strong></span>ow Thou dost dismiss Thy servant, O Lord, according to Thy word in peace.<br>\n<span class=\"rubric\"><em>Ant. </em></span>A light for the revelation of the Gentiles: and for the glory of Thy people Israel.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ecause mine eyes have seen Thy salvation.<br>\n<span class=\"rubric\"><em>Ant. </em></span>A light for the revelation of the Gentiles: and for the glory of Thy people Israel.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>hich Thou hast prepared, before the face of all peoples.<br>\n<span class=\"rubric\"><em>Ant. </em></span>A light for the revelation of the Gentiles: and for the glory of Thy people Israel.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>lory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"rubric\"><em>Ant. </em></span>A light for the revelation of the Gentiles: and for the glory of Thy people Israel.<br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>s it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><em>Ant. </em></span>A light for the revelation of the Gentiles: and for the glory of Thy people Israel."
+      }
+    },
+    {
+      "id": "de-processione",
+      "kind": "proper",
+      "latin": {
+        "label": "De Processione",
+        "html": "<span class=\"rubric\"><em> Primo Celebrans ponit incensum in thuribulum: postea Diaconus vertens se ad populum, dicit:</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Procedámus in pace.<br>\n<span class=\"marker\"><em>℟.</em></span> In nómine Christi. Amen.<br>\n<span class=\"rubric\"><em> Præcedit thuriferarius cum thuribulo fumiganti: deinde Subdiaconus paratus, deferens Crucem, medius inter duos Acolythos cum candelabris accensis: sequitur Clerus per ordinem, ultimo Celebrans cum Diacono a sinistris, omnes cum Candelis accensis in manibus: et cantantur Antiphonæ sequentes:</em></span><br>\n<span class=\"rubric\"><em>Ant. </em></span>Adórna thálamum tuum, Sion, et súscipe Regem Christum: ampléctere Maríam, quæ est cœléstis porta: ipsa enim portat Regem glóriæ novi lúminis: subsístit Virgo, addúcens mánibus Fílium ante lucíferum génitum: quem accípiens Símeon in ulnas suas, prædicávit pópulis, Dóminum eum esse vitæ et mortis et Salvatórem mundi.<br>\n<span class=\"rubric\"><em>Luc 2:26, 27 et 28-29.</em></span><br>\n<span class=\"rubric\"><em>Ant. </em></span>Respónsum accépit Símeon a Spíritu Sancto, non visúrum se mortem, nisi vidéret Christum Dómini: et cum indúcerent Púerum in templum, accépit eum in ulnas suas, et benedíxit Deum, et dixit: Nunc dimíttis servum tuum, Dómine, in pace.<br>\n<span class=\"marker\"><em>℣.</em></span> Cum indúcerent púerum Iesum parentes eius, ut fácerent secúndum consuetúdinem legis pro eo, ipse accépit eum in ulnas suas.<br>\n<span class=\"rubric\"><em>Et ingrediendo Ecclesiam, cantatur:</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Obtulérunt pro eo Dómino par túrturum, aut duos pullos columbárum: * Sicut scriptum est in lege Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Postquam impléti sunt dies purgatiónis Maríæ, secúndum legem Moysi, tulérunt Iesum in Ierúsalem, ut sísterent eum Sicut scriptum est in lege Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut scriptum est in lege Dómini.<br>\n<span class=\"rubric\"><em>  Finita Processione, celebrans et ministri accipiunt paramenta pro Missa. In Missa quæ benedictionem candelarum sequitur, omittuntur psalmus “Iudica me, Deus” cum sua antiphona, necnon confessio cum absolutione, versibus sequentibus atque orationibus “Aufer a nobis” et “Oramus te, Domine”. Sacerdos igitur cum ad altare accesserit, statim illud ascendit et osculatur in medio. Candelæ in manibus tenentur ad Evangelium et toto Canone.</em></span>"
+      },
+      "english": {
+        "label": "The Procession",
+        "html": "<span class=\"rubric\"><em> First, the celebrant places incense in the thurible, then the deacon turns to the people and says:</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Let us go forth in peace.<br>\n<span class=\"marker\"><em>℟.</em></span> In the Name of Christ. Amen.<br>\n<span class=\"rubric\"><em> The thurifer goes first, carrying the thurible, followed by the vested subdeacon, who carries the cross between two acolytes with lighted candles, then the clergy in order, finally the celebrant with the deacon at his left. All hold lighted candles in their hands. The following anthems are sung:</em></span><br>\n<span class=\"rubric\"><em>Ant. </em></span>Adorn thy bridal-chamber, O Sion, and welcome Christ the King: with loving embrace greet Mary who is the very gate of heaven; for she bringeth to thee the glorious King of the new light: remaining ever a Virgin yet she bearest in her arms the Son begotten before the day-star: even the Child, whom Simeon taking into his arms, declared to the peoples to be the Lord of life and death, and the Saviour of the world.<br>\n<span class=\"rubric\"><em>Luc 2:26, 27 et 28-29.</em></span><br>\n<span class=\"rubric\"><em>Ant. </em></span>Simeon received an answer from the Holy Ghost, that he should not see death before he had seen the Christ of the Lord; and when they brought the Child into the temple, he took Him into His arms, and blessed God, and said: Now dost Thou dismiss Thy servant, O Lord, in peace.<br>\n<span class=\"marker\"><em>℣.</em></span> When His parents brought in the Child Jesus, to do for Him according to the custom of the law, he took Him into His arms.<br>\n<span class=\"rubric\"><em>When the procession re-enters the Church, the choir sings the following:</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> They offered for Him to the Lord a pair of turtle doves, or two young pigeons: * As it is written in the Law of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> After the days of the purification of Mary, according to the law of Moses, were fulfilled, they carried Jesus to Jerusalem, to present Him to the Lord. * As it is written in the Law of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it is written in the Law of the Lord.<br>\n<span class=\"rubric\"><em> When the procession has been completed, the celebrant and ministers put on the vestments for Mass. In the Mass which follows the blessing of candles, the prayers to be said at the foot of the altar are omitted, as well as the prayers Aufer a nobis and Oramus te, Domine. When the priest comes to the altar, he immediately goes up to it and kisses it in the center. The candles are held during the Gospel and throughout the Canon.</em></span>"
+      }
+    },
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 47:10-11.</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>uscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ: iustítia plena est déxtera tua.<br>\n<span class=\"rubric\"><em>Ps 47:2.</em></span><br>\nMagnus Dóminus, et laudábilis nimis: in civitáte Dei nostri, in monte sancto eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>uscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ: iustítia plena est déxtera tua."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 47:10-11</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth. Of justice Your right hand is full.<br>\n<span class=\"rubric\"><em>Ps 47:2</em></span><br>\nGreat is the Lord and wholly to be praised in the city of our God, His holy mountain.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth. Of justice Your right hand is full."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens sempitérne Deus, maiestátem tuam súpplices exorámus: ut, sicut unigénitus Fílius tuus hodiérna die cum nostræ carnis substántia in templo est præsentátus; ita nos fácias purificátis tibi méntibus præsentári.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty, eternal God, we humbly beseech Your majesty that, as Your only-begotten Son was this day presented in the temple in the nature of our flesh, so may You grant us to be presented to You with purified minds.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Malachíæ Prophétæ<br>\n<span class=\"rubric\"><em>Malach 3:1-4</em></span><br>\nHæc dicit Dóminus Deus: Ecce, ego mitto Angelum meum, et præparábit viam ante fáciem meam. Et statim véniet ad templum suum Dominátor, quem vos quæritis, et Angelus testaménti, quem vos vultis. Ecce, venit, dicit Dóminus exercítuum: et quis póterit cogitáre diem advéntus eius, et quis stabit ad vidéndum eum? Ipse enim quasi ignis conflans et quasi herba fullónum: et sedébit conflans et emúndans argéntum, et purgábit fílios Levi et colábit eos quasi aurum et quasi argéntum: et erunt Dómino offeréntes sacrifícia in iustítia. Et placébit Dómino sacrifícium Iuda et Ierúsalem, sicut dies sǽculi et sicut anni antíqui: dicit Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Malachias<br>\n<span class=\"rubric\"><em>Mal 3:1-4</em></span><br>\nThus says the Lord God: Lo, I am sending My messenger to prepare the way before Me; and suddenly there will come to the temple the Lord Whom you seek, and the Messenger of the covenant Whom you desire. Yes. He is coming, says the Lord of Hosts. But who will endure the day of His coming? And who can stand when He appears? For He is like the refiner's fire, or like the fuller's lye. He will sit refining and purifying silver, and He will purify the sons of Levi, refining them like gold or like silver that they may offer due sacrifice to the Lord. Then the sacrifice of Juda and Jerusalem will please the Lord, as in the days of old, as in years gone by, says the Lord almighty.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 47:10-11; 47:9</em></span><br>\nSuscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ.<br>\n<span class=\"marker\"><em>℣.</em></span> Sicut audívimus, ita et vídimus in civitáte Dei nostri, in monte sancto eius.<br>\n<span class=\"rubric\"><em>Luc 2:29-32</em></span><br>\nNunc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace.<br>\n<span class=\"marker\"><em>℣.</em></span> Quia vidérunt óculi mei salutáre tuum.<br>\n<span class=\"marker\"><em>℣.</em></span> Quod parásti ante fáciem ómnium populórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 47:10-11, 9</em></span><br>\nO God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth.<br>\n<span class=\"marker\"><em>℣.</em></span> As we have heard so have we seen, in the city of our God, in His holy mountain.<br>\n<span class=\"rubric\"><em>Luke 2:29-32</em></span><br>\nNow You dismiss Your servant, O Lord, according to Your word, in peace.<br>\n<span class=\"marker\"><em>℣.</em></span> Because my eyes have seen Your salvation.<br>\n<span class=\"marker\"><em>℣.</em></span> Which You have prepared before the face of all peoples.<br>\n<span class=\"marker\"><em>℣.</em></span> A light of revelation to the Gentiles, and a glory for Your people Israel."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 2:22-32</em></span><br>\nIn illo témpore: Postquam impleti sunt dies purgatiónis Maríæ, secúndum legem Moysi, tulérunt Iesum in Ierúsalem, ut sísterent eum Dómino, sicut scriptum est in lege Dómini: Quia omne masculínum adapériens vulvam sanctum Dómino vocábitur. Et ut darent hóstiam, secúndum quod dictum est in lege Dómini, par túrturum aut duos pullos columbárum. Et ecce, homo erat in Ierúsalem, cui nomen Símeon, et homo iste iustus et timorátus, exspéctans consolatiónem Israël, et Spíritus Sanctus erat in eo. Et respónsum accéperat a Spíritu Sancto, non visúrum se mortem, nisi prius vidéret Christum Dómini. Et venit in spíritu in templum. Et cum indúcerent púerum Iesum parentes eius, ut fácerent secúndum consuetúdinem legis pro eo: et ipse accépit eum in ulnas suas, et benedíxit Deum, et dixit: Nunc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace: Quia vidérunt óculi mei salutáre tuum: Quod parásti ante fáciem ómnium populórum: Lumen ad revelatiónem géntium et glóriam plebis tuæ Israël.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 2:22-32</em></span><br>\nAt that time, when the days of Mary's purification were fulfilled according to the Law of Moses, they took Jesus up to Jerusalem to present Him to the Lord - as it is written in the Law of the Lord, Every male that opens the womb shall be called holy to the Lord - and to offer a sacrifice according to what is said in the Law of the Lord, a pair of turtle doves or two young pigeons. And behold, there was in Jerusalem a man named Simeon, and this man was just and devout, looking for the consolation of Israel, and the Holy Spirit was upon him. And it had been revealed to him by the Holy Spirit that he should not see death before he had seen the Christ of the Lord. And he came by inspiration of the Spirit into the temple. And when His parents brought in the Child Jesus, to do for Him according to the custom of the Law, he also received Him into his arms and blessed God, saying, Now You dismiss Your servant, O Lord, according to Your word, in peace; because my eyes have seen Your salvation, which You have prepared before the face of all peoples: a light of revelation to the Gentiles, and a glory for Your people Israel.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:3</em></span><br>\nDiffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum, et in sǽculum sǽculi."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:3</em></span><br>\nGrace is poured out upon your lips; thus God has blessed you forever, and for ages of ages."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Exáudi, Dómine, preces nostras: et, ut digna sint múnera, quæ óculis tuæ maiestátis offérimus, subsídium nobis tuæ pietátis impénde.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, heed our prayer, and give us the help of Your loving kindness so that the gifts we offer before the eyes of Your majesty may be worthy of You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Nativitate Domini</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit: ut, dum visibíliter Deum cognóscimus, per hunc in invisibílium amorem rapiámur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes."
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Nativity</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God, for through the Mystery of the Word made flesh, the new light of Thy glory hath shone upon the eyes of our mind, so that while we acknowledge God in visible form, we may through Him be drawn to the love of things invisible. And therefore with Angels and Archangels, with Throne and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luc 2:26</em></span><br>\nRespónsum accépit Símeon a Spíritu Sancto, non visúrum se mortem, nisi vidéret Christum Dómini."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luke 2:26</em></span><br>\nIt was revealed to Simeon by the Holy Spirit that he should not see death before he had seen the Christ of the Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, Dómine, Deus noster: ut sacrosáncta mystéria, quæ pro reparatiónis nostræ munímine contulísti, intercedénte beáta María semper Vírgine, et præsens nobis remédium esse fácias et futúrum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, O Lord our God, that the sacrament You have given as the bulwark of our atonement may be made a saving remedy for us in this life and in the life to come.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

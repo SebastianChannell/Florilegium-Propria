@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-05-24",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Secunda infra Hebdomadam I post Octavam Pentecostes",
+  "rank": "IV. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 12:6</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>ómine, in tua misericórdia sperávi: exsultávit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi.<br>\n<span class=\"rubric\"><em>Ps 12:1</em></span><br>\nUsquequo, Dómine, oblivísceris me in finem? usquequo avértis fáciem tuam a me?<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>ómine, in tua misericórdia sperávi: exsultávit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 12:6</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, I have trusted in thy mercy. My heart shall rejoice in thy salvation: I will sing to the Lord, who giveth me good things.<br>\n<span class=\"rubric\"><em>Ps 12:1</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ow long, O Lord, wilt thou forget me unto the end? how long dost thou turn away thy face from me?<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> Lord, I have trusted in thy mercy. My heart shall rejoice in thy salvation: I will sing to the Lord, who giveth me good things."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Ioánni Apóstoli<br>\n<span class=\"rubric\"><em>1 Ioannnes 4:8-21</em></span><br>\nCaríssimi: Deus cáritas est. In hoc appáruit cáritas Dei in nobis, quóniam Fílium suum unigénitum misit Deus in mundum, ut vivámus per eum. In hoc est cáritas: non quasi nos dilexérimus Deum, sed quóniam ipse prior diléxit nos, et misit Fílium suum propitiatiónem pro peccátis nostris. Caríssimi, si sic Deus diléxit nos: et nos debémus altérutrum dilígere. Deum nemo vidit umquam. Si diligámus ínvicem, Deus in nobis manet, et cáritas eius in nobis perfécta est. In hoc cognóscimus, quóniam in eo manémus et ipse in nobis: quóniam de Spíritu suo dedit nobis. Et nos vídimus et testificámur, quóniam Pater misit Fílium suum Salvatórem mundi. Quisquis conféssus fúerit, quóniam Iesus est Fílius Dei, Deus in eo manet et ipse in Deo. Et nos cognóvimus et credídimus caritáti, quam habet Deus in nobis. Deus cáritas est: et qui manet in caritáte, in Deo manet et Deus in eo. In hoc perfécta est cáritas Dei nobíscum, ut fidúciam habeámus in die iudicii: quia, sicut ille est, et nos sumus in hoc mundo. Timor non est in caritáte: sed perfécta cáritas foras mittit timórem, quóniam timor pœnam habet. Qui autem timet, non est perféctus in caritáte. Nos ergo diligámus Deum, quóniam Deus prior diléxit nos. Si quis díxerit, quóniam díligo Deum, et fratrem suum óderit, mendax est. Qui enim non díligit fratrem suum, quem videt, Deum, quem non videt, quómodo potest dilígere? Et hoc mandátum habémus a Deo: ut, qui diligit Deum, díligat et fratrem suum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St John the Apostle<br>\n<span class=\"rubric\"><em>1 John 4:8-21</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>early beloved: He that loveth not, knoweth not God: for God is charity. By this hath the charity of God appeared towards us, because God hath sent his only begotten Son into the world, that we may live by him. In this is charity: not as though we had loved God, but because he hath first loved us, and sent his Son to be a propitiation for our sins. My dearest, if God hath so loved us; we also ought to love one another. No man hath seen God at any time. If we love one another, God abideth in us, and his charity is perfected in us. In this we know that we abide in him, and he in us: because he hath given us of his spirit. And we have seen, and do testify, that the Father hath sent his Son to be the Saviour of the world. Whosoever shall confess that Jesus is the Son of God, God abideth in him, and he in God. And we have known, and have believed the charity, which God hath to us. God is charity: and he that abideth in charity, abideth in God, and God in him. In this is the charity of God perfected with us, that we may have confidence in the day of judgment: because as he is, we also are in this world. Fear is not in charity: but perfect charity casteth out fear, because fear hath pain. And he that feareth, is not perfected in charity. Let us therefore love God, because God first hath loved us. If any man say, I love God, and hateth his brother; he is a liar. For he that loveth not his brother, whom he seeth, how can he love God, whom he seeth not? And this commandment we have from God, that he, who loveth God, love also his brother.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 40:5; 40:2</em></span><br>\nEgo dixi: Dómine, miserére mei: sana ánimam meam, quia peccávi tibi.<br>\n<span class=\"marker\"><em>℣.</em></span> Beátus, qui intéllegit super egénum et páuperem: in die mala liberábit eum Dóminus. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 5:2</em></span><br>\nVerba mea áuribus pércipe, Dómine: intéllege clamórem meum. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 40:5; 40:2</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> said: O Lord, be thou merciful to me&nbsp;: heal my soul, for I have sinned against thee. Blessed is he that understandeth concerning the needy and the poor&nbsp;: the Lord will deliver him in the evil day. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 5:2</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>ive ear, O Lord, to my words, understand my cry. Allelúja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 6:36-42</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Estóte misericórdes, sicut et Pater vester miséricors est. Nolíte iudicáre, et non iudicabímini: nolíte condemnáre, et non condemnabímini. Dimíttite, et dimittémini. Date, et dábitur vobis: mensúram bonam et confértam et coagitátam et supereffluéntem dabunt in sinum vestrum. Eadem quippe mensúra, qua mensi fuéritis, remetiétur vobis. Dicébat autem illis et similitúdinem: Numquid potest cæcus cæcum dúcere? nonne ambo in fóveam cadunt? Non est discípulus super magistrum: perféctus autem omnis erit, si sit sicut magister eius. Quid autem vides festúcam in óculo fratris tui, trabem autem, quæ in óculo tuo est, non consíderas? Aut quómodo potes dícere fratri tuo: Frater, sine, eiíciam festúcam de óculo tuo: ipse in oculo tuo trabem non videns? Hypócrita, eiice primum trabem de oculo tuo: et tunc perspícies, ut edúcas festúcam de óculo fratris tui.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 6:36-42</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n that time Jesus said to his disciples: Be ye therefore merciful, as your Father also is merciful. Judge not, and you shall not be judged. Condemn not, and you shall not be condemned. Forgive, and you shall be forgiven. Give, and it shall be given to you: good measure and pressed down and shaken together and running over shall they give into your bosom. For with the same measure that you shall mete withal, it shall be measured to you again. And he spoke also to them a similitude: Can the blind lead the blind? do they not both fall into the ditch? The disciple is not above his master: but every one shall be perfect, if he be as his master. And why seest thou the mote in thy brother's eye: but the beam that is in thy own eye thou considerest not? Or how canst thou say to thy brother: Brother, let me pull the mote out of thy eye, when thou thyself seest not the beam in thy own eye? Hypocrite, cast first the beam out of thy own eye; and then shalt thou see clearly to take out the mote from thy brother's eye.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 5:3-4.</em></span><br>\nInténde voci orationis meæ, Rex meus et Deus meus: quóniam ad te orábo, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 5:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>earken to the voice of my prayer, O my King and my God. For to thee will I pray: O Lord."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hostias nostras, quǽsumus, Dómine, tibi dicátas placátus assúme: et ad perpetuum nobis tríbue proveníre subsídium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Be appeased, O Lord, we beseech thee, and accept the victims we dedicate to thee, and grant that they may avail us for perpetual aid.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 9:2-3</em></span><br>\nNarrábo ómnia mirabília tua: lætábor et exsultábo in te: psallam nómini tuo, Altíssime."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 9:2-3</em></span><br>\nI will relate all thy wonders. I will be glad and rejoice in thee: I will sing to thy name, O thou most high."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nTantis, Dómine, repléti munéribus: præsta, quǽsumus; ut et salutária dona capiámus, et a tua numquam laude cessémus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nFilled, O Lord, as we are with so great bounties, we beseech thee; that we may receive the gifts of salvation, and never cease from thy praise.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

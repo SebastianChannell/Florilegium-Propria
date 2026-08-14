@@ -1,0 +1,2568 @@
+{
+  "schemaVersion": 1,
+  "year": 2027,
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  },
+  "days": {
+    "2027-01-01": {
+      "title": "In Circumcisione Domini",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-01.json"
+    },
+    "2027-01-02": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-02.json"
+    },
+    "2027-01-03": {
+      "title": "Sanctissimi Nominis Jesu",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-03.json"
+    },
+    "2027-01-04": {
+      "title": "Die Quarta Januarii",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-04.json"
+    },
+    "2027-01-05": {
+      "title": "Die Quinta Januarii",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Telesphori Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-05.json"
+    },
+    "2027-01-06": {
+      "title": "In Epiphania Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-06.json"
+    },
+    "2027-01-07": {
+      "title": "Die Septima Januarii",
+      "rank": "IV. classis",
+      "note": "Scriptura: Ad Romános, cap. 9",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-07.json"
+    },
+    "2027-01-08": {
+      "title": "Die Octava Januarii",
+      "rank": "IV. classis",
+      "note": "Scriptura: Ad Romános, cap. 12",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-08.json"
+    },
+    "2027-01-09": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Ad Romános, cap. 13",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-09.json"
+    },
+    "2027-01-10": {
+      "title": "Sanctæ Familiæ Jesu Mariæ Joseph",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-10.json"
+    },
+    "2027-01-11": {
+      "title": "Die Undecima Januarii",
+      "rank": "IV. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Hygini Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-11.json"
+    },
+    "2027-01-12": {
+      "title": "Die Duodecima Januarii",
+      "rank": "IV. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam I post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-12.json"
+    },
+    "2027-01-13": {
+      "title": "Commemoratio Baptismatis Domini Nostri Jesu Christi",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam I post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-13.json"
+    },
+    "2027-01-14": {
+      "title": "S. Hilarii Episcopi Confessoris Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Felicis Presbyteri et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-14.json"
+    },
+    "2027-01-15": {
+      "title": "S. Pauli Primi Eremitæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Mauri Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-15.json"
+    },
+    "2027-01-16": {
+      "title": "S. Marcelli Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam I post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-16.json"
+    },
+    "2027-01-17": {
+      "title": "Dominica II post Epiphaniam",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-17.json"
+    },
+    "2027-01-18": {
+      "title": "Feria II infra Hebdomadam II post Epiphaniam",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Priscæ Virginis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-18.json"
+    },
+    "2027-01-19": {
+      "title": "Feria III infra Hebdomadam II post Epiphaniam",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Marii, Marthæ, Audifacis, et Abachum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-19.json"
+    },
+    "2027-01-20": {
+      "title": "Ss. Fabiani et Sebastiani Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam II post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-20.json"
+    },
+    "2027-01-21": {
+      "title": "S. Agnetis Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam II post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-21.json"
+    },
+    "2027-01-22": {
+      "title": "Ss. Vincentii et Anastasii Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam II post Epiphaniam",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-22.json"
+    },
+    "2027-01-23": {
+      "title": "S. Raymundi de Peñafort Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virgini et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-23.json"
+    },
+    "2027-01-24": {
+      "title": "Dominica in Septuagesima",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-24.json"
+    },
+    "2027-01-25": {
+      "title": "In Conversione S. Pauli Apostoli",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-25.json"
+    },
+    "2027-01-26": {
+      "title": "S. Polycarpi Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-26.json"
+    },
+    "2027-01-27": {
+      "title": "S. Joannis Chrysostomi Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-27.json"
+    },
+    "2027-01-28": {
+      "title": "S. Petri Nolasci Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Agnetis Virginis et Martyris secundo",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-28.json"
+    },
+    "2027-01-29": {
+      "title": "S. Francisci Salesii Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-29.json"
+    },
+    "2027-01-30": {
+      "title": "S. Martinæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam Septuagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-30.json"
+    },
+    "2027-01-31": {
+      "title": "Dominica in Sexagesima",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-01-31.json"
+    },
+    "2027-02-01": {
+      "title": "S. Ignatii Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam Sexagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-01.json"
+    },
+    "2027-02-02": {
+      "title": "In Purificatione Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam Sexagesimæ",
+      "sectionCount": 15,
+      "path": "/data/mass/2027/2027-02-02.json"
+    },
+    "2027-02-03": {
+      "title": "Feria IV infra Hebdomadam Sexagesimæ",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Blasii Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-03.json"
+    },
+    "2027-02-04": {
+      "title": "S. Andreæ Corsini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam Sexagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-04.json"
+    },
+    "2027-02-05": {
+      "title": "S. Agathæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam Sexagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-05.json"
+    },
+    "2027-02-06": {
+      "title": "S. Titi Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Dorothæ Virginis et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-06.json"
+    },
+    "2027-02-07": {
+      "title": "Dominica in Quinquagesima",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-07.json"
+    },
+    "2027-02-08": {
+      "title": "S. Joannis de Matha Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam Quinquagesimæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-08.json"
+    },
+    "2027-02-09": {
+      "title": "S. Cyrilli Episc. Alexandrini Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Appolloniæ Virginis et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-09.json"
+    },
+    "2027-02-10": {
+      "title": "Feria IV Cinerum",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 13,
+      "path": "/data/mass/2027/2027-02-10.json"
+    },
+    "2027-02-11": {
+      "title": "Feria V post Cineres",
+      "rank": "III. classis",
+      "note": "Commemoratio : In Apparitione Beatæ Mariæ Virginis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-11.json"
+    },
+    "2027-02-12": {
+      "title": "Feria VI post Cineres",
+      "rank": "III. classis",
+      "note": "Commemoratio : Ss. Septem Fundatorum Ordinis Servorum B. M. V.",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-12.json"
+    },
+    "2027-02-13": {
+      "title": "Sabbato post Cineres",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-13.json"
+    },
+    "2027-02-14": {
+      "title": "Dominica I in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-14.json"
+    },
+    "2027-02-15": {
+      "title": "Feria Secunda infra Hebdomadam I in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : SS. Faustini et Jovitæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-15.json"
+    },
+    "2027-02-16": {
+      "title": "Feria Tertia infra Hebdomadam I in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-16.json"
+    },
+    "2027-02-17": {
+      "title": "Feria Quarta Quatuor Temporum Quadragesimæ",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-17.json"
+    },
+    "2027-02-18": {
+      "title": "Feria Quinta infra Hebdomadam I in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Simeonis Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-18.json"
+    },
+    "2027-02-19": {
+      "title": "Feria Sexta Quattuor Temporum",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-19.json"
+    },
+    "2027-02-20": {
+      "title": "Sabbato Quattuor Temporum Quadrageismæ",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-20.json"
+    },
+    "2027-02-21": {
+      "title": "Dominica II in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-21.json"
+    },
+    "2027-02-22": {
+      "title": "In Cathedra S. Petri Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio: Feria Secunda infra Hebdomadam II in Quadragesima",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-22.json"
+    },
+    "2027-02-23": {
+      "title": "Feria Tertia infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Petri Damiani Episcopi Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-23.json"
+    },
+    "2027-02-24": {
+      "title": "S. Matthiæ Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio: Feria Quarta infra Hebdomadam II in Quadragesima",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-24.json"
+    },
+    "2027-02-25": {
+      "title": "Feria Quinta infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-25.json"
+    },
+    "2027-02-26": {
+      "title": "Feria Sexta infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-26.json"
+    },
+    "2027-02-27": {
+      "title": "Sabbato infra Hebdomadam II in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Gabrielis a Virgine Perdolente Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-27.json"
+    },
+    "2027-02-28": {
+      "title": "Dominica III in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-02-28.json"
+    },
+    "2027-03-01": {
+      "title": "Feria Secunda infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-01.json"
+    },
+    "2027-03-02": {
+      "title": "Feria Tertia infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-02.json"
+    },
+    "2027-03-03": {
+      "title": "Feria Quarta infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-03.json"
+    },
+    "2027-03-04": {
+      "title": "Feria Quinta infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Casimiri Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-04.json"
+    },
+    "2027-03-05": {
+      "title": "Feria Sexta infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-05.json"
+    },
+    "2027-03-06": {
+      "title": "Sabbato infra Hebdomadam III in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : Ss. Perpetuæ et Felicitatis Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-06.json"
+    },
+    "2027-03-07": {
+      "title": "Dominica IV in Quadragesima",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-07.json"
+    },
+    "2027-03-08": {
+      "title": "Feria Secunda infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Joannis de Deo Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-08.json"
+    },
+    "2027-03-09": {
+      "title": "Feria Tertia infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Franciscæ Romanæ Viduæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-09.json"
+    },
+    "2027-03-10": {
+      "title": "Feria Quarta infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : Ss. Quadraginta Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-10.json"
+    },
+    "2027-03-11": {
+      "title": "Feria Quinta infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-11.json"
+    },
+    "2027-03-12": {
+      "title": "Feria Sexta infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-12.json"
+    },
+    "2027-03-13": {
+      "title": "Sabbato infra Hebdomadam IV in Quadragesima",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-13.json"
+    },
+    "2027-03-14": {
+      "title": "Dominica de Passione",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-14.json"
+    },
+    "2027-03-15": {
+      "title": "Feria Secunda infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-15.json"
+    },
+    "2027-03-16": {
+      "title": "Feria Tertia infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-16.json"
+    },
+    "2027-03-17": {
+      "title": "Feria Quarta infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Patricii Episcopi et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-17.json"
+    },
+    "2027-03-18": {
+      "title": "Feria Quinta infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Cyrilli Episcopi Hierosolymitani Confessoris et Ecclesiæ Doctoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-18.json"
+    },
+    "2027-03-19": {
+      "title": "S. Joseph Sponsi B.M.V. Confessoris",
+      "rank": "I. classis",
+      "note": "Commemoratio: Feria Sexta infra Hebdomadam Passionis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-19.json"
+    },
+    "2027-03-20": {
+      "title": "Sabbato infra Hebdomadam Passionis",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-20.json"
+    },
+    "2027-03-21": {
+      "title": "Dominica II Passionis seu in Palmis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 18,
+      "path": "/data/mass/2027/2027-03-21.json"
+    },
+    "2027-03-22": {
+      "title": "Feria Secunda Hebdomadæ Sanctæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-22.json"
+    },
+    "2027-03-23": {
+      "title": "Feria Tertia Hebdomadæ Sanctæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-23.json"
+    },
+    "2027-03-24": {
+      "title": "Feria Quarta Hebdomadæ Sanctæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-24.json"
+    },
+    "2027-03-25": {
+      "title": "De missa chrismatis",
+      "rank": "I. classis",
+      "note": "Transfer: In Annuntiatione Beate Mariæ Virgine",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-25.json"
+    },
+    "2027-03-26": {
+      "title": "Feria Sexta in Passione et Morte Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 5,
+      "path": "/data/mass/2027/2027-03-26.json"
+    },
+    "2027-03-27": {
+      "title": "Sabbato Sancto",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 28,
+      "path": "/data/mass/2027/2027-03-27.json"
+    },
+    "2027-03-28": {
+      "title": "Dominica Resurrectionis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-28.json"
+    },
+    "2027-03-29": {
+      "title": "Die II infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-29.json"
+    },
+    "2027-03-30": {
+      "title": "Die III infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-30.json"
+    },
+    "2027-03-31": {
+      "title": "Die IV infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-03-31.json"
+    },
+    "2027-04-01": {
+      "title": "Die V infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-01.json"
+    },
+    "2027-04-02": {
+      "title": "Die VI infra octavam Paschæ",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-02.json"
+    },
+    "2027-04-03": {
+      "title": "Sabbato in Albis",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-03.json"
+    },
+    "2027-04-04": {
+      "title": "Dominica in Albis in Octava Paschæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-04.json"
+    },
+    "2027-04-05": {
+      "title": "In Annuntiatione Beate Mariæ Virgine",
+      "rank": "I. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Vincentii Ferrerii Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-05.json"
+    },
+    "2027-04-06": {
+      "title": "Feria Tertia infra Hebdomadam I post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-06.json"
+    },
+    "2027-04-07": {
+      "title": "Feria Quarta infra Hebdomadam I post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-07.json"
+    },
+    "2027-04-08": {
+      "title": "Feria Quinta infra Hebdomadam I post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-08.json"
+    },
+    "2027-04-09": {
+      "title": "Feria Sexta infra Hebdomadam I post Octavam Paschae",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-09.json"
+    },
+    "2027-04-10": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam I post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-10.json"
+    },
+    "2027-04-11": {
+      "title": "Dominica II Post Pascha",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-11.json"
+    },
+    "2027-04-12": {
+      "title": "Feria Secunda infra Hebdomadam II post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-12.json"
+    },
+    "2027-04-13": {
+      "title": "S. Hermenegildi Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam II post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-13.json"
+    },
+    "2027-04-14": {
+      "title": "S. Justini Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Tiburtii, Valeriani, et Maximi Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-14.json"
+    },
+    "2027-04-15": {
+      "title": "Feria Quinta infra Hebdomadam II post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-15.json"
+    },
+    "2027-04-16": {
+      "title": "Feria Sexta infra Hebdomadam II post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-16.json"
+    },
+    "2027-04-17": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Aniceti Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-17.json"
+    },
+    "2027-04-18": {
+      "title": "Dominica III Post Pascha",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-18.json"
+    },
+    "2027-04-19": {
+      "title": "Feria Secunda infra Hebdomadam III post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-19.json"
+    },
+    "2027-04-20": {
+      "title": "Feria Tertia infra Hebdomadam III post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-20.json"
+    },
+    "2027-04-21": {
+      "title": "S. Anselmi Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-21.json"
+    },
+    "2027-04-22": {
+      "title": "SS. Soteris et Caji Summorum Pontificum et Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-22.json"
+    },
+    "2027-04-23": {
+      "title": "Feria Sexta infra Hebdomadam III post Octavam Paschæ",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Georgii Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-23.json"
+    },
+    "2027-04-24": {
+      "title": "S. Fidelis de Sigmaringa Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam III post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-24.json"
+    },
+    "2027-04-25": {
+      "title": "Dominica IV Post Pascha",
+      "rank": "II. classis",
+      "note": "Commemoratio: S. Marci Evangelistæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-25.json"
+    },
+    "2027-04-26": {
+      "title": "SS. Cleti et Marcellini Summorum Pontificum et Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-26.json"
+    },
+    "2027-04-27": {
+      "title": "S. Petri Canisii Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-27.json"
+    },
+    "2027-04-28": {
+      "title": "S. Pauli a Cruce Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-28.json"
+    },
+    "2027-04-29": {
+      "title": "S. Petri Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-29.json"
+    },
+    "2027-04-30": {
+      "title": "S. Catharinæ Senensis Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam IV post Octavam Paschæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-04-30.json"
+    },
+    "2027-05-01": {
+      "title": "S. Joseph Opificis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-01.json"
+    },
+    "2027-05-02": {
+      "title": "Dominica V Post Pascha",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-02.json"
+    },
+    "2027-05-03": {
+      "title": "Feria Secunda in Rogationibus",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Alexandri I Papæ, Eventii et Theoduli Mm. ac Juvenalis Ep. et Conf.",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-03.json"
+    },
+    "2027-05-04": {
+      "title": "S. Monicæ Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia in Rogationibus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-04.json"
+    },
+    "2027-05-05": {
+      "title": "In Vigilia Ascensionis",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Pii V Papæ et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-05.json"
+    },
+    "2027-05-06": {
+      "title": "In Ascensione Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-06.json"
+    },
+    "2027-05-07": {
+      "title": "S. Stanislai Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-07.json"
+    },
+    "2027-05-08": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-08.json"
+    },
+    "2027-05-09": {
+      "title": "Dominica post Ascensionem",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-09.json"
+    },
+    "2027-05-10": {
+      "title": "S. Antonini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Gordiani et Epimachi Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-10.json"
+    },
+    "2027-05-11": {
+      "title": "Ss. Philippi et Jacobi Apostolorum",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria III post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-11.json"
+    },
+    "2027-05-12": {
+      "title": "Ss. Nerei, Achillei et Domitillæ Virg. atque Pancratii Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-12.json"
+    },
+    "2027-05-13": {
+      "title": "S. Roberti Bellarmino Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam post Ascensionem",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-13.json"
+    },
+    "2027-05-14": {
+      "title": "Feria VI infra Hebdomadam post Ascensionem",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Bonifatii Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-14.json"
+    },
+    "2027-05-15": {
+      "title": "Sabbato in Vigilia Pentecostes",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-15.json"
+    },
+    "2027-05-16": {
+      "title": "Dominica Pentecostes",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-16.json"
+    },
+    "2027-05-17": {
+      "title": "Die II infra octavam Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-17.json"
+    },
+    "2027-05-18": {
+      "title": "Die III infra octavam Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-18.json"
+    },
+    "2027-05-19": {
+      "title": "Feria Quarta Quattuor Temporum Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-19.json"
+    },
+    "2027-05-20": {
+      "title": "Die Quinta infra octavam Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-20.json"
+    },
+    "2027-05-21": {
+      "title": "Feria Sexta Quattuor temporum Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-21.json"
+    },
+    "2027-05-22": {
+      "title": "Sabbato Quattuor Temporum Pentecostes",
+      "rank": "Dies Octavæ I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-22.json"
+    },
+    "2027-05-23": {
+      "title": "Dominica Sanctissimæ Trinitatis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-23.json"
+    },
+    "2027-05-24": {
+      "title": "Feria Secunda infra Hebdomadam I post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-24.json"
+    },
+    "2027-05-25": {
+      "title": "S. Gregorii VII Papæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Urbanis Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-25.json"
+    },
+    "2027-05-26": {
+      "title": "S. Philippi Neri Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Eleutherii Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-26.json"
+    },
+    "2027-05-27": {
+      "title": "Festum Sanctissimi Corporis Christi",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-27.json"
+    },
+    "2027-05-28": {
+      "title": "S. Augustini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam I post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-28.json"
+    },
+    "2027-05-29": {
+      "title": "S. Mariæ Magdalenæ de Pazzis Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam I post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-29.json"
+    },
+    "2027-05-30": {
+      "title": "Dominica II Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-30.json"
+    },
+    "2027-05-31": {
+      "title": "Beatæ Mariæ Virginis Reginæ",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Petronillæ Virginis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-05-31.json"
+    },
+    "2027-06-01": {
+      "title": "S. Angelæ Mericiæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam II post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-01.json"
+    },
+    "2027-06-02": {
+      "title": "Feria IV infra Hebdomadam II post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Marcellini, Petri, atque Erasmi, Episcopi, Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-02.json"
+    },
+    "2027-06-03": {
+      "title": "Feria V infra Hebdomadam II post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-03.json"
+    },
+    "2027-06-04": {
+      "title": "Sacratissimi Cordis Domini Nostri Jesu Christi",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-04.json"
+    },
+    "2027-06-05": {
+      "title": "S. Bonifatii Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam II post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-05.json"
+    },
+    "2027-06-06": {
+      "title": "Dominica III Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-06.json"
+    },
+    "2027-06-07": {
+      "title": "Feria secunda infra Hebdomadam III post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-07.json"
+    },
+    "2027-06-08": {
+      "title": "Feria tertia infra Hebdomadam III post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-08.json"
+    },
+    "2027-06-09": {
+      "title": "Feria quarta infra Hebdomadam III post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Primi et Feliciani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-09.json"
+    },
+    "2027-06-10": {
+      "title": "S. Margaritæ Reginæ Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam III post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-10.json"
+    },
+    "2027-06-11": {
+      "title": "S. Barnabæ Apostoli",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria sexta infra Hebdomadam III post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-11.json"
+    },
+    "2027-06-12": {
+      "title": "S. Joannis a S. Facundo Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Basilidis, Cyrini, Naboris and Nazarii Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-12.json"
+    },
+    "2027-06-13": {
+      "title": "Dominica IV Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-13.json"
+    },
+    "2027-06-14": {
+      "title": "S. Basilii Magni Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam IV post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-14.json"
+    },
+    "2027-06-15": {
+      "title": "Feria tertia infra Hebdomadam IV post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Viti, Modesti atque Crescentiæ Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-15.json"
+    },
+    "2027-06-16": {
+      "title": "Feria quarta infra Hebdomadam IV post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-16.json"
+    },
+    "2027-06-17": {
+      "title": "S. Gregorii Barbadici Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam IV post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-17.json"
+    },
+    "2027-06-18": {
+      "title": "S. Ephræm Syri Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: SS. Marci et Marcelliani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-18.json"
+    },
+    "2027-06-19": {
+      "title": "S. Julianæ de Falconeriis Virginis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Gervasii et Protasii Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-19.json"
+    },
+    "2027-06-20": {
+      "title": "Dominica V Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-20.json"
+    },
+    "2027-06-21": {
+      "title": "S. Aloisii Gonzagæ Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-21.json"
+    },
+    "2027-06-22": {
+      "title": "S. Paulini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria tertia infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-22.json"
+    },
+    "2027-06-23": {
+      "title": "In Vigilia S. Joannis Baptistæ",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-23.json"
+    },
+    "2027-06-24": {
+      "title": "In Nativitate S. Joannis Baptistæ",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-24.json"
+    },
+    "2027-06-25": {
+      "title": "S. Gulielmi Abbatis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria sexta infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-25.json"
+    },
+    "2027-06-26": {
+      "title": "Ss. Joannis et Pauli Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam V post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-26.json"
+    },
+    "2027-06-27": {
+      "title": "Dominica VI Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-27.json"
+    },
+    "2027-06-28": {
+      "title": "In Vigilia Ss. Petri et Pauli Apostolorum",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam VI post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-28.json"
+    },
+    "2027-06-29": {
+      "title": "SS. Apostolorum Petri et Pauli",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-29.json"
+    },
+    "2027-06-30": {
+      "title": "In Commemoratione S. Pauli Apostoli",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam VI post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-06-30.json"
+    },
+    "2027-07-01": {
+      "title": "Pretiosissimi Sanguinis Domini Nostri Jesu Christi",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-01.json"
+    },
+    "2027-07-02": {
+      "title": "In Visitatione B. Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Processi et Martiniani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-02.json"
+    },
+    "2027-07-03": {
+      "title": "S. Irenæi Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam VI post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-03.json"
+    },
+    "2027-07-04": {
+      "title": "Dominica VII Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-04.json"
+    },
+    "2027-07-05": {
+      "title": "S. Antonii Mariæ Zaccaria Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam VII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-05.json"
+    },
+    "2027-07-06": {
+      "title": "Feria tertia infra Hebdomadam VII post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-06.json"
+    },
+    "2027-07-07": {
+      "title": "Ss. Cyrilli et Methodii Pont. et Conf.",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam VII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-07.json"
+    },
+    "2027-07-08": {
+      "title": "S. Elisabeth Reg. Portugaliæ Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam VII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-08.json"
+    },
+    "2027-07-09": {
+      "title": "Feria sexta infra Hebdomadam VII post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-09.json"
+    },
+    "2027-07-10": {
+      "title": "Ss. Septem Fratrum Martyrum, ac Rufinæ et Secundæ Virginum et Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato II infra Hebdomadam VII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-10.json"
+    },
+    "2027-07-11": {
+      "title": "Dominica VIII Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-11.json"
+    },
+    "2027-07-12": {
+      "title": "S. Joannis Gualberti Abbatis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Naboris et Felicis Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-12.json"
+    },
+    "2027-07-13": {
+      "title": "Feria tertia infra Hebdomadam VIII post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-13.json"
+    },
+    "2027-07-14": {
+      "title": "S. Bonaventuræ Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam VIII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-14.json"
+    },
+    "2027-07-15": {
+      "title": "S. Henrici Imperatoris Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam VIII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-15.json"
+    },
+    "2027-07-16": {
+      "title": "Beatæ Mariæ Virginis de Monte Carmelo",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria sexta infra Hebdomadam VIII post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-16.json"
+    },
+    "2027-07-17": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Alexii Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-17.json"
+    },
+    "2027-07-18": {
+      "title": "Dominica IX Post Pentecosten",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-18.json"
+    },
+    "2027-07-19": {
+      "title": "S. Vincentii a Paulo Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam IX post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-19.json"
+    },
+    "2027-07-20": {
+      "title": "S. Hieronymi Æmiliani Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Margaritæ, Virg. et Mart.",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-20.json"
+    },
+    "2027-07-21": {
+      "title": "S. Laurentii a Brundusio Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Praxedis Virginis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-21.json"
+    },
+    "2027-07-22": {
+      "title": "S. Mariæ Magdalenæ Pœnitentis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam IX post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-22.json"
+    },
+    "2027-07-23": {
+      "title": "S. Apollinaris Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Liborii Episcopi et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-23.json"
+    },
+    "2027-07-24": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Christinæ Virginis et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-24.json"
+    },
+    "2027-07-25": {
+      "title": "Dominica X Post Pentecosten",
+      "rank": "II. classis",
+      "note": "Commemoratio: S. Jacobi Apostoli",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-25.json"
+    },
+    "2027-07-26": {
+      "title": "S. Annæ Matris B.M.V.",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria secunda infra Hebdomadam X post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-26.json"
+    },
+    "2027-07-27": {
+      "title": "Feria tertia infra Hebdomadam X post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Pantaleonis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-27.json"
+    },
+    "2027-07-28": {
+      "title": "Ss. Nazarii et Celsi Martyrum, Victoris I Papæ et Martyris ac Innocentii I Papæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam X post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-28.json"
+    },
+    "2027-07-29": {
+      "title": "S. Marthæ Virginis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-29.json"
+    },
+    "2027-07-30": {
+      "title": "Feria sexta infra Hebdomadam X post Octavam Pentecostes",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Abdon et Sennen Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-30.json"
+    },
+    "2027-07-31": {
+      "title": "S. Ignatii Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam X post Octavam Pentecostes",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-07-31.json"
+    },
+    "2027-08-01": {
+      "title": "Dominica XI Post Pentecosten I. Augusti",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-01.json"
+    },
+    "2027-08-02": {
+      "title": "S. Alfonsi Mariæ de Ligorio Episc. Conf. et Eccles. Doct.",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Stephani Papæ Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-02.json"
+    },
+    "2027-08-03": {
+      "title": "Feria tertia infra Hebdomadam XI post Octavam Pentecostes I. Augusti",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-03.json"
+    },
+    "2027-08-04": {
+      "title": "S. Dominici Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quarta infra Hebdomadam XI post Octavam Pentecostes I. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-04.json"
+    },
+    "2027-08-05": {
+      "title": "S. Mariæ ad Nives",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria quinta infra Hebdomadam XI post Octavam Pentecostes I. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-05.json"
+    },
+    "2027-08-06": {
+      "title": "In Transfiguratione Domini Nostri Jesu Christi",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Xysti II Papæ, Felicissimi et Agapiti Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-06.json"
+    },
+    "2027-08-07": {
+      "title": "S. Cajetani Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Donati Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-07.json"
+    },
+    "2027-08-08": {
+      "title": "Dominica XII Post Pentecosten II. Augusti",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-08.json"
+    },
+    "2027-08-09": {
+      "title": "In Vigilia S. Laurentii Mart.",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Romani Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-09.json"
+    },
+    "2027-08-10": {
+      "title": "S. Laurentii Martyris",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XII post Octavam Pentecostes II. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-10.json"
+    },
+    "2027-08-11": {
+      "title": "Feria Quarta infra Hebdomadam XII post Octavam Pentecostes II. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Tiburtii et Susannæ Virginis, Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-11.json"
+    },
+    "2027-08-12": {
+      "title": "S. Claræ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XII post Octavam Pentecostes II. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-12.json"
+    },
+    "2027-08-13": {
+      "title": "Feria Sexta infra Hebdomadam XII post Octavam Pentecostes II. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Hippolyti et Cassiani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-13.json"
+    },
+    "2027-08-14": {
+      "title": "In Vigilia Assumptionis B.M.V.",
+      "rank": "IV. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Eusebii Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-14.json"
+    },
+    "2027-08-15": {
+      "title": "In Assumptione Beatæ Mariæ Virginis",
+      "rank": "I. classis",
+      "note": "Commemoratio: Dominica XIII Post Pentecosten III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-15.json"
+    },
+    "2027-08-16": {
+      "title": "S. Joachim Confessoris, Patris B. M. V.",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XIII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-16.json"
+    },
+    "2027-08-17": {
+      "title": "S. Hyacinthi Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XIII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-17.json"
+    },
+    "2027-08-18": {
+      "title": "Feria Quarta infra Hebdomadam XIII post Octavam Pentecostes III. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Agapiti Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-18.json"
+    },
+    "2027-08-19": {
+      "title": "S. Joannis Eudes Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XIII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-19.json"
+    },
+    "2027-08-20": {
+      "title": "S. Bernardi Abbatis et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XIII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-20.json"
+    },
+    "2027-08-21": {
+      "title": "S. Joannæ Franciscæ Frémiot de Chantal Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XIII post Octavam Pentecostes III. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-21.json"
+    },
+    "2027-08-22": {
+      "title": "Immaculati Cordis Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio: Dominica XIV Post Pentecosten IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-22.json"
+    },
+    "2027-08-23": {
+      "title": "S. Philippi Benitii Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XIV post Octavam Pentecostes IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-23.json"
+    },
+    "2027-08-24": {
+      "title": "S. Bartholomæi Apostoli",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XIV post Octavam Pentecostes IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-24.json"
+    },
+    "2027-08-25": {
+      "title": "S. Ludovici Regis Franciæ Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XIV post Octavam Pentecostes IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-25.json"
+    },
+    "2027-08-26": {
+      "title": "Feria Quinta infra Hebdomadam XIV post Octavam Pentecostes IV. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Zephyrini Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-26.json"
+    },
+    "2027-08-27": {
+      "title": "S. Josephi Calasanctii Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XIV post Octavam Pentecostes IV. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-27.json"
+    },
+    "2027-08-28": {
+      "title": "S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Hermetis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-28.json"
+    },
+    "2027-08-29": {
+      "title": "Dominica XV Post Pentecosten V. Augusti",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-29.json"
+    },
+    "2027-08-30": {
+      "title": "S. Rosæ a Sancta Maria Limange Virginis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Felicis et Adaucti Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-30.json"
+    },
+    "2027-08-31": {
+      "title": "S. Raymundi Nonnati Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-08-31.json"
+    },
+    "2027-09-01": {
+      "title": "Feria Quarta infra Hebdomadam XV post Octavam Pentecostes V. Augusti",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Ægidii Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-01.json"
+    },
+    "2027-09-02": {
+      "title": "S. Stephani Hungariæ Regis Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-02.json"
+    },
+    "2027-09-03": {
+      "title": "S. Pii X Papæ Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-03.json"
+    },
+    "2027-09-04": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XV post Octavam Pentecostes V. Augusti",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-04.json"
+    },
+    "2027-09-05": {
+      "title": "Dominica XVI Post Pentecosten I. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-05.json"
+    },
+    "2027-09-06": {
+      "title": "Feria Secunda infra Hebdomadam XVI post Octavam Pentecostes I. Septembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-06.json"
+    },
+    "2027-09-07": {
+      "title": "Feria Tertia infra Hebdomadam XVI post Octavam Pentecostes I. Septembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-07.json"
+    },
+    "2027-09-08": {
+      "title": "Nativitate Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Hadriani Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-08.json"
+    },
+    "2027-09-09": {
+      "title": "Feria Quinta infra Hebdomadam XVI post Octavam Pentecostes I. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Gorgonii Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-09.json"
+    },
+    "2027-09-10": {
+      "title": "S. Nicolai de Tolentino Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XVI post Octavam Pentecostes I. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-10.json"
+    },
+    "2027-09-11": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Proti et Hyacinthi Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-11.json"
+    },
+    "2027-09-12": {
+      "title": "Dominica XVII Post Pentecosten II. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-12.json"
+    },
+    "2027-09-13": {
+      "title": "Feria Secunda infra Hebdomadam XVII post Octavam Pentecostes II. Septembris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-13.json"
+    },
+    "2027-09-14": {
+      "title": "In Exaltatione Sanctæ Crucis",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XVII post Octavam Pentecostes II. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-14.json"
+    },
+    "2027-09-15": {
+      "title": "Septem Dolorum Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Nicomedis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-15.json"
+    },
+    "2027-09-16": {
+      "title": "Ss. Cornelii Papæ et Cypriani Episcopi, Martyrum",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Euphemiæ, Luciæ et Geminiani Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-16.json"
+    },
+    "2027-09-17": {
+      "title": "Feria Sexta infra Hebdomadam XVII post Octavam Pentecostes II. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Impressionis Stigmatum S. Francisci",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-17.json"
+    },
+    "2027-09-18": {
+      "title": "S. Josephi de Cupertino Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XVII post Octavam Pentecostes II. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-18.json"
+    },
+    "2027-09-19": {
+      "title": "Dominica XVIII Post Pentecosten III. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-19.json"
+    },
+    "2027-09-20": {
+      "title": "Feria Secunda infra Hebdomadam XVIII post Octavam Pentecostes III. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Eustachii et Sociorum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-20.json"
+    },
+    "2027-09-21": {
+      "title": "S. Matthæi Apostoli et Evangelistæ",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XVIII post Octavam Pentecostes III. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-21.json"
+    },
+    "2027-09-22": {
+      "title": "Feria Quarta Quattuor Temporum Septembris",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Thomæ de Villanova Episcopi et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-22.json"
+    },
+    "2027-09-23": {
+      "title": "S. Lini Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Theclæ Virginis et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-23.json"
+    },
+    "2027-09-24": {
+      "title": "Feria Sexta Quattuor Temporum Septembris",
+      "rank": "II. classis",
+      "note": "Commemoratio : Beatæ Mariæ Virginis de Mercede",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-24.json"
+    },
+    "2027-09-25": {
+      "title": "Sabbato Quattuor Temporum Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-25.json"
+    },
+    "2027-09-26": {
+      "title": "Dominica XIX Post Pentecosten IV. Septembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-26.json"
+    },
+    "2027-09-27": {
+      "title": "Ss. Cosmæ et Damiani Martyrum",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XIX post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-27.json"
+    },
+    "2027-09-28": {
+      "title": "S. Wenceslai Ducis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XIX post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-28.json"
+    },
+    "2027-09-29": {
+      "title": "In Dedicatione S. Michaëlis Archangelis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-29.json"
+    },
+    "2027-09-30": {
+      "title": "S. Hieronymi Presbyteris Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XIX post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-09-30.json"
+    },
+    "2027-10-01": {
+      "title": "Feria Sexta infra Hebdomadam XIX post Octavam Pentecostes IV. Septembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Remigii Episcopi et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-01.json"
+    },
+    "2027-10-02": {
+      "title": "Ss. Angelorum Custodum",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XIX post Octavam Pentecostes IV. Septembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-02.json"
+    },
+    "2027-10-03": {
+      "title": "Dominica XX Post Pentecosten I. Octobris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-03.json"
+    },
+    "2027-10-04": {
+      "title": "S. Francisci Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XX post Octavam Pentecostes I. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-04.json"
+    },
+    "2027-10-05": {
+      "title": "Feria Tertia infra Hebdomadam XX post Octavam Pentecostes I. Octobris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Placidi et Sociorum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-05.json"
+    },
+    "2027-10-06": {
+      "title": "S. Brunonis Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XX post Octavam Pentecostes I. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-06.json"
+    },
+    "2027-10-07": {
+      "title": "Sanctissimi Rosarii Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Marci Papæ Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-07.json"
+    },
+    "2027-10-08": {
+      "title": "S. Birgittæ Viduæ",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Sergii, Bacchi, Marcelli et Apuleji Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-08.json"
+    },
+    "2027-10-09": {
+      "title": "S. Joannis Leonardi Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Dionysii Epíscopi, Rustici et Eleutherii Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-09.json"
+    },
+    "2027-10-10": {
+      "title": "Dominica XXI Post Pentecosten II. Octobris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-10.json"
+    },
+    "2027-10-11": {
+      "title": "Maternitatis Beatæ Mariæ Virginis",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XXI post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-11.json"
+    },
+    "2027-10-12": {
+      "title": "Feria Tertia infra Hebdomadam XXI post Octavam Pentecostes II. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-12.json"
+    },
+    "2027-10-13": {
+      "title": "S. Eduardi Regis Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XXI post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-13.json"
+    },
+    "2027-10-14": {
+      "title": "S. Callisti Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XXI post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-14.json"
+    },
+    "2027-10-15": {
+      "title": "S. Teresiæ Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Sexta infra Hebdomadam XXI post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-15.json"
+    },
+    "2027-10-16": {
+      "title": "S. Hedwigis Viduæ",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXI post Octavam Pentecostes II. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-16.json"
+    },
+    "2027-10-17": {
+      "title": "Dominica XXII Post Pentecosten III. Octobris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-17.json"
+    },
+    "2027-10-18": {
+      "title": "S. Lucæ Evangelistæ",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XXII post Octavam Pentecostes III. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-18.json"
+    },
+    "2027-10-19": {
+      "title": "S. Petri de Alcantara Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam XXII post Octavam Pentecostes III. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-19.json"
+    },
+    "2027-10-20": {
+      "title": "S. Joannis Cantii Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quarta infra Hebdomadam XXII post Octavam Pentecostes III. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-20.json"
+    },
+    "2027-10-21": {
+      "title": "Feria Quinta infra Hebdomadam XXII post Octavam Pentecostes III. Octobris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Hilarionis Abbatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-21.json"
+    },
+    "2027-10-22": {
+      "title": "Feria Sexta infra Hebdomadam XXII post Octavam Pentecostes III. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-22.json"
+    },
+    "2027-10-23": {
+      "title": "S. Antonii Mariæ Claret Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXII post Octavam Pentecostes III. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-23.json"
+    },
+    "2027-10-24": {
+      "title": "Dominica XXIII Post Pentecosten IV. Octobris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-24.json"
+    },
+    "2027-10-25": {
+      "title": "Feria Secunda infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Chrysanthi et Dariæ Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-25.json"
+    },
+    "2027-10-26": {
+      "title": "Feria Tertia infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : S. Evaristi Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-26.json"
+    },
+    "2027-10-27": {
+      "title": "Feria Quarta infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-27.json"
+    },
+    "2027-10-28": {
+      "title": "Ss. Simonis et Judæ Apostolorum",
+      "rank": "II. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-28.json"
+    },
+    "2027-10-29": {
+      "title": "Feria Sexta infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-29.json"
+    },
+    "2027-10-30": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-30.json"
+    },
+    "2027-10-31": {
+      "title": "In festo Domino nostro Jesu Christi Regis",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-10-31.json"
+    },
+    "2027-11-01": {
+      "title": "Omnium Sanctorum",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-01.json"
+    },
+    "2027-11-02": {
+      "title": "In Commemoratione Omnium Fidelium Defunctorum Ad primam Missam",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Tertia infra Hebdomadam IV quæ superfuit post Epiphaniam V. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-02.json"
+    },
+    "2027-11-03": {
+      "title": "Feria IV infra Hebdomadam IV quæ superfuit post Epiphaniam V. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-03.json"
+    },
+    "2027-11-04": {
+      "title": "S. Caroli Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Mart. Vitalis et Agricolæ",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-04.json"
+    },
+    "2027-11-05": {
+      "title": "Feria VI infra Hebdomadam IV quæ superfuit post Epiphaniam V. Octobris",
+      "rank": "IV. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-05.json"
+    },
+    "2027-11-06": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam IV quæ superfuit post Epiphaniam V. Octobris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-06.json"
+    },
+    "2027-11-07": {
+      "title": "Dominica V quæ superfuit Post Epiphaniam III. Novembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-07.json"
+    },
+    "2027-11-08": {
+      "title": "Feria II infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris",
+      "rank": "IV. classis",
+      "note": "Commemoratio : Ss. Quatuor Coronatorum Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-08.json"
+    },
+    "2027-11-09": {
+      "title": "In Dedicatione Basilicæ Ss. Salvatoris",
+      "rank": "II. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Theodori Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-09.json"
+    },
+    "2027-11-10": {
+      "title": "S. Andreæ Avellini Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: Ss. Tryphonis, Respicii, et Nymphæ Virg., Martyrum",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-10.json"
+    },
+    "2027-11-11": {
+      "title": "S. Martini Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Mennæ Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-11.json"
+    },
+    "2027-11-12": {
+      "title": "S. Martini Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria VI infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-12.json"
+    },
+    "2027-11-13": {
+      "title": "S. Didaci Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam V quæ superfuit post Epiphaniam III. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-13.json"
+    },
+    "2027-11-14": {
+      "title": "Dominica VI quæ superfuit Post Epiphaniam IV. Novembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-14.json"
+    },
+    "2027-11-15": {
+      "title": "S. Alberti Magni Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria II infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-15.json"
+    },
+    "2027-11-16": {
+      "title": "S. Gertrudis Virginis",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria III infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-16.json"
+    },
+    "2027-11-17": {
+      "title": "S. Gregorii Thaumaturgi Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria IV infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-17.json"
+    },
+    "2027-11-18": {
+      "title": "In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria V infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-18.json"
+    },
+    "2027-11-19": {
+      "title": "S. Elisabeth Viduæ",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Pontiani Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-19.json"
+    },
+    "2027-11-20": {
+      "title": "S. Felicis de Valois Confessoris",
+      "rank": "III. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-20.json"
+    },
+    "2027-11-21": {
+      "title": "Dominica XXIV et ultima Post Pentecosten V. Novembris",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-21.json"
+    },
+    "2027-11-22": {
+      "title": "S. Cæciliæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Secunda infra Hebdomadam XXIV post Octavam Pentecostes V. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-22.json"
+    },
+    "2027-11-23": {
+      "title": "S. Clementis Papæ et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Felicitatis Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-23.json"
+    },
+    "2027-11-24": {
+      "title": "S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Chrysogoni Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-24.json"
+    },
+    "2027-11-25": {
+      "title": "S. Catharinæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Scriptura: Feria Quinta infra Hebdomadam XXIV post Octavam Pentecostes V. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-25.json"
+    },
+    "2027-11-26": {
+      "title": "S. Silvestri Abbatis",
+      "rank": "III. classis",
+      "note": "Commemoratio ad Laudes tantum: S. Petri Alexandrini Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-26.json"
+    },
+    "2027-11-27": {
+      "title": "Sanctæ Mariæ Sabbato",
+      "rank": "IV. classis",
+      "note": "Scriptura: Sabbato infra Hebdomadam XXIV post Octavam Pentecostes V. Novembris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-27.json"
+    },
+    "2027-11-28": {
+      "title": "Dominica I Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-28.json"
+    },
+    "2027-11-29": {
+      "title": "Feria II infra Hebdomadam I Adventus",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Saturnini Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-29.json"
+    },
+    "2027-11-30": {
+      "title": "S. Andreæ Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio: Feria III infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-11-30.json"
+    },
+    "2027-12-01": {
+      "title": "Feria IV infra Hebdomadam I Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-01.json"
+    },
+    "2027-12-02": {
+      "title": "S. Bibianæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria V infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-02.json"
+    },
+    "2027-12-03": {
+      "title": "S. Francisci Xaverii Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria VI infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-03.json"
+    },
+    "2027-12-04": {
+      "title": "S. Petri Chrysologi Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Sabbato infra Hebdomadam I Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-04.json"
+    },
+    "2027-12-05": {
+      "title": "Dominica II Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-05.json"
+    },
+    "2027-12-06": {
+      "title": "S. Nicolai Episcopi et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria II infra Hebdomadam II Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-06.json"
+    },
+    "2027-12-07": {
+      "title": "S. Ambrosii Episcopi Confessoris et Ecclesiæ Doctoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria III infra Hebdomadam II Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-07.json"
+    },
+    "2027-12-08": {
+      "title": "In Conceptione Immaculata Beatæ Mariæ Virginis",
+      "rank": "I. classis",
+      "note": "Commemoratio: Feria IV infra Hebdomadam II Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-08.json"
+    },
+    "2027-12-09": {
+      "title": "Feria V infra Hebdomadam II Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-09.json"
+    },
+    "2027-12-10": {
+      "title": "Feria VI infra Hebdomadam II Adventus",
+      "rank": "III. classis",
+      "note": "Commemoratio : S. Melchiadis Papæ et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-10.json"
+    },
+    "2027-12-11": {
+      "title": "S. Damasi Papæ et Confessoris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Sabbato infra Hebdomadam II Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-11.json"
+    },
+    "2027-12-12": {
+      "title": "Dominica III Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-12.json"
+    },
+    "2027-12-13": {
+      "title": "S. Luciæ Virginis et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria II infra Hebdomadam III Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-13.json"
+    },
+    "2027-12-14": {
+      "title": "Feria III infra Hebdomadam III Adventus",
+      "rank": "III. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-14.json"
+    },
+    "2027-12-15": {
+      "title": "Feria IV Quattuor Temporum in Adventu",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-15.json"
+    },
+    "2027-12-16": {
+      "title": "S. Eusebii Episcopi et Martyris",
+      "rank": "III. classis",
+      "note": "Commemoratio: Feria V infra Hebdomadam III Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-16.json"
+    },
+    "2027-12-17": {
+      "title": "Feria VI Quattuor Temporum in Adventu",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-17.json"
+    },
+    "2027-12-18": {
+      "title": "Sabbato Quattuor Temporum in Adventu",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-18.json"
+    },
+    "2027-12-19": {
+      "title": "Dominica IV Adventus",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-19.json"
+    },
+    "2027-12-20": {
+      "title": "Feria II infra Hebdomadam IV Adventus",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-20.json"
+    },
+    "2027-12-21": {
+      "title": "S. Thomæ Apostoli",
+      "rank": "II. classis",
+      "note": "Commemoratio: Feria III infra Hebdomadam IV Adventus",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-21.json"
+    },
+    "2027-12-22": {
+      "title": "Feria IV infra Hebdomadam IV Adventus",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-22.json"
+    },
+    "2027-12-23": {
+      "title": "Feria V infra Hebdomadam IV Adventus",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-23.json"
+    },
+    "2027-12-24": {
+      "title": "In Vigilia Nativitatis Domini",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-24.json"
+    },
+    "2027-12-25": {
+      "title": "In Nativitate Domini in nocte",
+      "rank": "I. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-25.json"
+    },
+    "2027-12-26": {
+      "title": "Dominica Infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio: S. Stephani Protomartyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-26.json"
+    },
+    "2027-12-27": {
+      "title": "S. Joannis Apostoli et Evangelistæ",
+      "rank": "II. classis",
+      "note": "Commemoratio: Diei III infra Octavam Nativitatis",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-27.json"
+    },
+    "2027-12-28": {
+      "title": "Diei IV infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio : Ss. Innocentium",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-28.json"
+    },
+    "2027-12-29": {
+      "title": "Die V infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Thomæ Cantuariensis Episcopi et Martyris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-29.json"
+    },
+    "2027-12-30": {
+      "title": "Die VI infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-30.json"
+    },
+    "2027-12-31": {
+      "title": "Die VII infra Octavam Nativitatis",
+      "rank": "II. classis",
+      "note": "Commemoratio : S. Silvestri Papæ et Confessoris",
+      "sectionCount": 12,
+      "path": "/data/mass/2027/2027-12-31.json"
+    }
+  }
+}

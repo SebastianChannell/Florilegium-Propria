@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-12-28",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Diei IV infra Octavam Nativitatis",
+  "rank": "II. classis",
+  "note": "Commemoratio : Ss. Innocentium",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><strong><em>I</em></strong></span>n excélso throno vidi sedére virum, quem adórat multitúdo Angelórum, psalléntes in unum: ecce, cuius impérii nomen est in ætérnum<br>\n<span class=\"rubric\"><em>Ps 99:1</em></span><br>\nIubiláte Deo, omnis terra: servíte Dómino in lætítia.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n excélso throno vidi sedére virum, quem adórat multitúdo Angelórum, psalléntes in unum: ecce, cuius impérii nomen est in ætérnum"
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<br>\n<span class=\"rubric\"><strong><em>U</em></strong></span>pon a high throne I saw a man sitting, Whom a multitude of angels adore, singing in unison: Behold Him, the name of Whose empire is forever.<br>\n<span class=\"rubric\"><em>Ps 99:1</em></span><br>\nSing joyfully to God, all you lands; serve the Lord with gladness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>U</em></strong></span>pon a high throne I saw a man sitting, Whom a multitude of angels adore, singing in unison: Behold Him, the name of Whose empire is forever."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOratio missing<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Innocentium</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, cuius hodierna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nOratio missing<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Holy Innocents</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Whose praise the Innocents, Your martyrs, this day proclaimed, not by speaking, but by dying, put to death in us all the wickedness of sin, so that Your faith which our tongue professes may be proclaimed also by our life.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.<br>\n<span class=\"rubric\"><em>Rom 12:1-5</em></span><br>\nFratres: Obsecro vos per misericórdiam Dei, ut exhibeátis córpora vestra hóstiam vivéntem, sanctam, Deo placéntem, rationábile obséquium vestrum. Et nolíte conformári huic sǽculo, sed reformámini in novitáte sensus vestri: ut probétis, quæ sit volúntas Dei bona, et benéplacens, et perfécta. Dico enim per grátiam, quæ data est mihi, ómnibus qui sunt inter vos: Non plus sápere, quam opórtet sápere, sed sápere ad sobrietátem: et unicuique sicut Deus divísit mensúram fídei. Sicut enim in uno córpore multa membra habémus, ómnia autem membra non eúndem actum habent: ita multi unum corpus sumus in Christo, sínguli autem alter alteríus membra: in Christo Iesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "From the Epistle of St. Paul to the Romans<br>\n<span class=\"rubric\"><em>Rom 12:1-5</em></span><br>\nBrethren: I exhort you, by the mercy of God, to present your bodies as a sacrifice, living, holy, pleasing to God - your spiritual service. And be not conformed to this world, but be transformed in the newness of your mind, that you may discern what is the good and acceptable and perfect will of God. By the grace that has been given to me, I say to each one among you: let no one rate himself more than he ought, but let him rate himself according to moderation, and according as God has apportioned to each one the measure of faith. For just as in one body we have many members, yet all the members have not the same function, so we, the many, are one body in Christ, but severally members, one of another, in Christ Jesus, our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 71:18&nbsp;; 71:3</em></span><br>\nBenedíctus Dóminus, Deus Israël, qui facit mirabília magna solus a sǽculo.<br>\n<span class=\"marker\"><em>℣.</em></span> Suscípiant montes pacem pópulo tuo, et colles iustítiam. Allelúia, allelúia<br>\n<span class=\"rubric\"><em>Ps 99:1</em></span><br>\nIubiláte Deo, omnis terra: servíte Dómino in lætítia. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 71:18, 3</em></span><br>\nBlessed be the Lord, the God of Israel, Who alone does wondrous deeds.<br>\n<span class=\"marker\"><em>℣.</em></span> The mountains shall yield peace for the people, and the hills justice. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 99:1</em></span><br>\nSing joyfully to God, all you lands; serve the Lord with gladness. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 2:42-52</em></span><br>\nCum factus esset Iesus annórum duódecim, ascendéntibus illis Ierosólymam secúndum consuetúdinem diéi festi, consummatísque diébus, cum redírent, remánsit puer Iesus in Ierúsalem, et non cognovérunt paréntes eius. Existimántes autem illum esse in comitátu, venérunt iter diéi, et requirébant eum inter cognátos et notos. Et non inveniéntes, regréssi sunt in Ierúsalem, requiréntes eum. Et factum est, post tríduum invenérunt illum in templo sedéntem in médio doctórum, audiéntem illos et interrogántem eos. Stupébant autem omnes, qui eum audiébant, super prudéntia et respónsis eius. Et vidéntes admiráti sunt. Et dixit Mater eius ad illum: Fili, quid fecísti nobis sic? Ecce, pater tuus et ego doléntes quærebámus te. Et ait ad illos: Quid est, quod me quærebátis? Nesciebátis, quia in his, quæ Patris mei sunt, opórtet me esse? Et ipsi non intellexérunt verbum, quod locútus est ad eos. Et descéndit cum eis, et venit Názareth: et erat súbditus illis. Et Mater eius conservábat ómnia verba hæc in corde suo. Et Iesus proficiébat sapiéntia et ætáte et grátia apud Deum et hómines.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 2:42-52</em></span><br>\nWhen Jesus was twelve years old, they went up to Jerusalem according to the custom of the feast. And after they had fulfilled the days, when there were returning, the Boy Jesus remained in Jerusalem, and His parents did not know it. But thinking that He was in the caravan, they had come a day’s journey before it occurred to them to look for Him among their relatives and acquaintances. And not finding Him, they returned to Jerusalem in search of Him. And it came to pass after three days, that they found Him in the temple, sitting in the midst of the teachers, listening to them and asking them questions. And all who were listening to Him were amazed at His understanding and His answers. And when they saw Him, they were astonished. And His Mother said to Him, Son, why have You done so to us? Behold, in sorrow Your father and I have been seeking You. And He said to them, How is it that you sought Me? Did you not know that I must be about My Father’s business? And they did not understand the word that He spoke to them. And He went down with them and came to Nazareth, and was subject to them; and His Mother kept all these things carefully in her heart. And Jesus advanced in wisdom and age and grace before God and men.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 99:1; 99:2</em></span><br>\nIubiláte Deo, omnis terra, servíte Dómino in lætítia: intráte in conspéctu eius in exsultatióne: quia Dóminus ipse est Deus."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 99:1-2</em></span><br>\nSing joyfully to God, all you lands; serve the Lord with gladness; come before Him with joyful song. Know that the Lord is God."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oratio missing<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Innocentium</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>anctórum tuórum, Dómine, nobis pia non desit orátio: quæ et múnera nostra concíliet, et tuam nobis indulgéntiam semper obtíneat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Oratio missing<br>\n<span class=\"rubric\"><em>Commemoration Holy Innocents</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et not the gracious prayer of Your saints fail us, O Lord, but may it make our offerings acceptable to You and obtain for us Your mercy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Nativitate Domini</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit: ut, dum visibíliter Deum cognóscimus, per hunc in invisibílium amorem rapiámur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes."
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Nativity</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God, for through the Mystery of the Word made flesh, the new light of Thy glory hath shone upon the eyes of our mind, so that while we acknowledge God in visible form, we may through Him be drawn to the love of things invisible. And therefore with Angels and Archangels, with Throne and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luc 2:48; 2:49</em></span><br>\nFili, quid fecísti nobis sic? ego et pater tuus doléntes quærebámus te. Et quid est, quod me quærebátis? nesciebátis, quia in his, quæ Patris mei sunt, opórtet me esse?"
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luke 2:48-49</em></span><br>\nSon, why have You done so to us? In sorrow Your father and I have been seeking You. How is it that you sought Me? Did you not know that I must be about My Father’s business?"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOratio missing<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Innocentium</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>otíva, Dómine, dona percépimus: quæ Sanctórum nobis précibus, et præséntis, quǽsumus, vitæ páriter et ætérnæ tríbue conférre subsídium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nOratio missing<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration Holy Innocents</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e have partaken, O Lord, of the dedicated gifts: may they, we beseech You, help us through the intercession of Your saints both for this life and life eternal.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

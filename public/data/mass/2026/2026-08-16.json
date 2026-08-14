@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-16",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica XII Post Pentecosten III. Augusti",
+  "rank": "II. classis",
+  "note": "Commemoratio: S. Joachim Confessoris, Patris B. M. V.",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 69:2-3</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, in adiutórium meum inténde: Dómine, ad adiuvándum me festína: confundántur et revereántur inimíci mei, qui quærunt ánimam meam.<br>\n<span class=\"rubric\"><em>Ps 69:4</em></span><br>\nAvertántur retrórsum et erubéscant: qui cógitant mihi mala.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, in adiutórium meum inténde: Dómine, ad adiuvándum me festína: confundántur et revereántur inimíci mei, qui quærunt ánimam meam."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 69:2-3</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eign, O God, to rescue me; O Lord, make haste to help me. Let them be put to shame and confounded who seek my life.<br>\n<span class=\"rubric\"><em>Ps 69:4</em></span><br>\nLet them be turned back in disgrace, who desire my ruin.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eign, O God, to rescue me; O Lord, make haste to help me. Let them be put to shame and confounded who seek my life."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur: tríbue, quǽsumus, nobis; ut ad promissiónes tuas sine offensióne currámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Ioachim Confessoris, Patris B. M. V.</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui præ ómnibus Sanctis tuis beátum Ióachim Genetrícis Fílii tui patrem esse voluísti: concéde, quǽsumus; ut, cuius festa venerámur, eius quoque perpétuo patrocínia sentiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty and merciful God, by Whose grace Your faithful people serve You worthily and righteously, grant, we beseech You, that we may hasten without stumbling to those things You have promised us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Joachim, Confessor, Father of the Blessed Virgin Mary</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who, in preference to Your other Saints, willed St. Joachim to be the father of Your Son’s Mother; grant, we beseech You, that we may ever enjoy the spiritual help of him whose feast we celebrate.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>2 Cor 3:4-9</em></span><br>\nFratres: Fidúciam talem habémus per Christum ad Deum: non quod sufficiéntes simus cogitáre áliquid a nobis, quasi ex nobis: sed sufficiéntia nostra ex Deo est: qui et idóneos nos fecit minístros novi testaménti: non líttera, sed spíritu: líttera enim occídit, spíritus autem vivíficat. Quod si ministrátio mortis, lítteris deformáta in lapídibus, fuit in glória; ita ut non possent inténdere fili Israël in fáciem Moysi, propter glóriam vultus eius, quæ evacuátur: quómodo non magis ministrátio Spíritus erit in glória? Nam si ministrátio damnatiónis glória est multo magis abúndat ministérium iustítiæ in glória.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the second letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>2 Cor. 3:4-9</em></span><br>\nBrethren: Such is the assurance I have through Christ toward God. Not that we are sufficient of ourselves to think anything, as from ourselves, but our sufficiency is from God. He also it is Who has made us fit ministers of the new covenant, not of the letter but of the spirit; for the letter kills, but the spirit gives life. Now if the ministration of death, which was engraved in letters upon stones, was inaugurated in such glory that the children of Israel could not look steadfastly upon the face of Moses on account of the transient glory that shone upon it, shall not the ministration of the spirit be still more glorious? For if there is glory in the ministration that condemned, much more does the ministration that justifies abound in glory.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 33:2-3</em></span><br>\nBenedícam Dóminum in omni témpore: semper laus eius in ore meo.<br>\n<span class=\"marker\"><em>℣.</em></span> In Dómino laudábitur ánima mea: áudiant mansuéti, et læténtur. Allelúia, allelúia<br>\n<span class=\"rubric\"><em>Ps 87:2</em></span><br>\nDómine, Deus salútis meæ, in die clamávi et nocte coram te. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 33:2-3</em></span><br>\nI will bless the Lord at all times; His praise shall be ever in my mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> Let my soul glory in the Lord; the lowly will hear and be glad. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 87:2</em></span><br>\nO Lord, the God of my salvation, by day I cry out, at night I clamor in Your presence. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 10:23-37</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Beáti óculi, qui vident quæ vos videtis. Dico enim vobis, quod multi prophétæ et reges voluérunt vidére quæ vos videtis, et non vidérunt: et audire quæ audítis, et non audiérunt. Et ecce, quidam legisperítus surréxit, tentans illum, et dicens: Magister, quid faciéndo vitam ætérnam possidébo? At ille dixit ad eum: In lege quid scriptum est? quómodo legis? Ille respóndens, dixit: Díliges Dóminum, Deum tuum, ex toto corde tuo, et ex tota ánima tua, et ex ómnibus víribus tuis; et ex omni mente tua: et próximum tuum sicut teípsum. Dixítque illi: Recte respondísti: hoc fac, et vives. Ille autem volens iustificáre seípsum, dixit ad Iesum: Et quis est meus próximus? Suscípiens autem Iesus, dixit: Homo quidam descendébat ab Ierúsalem in Iéricho, et íncidit in latrónes, qui étiam despoliavérunt eum: et plagis impósitis abiérunt, semivívo relícto. Accidit autem, ut sacerdos quidam descénderet eádem via: et viso illo præterívit. Simíliter et levíta, cum esset secus locum et vidéret eum, pertránsiit. Samaritánus autem quidam iter fáciens, venit secus eum: et videns eum, misericórdia motus est. Et apprópians, alligávit vulnera eius, infúndens óleum et vinum: et impónens illum in iuméntum suum, duxit in stábulum, et curam eius egit. Et áltera die prótulit duos denários et dedit stabulário, et ait: Curam illíus habe: et quodcúmque supererogáveris, ego cum redíero, reddam tibi. Quis horum trium vidétur tibi próximus fuísse illi, qui íncidit in latrónes? At ille dixit: Qui fecit misericórdiam in illum. Et ait illi Iesus: Vade, et tu fac simíliter.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 10:23-37</em></span><br>\nAt that time, Jesus said to His disciples: Blessed are the eyes that see what you see! For I say to you, many prophets and kings have desired to see what you see, and they have not seen it; and to hear what you hear, and they have not heard it. And behold, a certain lawyer got up to test Him, saying, Master, what must I do to gain eternal life? But He said to him, What is written in the Law? How do you read? He answered and said, You shall love the Lord your God with your whole heart, and with your whole soul, and with your whole strength, and with your whole mind; and your neighbor as yourself. And He said to him, You have answered rightly; do this and you shall live. But he, wishing to justify himself, said to Jesus, And who is my neighbor? Jesus answered and said, A certain man was going down from Jerusalem to Jericho, and he fell in with robbers, who after both stripping him and beating him went their way, leaving him half-dead. But, as it happened, a certain priest was going down the same way; and when he saw him, he passed by. And likewise a Levite also, when he was near the place and saw him, passed by. But a certain Samaritan as he journeyed came upon him, and seeing him, was moved with compassion. And he went up to him and bound up his wounds, pouring on oil and wine. And setting him on his own beast, he brought him to an inn and took care of him. And the next day he took out two denarii and gave them to the innkeeper and said, ‘Take care of him; and whatever more you spend, I, on my way back, will repay you.’ Which of these three, in your opinion, proved himself neighbor to him who fell among the robbers? And he said, He who took pity on him. And Jesus said to him, Go and do also in like manner.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Exod 32:11 32:13; 32:14</em></span><br>\nPrecátus est Moyses in conspéctu Dómini, Dei sui, et dixit: Quare, Dómine, irásceris in pópulo tuo? Parce iræ ánimæ tuæ: meménto Abraham, Isaac et Iacob, quibus iurásti dare terram fluéntem lac et mel. Et placátus factus est Dóminus de malignitáte, quam dixit fácere pópulo suo."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ex 32:11, 13-14.</em></span><br>\nMoses prayed in the sight of the Lord his God and said, Why, O Lord, is Your indignation enkindled against Your people? Let the anger of Your mind cease; remember Abraham, Isaac, and Jacob, to whom You swore to give a land flowing with milk and honey. And the Lord was appeased from doing the evil which He had spoken of doing against His people."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hóstias, quǽsumus, Dómine, propítius inténde, quas sacris altáribus exhibémus: ut, nobis indulgéntiam largiéndo, tuo nómini dent honórem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Ioachim Confessoris, Patris B. M. V.</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>úscipe, clementíssime Deus, sacrifícium in honórem sancti Patriarchæ Ióachim, patris Maríæ Vírginis, maiestáti tuæ oblátum: ut, ipso cum cóniuge sua et beatíssima prole intercedénte, perféctam cónsequi mereámur remissiónem peccatórum et glóriam sempitérnam.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, we beseech You, graciously look upon the offerings which we lay upon Your sacred altar; so that they may bring us plentiful forgiveness while they give honor to Your name.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Joachim, Confessor, Father of the Blessed Virgin Mary</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>raciously accept, most merciful God, the sacrifice offered to Your majesty in honor of the holy Patriarch Joachim, father of the Virgin Mary, that by his intercession, together with that of his spouse and most blessed child, we may be found worthy to obtain full forgiveness of our sins and everlasting glory.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in maiestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre cotídie, una voce dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 103:13; 103:14-15</em></span><br>\nDe fructu óperum tuórum, Dómine, satiábitur terra: ut edúcas panem de terra, et vinum lætíficet cor hóminis: ut exhílaret fáciem in óleo, et panis cor hóminis confírmet."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 103:13-15</em></span><br>\nThe earth is replete with the fruit of Your works, O Lord; You produce bread from the earth, and wine to gladden men’s hearts, so that their faces gleam with oil, and bread fortifies the hearts of men."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nVivíficet nos, quǽsumus, Dómine, huius participátio sancta mystérii: et páriter nobis expiatiónem tríbuat et múnimen.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Ioachim Confessoris, Patris B. M. V.</em></span><br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>uǽsumus, omnípotens Deus: ut per hæc sacraménta, quæ súmpsimus, intercedéntibus méritis et précibus beáti Ióachim patris Genetrícis dilécti Fílii tui, Dómini nostri Iesu Christi, tuæ grátiæ in præsénti et ætérnæ glóriæ in futúro partícipes esse mereámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the holy reception of this sacrament, we beseech You, O Lord, restore us to life, and bestow upon us forgiveness and protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Joachim, Confessor, Father of the Blessed Virgin Mary</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e beseech You, almighty God, that by this sacrament which we have received, and by the pleading merits of holy Joachim, father of the Mother of Your beloved Son, our Lord Jesus Christ, we may be found worthy to share Your grace in the life, and eternal glory in the life to come.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

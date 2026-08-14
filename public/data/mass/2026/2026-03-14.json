@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-14",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Sabbato infra Hebdomadam III in Quadragesima",
+  "rank": "III. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 5:2-3.</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>erba mea áuribus pércipe, Dómine, intéllege clamórem meum: inténde voci oratiónis meæ, Rex meus et Deus meus.<br>\n<span class=\"rubric\"><em>Ps 5:4</em></span><br>\nQuóniam ad te orábo, Dómine: mane exáudies vocem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>erba mea áuribus pércipe, Dómine, intéllege clamórem meum: inténde voci oratiónis meæ, Rex meus et Deus meus."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 5:2-3</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>earken to my words, O Lord, attend to my sighing. Heed my call for help, my King and my God!<br>\n<span class=\"rubric\"><em>Ps 5:4 To</em></span><br>\nTo You I pray, O Lord; at dawn You hear my voice.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>earken to my words, O Lord, attend to my sighing. Heed my call for help, my King and my God!"
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, qui se, affligéndo carnem, ab aliméntis ábstinent; sectándo iustítiam, a culpa ieiúnent.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that we who chastise our flesh by abstaining from food, may fast from sin by striving after righteousness.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Daniélis Prophétæ<br>\n<span class=\"rubric\"><em>Dan 13:1-9, 15-17, 19-30, 33-62</em></span><br>\nIn diébus illis: Erat vir hábitans in Babylóne, et nomen eius Ióakim: et accépit uxorem nómine Susánnam, fíliam Helcíæ, pulchram nimis, et timéntem Deum: paréntes enim illíus, cum essent iusti, erudiérunt fíliam suam secúndum legem Móysi. Erat autem Ióakim dives valde, et erat ei pomárium vicínum dómui suæ: et ad ipsum confluébant Iudǽi, eo quod esset honorabílior ómnium. Et constítuti sunt de pópulo duo senes iúdices in illo anno: de quibus locútus est Dóminus: Quia egréssa est iníquitas de Babylóne a senióribus iudícibus, qui videbántur régere pópulum. Isti frequentábant domum Ióakim, et veniébant ad eos omnes, qui habébant iudícia. Cum autem pópulus revertísset per merídiem, ingrediebátur Susánna, et deambulábat in pomário viri sui. Et vidébant eam senes cotídie ingrediéntem et deambulántem: et exarsérunt in concupiscéntiam eius: et evertérunt sensum suum, et declinavérunt óculos suos, ut non vidérent cœlum, neque recordaréntur iudiciórum iustórum. Factum est autem, cum observárent diem aptum, ingréssa est aliquándo sicut heri et núdius tértius, cum duábus solis puéllis, voluítque lavári in pomário: æstus quippe erat, et non erat ibi quisquam, præter duos senes abscónditos et contemplántes eam. Dixit ergo puéllis: Afférte mihi óleum et smígmata, et óstia pomárii cláudite, ut laver. Cum autem egréssæ essent puéllæ, surrexérunt duo senes, et accurrérunt ad eam, et dixérunt: Ecce, óstia pomárii clausa sunt, et nemo nos videt, et nos in concupiscéntia tui sumus: quam ob rem assentíre nobis, et commiscére nobiscum. Quod si nolúeris, dicémus contra te testimónium, quod fúerit tecum iúvenis, et ob hanc causam emíseris puéllas a te. Ingémuit Susánna, et ait: Angústiæ sunt mihi úndique: si enim hoc égero, mors mihi est: si autem non egero, non effúgiam manus vestras. Sed mélius est mihi absque ópere incídere in manus vestras, quam peccáre in conspéctu Dómini. Et exclamávit voce magna Susánna: exclamavérunt autem et senes adversus eam. Et cucúrrit unus ad óstia pomárii, et aperuit. Cum ergo audíssent clamórem fámuli domus in pomário, irruérunt per postícum, ut vidérent, quidnam esset. Postquam autem senes locúti sunt, erubuérunt servi veheménter: quia numquam dictus fúerat sermo huiuscémodi de Susánna. Et facta est dies crástina. Cumque venísset pópulus ad Ióakim virum eius, venérunt et duo senióres, pleni iníqua cogitatióne advérsus Susánnam, ut interfícerent eam. Et dixérunt coram pópulo: Míttite ad Susánnam fíliam Helcíæ, uxórem Ióakim. Et statim misérunt. Et venit cum paréntibus et fíliis et univérsis cognátis suis. Flébant ígitur sui, et omnes qui nóverant eam. Consurgéntes autem duo senióres in médio pópuli, posuérunt manus suas super caput eius. Quæ flens suspéxit ad cœlum: erat enim cor eius fidúciam habens in Dómino. Et dixérunt senióres: Cum deambularémus in pomário soli, ingréssa est hæc cum duábus puéllis: et clausit óstia pomárii, et dimísit a se puéllas. Venítque ad eam adoléscens, qui erat abscónditus, et concúbuit cum ea. Porro nos, cum essémus in ángulo pomárii, vidéntes iniquitátem, cucúrrimus ad eos, et vídimus eos pariter commiscéri. Et illum quidem non quívimus comprehéndere, quia fórtior nobis erat, et apértis óstiis exsilívit: hanc autem cum apprehendissémus, interrogávimus, quisnam esset adoléscens, et nóluit indicáre nobis: huius rei testes sumus. Crédidit eis multitúdo quasi sénibus et iudícibus pópuli, et condemnavérunt eam ad mortem. Exclamávit autem voce magna Susánna, et dixit: Deus ætérne, qui absconditórum es cógnitor, qui nosti ómnia, ántequam fiant, tu scis, quóniam falsum testimónium tulérunt contra me: et ecce, mórior, cum nihil horum fécerim, quæ isti malitióse composuérunt advérsum me. Exaudívit autem Dóminus vocem eius. Cumque ducerétur ad mortem, suscitávit Dóminus spíritum sanctum pueri iunióris, cuius nomen Dániel. Et exclamávit voce magna: Mundus ego sum a sánguine huius. Et convérsus omnis pópulus ad eum, dixit: Quis est iste sermo, quem tu locútus es? Qui cum staret in médio eórum, ait: Sic fátui, fílii Israël, non iudicántes, neque quod verum est cognoscéntes, condemnástis fíliam Israël? Revertímini ad iudícium, quia falsum testimónium locúti sunt advérsus eam. Revérsus est ergo pópulus cum festinatióne. Et dixit ad eos Dániel: Separáte illos ab ínvicem procul, et diiudicábo eos. Cum ergo divísi essent alter ab áltero, vocávit unum de eis, et dixit ad eum: Inveteráte diérum malórum, nunc venérunt peccáta tua, quæ operabáris prius: iúdicans iudícia iniústa, innocéntes ópprimens, et dimíttens nóxios, dicénte Dómino: Innocéntem et iustum non interfícies. Nunc ergo, si vidisti eam, dic, sub qua arbóre vidéris eos colloquéntes sibi. Qui ait: Sub schino. Dixit autem Dániel: Recte mentítus es in caput tuum. Ecce enim, Angelus Dei, accépta senténtia ab eo, scindet te médium. Et, amóto eo, iussit veníre álium, et dixit ei: Semen Chánaan, et non Iuda, spécies decépit te, et concupiscéntia subvértit cor tuum: sic faciebátis filiábus Israël, et illæ timéntes loquebántur vobis: sed fília Iuda non sustínuit iniquitátem vestram. Nunc ergo dic mihi, sub qua arbóre comprehénderis eos loquéntes sibi. Qui ait: Sub prino. Dixit autem ei Dániel: Recte mentítus es et tu in caput tuum: manet enim Angelus Dómini, gládium habens, ut secet te médium, et interfíciat vos. Exclamávit itaque omnis cœtus voce magna, et benedixérunt Deum, qui salvat sperántes in se. Et consurrexérunt advérsus duos senióres [convícerat enim eos Dániel ex ore suo falsum dixísse testimónium], fecerúntque eis, sicut male égerant advérsus próximum: et interfecérunt eos, et salvátus est sanguis innóxius in die illa.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Prophecy of Daniel<br>\n<span class=\"rubric\"><em>Dan 13:1-9, 15-17, 19-30, 33-62.</em></span><br>\nIn those days, in Babylon there lived a man named Joakim, who married a very beautiful and God-fearing woman, Susanna, the daughter of Helcia; her pious parents had trained their daughter according to the Law of Moses. Joakim was very rich; he had a garden near his house, and the Jews had recourse to him often because he was the most respected of them all. That year, two elders of the people were appointed judges, of whom the Lord said, Wickedness had come out of Babylon: from the elders who were to govern the people as judges. These men, to whom all brought their cases, frequented the house of Joakim. When the people left at noon, Susanna used to enter her husband’s garden for a walk. When the old men saw her enter every day for her walk, they began to lust for her. They suppressed their consciences; they would not allow their eyes to look to heaven, and did not keep in mind just judgments. One day, while they were waiting for the right moment, she entered the garden as usual, with two maids only. She decided to bathe, for the weather was warm. Nobody else was there except the two elders, who had hidden themselves and were watching her. Bring me oil and soap, she said to the maids, and shut the garden doors while I bathe. As soon as the maids had left, the two old men got up and hurried to her. Look, they said, the garden doors are shut, and no one can see us; give in to our desire, and lie with us. If you refuse, we will testify against you that you dismissed your maids because a young man was here with you. I am completely trapped, Susanna groaned. If I yield, it will be my death; if I refuse, I cannot escape your power. Yet it is better for me to fall into your power without guilt than to sin before the Lord. Then Susanna shrieked, and the old men also shouted at her, as one of them ran to open the garden doors. When the people in the house heard the cries from the garden, they rushed in by the side gate to see what had happened to her. At the accusations by the old men, the servants felt very much ashamed, for never had any such thing been said about Susanna. When the people came to her husband Joakim the next day, the two wicked elders also came, fully determined to put Susanna to death. Before all the people they ordered: Send for Susanna, the daughter of Helcia, the wife of Joakim. When she was sent for, she came with her parents, children and all her relatives. All her relatives and the onlookers were weeping. In the midst of the people the two elders rose up and laid their hands on her head. Through her tears she looked up to heaven, for she trusted in the Lord wholeheartedly. The elders made this accusation: As we were walking in the garden alone, this woman entered with two girls and shut the doors of the garden, dismissing the girls. A young man, who was hidden there, came and lay with her. When we, in a corner of the garden, saw this crime, we ran toward them. We saw them lying together, but the man we could not hold, because he was stronger than we; he opened the doors and ran off. Then we seized this one and asked who the young man was, but she refused to tell us. We testify to this.The assembly believed them, since they were elders and judges of the people, and they condemned her to death. But Susanna cried aloud: O eternal God, You know what is hidden and are aware of all things before they come to be: You know that they have testified falsely against me. Here I am about to die, though I have done none of the things with which these wicked men have charged me. The Lord heard her prayer. As she was being led to execution, God stirred up the holy spirit of a young boy named Daniel, and he cried aloud: I will have no part in the death of this woman. All the people turned and asked him, What is this you are saying? He stood in their midst and continued, Are you such fools, O Israelites! to condemn a woman of Israel without examination and without clear evidence? Return to court, for they have testified falsely against her. Then all the people returned in haste. And Daniel said to them: Separate these two from one another that I may examine them. After they were separated one from the other, he called one of them and said: How you have grown evil with age! Now have your past sins come to term: passing unjust sentences, condemning the innocent, and freeing the guilty, although the Lord says, ‘The innocent and the just you shall not put to death.’ Now, then, if you were a witness, tell me under what tree you saw them together. He said: Under a mastic tree. And Daniel said: Well have you lied against your own head. For the Angel of God shall receive the sentence from Him and split you in two. Putting him to one side, he ordered the other one to be brought. Offspring of Chanaan, not of Juda, Daniel said to him, beauty has seduced you, lust has subverted your conscience. This is how you acted with the daughters of Israel, and in their fear they yielded to you; but a daughter of Juda did not tolerate your wickedness. Now, then, tell me under what tree you surprised them together. Under an oak, he said. Your fine lie has cost you also your head, said Daniel; for the Angel of God waits with a sword to cut you in two so as to make an end of you both. The whole assembly cried aloud, blessing God, Who saves those that hope in Him. They rose up against the two elders, for by their own words Daniel had convicted them of perjury. They inflicted on them the penalty they had plotted to impose on their neighbor: they put them to death. Thus was innocent blood spared that day.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 22:4</em></span><br>\nSi ámbulem in médio umbræ mortis, non timébo mala: quóniam tu mecum es, Dómine.<br>\n<span class=\"marker\"><em>℣.</em></span> Virga tua et báculus tuus, ipsa me consoláta sunt."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 22:4</em></span><br>\nEven though I walk in the dark valley, I fear no evil; for You are at my side, O Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> With Your rod and Your staff that give me courage."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 8:1-11</em></span><br>\nIn illo témpore: Perréxit Iesus in montem Olivéti: et dilúculo íterum venit in templum, et omnis pópulus venit ad eum, et sedens docébat eos. Addúcunt autem scribæ et pharisǽi mulíerem in adultério deprehénsam: et statuérunt eam in médio, et dixérunt ei: Magíster, hæc múlier modo deprehénsa est in adultério. In lege autem Móyses mandávit nobis huiúsmodi lapidáre. Tu ergo quid dicis? Hoc autem dicébant tentántes eum, ut possent accusáre eum. Iesus autem inclínans se deórsum, dígito scribébat in terra. Cum ergo perseverárent interrogántes eum, eréxit se, et dixit eis: Qui sine peccáto est vestrum, primus in illam lápidem mittat. Et íterum se inclínans, scribébat in terra. Audiéntes autem unus post unum exíbant, incipiéntes a senióribus: et remánsit solus Iesus, et múlier in médio stans. Erigens autem se Iesus, dixit ei: Múlier, ubi sunt, qui te accusábant? nemo te condemnávit? Quæ dixit: Nemo, Dómine. Dixit autem Iesus: Nec ego te condemnábo: Vade, et iam ámplius noli peccáre.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 8:1-11</em></span><br>\nAt that time, Jesus went to the Mount of Olives. And at daybreak He came again into the temple, and all the people came to Him; and sitting down He began to teach them. Now the Scribes and Pharisees brought a woman caught in adultery, and setting her in the midst, said to Him, Master, this woman has just now been caught in adultery. And in the Law Moses commanded us to stone such persons. What, therefore, do You say? Now they were saying this to test Him, in order that they might be able to accuse Him. But Jesus, stooping down, began to write with His finger on the ground. But when they continued asking Him, He raised Himself and said to them, Let him who is without sin among you be the first to cast a stone at her. And again stooping down, He began to write on the ground. But hearing this, they went away, one by one, beginning with the eldest. And Jesus remained alone, with the woman standing in the midst. And Jesus, raising Himself, said to her, Woman, where are they? Has no one condemned you? She said, No one, Lord. Then Jesus said, Neither will I condemn you. Go your way, and from now on sin no more.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:133.</em></span><br>\nGressus meos dírige secúndum elóquium tuum: ut non dominétur mei omnis iniustítia, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:133</em></span><br>\nSteady my footsteps according to Your promise, and let no iniquity rule over me, O Lord."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Concéde, quǽsumus, omnípotens Deus: ut huius sacrifícii munus oblátum, fragilitátem nostram ab omni malo purget semper et múniat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant, we beseech You, almighty God, that the offering of this sacrifice may always cleanse and strengthen the weakness of our nature.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioann 8:10, 11</em></span><br>\nNemo te condemnávit, mulier? Nemo, Dómine. Nec ego te condemnábo: iam ámplius noli peccáre."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Jn 8:10-11</em></span><br>\nHas no one condemned you, woman? No one, Lord. Neither will I condemn you; now sin no more."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nQuǽsumus, omnípotens Deus: ut inter eius membra numerémur, cuius córpori communicámus et sánguini:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ræténde, Dómine, fidélibus tuis déxteram cœléstis auxílii: ut te toto corde perquírant; et, quæ digne póstulant, cónsequi mereántur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe beseech You, almighty God, that we may be numbered among the members of Him, Whose Body and Blood we receive in communion.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>tretch forth to Your faithful people, O Lord, the hand of divine help, that they may seek You with their whole heart, and may be found worthy to obtain the things they implore in the right way.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

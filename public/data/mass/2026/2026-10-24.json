@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "S. Raphaëlis Archangeli",
+  "rank": "III. classis",
+  "note": "Scriptura: Sabbato infra Hebdomadam XXI post Octavam Pentecostes IV. Octobris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 102:20</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>enedícite Dóminum, omnes Angeli eius: poténtes virtúte, qui fácitis verbum eius, ad audiéndam vocem sermónum eius.<br>\n<span class=\"rubric\"><em>Ps 102:1</em></span><br>\nBénedic, ánima mea, Dómino: et ómnia, quæ intra me sunt, nómini sancto eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>enedícite Dóminum, omnes Angeli eius: poténtes virtúte, qui fácitis verbum eius, ad audiéndam vocem sermónum eius."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 102:20</em></span><br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>less the Lord, all you His Angels, you mighty in strength, who do His bidding, obeying His spoken word.<br>\n<span class=\"rubric\"><em>Ps 102:1</em></span><br>\nBless the Lord, O my soul; and, all my being, bless His holy name.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>less the Lord, all you His Angels, you mighty in strength, who do His bidding, obeying His spoken word."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui beátum Raphaélem Archángelum Tobíæ fámulo tuo cómitem dedísti in via: concéde nobis fámulis tuis; ut eiúsdem semper protegámur custódia et muniámur auxílio.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who gave blessed Raphael the Archangel as a traveling companion to Your servant Tobias, grant us, Your servants, ever to be protected by his guardianship and by his help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Tobíæ<br>\n<span class=\"rubric\"><em>Tob 12:7-15</em></span><br>\nIn diébus illis: Dixit Angelus Ráphaël ad Tobíam: Sacraméntum regis abscóndere bonum est: ópera autem Dei reveláre et confitéri honoríficum est. Bona est orátio cum ieiúnio, et eleemósyna magis quam thesáuros auri recóndere: quóniam eleemósyna a morte liberat, et ipsa est, quæ purgat peccáta et facit invenire misericórdiam et vitam ætérnam. Qui autem faciunt peccátum et iniquitátem, hostes sunt ánimæ suæ. Manifésto ergo vobis veritátem, et non abscóndam a vobis occúltum sermónem. Quando orábas cum lácrimis, et sepeliébas mórtuos, et derelinquébas prándium tuum, et mórtuos abscondébas per diem in domo tua, et nocte sepeliébas eos, ego óbtuli oratiónem tuam Dómino. Et quia accéptus eras Deo, necésse fuit, ut tentátio probáret te. Et nunc misit me Dóminus, ut curárem te, et Saram uxórem fílii tui a dæmónio liberárem. Ego enim sum Raphaël Angelus, unus ex septem, qui astámus ante Dóminum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Tobias<br>\n<span class=\"rubric\"><em>Tob 12:7-15</em></span><br>\nIn those days, the Angel Raphael said to Tobias: It is good to hide the secret of a king: but honorable to reveal and confess the works of God. Prayer is good with fasting and alms, more than to lay up treasures of gold: for alms delivers from death, and the same is that which purges away sins, and makes to find mercy and life everlasting. But they who commit sin and iniquity are enemies to their own soul. I discover then the truth to you, and I will not hide the secret from you. When you prayed with tears, and buried the dead, and left your dinner, and hid the dead by day in your house, and buried them by night, I offered your prayer to the Lord. And because you were acceptable to God, it was necessary that temptation should prove you. And now the Lord has sent me to heal you, and to deliver Sara your son’s wife from the devil.  For I am the angel Raphael, one of the seven who stand before the Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Tob 8:3</em></span><br>\nAngelus Dómini Raphaël apprehéndit et ligávit dæmonem.<br>\n<span class=\"rubric\"><em>Ps 146:5.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Magnus Dóminus noster, et magna virtus eius.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 137:1-2.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> In conspéctu Angelórum psallam tibi: adorábo ad templum sanctum tuum, et confitébor nómini tuo, Dómine. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Tob 8:3</em></span><br>\nThe Angel of the Lord, Raphael, took and bound the devil.<br>\n<span class=\"rubric\"><em>Ps 146:5</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Great is our Lord and mighty in power. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 137:1-2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> In the presence of the Angels I will sing Your praise; I will worship at Your holy temple and give thanks to Your name, O Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 5:1-4</em></span><br>\nIn illo témpore: Erat dies festus Iudæórum, et ascéndit Iesus Ierosólymam. Est autem Ierosólymis Probática piscína, quæ cognominátur hebráice Bethsaida, quinque pórticus habens. In his iacébat multitúdo magna languéntium, cæcórum, claudórum, aridórum exspectántium aquæ motum. Angelus autem Dómini descendébat secúndum tempus in piscínam, et movebátur aqua. Et, qui prior descendísset in piscínam post motiónem aquæ, sanus fiebat, a quacúmque detinebátur infirmitáte.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 5:1-4</em></span><br>\nAt that time, there was a feast of the Jews, and Jesus went up to Jerusalem. Now there is at Jerusalem, by the Sheepgate, a pool called in Hebrew Bethsaida, having five porticoes. In these were lying a great multitude of the sick, blind, lame, and those with shriveled limbs, waiting for the moving of the water. For an Angel of the Lord used to come down at certain times into the pool, and the water was troubled. And the first to go down into the pool after the troubling of the water was cured of whatever infirmity he had.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Apoc 8:3; 8:4</em></span><br>\nStetit Angelus iuxta aram templi, habens thuríbulum áureum in manu sua, et data sunt ei incénsa multa: et ascéndit fumus aromátum in conspéctu Dei."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Apoc 8:3-4</em></span><br>\nAn Angel stood near the altar of the temple, having a golden censer in his hand, and there was given to him much incense; and the smoke of the perfumes ascended before God. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hóstias tibi, Dómine, laudis offérimus, supplíciter deprecántes: ut eásdem, angélico pro nobis interveniénte suffrágio, et placátus accípias, et ad salútem nostram proveníre concédas.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We offer You sacrifices of praise, O Lord, humbly praying You to accept them graciously, and to grant that they may be helpful for our salvation through the intercession of the Angels who intercede for us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Dan 3:58</em></span><br>\nBenedícite, omnes Angeli Dómini, Dóminum: hymnum dícite et superexaltáte eum in sǽcula."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Dan 3:58</em></span><br>\nAll you Angels of the Lord, bless the Lord: sing a hymn, and exalt Him above all forever."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDirigere dignáre, Dómine Deus, in adiutórium nostrum sanctum Raphaélem Archángelum: et, quem tuæ maiestáti semper assístere crédimus, tibi nostras exíguas preces benedicéndas assígnet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, graciously send Your holy Archangel Raphael to help us, that he who we know stands ever in the presence of Your Majesty, may present our humble prayers for Your blessing.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

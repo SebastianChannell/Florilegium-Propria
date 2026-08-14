@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-01-18",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria II infra Hebdomadam II post Epiphaniam",
+  "rank": "IV. classis",
+  "note": "Commemoratio : S. Priscæ Virginis",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 65:4</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>mnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime.<br>\n<span class=\"rubric\"><em>Ps 65:1-2</em></span><br>\nIubiláte Deo, omnis terra, psalmum dícite nómini eius: date glóriam laudi eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>mnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 65:4</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et all on earth worship You, O God, and sing praise to You, sing praise to Your name, Most High.<br>\n<span class=\"rubric\"><em>Ps 65:1-2</em></span><br>\nShout joyfully to God, all you on earth, sing praise to the glory of His name; proclaim His glorious praise.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et all on earth worship You, O God, and sing praise to You, sing praise to Your name, Most High."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens sempitérne Deus, qui cœléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Priscæ Virginis</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>a, quǽsumus, omnípotens Deus: ut, qui beátæ Priscæ Vírginis et Mártyris tuæ natalítia cólimus; et ánnua sollemnitáte lætémur, et tantæ fídei proficiámus exémplo.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty, everlasting God, You Who govern both the heavens and the earth, graciously hear the humble prayers of Your people and grant us Your peace all the days of our life.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Priscæ Virginis</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, O almighty God, that we who celebrate the anniversary of the death of blessed Prisca, Your Virgin and Martyr, may rejoice on her yearly feast-day and benefit by the example of such great faith.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.<br>\n<span class=\"rubric\"><em>Rom 12:6-16</em></span><br>\nFratres: Habéntes donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophetíam secúndum ratiónem fídei, sive ministérium in ministrándo, sive qui docet in doctrína, qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte. Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono: Caritáte fraternitátis ínvicem diligéntes: Honóre ínvicem præveniéntes: Sollicitúdine non pigri: Spíritu fervéntes: Dómino serviéntes: Spe gaudéntes: In tribulatióne patiéntes: Oratióni instántes: Necessitátibus sanctórum communicántes: Hospitalitátem sectántes. Benedícite persequéntibus vos: benedícite, et nolíte maledícere. Gaudére cum gaudéntibus, flere cum fléntibus: Idípsum ínvicem sentiéntes: Non alta sapiéntes, sed humílibus consentiéntes.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Epistle of St. Paul to the Romans<br>\n<span class=\"rubric\"><em>Rom 12:6-16</em></span><br>\nBrethren: We have gifts differing according to the grace that has been given us, such as prophecy to be used according to the proportion of faith; or ministry, in ministering; or he who teaches, in teaching; he who exhorts, in exhorting; he who gives, in simplicity; he who presides, with carefulness; he who shows mercy, with cheerfulness. Let love be without pretense. Hate what is evil, hold to what is good. Love one another with honor. Be not slothful in zeal; be fervent in spirit, serving the Lord, rejoicing in hope. Be patient in tribulation, persevering in prayer. Share the needs of the saints, practicing hospitality. Bless those who persecute you; bless and do not curse. Rejoice with those who rejoice; weep with those who weep. Be of one mind towards one another. Do not set your mind on high things but condescend to the lowly.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 106:20-21</em></span><br>\nMisit Dóminus verbum suum, et sanávit eos: et erípuit eos de intéritu eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Confiteántur Dómino misericórdiæ eius: et mirabília eius fíliis hóminum. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 148:2</em></span><br>\nLaudáte Dóminum, omnes Angeli eius: laudáte eum, omnes virtútes eius. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 106:20-21</em></span><br>\nThe Lord sent forth His word to heal them and to snatch them from destruction.<br>\n<span class=\"marker\"><em>℣.</em></span> Let them give thanks to the Lord for His kindness and His wondrous deeds to the children of men. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 148:2</em></span><br>\nPraise the Lord, all you His angels, praise Him, all you His hosts. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 2:1-11</em></span><br>\nIn illo témpore: Núptiæ factæ sunt in Cana Galilǽæ: et erat Mater Iesu ibi. Vocátus est autem et Iesus, et discípuli eius ad núptias. Et deficiénte vino, dicit Mater Iesu ad eum: Vinum non habent. Et dicit ei Iesus: Quid mihi et tibi est, mulier? nondum venit hora mea. Dicit Mater eius minístris: Quodcúmque díxerit vobis, fácite. Erant autem ibi lapídeæ hýdriæ sex pósitæ secúndum purificatiónem Iudæórum, capiéntes síngulæ metrétas binas vel ternas. Dicit eis Iesus: Implete hýdrias aqua. Et implevérunt eas usque ad summum. Et dicit eis Iesus: Hauríte nunc, et ferte architriclíno. Et tulérunt. Ut autem gustávit architriclínus aquam vinum fáctam, et non sciébat unde esset, minístri autem sciébant, qui háuserant aquam: vocat sponsum architriclínus, et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriáti fúerint, tunc id, quod detérius est. Tu autem servásti bonum vinum usque adhuc. Hoc fecit inítium signórum Iesus in Cana Galilǽæ: et manifestávit glóriam suam, et credidérunt in eum discípuli eius.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 2:1-11</em></span><br>\nAt that time, a marriage took place at Cana of Galilee, and the mother of Jesus was there. Now Jesus too was invited to the marriage, and also His disciples. And the wine having run short, the mother of Jesus said to Him, They have no wine. And Jesus said to her, What would you have me do, woman? My hour has not yet come. His mother said to the attendants, Do whatever He tells you. Now six stone water-jars were placed there, after the Jewish manner of purification, each holding two or three measures. Jesus said to them, Fill the jars with water. And they filled them to the brim. And Jesus said to them, Draw out now, and take to the chief steward. And they took it to him. Now when the chief steward had tasted the water after it had become wine, not knowing whence it was - though the attendants who had drawn the water knew, - the chief steward called the bridegroom, and said to him, Every man at first sets forth the good wine, and when they have drunk freely, then that which is poorer. But you have kept the good wine until now. This first of His signs Jesus worked at Cana of Galilee; and He manifested His glory, and His disciples believed in Him.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 65:1-2; 65:16</em></span><br>\nIubiláte Deo, univérsa terra: psalmum dícite nómini eius: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 65:1-2, 16</em></span><br>\nShout joyfully to God, all you on earth, sing praise to the glory of His name. Hear now, all you who fear God, while I declare what the Lord has done for me. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oblata, Dómine, múnera sanctífica: nosque a peccatórum nostrórum máculis emúnda.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Priscæ Virginis</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>æc hóstia, quǽsumus, Dómine, quam Sanctórum tuórum natalítia recenséntes offérimus, et víncula nostræ pravitátis absólvat, et tuæ nobis misericórdiæ dona concíliet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Hallow our offerings, O Lord, and cleanse us from the stains of our sins.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration S. Priscæ Virginis</em></span><br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>e beseech You, O Lord, that this sacrificial gift which we offer in commemorating the death of Your saints, may loose the bonds of our sins and bestow upon us the gifts of Your mercy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioann 2:7; 2:8; 2:9; 2:10-11</em></span><br>\nDicit Dóminus: Implete hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti bonum vinum usque adhuc. Hoc signum fecit Iesus primum coram discípulis suis."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 2:7-11</em></span><br>\nThe Lord said, Fill the jars with water and take to the chief steward. When the chief steward had tasted the water after it had become wine, he said to the bridegroom, You have kept the good wine until now. This first miracle Jesus worked in the presence of His disciples."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nAugeátur in nobis, quǽsumus, Dómine, tuæ virtútis operatio: ut divínis vegetáti sacraméntis, ad eórum promíssa capiénda, tuo múnere præparémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Priscæ Virginis</em></span><br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>uǽsumus, Dómine, salutáribus repléti mystériis: ut, cuius sollémnia celebrámus, eius oratiónibus adiuvémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech You that the effects of Your power may ever increase within us; and, strengthened by the divine sacrament, we may be prepared by Your grace to lay hold of what it promises.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Priscæ Virginis</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>illed with the sacrament of salvation, we beseech You, O Lord, to help us by the prayers of her whose feast we are celebrating.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

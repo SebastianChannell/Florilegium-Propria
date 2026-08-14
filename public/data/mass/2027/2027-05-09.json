@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2027-05-09",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Dominica post Ascensionem",
+  "rank": "II. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 26:7; 26:8; 26:9</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xáudi, Dómine, vocem meam, qua clamávi ad te, allelúia: tibi dixit cor meum, quæsívi vultum tuum, vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 26:1</em></span><br>\nDóminus illuminátio mea et salus mea: quem timébo?<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xáudi, Dómine, vocem meam, qua clamávi ad te, allelúia: tibi dixit cor meum, quæsívi vultum tuum, vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps. 26:7-9.</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ear, O Lord, the sound of my call, alleluia; to You my heart speaks; Your glance I seek; Your presence, O Lord, I seek. Hide not Your face from me, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps. 26:1.</em></span><br>\nThe Lord is my light and my salvation; whom should I fear?<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ear, O Lord, the sound of my call, alleluia; to You my heart speaks; Your glance I seek; Your presence, O Lord, I seek. Hide not Your face from me, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens sempitérne Deus: fac nos tibi semper et devótam gérere voluntátem; et maiestáti tuæ sincéro corde servíre.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty and eternal God, give us a will ever dedicated to You, and a true heart to serve Your majesty.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Petri Apóstoli<br>\n<span class=\"rubric\"><em>1 Pet 4:7-11</em></span><br>\nCaríssimi: Estóte prudéntes et vigiláte in oratiónibus. Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes: quia cáritas óperit multitúdinem peccatórum. Hospitáles ínvicem sine murmuratióne: unusquísque, sicut accépit grátiam, in altérutrum illam administrántes, sicut boni dispensatóres multifórmis grátiæ Dei. Si quis lóquitur, quasi sermónes Dei: si quis minístrat, tamquam ex virtúte, quam adminístrat Deus: ut in ómnibus honorificétur Deus per Iesum Christum, Dóminum nostrum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Peter the Apostle<br>\n<span class=\"rubric\"><em>1 Pet 4:7-11.</em></span><br>\nBeloved: Be prudent and watchful in prayers. But above all things have a constant mutual charity among yourselves: for charity covers a multitude of sins. Be hospitable to one another without murmuring. According to the gift that each has received, minister it to one another as good stewards of the manifold grace of God. If anyone speaks, let it be as with words of God. If anyone ministers, let it be as from the strength that God furnishes; that in all things God may be honored through Jesus Christ our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 46:9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Regnávit Dóminus super omnes gentes: Deus sedet super sedem sanctam suam. Allelúia.<br>\n<span class=\"rubric\"><em>Ioannes 14:18</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Non vos relínquam órphanos: vado, et vénio ad vos, et gaudébit cor vestrum. Allelúia."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps. 46:9.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord reigns over all the nations, God sits upon His holy throne. Alleluia.<br>\n<span class=\"rubric\"><em>John 14:18</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> I will not leave you orphans; I go away and I come to you, and your heart shall rejoice. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 15:26-27; 16:1-4</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Cum vénerit Paráclitus, quem ego mittam vobis a Patre, Spíritum veritátis, qui a Patre procédit, ille testimónium perhibébit de me: et vos testimónium perhibébitis, quia ab inítio mecum estis. Hæc locútus sum vobis, ut non scandalizémini. Absque synagógis fácient vos: sed venit hora, ut omnis, qui intérficit vos, arbitrétur obséquium se præstáre Deo. Et hæc fácient vobis, quia non novérunt Patrem neque me. Sed hæc locútus sum vobis: ut, cum vénerit hora eórum, reminiscámini, quia ego dixi vobis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 15:26-27; 16:1-4.</em></span><br>\nAt that time, Jesus said to His disciples: When the Advocate has come, Whom I will send you from the Father, the Spirit of truth Who proceeds from the Father, He will bear witness concerning Me. And you also will bear witness, because from the beginning you are with Me. These things I have spoken to you that you may not be scandalized. They will expel you from the synagogues. Yes, the hour is coming for everyone who kills you to think he is offering worship to God. And these things they will do because they have not known the Father nor Me. But these things I have spoken to you, that when the time for them has come you may remember that I told you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 46:6.</em></span><br>\nAscéndit Deus in iubilatióne, et Dóminus in voce tubæ, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 46:6.</em></span><br>\nGod mounts His throne amid shouts of joy; the Lord, amid trumpet blasts. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sacrifícia nos, Dómine, immaculáta puríficent: et méntibus nostris supérnæ grátiæ dent vigórem.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May this pure sacrifice cleanse us, O Lord, and impart to our minds the strength of heavenly grace.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Ascensione Domini</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui post resurrectiónem suam ómnibus discípulis suis maniféstus appáruit et, ipsis cernéntibus, est elevátus in cælum, ut nos divinitátis suæ tribúeret esse partícipes. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Ascension</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who, after His Resurrection, appeared openly to all His disciples, and, while they looked on, was taken up into heaven, that He might grant unto us to be sharers in His own divinity. And therefore, with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ioannes 17:12-13; 17:15</em></span><br>\nPater, cum essem cum eis, ego servábam eos, quos dedísti mihi, allelúia: nunc autem ad te vénio: non rogo, ut tollas eos de mundo, sed ut serves eos a malo, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 17:12-13; 17:15</em></span><br>\nFather, while I was with them, I kept them whom You have given Me, alleluia; but now I am coming to You; I do not pray that You take them out of the world, but that You keep them from evil, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nRepléti, Dómine, munéribus sacris: da, quǽsumus; ut in gratiárum semper actióne maneámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nWe who have been filled with heavenly gifts beseech You, O Lord, grant us to continue giving thanks to You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

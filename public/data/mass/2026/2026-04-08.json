@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-08",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Die IV infra octavam Paschæ",
+  "rank": "Dies Octavæ I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Matt 25:34</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>eníte, benedícti Patris mei, percípite regnum, allelúia: quod vobis parátum est ab orígine mundi, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 95:1</em></span><br>\nCantáte Dómino cánticum novum: cantáte Dómino, omnis terra.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>eníte, benedícti Patris mei, percípite regnum, allelúia: quod vobis parátum est ab orígine mundi, allelúia, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Matt 25:34</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ome, ye blessed of my Father, possess you the kingdom alleluia, prepared for you from the foundation of the world, allelúja, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 95:1</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ing ye to the Lord a new canticle: sing to the Lord, all the earth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ome, ye blessed of my Father, possess you the kingdom alleluia, prepared for you from the foundation of the world, allelúja, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui nos Resurrectiónis Domínicæ ánnua solemnitáte lætíficas: concéde propítius; ut per temporália festa, quæ ágimus, perveníre ad gáudia ætérna mereámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who gladden us with the annual solemnity of the Lord's Resurrection, mercifully grant that by celebrating these temporal feasts, we may become worthy to attain eternal joys.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Acts 3:13-15; 3:17-19</em></span><br>\nIn diébus illis: Apériens Petrus os suum, dixit: Viri Israëlítæ, et qui timétis Deum, audíte. Deus Abraham et Deus Isaac et Deus Iacob, Deus patrum nostrórum, glorificávit Fílium suum Iesum, quem vos quidem tradidístis et negástis ante fáciem Piláti, iudicánte illo dimítti. Vos autem sanctum et iustum negástis, et petístis virum homicídam donári vobis: auctórem vero vitæ interfecístis, quem Deus suscitávit a mórtuis, cuius nos testes sumus. Et nunc, fratres, scio, quia per ignorántiam fecístis, sicut et príncipes vestri. Deus autem, quæ prænuntiávit per os ómnium Prophetárum, pati Christum suum, sic implévit. Pœnitémini ígitur et convertímini, ut deleántur peccáta vestra.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 3:13-15; 3:17-19</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n that time, Peter opened his mouth and said: Men of Israel, and you who fear God, listen. The God of Abraham, and the God of Isaac, and the God of Jacob, the God of our fathers, hath glorified his Son Jesus, whom you indeed delivered up and denied before the face of Pilate, when he judged he should be released. But you denied the Holy One and the Just, and desired a murderer to be granted unto you. But the author of life you killed, whom God hath raised from the dead, of which we are witnesses. And now, brethren, I know that you did it through ignorance, as did also your rulers. But those things which God before had shewed by the mouth of all the prophets, that his Christ should suffer, he hath so fulfilled. Be penitent, therefore, and be converted, that your sins may be blotted out.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 117:24; 117:16</em></span><br>\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.<br>\n<span class=\"marker\"><em>℣.</em></span> Déxtera Dómini fecit virtútem, déxtera Dómini exaltávit me.<br>\nAllelúia, allelúia.<br>\n<span class=\"rubric\"><em>Luc 24:34</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Surréxit Dóminus vere: et appáruit Petro.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVíctimæ pascháli laudes ímmolent Christiáni.<br>\nAgnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres.<br>\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus.<br>\nDic nobis, María, quid vidísti in via?<br>\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis.<br>\nAngélicos testes, sudárium et vestes.<br>\nSurréxit Christus, spes mea: præcédet vos in Galilǽam.<br>\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia.<br>\n<span class=\"rubric\"><em>Sequentia dicitur usque ad Sabbatum in Albis inclusive.</em></span>"
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 117:24; 117:16</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>his is the day which the Lord hath made: let us be glad and rejoice therein.<br>\n<span class=\"marker\"><em>℣.</em></span> The right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me: Allelúja,allelúja.<br>\n<span class=\"rubric\"><em>Luke 24:34</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord is risen indeed, and hath appeared to Simon.<br>\n<span class=\"marker\"><em>℣.</em></span> Surréxit Dóminus vere: et appáruit Petro.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nChristians! to the Paschal Victim offer your thankful praises.<br>\nThe Lamb the sheep redeemeth: Christ, who only is sinless, reconcileth sinners to the Father.<br>\nDeath and life contended in that conflict stupendous: the Prince of Life, who died, deathless reigneth.<br>\nSpeak, Mary, declaring what thou sawest wayfaring.<br>\n“The tomb of Christ who now liveth: and likewise the glory of the Risen.<br>\nBright Angels attesting, the shroud and napkin resting.<br>\nYea, Christ my hope is arisen: to Galilee He goeth before you.”<br>\nWe know that Christ is risen, henceforth ever living: Have mercy, Victor King, pardon giving. Amen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 21:1-14</em></span><br>\nIn illo témpore: Manifestávit se íterum Iesus discípulis ad mare Tiberíadis. Manifestávit autem sic. Erant simul Simon Petrus et Thomas, qui dícitur Dídymus, et Nathánaël, qui erat a Cana Galilǽæ, et fílii Zebedǽi et álii ex discípulis eius duo. Dicit eis Simon Petrus: Vado piscári. Dicunt ei: Venímus et nos tecum. Et exiérunt et ascendérunt in navim: et illa nocte nihil prendidérunt. Mane autem facto, stetit Iesus in lítore: non tamen cognovérunt discípuli, quia Iesus est. Dixit ergo eis Iesus: Púeri, numquid pulmentárium habétis? Respondérunt ei: Non. Dicit eis: Míttite in déxteram navígii rete, et inveniétis. Misérunt ergo: et iam non valébant illud tráhere præ multitúdine píscium. Dixit ergo discípulus ille, quem diligébat Iesus, Petro: Dóminus est. Simon Petrus cum audísset, quia Dóminus est, túnica succínxit se - erat enim nudus, - et misit se in mare. Alii autem discípuli navígio venérunt - non enim longe erant a terra, sed quasi cúbitis ducéntis, - trahéntes rete píscium. Ut ergo descendérunt in terram, vidérunt prunas pósitas, et piscem superpósitum, et panem. Dicit eis Iesus: Afférte de píscibus, quos prendidístis nunc. Ascéndit Simon Petrus, et traxit rete in terram, plenum magnis píscibus centum quinquagínta tribus. Et cum tanti essent, non est scissum rete. Dicit eis Iesus: Veníte, prandéte. Et nemo audébat discumbéntium interrogáre eum: Tu quis es? sciéntes, quia Dóminus est. Et venit Iesus, et áccipit panem, et dat eis, et piscem simíliter. Hoc iam tértio manifestátus est Iesus discípulis suis, cum resurrexísset a mórtuis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 21:1-14</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>n that time, Jesus shewed himself again to the disciples at the sea of Tiberias. And he shewed himself after this manner. There were together Simon Peter, and Thomas, who is called Didymus, and Nathanael, who was of Cana of Galilee, and the sons of Zebedee, and two others of his disciples. Simon Peter saith to them: I go a fishing. They say to him: We also come with thee. And they went forth, and entered into the ship: and that night they caught nothing. But when the morning was come, Jesus stood on the shore: yet the disciples knew not that it was Jesus. Jesus therefore said to them: Children, have you any meat? They answered him: No. He saith to them: Cast the net on the right side of the ship, and you shall find. They cast therefore; and now they were not able to draw it, for the multitude of fishes. That disciple therefore whom Jesus loved, said to Peter: It is the Lord. Simon Peter, when he heard that it was the Lord, girt his coat about him, - for he was naked, - and cast himself into the sea. But the other disciples came in the ship, - for they were not far from the land, but as it were two hundred cubits, - dragging the net with fishes. As soon then as they came to land, they saw hot coals lying, and a fish laid thereon, and bread. Jesus saith to them: Bring hither of the fishes which you have now caught. Simon Peter went up, and drew the net to land, full of great fishes, one hundred and fifty-three. And although there were so many, the net was not broken. Jesus saith to them: Come, and dine. And none of them who were at meat, durst ask him: Who art thou? knowing that it was the Lord. And Jesus cometh and taketh bread, and giveth them, and fish in like manner. This is now the third time that Jesus was manifested to his disciples, after he was risen from the dead.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 77:23-25</em></span><br>\nPortas cœli apéruit Dóminus: et pluit illis manna, ut éderent: panem cœli dedit eis: panem Angelórum manducávit homo, allelúia."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 77:23-25</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>nd he had opened the doors of heaven,  and had given them the bread of heaven. Man ate the bread of angels: allelúja."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sacrifícia, Dómine, paschálibus gáudiis immolámus: quibus Ecclésia tua mirabíliter et páscitur et nutrítur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Amidst the joys of Easter, we offer unto thee, O Lord, the sacrifice wherewith thy Church is wonderfully fed and nourished.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hac potíssimum die gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially on this day when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Rom 6:9</em></span><br>\nChristus resúrgens ex mórtuis iam non móritur, allelúia: mors illi ultra non dominábitur, allelúia, allelúia."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Rom 6:9</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>hrist rising again from the dead, dieth now no more, death shall no more have dominion over him, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nAb omni nos, quǽsumus, Dómine, vetustáte purgátos: sacraménti tui veneránda percéptio in novam tránsferat creatúram:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech Thee, that we, reverently receiving thy Sacrament, may be cleansed from all our former defilement, and become a new creature in Thee.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-12",
+  "rubrics": "Rubrics 1960 - 1960",
+  "missal": "1962 Roman Missal",
+  "title": "Feria Quinta infra Hebdomadam III in Quadragesima",
+  "rank": "III. classis",
+  "note": "Commemoratio : S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>alus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nAtténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>alus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum"
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><strong><em>I</em></strong></span> am the salvation of the people, says the Lord. From whatever tribulation they shall cry to Me, I will hear them; and I will be their Lord forever.<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nHearken, My people, to My teaching; incline your ears to the words of My mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> am the salvation of the people, says the Lord. From whatever tribulation they shall cry to Me, I will hear them; and I will be their Lord forever."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nMagníficet te, Dómine, sanctórum tuórum Cosmæ et Damiáni beáta solémnitas: qua et illis glóriam sempitérnam, et opem nobis ineffábili providéntia contulísti.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui ánimæ fámuli tui Gregórii ætérnæ beatitúdinis prǽmia contulísti: concéde propítius; ut, qui peccatórum nostrórum póndere prémimur, eius apud te précibus sublevémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the blessed feast of Your saints, Cosmas and Damian, glorify You, O Lord; for on this day in Your marvelous providence, You gave them glory everlasting, and gave us their help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Gregory the Great, Pope, Confessor and Doctor of the Church</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who granted the rewards of everlasting happiness to the soul of Your servant Gregory, mercifully grant that we who are weighed down with the burden of our sins may be raised up by his prayers to You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Ieremíæ Prophétæ.<br>\n<span class=\"rubric\"><em>Ier 7:1-7</em></span><br>\nIn diébus illis: Factum est verbum Dómini ad me, dicens: Sta in porta domus Dómini: et prǽdica ibi verbum istud, et dic: Audíte verbum Dómini, omnis Iuda, qui ingredímini per portas has, ut adorétis Dóminum. Hæc dicit Dóminus exercítuum, Deus Israël: Bonas fácite vias vestras et stúdia vestra: et habitábo vobíscum in loco isto. Nolíte confídere in verbis mendácii, dicéntes: Templum Dómini, templum Dómini, templum Dómini est. Quóniam si bene direxéritis vias vestras et stúdia vestra: si fecéritis iudícium inter virum et próximum eius, ádvenæ et pupíllo et víduæ non fecéritis calúmniam, nec sánguinem innocéntem effudéritis in loco hoc, et post deos aliénos non ambulavéritis in malum vobismetípsis: habitábo vobíscum in loco isto, in terra, quam dedi pátribus vestris a sǽculo et usque in sǽculum: ait Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Prophecy of Jeremias<br>\n<span class=\"rubric\"><em>Jer 7:1-7</em></span><br>\nIn those days, the following message came to me from the Lord: Stand at the gate of the house of the Lord, and there proclaim this message: ‘Hear the word of the Lord, all you of Juda who enter these gates to worship the Lord! Thus says the Lord of Hosts, the God of Israel: Reform your ways and your deeds, so that I may remain with you in this place. Put not your trust in the deceitful words: This is the temple of the Lord! The temple of the Lord! The temple of the Lord! Only if you thoroughly reform your ways and your deeds; if each of you deals justly with his neighbor; if you no longer oppress the resident alien, the orphan, and the widow; if you no longer shed innocent blood in this place, or follow strange gods to your own harm, will I remain with you in this place, in the land which I gave your fathers long ago and forever,’ says the Lord almighty.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 144:15-16</em></span><br>\nOculi ómnium in te sperant, Dómine: et tu das illis escam in témpore opportúno,<br>\n<span class=\"marker\"><em>℣.</em></span> Aperis tu manum tuam: et imples omne ánimal benedictióne."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 144:15-16</em></span><br>\nThe eyes of all look hopefully to You, O Lord, and You give them their food in due season.<br>\n<span class=\"marker\"><em>℣.</em></span> You open Your hand and satisfy the desire of every living thing."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 4:38-44</em></span><br>\nIn illo témpore: Surgens Iesus de synagóga, introívit in domum Simónis. Socrus autem Simónis tenebátur magnis fébribus: et rogavérunt illum pro ea. Et stans super illam, imperávit febri: et dimísit illam. Et contínuo surgens, ministrábat illis. Cum autem sol occidísset, omnes qui habébant infírmos váriis languóribus, ducébant illos ad eum. At ille síngulis manus impónens, curábat eos. Exíbant autem dæmónia a multis clamántia et dicéntia: Quia tu es Fílius Dei: et íncrepans non sinébat ea loqui, quia sciébant ipsum esse Christum. Facta autem die egréssus ibat in desértum locum, et turbæ requirébant eum, et venérunt usque ad ipsum: et detinébant illum, ne discéderet ab eis. Quibus ille ait: Quia et áliis civitátibus opórtet me evangelizáre regnum Dei: quia ídeo missus sum. Et erat prǽdicans in synagógis Galilǽæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 4:38-44</em></span><br>\nAt that time, Jesus rose from the synagogue and entered Simon’s house. Now Simon’s mother-in-law was suffering from a great fever, and they besought Him for her. And standing over her He rebuked the fever, and it left her; and she rose at once and began to wait on them. Now when the sun was setting, all who had persons sick with various diseases brought them to Him. And He laid His hands upon each of them and cured them. And devils also came forth from many, crying out and saying, You are the Son of God. And He rebuked them, and did not permit them to speak, because they knew that He was the Christ. Now when it was day, He went out and departed into a desert place. And the crowds were seeking after Him, and they came to Him, and tried to detain Him, that He might not depart from them. But He said to them, To the other towns also I must proclaim the kingdom of God, for this is why I have been sent. And He was preaching in the synagogues of Galilee.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 137:7</em></span><br>\nSi ambulávero in médio tribulatiónis, vivificábis me, Dómine: et super iram inimicórum meorum exténdes manum tuam, et salvum me fáciet déxtera tua."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 137:7</em></span><br>\nThough I walk amid distress, You preserve me, O Lord; against the anger of my enemies You raise Your hand; Your right hand saves me."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "In tuorum, Dómine, pretiósa morte iustórum sacrifícium illud offérimus, de quo martýrium sumpsit omne princípium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>nnue nobis, quǽsumus, Dómine: ut intercessióne beáti Gregórii hæc nobis prosit oblátio, quam immolándo totíus mundi tribuísti relaxári delícta.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We offer You, O Lord, in honor of the meritorious death of Your just ones, this sacrifice which is the source of martyrdom.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration S. Gregory the Great, Pope, Confessor and Doctor of the Church</em></span><br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>rant, we beseech You, O Lord, that through the intercession of blessed Gregory, this sacrifice may benefit us; for You have provided that by offering it, the sins of the whole world should be forgiven.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:4-5</em></span><br>\nTu mandásti, mandáta tua custodíri nimis: útinam dirigántur viæ meæ, ad custodiéndas iustificatiónes tuas."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:4-5</em></span><br>\nYou have commanded that Your precepts be diligently kept. Oh, that I might be firm in the ways of keeping Your statutes!"
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSit nobis, Dómine, sacraménti tui certa salvátio: quæ cum beatórum Mártyrum tuórum Cosmæ et Damiáni méritis implorátur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>eus, qui beátum Gregórium Pontíficem Sanctórum tuórum méritis coæquásti: concéde propítius; ut, qui commemoratiónis eius festa percólimus, vitæ quoque imitémur exémpla.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>ubiéctum tibi pópulum, quǽsumus, Dómine, propitiátio cœléstis amplíficet: et tuis semper fáciat servíre mandátis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we ask You through the merits of Your blessed martyrs, Cosmas and Damian, that Your holy sacrament will assure us of salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Gregory the Great, Pope, Confessor and Doctor of the Church</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, Who made Your Bishop, blessed Gregory, an equal to the saints in merit, graciously grant that we, who keep this feast in his memory, may also imitate the example given by his life.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your heavenly favor, O God, increase the number of Your subjects, and help them always to obey Your commands.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}
