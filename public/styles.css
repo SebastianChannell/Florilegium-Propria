@@ -173,7 +173,7 @@ a {
 }
 
 .mass {
-  margin-top: 1.25rem;
+  margin-top: 0.75rem;
 }
 
 .mass-header {
@@ -235,8 +235,8 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  margin-top: 1.1rem;
-  padding: 0.6rem 0;
+  margin-top: 0.75rem;
+  padding: 0.45rem 0;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
 }
@@ -293,7 +293,7 @@ a {
 }
 
 .language-row {
-  margin-top: 0.75rem;
+  margin-top: 0.45rem;
   color: var(--accent);
   font-size: 0.64rem;
   font-weight: 700;
@@ -313,18 +313,18 @@ a {
 }
 
 .proper-section {
-  padding: 0.9rem 0 0.95rem;
+  padding: 0.5rem 0 0.55rem;
   border-bottom: 1px solid var(--line);
 }
 
 .proper-heading {
-  margin: 0 0 0.35rem;
+  margin: 0 0 0.2rem;
   color: var(--accent-soft);
   font-family: var(--serif);
   font-size: clamp(0.96rem, 3.5vw, 1.08rem);
   font-style: italic;
   font-weight: 700;
-  line-height: 1.35;
+  line-height: 1.2;
 }
 
 .proper-heading span {
@@ -334,7 +334,7 @@ a {
 .proper-text {
   font-family: var(--serif);
   font-size: clamp(0.98rem, 3.75vw, 1.16rem);
-  line-height: 1.5;
+  line-height: 1.38;
 }
 
 .proper-column {
@@ -445,7 +445,7 @@ a {
   }
 
   .mass {
-    margin-top: 0.9rem;
+    margin-top: 0.65rem;
   }
 
   .language-row,
@@ -461,7 +461,7 @@ a {
   }
 
   .proper-section {
-    padding: 0.75rem 0 0.8rem;
+    padding: 0.45rem 0 0.5rem;
   }
 }
 

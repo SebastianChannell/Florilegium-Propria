@@ -16,6 +16,8 @@ const elements = {
 
 const READINGS = new Set(["lesson", "gospel"]);
 const DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
+const DECORATIVE_INITIAL_PATTERN = /<span class="rubric">\s*<strong>\s*<em>(\p{L})<\/em>\s*<\/strong>\s*<\/span>/gu;
+const REPEATED_BREAK_PATTERN = /(?:<br>\s*){2,}/gi;
 
 const state = {
   date: localDateKey(new Date()),
@@ -71,6 +73,12 @@ function setText(element, value) {
   element.hidden = !text;
 }
 
+function normalizeProperHtml(value) {
+  return String(value ?? "")
+    .replace(DECORATIVE_INITIAL_PATTERN, "$1")
+    .replace(REPEATED_BREAK_PATTERN, "<br>");
+}
+
 function makeSection(section) {
   const wrapper = document.createElement("section");
   wrapper.className = "proper-section";
@@ -94,12 +102,12 @@ function makeSection(section) {
   const latin = document.createElement("div");
   latin.className = "proper-column";
   latin.lang = "la";
-  latin.innerHTML = section.latin.html;
+  latin.innerHTML = normalizeProperHtml(section.latin.html);
 
   const english = document.createElement("div");
   english.className = "proper-column";
   english.lang = "en";
-  english.innerHTML = section.english.html;
+  english.innerHTML = normalizeProperHtml(section.english.html);
 
   heading.append(latinHeading, englishHeading);
   text.append(latin, english);
