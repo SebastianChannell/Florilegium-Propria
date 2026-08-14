@@ -1,0 +1,70 @@
+name: Sync Mass propers
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: Calendar year to regenerate; leave blank for the present and next year
+        required: false
+        type: string
+  schedule:
+    - cron: "17 3 1 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-mass-propers
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out Propria
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install project and Perl requirements
+        run: |
+          npm ci
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends libcgi-pm-perl liburi-perl libhtml-parser-perl
+
+      - name: Check out Divinum Officium
+        run: git clone --depth 1 https://github.com/DivinumOfficium/divinum-officium.git "$RUNNER_TEMP/divinum-officium"
+
+      - name: Generate requested years
+        env:
+          REQUESTED_YEAR: ${{ inputs.year }}
+        run: |
+          if [ -n "$REQUESTED_YEAR" ]; then
+            npm run sync:year -- --year "$REQUESTED_YEAR" --source "$RUNNER_TEMP/divinum-officium"
+          else
+            current_year=$(date -u +%Y)
+            next_year=$((current_year + 1))
+            npm run sync:year -- --year "$current_year" --source "$RUNNER_TEMP/divinum-officium"
+            npm run sync:year -- --year "$next_year" --source "$RUNNER_TEMP/divinum-officium"
+          fi
+
+      - name: Verify generated site
+        run: npm run check
+
+      - name: Commit refreshed propers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/mass
+          if git diff --cached --quiet; then
+            echo "No liturgical data changes to commit."
+          else
+            git commit -m "Refresh 1960 Mass propers"
+            git push
+          fi
