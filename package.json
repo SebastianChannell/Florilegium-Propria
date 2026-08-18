@@ -6,6 +6,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "npm run build && node --test",
+    "compare:rubrics": "node scripts/compare-rubrics.mjs",
     "dev": "npm run build && node scripts/serve.mjs",
     "sync:year": "node scripts/generate-propers.mjs"
   },

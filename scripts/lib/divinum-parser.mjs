@@ -1,3 +1,5 @@
+import { rubricDefinition } from "./rubrics.mjs";
+
 const ROW_PATTERN = /<tr\b[^>]*>([\s\S]*?)<\/tr>/gi;
 const CELL_PATTERN = /<td\b([^>]*)>([\s\S]*?)<\/td>/gi;
 const FONT_PATTERN = /<font\b([^>]*)>\s*<b>\s*<i>([\s\S]*?)<\/i>\s*<\/b>\s*<\/font>/gi;
@@ -196,7 +198,10 @@ function headline(html) {
   };
 }
 
-export function parseDivinumMass(html, { date, source } = {}) {
+export function parseDivinumMass(html, { date, source, rubricKey = "1960" } = {}) {
+  const rubric = rubricDefinition(rubricKey, { fallback: null });
+  if (!rubric) throw new Error(`${date ?? "Mass"}: unsupported rubric key ${rubricKey}`);
+
   if (!html || !/<table\b/i.test(html)) {
     throw new Error(`${date ?? "Mass"}: Divinum Officium output did not contain a Mass table`);
   }
@@ -260,10 +265,11 @@ export function parseDivinumMass(html, { date, source } = {}) {
   }
 
   return {
-    schemaVersion: 1,
+    schemaVersion: 2,
     date,
-    rubrics: "Rubrics 1960 - 1960",
-    missal: "1962 Roman Missal",
+    rubricKey: rubric.key,
+    rubrics: rubric.version,
+    missal: rubric.missal,
     ...headline(html),
     sections,
     source,

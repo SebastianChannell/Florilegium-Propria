@@ -2,7 +2,7 @@ import {
   invalidRubricResponse,
   massRedirect,
   normalizeRubric,
-} from "../../lib/mass-routing.js";
+} from "../../../lib/mass-routing.js";
 
 function dateInTimezone(timeZone) {
   const parts = new Intl.DateTimeFormat("en-CA", {
@@ -15,12 +15,11 @@ function dateInTimezone(timeZone) {
   return `${value.year}-${value.month}-${value.day}`;
 }
 
-export const onRequestGet = async ({ request }) => {
-  const url = new URL(request.url);
-  const requestedTimezone = url.searchParams.get("timezone") ?? "America/New_York";
-  const rubric = normalizeRubric(url.searchParams.get("rubrics"));
+export const onRequestGet = async ({ params, request }) => {
+  const rubric = normalizeRubric(params.rubrics, { fallback: null });
   if (!rubric) return invalidRubricResponse();
 
+  const requestedTimezone = new URL(request.url).searchParams.get("timezone") ?? "America/New_York";
   let date;
   try {
     date = dateInTimezone(requestedTimezone);

@@ -15,14 +15,19 @@ const contentTypes = {
   ".webmanifest": "application/manifest+json; charset=utf-8",
 };
 
-function massAsset(pathname) {
-  const match = pathname.match(/^\/api\/mass\/(\d{4}-\d{2}-\d{2})$/);
-  return match ? `/data/mass/${match[1].slice(0, 4)}/${match[1]}.json` : null;
+function massAsset(url) {
+  const nested = url.pathname.match(/^\/api\/mass\/(1954|1960)\/(\d{4}-\d{2}-\d{2})$/);
+  const legacy = url.pathname.match(/^\/api\/mass\/(\d{4}-\d{2}-\d{2})$/);
+  const date = nested?.[2] ?? legacy?.[1];
+  if (!date) return null;
+  const rubric = nested?.[1] ?? url.searchParams.get("rubrics") ?? "1960";
+  const prefix = rubric === "1954" ? "pre-1955/" : "";
+  return `/data/mass/${prefix}${date.slice(0, 4)}/${date}.json`;
 }
 
 const server = createServer((request, response) => {
-  let pathname = new URL(request.url ?? "/", "http://localhost").pathname;
-  pathname = massAsset(pathname) ?? pathname;
+  const url = new URL(request.url ?? "/", "http://localhost");
+  let pathname = massAsset(url) ?? url.pathname;
   const relativePath = pathname === "/" ? "index.html" : pathname.slice(1);
   const candidate = normalize(join(root, relativePath));
   const filePath = candidate.startsWith(root) && existsSync(candidate) && statSync(candidate).isFile()

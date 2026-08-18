@@ -38,6 +38,9 @@ const page = `
 
 test("parses the bilingual readings and feast metadata", () => {
   const mass = parseDivinumMass(page, { date: "2026-08-09", source });
+  assert.equal(mass.schemaVersion, 2);
+  assert.equal(mass.rubricKey, "1960");
+  assert.equal(mass.rubrics, "Rubrics 1960 - 1960");
   assert.equal(mass.title, "Dominica X post Pentecosten");
   assert.equal(mass.rank, "II. classis");
   assert.equal(mass.note, "Commemoratio: S. Laurentii");
@@ -51,6 +54,20 @@ test("parses the bilingual readings and feast metadata", () => {
   assert.doesNotMatch(mass.sections[1].latin.html, /<strong>\s*<em>S<\/em>/);
   assert.doesNotMatch(mass.sections[1].english.html, /<strong>\s*<em>C<\/em>/);
   assert.doesNotMatch(mass.sections[0].latin.html, /DIV|FONT|STYLE/i);
+});
+
+test("records Divino Afflatu metadata when parsing the same bilingual form", () => {
+  const mass = parseDivinumMass(page, { date: "2026-08-09", rubricKey: "1954", source });
+  assert.equal(mass.rubricKey, "1954");
+  assert.equal(mass.rubrics, "Divino Afflatu - 1954");
+  assert.equal(mass.missal, "Roman Missal · Divino Afflatu 1954");
+});
+
+test("rejects an unsupported rubric key", () => {
+  assert.throws(
+    () => parseDivinumMass(page, { date: "2026-08-09", rubricKey: "1570", source }),
+    /unsupported rubric key/,
+  );
 });
 
 test("rejects output without a Gospel", () => {

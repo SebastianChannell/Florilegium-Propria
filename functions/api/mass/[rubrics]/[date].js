@@ -3,9 +3,12 @@ import {
   isDateKey,
   massRedirect,
   normalizeRubric,
-} from "../../lib/mass-routing.js";
+} from "../../../lib/mass-routing.js";
 
 export const onRequestGet = async ({ params, request }) => {
+  const rubric = normalizeRubric(params.rubrics, { fallback: null });
+  if (!rubric) return invalidRubricResponse();
+
   const date = String(params.date ?? "");
   if (!isDateKey(date)) {
     return Response.json(
@@ -14,7 +17,5 @@ export const onRequestGet = async ({ params, request }) => {
     );
   }
 
-  const rubric = normalizeRubric(new URL(request.url).searchParams.get("rubrics"));
-  if (!rubric) return invalidRubricResponse();
   return massRedirect(request, rubric, date, 300);
 };
