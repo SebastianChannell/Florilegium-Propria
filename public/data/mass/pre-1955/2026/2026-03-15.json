@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-03-15",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Dominica IV in Quadragesima",
+  "rank": "Semiduplex Dominica I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Is 66:10 et 11</em></span><br>\nLætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ.<br>\n<span class=\"rubric\"><em>Ps 121:1.</em></span><br>\nLætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nLætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Isa 66:10-11</em></span><br>\nRejoice, O Jerusalem, and come together, all you who love her: rejoice with joy, you who have been in sorrow: that you may exult, and be filled from the breasts of your consolation.<br>\n<span class=\"rubric\"><em>Ps 121:1</em></span><br>\nI rejoiced because they said to me, We will go up to the house of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nRejoice, O Jerusalem, and come together, all you who love her: rejoice with joy, you who have been in sorrow: that you may exult, and be filled from the breasts of your consolation."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nConcéde, quǽsumus, omnípotens Deus: ut, qui ex mérito nostræ actiónis afflígimur, tuæ grátiæ consolatióne respirémus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nOmnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris, quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet, vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia ómnium delictórum suórum véniam consequántur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech You, almighty God, that we who justly suffer for our sins may find relief in the help of Your grace.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nAlmighty and eternal God, who has dominion over both the living and the dead, and has mercy upon all whom You foreknow will be Yours by faith and good works; we humbly beseech You that all for whom we have resolved to make supplication, whether the present world home still holds them in the flesh or the world to come holds them out of the body, may, through the intercession of Your saints, obtain of Your goodness and clemency pardon for all their sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas<br>\n<span class=\"rubric\"><em>Gal 4:22-31</em></span><br>\nFratres: Scriptum est: Quóniam Abraham duos fílios hábuit: unum de ancílla, et unum de líbera. Sed qui de ancílla, secúndum carnem natus est: qui autem de líbera, per repromissiónem: quæ sunt per allegoríam dicta. Hæc enim sunt duo testaménta. Unum quidem in monte Sina, in servitútem génerans: quæ est Agar: Sina enim mons est in Arábia, qui conjúnctus est ei, quæ nunc est Jerúsalem, et servit cum fíliis suis. Illa autem, quæ sursum est Jerúsalem, líbera est, quæ est mater nostra. Scriptum est enim: Lætáre, stérilis, quæ non paris: erúmpe, et clama, quæ non párturis: quia multi fílii desértæ, magis quam ejus, quæ habet virum. Nos autem, fratres, secúndum Isaac promissiónis fílii sumus. Sed quómodo tunc is, qui secúndum carnem natus fúerat, persequebátur eum, qui secúndum spíritum: ita et nunc. Sed quid dicit Scriptúra? Ejice ancíllam et fílium ejus: non enim heres erit fílius ancíllæ cum fílio líberæ. Itaque, fratres, non sumus ancíllæ fílii, sed líberæ: qua libertáte Christus nos liberávit.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Epistle of St. Paul to the Galatians<br>\n<span class=\"rubric\"><em>Gal 4:22-31</em></span><br>\nBrethren: It is written that Abraham had two sons, the one by a slave-girl and the other by a free woman. And the son of the slave-girl was born according to the flesh, but the son of the free woman in virtue of the promise. This is said by way of allegory. For these are the two covenants: one indeed from Mount Sinai bringing forth children unto bondage, which is Agar. For Sinai is a mountain in Arabia, which corresponds to the present Jerusalem, and is in slavery with her children. But that Jerusalem which is above is free, which is our mother. For it is written, Rejoice, O barren one, that do not bear; break forth and cry, you that do not travail; for many are the children of the desolate, more than of her that has a husband. Now we, brethren, are the children of the promise, as Isaac was. But as then he who was born according to the flesh, persecuted him who was born according to the spirit, so also it is now. But what does the Scripture say? Cast out the slave-girl and her son, for the son of the slave-girl shall not be heir with the son of the free woman.Therefore, brethren, we are not children of a slave-girl, but of the free woman - in virtue of the freedom wherewith Christ has made us free.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 121:1, 7</em></span><br>\nLætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus.<br>\n<span class=\"marker\"><em>℣.</em></span> Fiat pax in virtúte tua: et abundántia in túrribus tuis.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 124:1-2</em></span><br>\nQui confídunt in Dómino, sicut mons Sion: non commovébitur in ætérnum, qui hábitat in Jerúsalem.<br>\n<span class=\"marker\"><em>℣.</em></span> Montes in circúitu ejus: et Dóminus in circúitu pópuli sui, ex hoc nunc et usque in sǽculum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 121: 1, 7</em></span><br>\nI rejoiced because they said to me, We will go up to the house of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> May peace be within your walls, prosperity in your buildings.<br>\n<br>\n<span class=\"rubric\"><em>Tract</em></span><br>\n<span class=\"rubric\"><em>Ps 124:1-2</em></span><br>\nThey who trust in the Lord are like Mount Sion, which is immovable; which forever stands.<br>\n<span class=\"marker\"><em>℣.</em></span> Mountains are round about Jerusalem; so the Lord is round about His people, both now and forever."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joann 6:1-15</em></span><br>\nIn illo témpore: Abiit Jesus trans mare Galilǽæ, quod est Tiberíadis: et sequebátur eum multitúdo magna, quia vidébant signa, quæ faciébat super his, qui infirmabántur. Súbiit ergo in montem Jesus: et ibi sedébat cum discípulis suis. Erat autem próximum Pascha, dies festus Judæórum. Cum sublevásset ergo óculos Jesus et vidísset, quia multitúdo máxima venit ad eum, dixit ad Philíppum: Unde emémus panes, ut mandúcent hi? Hoc autem dicébat tentans eum: ipse enim sciébat, quid esset factúrus. Respóndit ei Philíppus: Ducentórum denariórum panes non suffíciunt eis, ut unusquísque módicum quid accípiat. Dicit ei unus ex discípulis ejus, Andréas, frater Simónis Petri: Est puer unus hic, qui habet quinque panes hordeáceos et duos pisces: sed hæc quid sunt inter tantos? Dixit ergo Jesus: Fácite hómines discúmbere. Erat autem fænum multum in loco. Discubuérunt ergo viri, número quasi quinque míllia. Accépit ergo Jesus panes, et cum grátias egísset, distríbuit discumbéntibus: simíliter et ex píscibus, quantum volébant. Ut autem impléti sunt, dixit discípulis suis: Collígite quæ superavérunt fragménta, ne péreant. Collegérunt ergo, et implevérunt duódecim cóphinos fragmentórum ex quinque pánibus hordeáceis, quæ superfuérunt his, qui manducáverant. Illi ergo hómines cum vidíssent, quod Jesus fécerat signum, dicébant: Quia hic est vere Prophéta, qui ventúrus est in mundum. Jesus ergo cum cognovísset, quia ventúri essent, ut ráperent eum et fácerent eum regem, fugit íterum in montem ipse solus.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 6:1-15</em></span><br>\nAt that time, Jesus went away to the other side of the sea of Galilee, which is that of Tiberias. And there followed Him a great crowd, because they witnessed the signs He worked on those who were sick. Jesus therefore went up the mountain, and sat there with His disciples. Now the Passover, the feast of the Jews, was near. When, therefore, Jesus had lifted up His eyes and seen that a very great crowd had come to Him, He said to Philip, Whence shall we buy bread that these may eat? But He said this to try him, for He Himself knew what He would do. Philip answered Him, Two hundred denarii worth of bread is not enough for them, that each one may receive a little. One of His disciples, Andrew, the brother of Simon Peter, said to Him, There is a young boy here who has five barley loaves and two fishes; but what are these among so many? Jesus then said, Make the people recline. Now there was much grass in the place. The men therefore reclined, in number about five thousand. Jesus then took the loaves, and when He had given thanks, distributed them to those reclining; and likewise the fishes, as much as they wished. But when they were filled, He said to His disciples, Gather the fragments that are left over, lest they be wasted. They therefore gathered them up; and they filled twelve baskets with the fragments of the five barley loaves left over by those who had eaten. When the people, therefore, had seen the sign which Jesus had worked, they said, This is indeed the Prophet Who is to come into the world. So when Jesus perceived that they would come to take Him by force and make Him king He fled again to the mountain, Himself alone.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 134:3, 6</em></span><br>\nLaudáte Dóminum, quia benígnus est: psállite nómini ejus, quóniam suávis est: ómnia, quæcúmque vóluit, fecit in cœlo et in terra."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 134:3, 6</em></span><br>\nPraise the Lord, for He is good; sing praise to His Name, for He is sweet; all that He wills He does in heaven and on earth."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sacrifíciis præséntibus, Dómine, quǽsumus, inténde placátus: ut et devotióni nostræ profíciant et salúti.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nDeus, cui soli cógnitus est númerus electórum in supérna felicitáte locándus: tríbue, quǽsumus; ut, intercedéntibus ómnibus Sanctis tuis, universórum, quos in oratióne commendátas suscépimus, et ómnium fidélium nómina beátæ prædestinatiónis liber adscrípta retíneat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Look with favor, we beseech You, O Lord, upon the offerings here before You, that they may be beneficial for our devotion and salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nO God who alone knowest the number of the elect to be admitted into heaven, grant, we beseech Thee, that through the intercession of all the saints, the names of all who have been recommended to our prayers and of all the faithful, may be inscribed in the book of blessed predestination.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 121:3-4</em></span><br>\nJerúsalem, quæ ædificátur ut cívitas, cujus participátio ejus in idípsum: illuc enim ascendérunt tribus, tribus Dómini, ad confiténdum nómini tuo, Dómine."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 121:3-4</em></span><br>\nJerusalem, built as a city, with compact unity: to it the tribes go up, the tribes of the Lord, to give thanks to Your Name, O Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nDa nobis, quǽsumus, miséricors Deus: ut sancta tua, quibus incessánter explémur, sincéris tractémus obséquiis, et fidéli semper mente sumámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nPuríficent nos, quǽsumus, omnípotens et miséricors Deus, sacraménta quæ súmpsimus: et, intercedéntibus ómnibus Sanctis tuis, præsta; ut hoc tuum sacraméntum non sit nobis reátus ad pœnam, sed intercéssio salutáris ad véniam: sit ablútio scélerum, sit fortitúdo fragílium, sit contra ómnia mundi perícula firmaméntum: sit vivórum atque mortuórum fidélium remíssio ómnium delictórum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nGrant, we beseech You, merciful God, that we may treat with sincere reverence, and consume with heartfelt faith Your sacrament, which ever fills us to overflowing.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nMay the Sacraments which we have received purify us, we beseech Thee, O almighty and merciful Lord; and through the intercession of all the saints, grant that this Thy Sacrament may not be unto us a condemnation, but a salutory intercession for pardon; may it be the washing away of sin, the strength of the weak, a protection against all dangers of the world, and a remission of all the sins of the faithful, whether living or dead.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

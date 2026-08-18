@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-07-29",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Marthæ Virginis",
+  "rank": "Semiduplex",
+  "note": "Commemoratio: Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 44:8</em></span><br>\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nEructávit cor meum verbum bonum: dico ego ópera mea Regi.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 44:8</em></span><br>\nThou hast loved justice, and hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart hath uttered a good word I speak my works to the king.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThou hast loved justice, and hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nExáudi nos, Deus, salutáris noster: ut sicut de beátæ Marthæ Vírginis tuæ festivitáte gaudémus; ita piæ devotiónis erudiámur afféctu.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum</em></span><br>\nPræsta, quǽsumus, Dómine: ut, sicut pópulus christiánus Mártyrum tuórum Felícis, Simplícii, Faustíni et Beatrícis temporáli sollemnitáte congáudet, ita perfruátur ætérna; et, quod votis célebrat, comprehéndat efféctu.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nHear us, O God, our Saviour, that as we are gladdened by the festival of blessed Martha thy virgin, so we may learn from it piety and devotion.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Felix, Simplicius, Faustinus and Beatrix, Martyrs</em></span><br>\nGrant, we beseech You, O Lord, that as Christian people on earth rejoice together on the feast of Your Martyrs, Felix, Simplicius, Faustinus and Beatrice, so may they enjoy it in eternity, and may truly obtain what they honor in their prayers.<br>\n<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>2 Cor 10:17-18; 11:1-2</em></span><br>\nFratres: Qui gloriátur, in Dómino gloriétur. Non enim, qui seípsum comméndat, ille probátus est; sed quem Deus comméndat. Utinam sustinerétis módicum quid insipiéntiæ meæ, sed et supportáte me: æmulor enim vos Dei æmulatióne. Despóndi enim vos uni viro vírginem castam exhibére Christo.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the second letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>2 Cor 10:17-18; 11:1-2</em></span><br>\nBrothers: He that glorieth, let him glory in the Lord. For not he who commendeth himself, is approved, but he, whom God commendeth. Would to God you could bear with some little of my folly: but do bear with me. For I am jealous of you with the jealousy of God. For I have espoused you to one husband that I may present you as a chaste virgin to Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:5</em></span><br>\nSpécie tua et pulchritúdine tua inténde, próspere procéde et regna.<br>\n<span class=\"marker\"><em>℣.</em></span> Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 44:15-16</em></span><br>\nAdducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi in lætítia. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:5</em></span><br>\nWith thy comeliness and thy beauty set out, proceed prosperously, and reign.<br>\n<span class=\"marker\"><em>℣.</em></span> Because of truth and meekness and justice: and thy right hand shall conduct thee wonderfully. Alleluja, alleluja.<br>\n<span class=\"rubric\"><em>Ps 44:15-16</em></span><br>\nAfter her shall virgins be brought to the king: They shall be brought with gladness and rejoicing. Alleluja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 10:38-42</em></span><br>\nIn illo témpore: Intravit Jesus in quoddam castellum: et mulier quaedam, Martha nomine, excepit illum in domum suam et huic erat soror nomine Maria quae etiam sedens secus pedes Domini audiebat verbum illius. Martha autem satagebat circa frequens ministerium quae stetit, et ait: Domine non est tibi curae quod soror mea reliquit me solam ministrare dic ergo illi ut me adiuvet et respondens dixit illi Dominus: “Martha, Martha, sollicita es, et turbaris erga plurima: porro unum est necessarium. Maria optimam partem elegit, quae non auferetur ab ea.”<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 10:38-42</em></span><br>\nAt that time, Jesus entered a certain village; and a woman named Martha welcome Him to her house. And she had a sister called Mary, who also seated herself at the Lord’s feet, and listened to His word. But Martha was busy about much serving. And she came up and said, Lord, is it not concern of Yours that my sister has left me to serve alone? Tell her therefore to help me. But the Lord answered and said to her, Martha, Martha, you are anxious and troubled about many things; and yet only one thing is needful. Mary has chosen the best part, and it will not be taken away from her.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:10</em></span><br>\nFíliæ regum in honóre tuo, ástitit regína a dextris tuis in vestítu deauráto, circúmdata varietáte."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:10</em></span><br>\nThe daughters of kings have delighted thee in thy glory. The queen stood on thy right hand, in gilded clothing; surrounded with variety."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum</em></span><br>\nHóstias tibi, Dómine, pro sanctórum Mártyrum tuórum Felícis, Simplícii, Faustíni et Beatrícis commemoratióne deférimus: supplíciter deprecántes; ut indulgéntiam nobis páriter cónferant et salútem.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the service of thy holy people be acceptable to Thee, O Lord, and honorable to thy saints, through whose merits we know that we have received help in trouble.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Felix, Simplicius, Faustinus and Beatrix, Martyrs</em></span><br>\nIn memory of Your holy Martyrs, Felix, Simplicius, Faustinus and Beatrice, we bring these sacrificial gifts, O Lord, humbly praying that they may be helpful for us in obtaining Your forgiveness and salvation.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:4-6</em></span><br>\nQuinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:4; 25:6</em></span><br>\nThe five wise virgins took oil in their vessels with the lamps. And at midnight there was a cry made: Behold the bridegroom cometh, go ye forth to meet Christ the Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSatiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut sanctórum Martyrum tuórum Felícis, Simplícii, Faustíni et Beatrícis cœléstibus mýsteriis celebráta sollémnitas, indulgéntiam nobis tuæ propitiatiónis acquírat.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nThou hast fed thy servants, O Lord, with the holy gifts; comfort us ever we pray, by her intercession whose festival we celebrate.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Felix, Simplicius, Faustinus and Beatrix, Martyrs</em></span><br>\nWe beseech You, almighty God, that the feast of Your holy Martyrs, Felix, Simplicius, Faustinus and Beatrice, celebrated with heavenly rites, may gain for us the mercy of Your forgiveness.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

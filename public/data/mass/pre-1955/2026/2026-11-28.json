@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-28",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Vigilia S. Andreæ Apostoli",
+  "rank": "Simplex",
+  "note": "Scriptura: Sabbato infra Hebdomadam XXIV post Octavam Pentecostes V. Novembris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Matt 4:18; 4:19</em></span><br>\nDóminus secus mare Galilǽæ vidit duos fratres, Petrum et Andréam, et vocávit eos: Veníte post me: fáciam vos fíeri piscatóres hóminum.<br>\n<span class=\"rubric\"><em>Ps 18:2.</em></span><br>\nCœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDóminus secus mare Galilǽæ vidit duos fratres, Petrum et Andréam, et vocávit eos: Veníte post me: fáciam vos fíeri piscatóres hóminum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Matt 4:18; 4:19</em></span><br>\nDóminus secus mare Galilǽæ vidit duos fratres, Petrum et Andréam, et vocávit eos: Veníte post me: fáciam vos fíeri piscatóres hóminum.<br>\n<span class=\"rubric\"><em>Ps 18:2.</em></span><br>\nCœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nDóminus secus mare Galilǽæ vidit duos fratres, Petrum et Andréam, et vocávit eos: Veníte post me: fáciam vos fíeri piscatóres hóminum."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nQuǽsumus omnípotens Deus, ut beátus Andreas Apóstolus, cujus prævenímus festivitátem, tuum pro nobis implóret auxílium: ut a nostris reátibus absolúti a cunctis étiam perículis eruámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (vel ad libitum)</em></span><br>\nConcéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech thee, O Almighty God, that the worshipful Feast of thy blessed Apostle, Andrew on the eve whereof we now stand, may avail us to the increase both of godliness toward thee, and of health to our own souls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (or any other)</em></span><br>\nGrant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of mind and body; and by the intercession of glorious and blessed Mary, ever Virgin, may we be delivered from present sorrow and partake to the full of eternal happiness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Eccli 44:25-27; 45:2-4; 45:6-9</em></span><br>\nBenedíctio Dómini super caput justi. Ideo dedit illi Dóminus hereditátem, et divísit illi partem in tríbubus duódecim: et invénit grátiam in conspéctu omnis carnis. Et magnificávit eum in timóre inimicórum, et in verbis suis monstra placávit. Glorificávit illum in conspéctu regum, et jussit illi coram pópulo suo, et osténdit illi glóriam suam. In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne. Et dedit illi coram præcépta, et legem vitæ et disciplínæ, et excélsum fecit illum. Statuit ei testaméntum ætérnum, et circumcínxit eum zona justítiæ: et índuit eum Dóminus corónam glóriæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Ecclesiasticus<br>\n<span class=\"rubric\"><em>Sir 44:25-27; 45:2-4; 45:6-9</em></span><br>\nThe Lord gave him the blessing of all nations, and confirmed his covenant upon the head of Jacob. He acknowledged him in his blessings, and gave him an inheritance, and divided him his portion in twelve tribes. And he preserved for him men of mercy, that found grace in the eyes of all flesh. He made him like the saints in glory, and magnified him in the fear of his enemies, and with his words he made prodigies to cease. He glorified him in the sight of kings, and gave him commandments in the sight of his people, and shewed him his glory. He sanctified him in his faith, and meekness, and chose him out of all flesh. And he gave him commandments before his face, and a law of life and instruction, that he might teach Jacob his covenant, and Israel his judgments. He exalted Aaron his brother, and like to himself of the tribe of Levi: He made an everlasting covenant with him, and gave him the priesthood of the nation, and made him blessed in glory, And he girded him about with a glorious girdle, and clothed him with a robe of glory, and crowned him with majestic attire.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18</em></span><br>\nNimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Dinumerábo eos: et super arénam multiplicabúntur."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18</em></span><br>\nThy friends, O God, are exceedingly honored: their dominion is exceedingly strengthened.<br>\n<span class=\"marker\"><em>℣.</em></span> I will number them, and they shall be multiplied upon the sand."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joann 1:35-51</em></span><br>\nIn illo témpore: Stabat Joánnes, et ex discípulis ejus duo. Et respíciens Jesum ambulántem, dicit: Ecce Agnus Dei. Et audiérunt eum duo discípuli loquéntem, et secúti sunt Jesum. Convérsus autem Jesus, et videns eos sequéntes se, dicit eis: Quid quæritis? Qui dixérunt ei: Rabbi - quod dícitur interpretátum Magíster -, ubi hábitas? Dicit eis: Veníte et vidéte. Venérunt et vidérunt, ubi manéret, et apud eum mansérunt die illo: hora autem erat quasi décima. Erat autem Andréas, frater Simónis Petri, unus ex duóbus, qui audíerant a Joánne et secúti fúerant eum. Invénit hic primum fratrem suum Simónem, et dicit ei: Invénimus Messíam - quod est interpretátum Christus -. Et addúxit eum ad Jesum. Intúitus autem eum Jesus, dixit: Tu es Simon, fílius Jona: tu vocáberis Cephas, quod interpretátur Petrus. In crastínum vóluit exíre in Galilæam, et invénit Philíppum. Et dicit ei Jesus: Séquere me. Erat autem Philíppus a Bethsáida, civitáte Andréæ et Petri. Invénit Philíppus Nathánaël, et dicit ei: Quem scripsit Moyses in lege, et Prophétæ, invénimus Jesum, fílium Joseph, a Názareth. Et dixit ei Nathánaël: A Názareth potest áliquid boni esse? Dicit ei Philíppus: Veni et vide. Vidit Jesus Nathánaël veniéntem ad se, et dicit de eo: Ecce vere Israëlíta, in quo dolus non est. Dicit ei Nathánaël: Unde me nosti? Respóndit Jesus et dixit ei: Priúsquam te Philíppus vocáret, cum esses sub ficu, vidi te. Respóndit ei Nathánaël et ait: Rabbi, tu es Fílius Dei, tu es Rex Israël. Respóndit Jesus et dixit ei: Quia dixi tibi: Vidi te sub ficu, credis: majus his vidébis. Et dicit ei: Amen, amen, dico vobis, vidébitis cœlum apértum, et Angelos Dei ascendéntes et descendéntes supra Fílium hóminis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel According to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 1:35-51</em></span><br>\nAt that time: John stood, and two of his disciples. And looking at Jesus walking, he said: Behold the Lamb of God. And the two disciples heard him speak, and followed Jesus. And Jesus turned, and seeing them following him, said to them: What seek ye? And they said to him: Rabbi <span class=\"rubric\">which is to say, being interpreted, Teacher</span>, where dwellest thou? He saith unto them: Come and see. They came and saw where he abode, and abode with him that day: and it was about the tenth hour. Now Andrew, Simon Peter's brother, was one of the two which heard John, and followed him. He first findeth his own brother Simon, and saith unto him: We have found the Messiah <span class=\"rubric\">which is to say, being interpreted, Christ</span>. And he brought him to Jesus.  And Jesus looking at him said, Thou art Simon, the son of Jonah: thou shalt be called Cephas, which is by interpretation, Peter. The next day he would go forth into Galilee, and findeth Philip. And Jesus saith unto him, Follow me. Now Philip was of Bethsaida, the city of Andrew and Peter. Philip findeth Nathanael, and saith unto him, Of whom Moses in the law, and the prophets, wrote, Jesus the son of Joseph, of Nazareth. And Nathanael saith unto him, Can any good thing come out of Nazareth? Philip saith unto him, Come and see. Jesus saw Nathanael coming unto him, and saith of him, Behold an Israelite indeed, in whom is no guile. Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before Philip called thee, when thou wast under the fig tree, I saw thee.  Nathanael answered him and said, Rabbi, you are the Son of God, you are the King of Israel. Jesus answered and said to him, Because I said to you, I saw you under the fig tree, do you believe? You will see greater things than these. And he said to him, Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nGlória et honore coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nThou hast made him a little less than the angels, thou hast crowned him with glory and honour: and hast set him over the works of thy hands."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sacrándum tibi, Dómine, munus offérimus: quo beáti Andréæ Apóstoli sollémnia recoléntes, purificatiónem quoque nostris méntibus implorámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (vel ad libitum)</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Sacrándum tibi, Dómine, munus offérimus: quo beáti Andréæ Apóstoli sollémnia recoléntes, purificatiónem quoque nostris méntibus implorámus.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary (or any other)</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joann 1:41; 1:42</em></span><br>\nDicit Andréas Simóni fratri suo: Invénimus Messíam, qui dícitur Christus: et addúxit eum ad Jesum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joann 1:41; 1:42</em></span><br>\nDicit Andréas Simóni fratri suo: Invénimus Messíam, qui dícitur Christus: et addúxit eum ad Jesum."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nPercéptis, Dómine, sacraméntis supplíciter exorámus: ut, intercedénte beáto Andréa Apostolo tuo, quæ pro illíus veneránda gérimus passióne, nobis profíciant ad medélam.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (vel ad libitum)</em></span><br>\nSumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nPercéptis, Dómine, sacraméntis supplíciter exorámus: ut, intercedénte beáto Andréa Apostolo tuo, quæ pro illíus veneránda gérimus passióne, nobis profíciant ad medélam.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary (or any other)</em></span><br>\nGrant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

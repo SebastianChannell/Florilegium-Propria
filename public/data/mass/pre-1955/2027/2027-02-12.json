@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-02-12",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Ss. Septem Fundatorum Ordinis Servorum B. M. V.",
+  "rank": "Duplex",
+  "note": "Commemoratio: Feria VI post Cineres",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sap 10:20-21</em></span><br>\nJusti decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt páriter: quóniam sapiéntia apéruit os mutum et linguas infántium fecit disértas.<br>\n<span class=\"rubric\"><em>Ps 8:2.</em></span><br>\nDómine, Dóminus noster, quam admirábile est nomen tuum in univérsa terra!<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nJusti decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt páriter: quóniam sapiéntia apéruit os mutum et linguas infántium fecit disértas."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Wis 10:20-21</em></span><br>\nThe just sang, O Lord, Your holy name and praised in unison your conquering hand - because wisdom opened the mouths of the dumb, and gave ready speech to infants.<br>\n<span class=\"rubric\"><em>Ps 8:2</em></span><br>\nO Lord, our Lord, how glorious is Your name over all the earth!<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThe just sang, O Lord, Your holy name and praised in unison your conquering hand - because wisdom opened the mouths of the dumb, and gave ready speech to infants."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDómine Jesu Christe, qui, ad recoléndam memóriam dolórum sanctíssimæ Genitrícis tuæ, per septem beátos Patres nova Servorum ejus família Ecclésiam tuam fœcundásti: concéde propítius; ita nos eórum consociári flétibus, ut perfruámur et gáudiis:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria VI post Cineres</em></span><br>\nInchoáta jejúnia, quǽsumus, Dómine, benígno favore proséquere: ut observántiam, quam corporáliter exhibémus, méntibus étiam sincéris exercére valeámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO Lord Jesus Christ, Who, to keep alive the memory of Your most holy Mother’s sorrows, through the seven holy fathers enriched your Church with a new family of her Servants, graciously grant that we may be so united with them in their sorrows, as also to share their joys.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI post Cineres</em></span><br>\nMay Your kindly favor, we beseech You, O Lord, accompany the fast we have begun, that we may be able to practice with a pure mind what we perform bodily.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Eccli 44:1-15</em></span><br>\nLaudémus viros gloriósos et paréntes nostros in generatióne sua. Multam glóriam fecit Dóminus magnificéntia sua a sǽculo. Dominántes in potestátibus suis, hómines magni virtúte et prudéntia sua præditi, nuntiántes in prophétis dignitátem prophetárum, et imperántes in præsénti pópulo, et virtúte prudéntiæ pópulis sanctíssima verba. In perítia sua requiréntes modos músicos, et narrántes cármina scripturárum. Hómines dívites in virtúte, pulchritúdinis stúdium habéntes: pacificántes in dómibus suis. Omnes isti in generatiónibus gentis suæ glóriam adépti sunt, et in diébus suis habéntur in láudibus. Qui de illis nati sunt, reliquérunt nomen narrándi laudes eórum. Et sunt, quorum non est memória: periérunt, quasi qui non fúerint: et nati sunt, quasi non nati, et fílii ipsórum cum ipsis. Sed illi viri misericórdiæ sunt, quorum pietátes non defuérunt: cum sémine eórum pérmanent bona, heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum: et fílii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur. Córpora ipsórum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Ecclesiasticus<br>\n<span class=\"rubric\"><em>Ecclus 44:1-15</em></span><br>\nLet us now praise men of renown, our ancestors, each in his own time. The Lord has wrought great glory through His magnificence from the beginning. Rulers of the earth by their authority, men of renown for their might, or counselors in their wisdom, or seers of all things in prophecy; resolute governors of peoples, or judges with discretion; authors skilled in composition, or poets with collected proverbs; composers of melodious psalms, or discoursers on lyric themes; stalwart men, solidly established, lovers of beauty, and at peace in their own estates - all these were glorious in their time, each illustrious in his day. Some of them have left behind a name that is remembered to their praise; but of others there is no memory, for it perished when they perished, and they are as though they had never lived, they and their children after them. Yet these also were godly men whose virtues have not been forgotten; their wealth remains in their families, their posterity are a holy inheritance, and their seed has stood in the covenants. And their children for their sakes remain forever; their seed and their glory shall not be forsaken. All these are buried in peace, but their name lives on and on. At gatherings their wisdom is retold and the assembly sings their praises.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Is 65:23</em></span><br>\nElécti mei non laborábunt frustra, neque germinábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis.<br>\n<span class=\"rubric\"><em>Eccli 44:14</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Córpora ipsorum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem.<br>\n<span class=\"rubric\"><em>Ps 125:5-6</em></span><br>\nQui séminant in lácrimis, in exsultatióne metent.<br>\n<span class=\"marker\"><em>℣.</em></span> Eúntes ibant et fiébant, mitténtes sémina sua.<br>\n<span class=\"marker\"><em>℣.</em></span> Veniéntes autem vénient cum exsultatióne, portántes manípulos suos."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Isa 65:23</em></span><br>\nMy elect shall not toil in vain, nor beget children for sudden destruction; for a race blessed by the Lord are they and their offspring.<br>\n<span class=\"rubric\"><em>Sir 44:14</em></span><br>\nTheir bodies are buried in peace, and their name lives to generation and generation.<br>\n<span class=\"rubric\"><em>Ps 125:5-6</em></span><br>\nThose that sow in tears shall reap rejoicing.<br>\n<span class=\"marker\"><em>℣.</em></span> Although they go forth weeping, carrying the seed to be sown.<br>\n<span class=\"marker\"><em>℣.</em></span> They shall come back rejoicing, carrying their sheaves."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 19:27-29</em></span><br>\nIn illo témpore: Dixit Petrus ad Jesum: Ecce, nos relíquimus ómnia, et secúti sumus te: quid ergo erit nobis? Jesus autem dixit illis: Amen, dico vobis, quod vos, qui secúti estis me, in regeneratióne, cum séderit Fílius hóminis in sede majestátis suæ, sedébitis et vos super sedes duódecim, judicántes duódecim tribus Israël. Et omnis, qui relíquerit domum, vel fratres, aut soróres, aut patrem, aut matrem, aut uxórem, aut fílios, aut agros, propter nomen meum, céntuplum accípiet, et vitam ætérnam possidébit.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 19:27-29.</em></span><br>\nAt that time, Peter said to Jesus, Behold, we have left all and followed You; what then shall we have? And Jesus said to them, Amen I say to you that you who have followed Me, in the regeneration when the Son of Man shall sit on the throne of His glory, shall also sit on twelve thrones, judging the twelve  tribes of Israel. And everyone who has left house, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for My name’s sake, shall receive a hundredfold, and shall possess life everlasting.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Is 56:7.</em></span><br>\nAddúcam eos in montem sanctum meum, et lætificábo eos in domo oratiónis meæ: holocáusta eórum et víctimæ eórum placébunt mihi super altáre meum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Isa 56:7</em></span><br>\nI will bring them to My holy mountain, and make them joyful in My house of prayer; their holocausts and sacrifices will be acceptable on My altar."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Accipe, quǽsumus, Dómine, hóstias quas tibi offérimus: et præsta; ut, intercedéntibus Sanctis tuis, libera tibi mente serviámus, et perdoléntis Vírginis Genitrícis Fílii tui amóre inflammémur.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria VI post Cineres</em></span><br>\nSacrifícium, Dómine, observántiæ quadragesimális, quod offérimus, præsta, quǽsumus: ut tibi et mentes nostras reddat accéptas, et continéntiæ promptióris nobis tríbuat facultátem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Accept, we beseech You, O Lord, the sacrificial gifts we offer, so that by the intercession of Your saints we may serve You with freedom of mind and be set on fire with love for the sorrowing Mother of Your Son.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI post Cineres</em></span><br>\nGrant, O Lord, we beseech You, that as we offer the sacrifice of Lent, our hearts may be made acceptable to You; and the sacrifice may give us greater willingness for self-denial.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joann 15:16</em></span><br>\nEgo vos elégi de mundo, ut eátis et fructum afferátis: et fructus vester máneat."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 15:16</em></span><br>\nI have chosen you from the world that you should go and bear fruit, and that your fruit should remain."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nCœléstibus refécti mystériis te, Dómine, deprecámur: ut, quorum festa percólimus imitántes exémpla; juxta Crucem Jesu cum María Matre ejus fidéliter astémus, et ejúsdem redemptiónis fructum percípere mereámur.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria VI post Cineres</em></span><br>\nSpíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos uno pane cœlésti satiásti, tua fácias pietáte concórdes.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nStrengthened by the heavenly sacrament, we beseech You, O Lord, that, following the example of those whose feast we are keeping, we may faithfully stand beneath the Cross of Jesus with Mary, His Mother, and be found worthy to receive the fruit of His redemption.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI post Cineres</em></span><br>\nFill us, O Lord, with the spirit of Your love, to unite in charity those whom You have filled with one and the same heavenly Bread.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

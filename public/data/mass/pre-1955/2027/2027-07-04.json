@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-07-04",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Dominica VII Post Pentecosten",
+  "rank": "Semiduplex Dominica minor",
+  "note": "Commemoratio: Sexta die infra Octavam Ss. Apostolorum Petri et Pauli",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 46:2</em></span><br>\nOmnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis.<br>\n<span class=\"rubric\"><em>Ps 46:3</em></span><br>\nQuóniam Dóminus excélsus, terríbilis: Rex magnus super omnem terram.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nOmnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 46:2</em></span><br>\nAll you peoples clap your hands, shout to God with cries of gladness.<br>\n<span class=\"rubric\"><em>Ps 46:3</em></span><br>\nFor the Lord, the Most High, the awesome, is the great King over all the earth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nAll you peoples clap your hands, shout to God with cries of gladness."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, cujus providéntia in sui dispositióne non fállitur: te súpplices exorámus; ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Sexta die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nDeus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Whose providence never fails to set things in order, we humbly beseech You to remove from us whatever is harmful and grant whatever is for our benefit.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sixth Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nO God, Who made this day holy by the martyrdom of Your Apostles Peter and Paul, grant Your Church to follow in all things the teaching of those from whom she first received the faith.<br>\n<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános<br>\n<span class=\"rubric\"><em>Rom 6:19-23</em></span><br>\nFratres: Humánum dico, propter infirmitátem carnis vestræ: sicut enim exhibuístis membra vestra servíre immundítiæ et iniquitáti ad iniquitátem, ita nunc exhibéte membra vestra servíre justítiæ in sanctificatiónem. Cum enim servi essétis peccáti, líberi fuístis justítiæ. Quem ergo fructum habuístis tunc in illis, in quibus nunc erubéscitis? Nam finis illórum mors est. Nunc vero liberáti a peccáto, servi autem facti Deo, habétis fructum vestrum in sanctificatiónem, finem vero vitam ætérnam. Stipéndia enim peccáti mors. Grátia autem Dei vita ætérna, in Christo Jesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Romans<br>\n<span class=\"rubric\"><em>Rom 6:19-23</em></span><br>\nBrethren: I speak in a human way because of the weakness of your flesh; for as you yielded your members as slaves of uncleanness and iniquity unto iniquity, so now yield your members as slaves of justice unto sanctification. For when you were slaves of sin, you were free as regards justice. But what fruit had you then from those things of which you are now ashamed? For the end of these things is death. But now set free from sin and become slaves to God, you have your fruit unto sanctification, and as your end, life everlasting. For the wages of sin is death, but the gift of God is life everlasting in Christ Jesus our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 33:12; 33:6</em></span><br>\nVeníte, fílii, audíte me: timórem Dómini docébo vos.<br>\n<span class=\"marker\"><em>℣.</em></span> Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 46:2</em></span><br>\nOmnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 33:12, 6</em></span><br>\nCome, children, hear me; I will teach you the fear of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Look to Him that you may be radiant with joy, and your faces may not blush with shame. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 46:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> All you peoples, clap your hands, shout to God with cries of gladness. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 7:15-21</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Atténdite a falsis prophétis, qui véniunt ad vos in vestiméntis óvium, intrínsecus autem sunt lupi rapáces: a frúctibus eórum cognoscétis eos. Numquid cólligunt de spinis uvas, aut de tríbulis ficus? Sic omnis arbor bona fructus bonos facit: mala autem arbor malos fructus facit. Non potest arbor bona malos fructus fácere: neque arbor mala bonos fructus fácere. Omnis arbor, quæ non facit fructum bonum, excidétur et in ignem mittétur. Igitur ex frúctibus eórum cognoscétis eos. Non omnis, qui dicit mihi, Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum. <br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 7:15-21</em></span><br>\nAt that time, Jesus said to His disciples: Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves. By their fruits you will know them. Do men gather grapes from thorns, or figs from thistles? Even so, every good tree bears good fruit, but the bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. Therefore, by their fruits you will know them. Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven; but he who does the will of My Father in heaven shall enter the kingdom of heaven.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Dan 3:40</em></span><br>\nSicut in holocáustis aríetum et taurórum, et sicut in mílibus agnórum pínguium: sic fiat sacrifícium nostrum in conspéctu tuo hódie, ut pláceat tibi: quia non est confúsio confidéntibus in te, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Dan 3:40</em></span><br>\nAs though it were holocausts of rams and bullocks, or thousands of fat lambs, so let our sacrifice be in Your presence today, that it may please You; for those who trust in You cannot be put to shame, O Lord."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Deus, qui legálium differéntiam hostiárum unius sacrifícii perfectione sanxísti: accipe sacrifícium a devótis tibi fámulis, et pari benedictióne, sicut múnera Abel, sanctífica; ut, quod sínguli obtulérunt ad majestátis tuæ honórem, cunctis profíciat ad salútem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Sexta die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nHóstias, Dómine, quas nómini tuo sacrándas offérimus, apostolica prosequátur orátio: per quam nos expiári tríbuas et deféndi.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O God, You Who have given us in one perfect sacrifice the fulfillment of the various sacrifices made under the Old Law, accept these sacrificial gifts offered You by Your devoted servants, and make them holy as You did the gifts of Abel, so that what each one of us has offered in praise of Your majesty may profit for the salvation of all.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sixth Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nHóstias, Dómine, quas nómini tuo sacrándas offérimus, apostolica prosequátur orátio: per quam nos expiári tríbuas et deféndi.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotídie, una voce dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 30:3</em></span><br>\nInclína aurem tuam, accélera, ut erípias me."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 30:3</em></span><br>\nIncline Your ear to me, make haste to deliver me."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nTua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et ad ea, quæ sunt recta, perdúcat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Sexta die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nQuos cœlésti, Dómine, aliménto satiásti: apostólicis intercessiónibus ab omni adversitáte custódi.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay Your healing action, O Lord, mercifully rid us of our evil inclinations and lead us to do good.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sixth Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nO Lord, by the intercession of Your Apostles, defend from all harm those whom You have filled with heavenly food.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

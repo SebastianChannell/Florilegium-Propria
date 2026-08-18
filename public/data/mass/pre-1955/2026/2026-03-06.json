@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-03-06",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Ss. Perpetuæ et Felicitatis Martyrum",
+  "rank": "Duplex",
+  "note": "Commemoratio: Feria Sexta infra Hebdomadam II in Quadragesima",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:95-96</em></span><br>\nMe exspectavérunt peccatóres, ut pérderent me: testimónia tua, Dómine, intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis.<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nBeáti immaculáti in via: qui ámbulant in lege Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nMe exspectavérunt peccatóres, ut pérderent me: testimónia tua, Dómine, intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:95-96.</em></span><br>\nSinners wait to destroy me, but I pay heed to Your decrees, O Lord. I see that all fulfillment has its limits; broad indeed is Your command.<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nHappy are they whose way is blameless, who walk in the law of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nSinners wait to destroy me, but I pay heed to Your decrees, O Lord. I see that all fulfillment has its limits; broad indeed is Your command."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDa nobis, quǽsumus, Dómine Deus noster, sanctárum Mártyrum tuárum Perpétuæ et Felicitátis palmas incessábili devotióne venerári: ut quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Sexta infra Hebdomadam II in Quadragesima</em></span><br>\nDa, quǽsumus, omnípotens Deus: ut, sacro nos purificánte jejúnio, sincéris méntibus ad sancta ventúra fácias perveníre.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech thee, O Lord our God, that we may never cease devoutly to venerate the triumphs of thy holy Martyrs Perpetua and Felicitas: that, though we cannot worthily shew forth their praises, yet we may continually honour them with lowly service.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Sexta infra Hebdomadam II in Quadragesima</em></span><br>\nGrant, we beseech You, almighty God, that with the sacred fast to purify us, we may with sincere hearts reach the coming feast.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Eccli 51:1-8; 51:12</em></span><br>\nConfitébor tibi, Dómine, Rex, et collaudábo te Deum, Salvatórem meum. Confitébor nómini tuo: quóniam adjútor et protéctor factus es mihi, et liberásti corpus meum a perditióne, a láqueo línguæ iníquæ et a lábiis operántium mendácium, et in conspéctu astántium factus es mihi adjutor. Et liberasti me secúndum multitúdinem misericórdiæ nóminis tui a rugiéntibus, præparátis ad escam, de mánibus quæréntium ánimam meam, et de portis tribulatiónum, quæ circumdedérunt me: a pressúra flammæ, quæ circúmdedit me, et in médio ignis non sum æstuáta: de altitúdine ventris ínferi, et a lingua coinquináta, et a verbo mendácii, a rege iníquo, et a lingua injústa: laudábit usque ad mortem ánima mea Dóminum: quóniam éruis sustinéntes te, et líberas eos de mánibus géntium, Dómine, Deus noster.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Ecclesiasticus<br>\n<span class=\"rubric\"><em>Sir 51:1-8; 51:12</em></span><br>\nI will give You thanks, O Lord, O King; I will praise You, O God my Saviour! I will make known Your name; for You have preserved my body from destruction, from the scourge of a slanderous tongue, and from lips that went over to falsehood; and in the sight of those who stood by, You have been my helper. And You have delivered me, according to the multitude of the mercy of Your name, from those who did roar, prepared to devour; from the power of those who sought my life, and from the gates of afflictions which compassed me about; from the oppression of the flames which hemmed me in on every side, and in the midst of the fire I was not burnt; from the deep belly of the nether world, and from an unclean tongue, and from lying words, from an unjust king, and from dishonest tongues. My soul shall praise the Lord even to death; because You, O Lord, our God, save those who take refuge in You, and rescue them out of the hands of the nations.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:8</em></span><br>\nDilexísti justítiam, et odísti iniquitátem.<br>\n<span class=\"marker\"><em>℣.</em></span> Proptérea unxit te Deus, Deus tuus, óleo lætítiæ.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\nVeni, Sponsa Christi, áccipe corónam, quam tibi Dóminus præparávit in ætérnum: pro cujus amóre sánguinem tuum fudísti.<br>\n<span class=\"rubric\"><em>Ps 44:8; 44:5</em></span><br>\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis.<br>\n<span class=\"marker\"><em>℣.</em></span> Spécie tua et pulchritúdine tua inténde, próspere procéde et regna."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:8</em></span><br>\nYou love justice and hate wickedness.<br>\n<span class=\"marker\"><em>℣.</em></span> Therefore God, your God, has anointed you with the oil of gladness.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\nCome, O spouse of Christ, receive the crown which the Lord has prepared for you forever; for the love of Whom you shed your blood<br>\n<span class=\"rubric\"><em>Ps 44:8; 44:5</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> You love justice and hate wickedness; therefore God, your God, has anointed you with the oil of gladness above your fellows.<br>\n<span class=\"marker\"><em>℣.</em></span> In your splendor and your beauty ride on triumphant, and reign."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 13:44-52</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis parábolam hanc: Símile est regnum cœlórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Íterum símile est regnum cœlórum hómini negotiatóri, quærénti bonas margarítas. Invénta autem una pretiósa margaríta, ábiit, et véndidit ómnia, quæ hábuit, et emit eam. Íterum símile est regnum cœlórum sagénæ missæ in mare et ex omni génere píscium congregánti. Quam, cum impléta esset, educéntes, et secus litus sedéntes, elegérunt bonos in vasa, malos autem foras misérunt. Sic erit in consummatióne sǽculi: exíbunt Angeli, et separábunt malos de médio justórum, et mittent eos in camínum ignis: ibi erit fletus et stridor déntium. Intellexístis hæc ómnia? Dicunt ei: Etiam. Ait illis: Ideo omnis scriba doctus in regno cœlórum símilis est hómini patrifamílias, qui profert de thesáuro suo nova et vétera.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 13:44-52.</em></span><br>\nAt that time, Jesus spoke this parable to His disciples: The kingdom of heaven is like a treasure hidden in a field; he who finds it hides it, and in his joy goes and sells all that he has and buys that field. Again, the kingdom of heaven is like a merchant in search of fine pearls. When he finds a single pearl of great price, he goes and sells all that he has and buys it. Again, the kingdom of heaven is like a net cast into the sea that gathered in fish of every kind. When it was filled, they hauled it out, and sitting down on the beach, they gathered the good fish into vessels, but threw away the bad. So will it be at the end of the world. The angels will go out and separate the wicked from among the just, and will cast them into the furnace of fire, where there will be the weeping, and the gnashing of teeth. Have you understood all these things? They said to Him, Yes. And He said to them, So then, every Scribe instructed in the kingdom of heaven is like a householder who brings forth from his storeroom things new and old.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:3</em></span><br>\nDiffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum, et in sǽculum sǽculi."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:3</em></span><br>\nGrace is poured out upon your lips; thus God has blessed you forever, and for ages of ages."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Inténde, quǽsumus, Dómine, múnera altáribus tuis pro sanctárum Mártyrum tuárum Perpétuæ et Felicitátis festivitáte propósita: ut, sicut per hæc beáta mystéria illis glóriam contulísti; ita nobis indulgéntiam largiáris.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Sexta infra Hebdomadam II in Quadragesima</em></span><br>\nHæc in nobis sacrifícia, Deus, et actióne permáneant, et operatióne firméntur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, we beseech thee, look down upon these gifts, laid upon thine altars on the festival of thy holy Martyrs Perpetua and Felicitas: that as by these blessed mysteries thou hast bestowed glory upon them; so thou wouldst vouchsafe to us thy pardon.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Sexta infra Hebdomadam II in Quadragesima</em></span><br>\nO God, may this sacrifice which is offered, stay in us and accomplish lasting effects.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:161-162</em></span><br>\nPríncipes persecúti sunt me gratis, et a verbis tuis formidávit cor meum: lætábor ego super elóqui tua, quasi qui invénit spólia multa."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 118:161-162</em></span><br>\nPrinces persecute me without cause, but my heart stands in awe of Your word. I rejoice at Your promise, as one who has found rich spoil."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nMýsticis, Dómine, repléti sumus votis et gáudiis: præsta, quǽsumus; ut intercessiónibus sanctárum Mártyrum tuárum Perpétuæ et Felicitátis, quæ temporáliter ágimus, spirituáliter consequámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Sexta infra Hebdomadam II in Quadragesima</em></span><br>\nFac nos, quǽsumus, Dómine: accépto pígnore salútis ætérnæ, sic téndere congruénter; ut ad eam perveníre possímus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nYou have filled us with spiritual joy and delight; grant, we beseech You, O Lord, that by the intercession of Your holy Martyrs Perpetua and Felicitas, we may spiritually attain what now we ritually perform.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Sexta infra Hebdomadam II in Quadragesima</em></span><br>\nGrant, we beseech You, O Lord, that we who have received the pledge of everlasting salvation, may properly direct our course so that we may be able to attain our goal.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-03-24",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Gabrielis Archangeli",
+  "rank": "Duplex majus",
+  "note": "Commemoratio: Feria Tertia infra Hebdomadam Passionis",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 102:20</em></span><br>\nBenedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus.<br>\n<span class=\"rubric\"><em>Ps 102:1.</em></span><br>\nBénedic, ánima mea, Dómino: et ómnia, quæ intra me sunt, nómini sancto ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nBenedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 102:20</em></span><br>\nBless the Lord, all you His Angels, you mighty in strength, who do His bidding, obeying His spoken word.<br>\n<span class=\"rubric\"><em>Ps 102:1</em></span><br>\nBless the Lord, O my soul; and, all my being, bless His holy name.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nBless the Lord, all you His Angels, you mighty in strength, who do His bidding, obeying His spoken word."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui inter céteros Angelos, ad annuntiándum incarnatiónis tuæ mystérium, Gabriélem Archángelum elegísti: concéde propítius; ut, qui festum (commemoratiónem) ejus celebrámus in terris, ipsíus patrocínium sentiámus in cœlis:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Tertia infra Hebdomadam Passionis</em></span><br>\nNostra tibi, Dómine, quǽsumus, sint accépta jejúnia: quæ nos et expiándo grátia tua dignos effíciant; et ad remédia perdúcant ætérna.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who, out of all the angels, chose the Archangel Gabriel to announce the mystery of Your incarnation, mercifully grant that we who keep his feast on earth, may have him as our patron in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam Passionis</em></span><br>\nMay our fasting be acceptable to You, we beseech You, O Lord; may it be atonement for our sins, make us worthy of Your grace, and lead us to the everlasting remedy of the life to come.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Daniélis Prophétæ<br>\n<span class=\"rubric\"><em>Dan 9:21-26</em></span><br>\nIn diébus illis: Ecce, vir Gabriël, quem víderam in visióne a princípio, cito volans tétigit me in témpore sacrifícii vespertíni. Et dócuit me et locútus est mihi dixítque: Dániel, nunc egréssus sum, ut docérem te et intellégeres. Ab exórdio precum tuárum egréssus est sermo: ego autem veni, ut indicárem tibi, quia vir desideriórum es: tu ergo animadvérte sermónem et intéllege visiónem. Septuagínta hebdómades abbreviátæ sunt super pópulum tuum et super urbem sanctam tuam, ut consummétur prævaricátio, et finem accípiat peccátum, et deleátur iníquitas, et adducátur justítia sempitérna, et impleátur vísio et prophetía, et ungátur Sanctus sanctórum. Scito ergo et animadvérte: Ab éxitu sermónis, ut íterum ædificétur Jerúsalem, usque ad Christum ducem, hebdómades septem et hebdómades sexagínta duæ erunt: et rursum ædificábitur platéa et muri in angústia témporum. Et post hebdómades sexagínta duas occidétur Christus: et non erit ejus pópulus, qui eum negatúrus est. Et civitátem et sanctuárium dissipábit pópulus cum duce ventúro: et finis ejus vástitas, et post finem belli statúta desolátio.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Daniel<br>\n<span class=\"rubric\"><em>Dan 9:21-26.</em></span><br>\nIn those days, behold, Gabriel, the one whom I had seen before in vision, came to me in rapid flight at the time of the evening sacrifice. He instructed me in these words: Daniel, I have now come to give you understanding. When you began your petition, an answer was given which I have come to announce, because you are beloved. Therefore, mark the answer and understand the vision. ‘Seventy weeks are decreed for your people and for your holy city: then transgression will stop and sin will end, guilt will be expiated, everlasting justice will be introduced, vision and prophecy ratified, and a Most Holy will be anointed. Know and understand this: from the utterance of the word that Jerusalem was to be rebuilt until one who is anointed and a leader, there shall be seven weeks. During sixty-two weeks it shall be rebuilt, with streets and trenches, in time of affliction. After the sixty-two weeks an anointed shall be cut down when he does not possess the city; and the people of a leader who will come shall destroy the sanctuary. Then the end shall come like a torrent; until the end there shall be war, the desolation that is decreed.’<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 102:20 et 1</em></span><br>\nBenedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Benedic, ánima mea, Dóminum, et ómnia interióra mea nomen sanctum ejus.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Luc 1:28, 42, 31 et 35</em></span><br>\nAve, María, grátia plena; Dóminus tecum.<br>\n<span class=\"marker\"><em>℣.</em></span> Benedícta tu in muliéribus: et benedíctus fructus ventris tui.<br>\n<span class=\"marker\"><em>℣.</em></span> Ecce, concípies et páries Fílium, et vocábis nomen ejus Emmánuel.<br>\n<span class=\"marker\"><em>℣.</em></span> Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi.<br>\n<span class=\"marker\"><em>℣.</em></span> Ideóque et quod nascétur ex te Sanctum, vocábitur Fílius Dei."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 102:20, 1</em></span><br>\nBless the Lord, all you His Angels, you mighty in strength, who do His bidding.<br>\n<span class=\"marker\"><em>℣.</em></span> Bless the Lord, O my soul; and, all my being, bless His holy name.<br>\n<span class=\"rubric\"><em>Luke 1:28, 42, 31, 35</em></span><br>\nHail, Mary, full of grace, the Lord is with you.<br>\n<span class=\"marker\"><em>℣.</em></span> Blessed are you among women and blessed is the fruit of your womb.<br>\n<span class=\"marker\"><em>℣.</em></span> Behold, you shall conceive and shall bring forth a Son, and you shall call His name Emmanuel.<br>\n<span class=\"marker\"><em>℣.</em></span> The Holy Spirit shall come upon you and the power of the Most High shall over-shadow you.<br>\n<span class=\"marker\"><em>℣.</em></span> And therefore the Holy One to be born shall be called the Son of God. During"
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 1:26-38</em></span><br>\nIn illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilææ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne ejus: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce, concípies in útero et páries fílium, et vocábis nomen ejus Jesum. Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David, patris ejus: et regnábit in domo Jacob in ætérnum, et regni ejus non erit finis. Dixit autem María ad Angelum: Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Angelus, dixit ei: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi. Ideóque et quod nascétur ex te Sanctum, vocábitur Fílius Dei. Et ecce, Elísabeth, cognáta tua, et ipsa concépit fílium in senectúte sua: et hic mensis sextus est illi, quæ vocátur stérilis: quia non erit impossíbile apud Deum omne verbum. Dixit autem María: Ecce ancílla Dómini, fiat mihi secúndum verbum tuum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 1:26-38.</em></span><br>\nAt that time, the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin’s name was Mary. And when the angel had come to her, he said, Hail, full of grace, the Lord is with you. Blessed are you among women. When she had heard him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, Do not be afraid, Mary, for you have found grace with God. Behold, you shall conceive in your womb and shall bring forth a Son; and you shall call His name Jesus. He shall be great, and shall be called the Son of the Most High; and the Lord God will give Him the throne of David His father, and He shall be king over the house of Jacob forever; and of His kingdom there shall be no end. But Mary said to the angel, How shall this happen, since I do not know man? And the angel answered and said to her, The Holy Spirit shall come upon you, and the power of the Most High shall overshadow you; and therefore the Holy One to be born shall be called the Son of God. And behold, Elizabeth your kinswoman also has conceived a son in her old age, and she who was called barren is now in her sixth month; for nothing shall be impossible with God. But Mary said, Behold the handmaid of the Lord; be it done to me according to your word.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Apoc 8:3 et 4</em></span><br>\nStetit Angelus juxta aram templi, habens thuríbulum áureum in manu sua, et data sunt ei incénsa multa: et ascéndit fumus aromátum in conspéctu Dei."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Apoc 8:3-4.</em></span><br>\nAn Angel stood near the altar of the temple, having a golden censer in his hand, and there was given to him much incense: and the smoke of the perfumes went up before God."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Accéptum fiat in conspéctu tuo, Dómine, nostræ servitútis munus, et beáti Archángeli Gabriélis orátio: ut, qui a nobis venerátur in terris, sit apud te pro nobis advocátus in cœlis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Tertia infra Hebdomadam Passionis</em></span><br>\nHóstias tibi, Dómine, deférimus immolándas: quæ temporálem consolatiónem signíficent; ut promíssa non desperémus ætérna.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May this gift from us, Your servants, and the prayer of the blessed Archangel Gabriel be acceptable in Your sight, O Lord, so that he whom we honor on earth may plead our cause with You in heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam Passionis</em></span><br>\nO Lord, we bring You the gifts for sacrifice, as tokens of consolation in this life, so that we may not despair of Your eternal promises.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Sancta Cruce</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui salútem humáni géneris in ligno Crucis constituísti: ut, unde mors oriebátur, inde vita resúrgeret: et, qui in ligno vincébat, in ligno quoque vincerétur: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti júbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Cross</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who didst establish the salvation of mankind on the tree of the Cross; that whence death came, thence also life might arise again, and that he, who overcame by the tree, by the tree also might be overcome: Through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Dan 3:58</em></span><br>\nBenedícite, omnes Angeli Dómini, Dóminum: hymnum dícite et superexaltáte eum in sǽcula."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Dan 3:58</em></span><br>\nAll you Angels of the Lord, bless the Lord: sing a hymn, and exalt Him above all forever."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nCórporis tui et Sánguinis sumptis mystériis, tuam, Dómine, Deus noster, deprecámur cleméntiam: ut, sicut, Gabriéle nuntiánte, incarnatiónem tuam cognóvimus; ita, ipso adjuvante, incarnationis ejúsdem benefícia consequámur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Tertia infra Hebdomadam Passionis</em></span><br>\nDa, quǽsumus, omnípotens Deus: ut, quæ divína sunt, júgiter exsequéntes, donis mereámur cœléstibus propinquáre.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO God, our Lord, having received the sacrament of Your Body and Blood, we ask of Your mercy that, as Your incarnation was made known to us by the message of Gabriel, so by his help we may reap the benefits of that same incarnation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam Passionis</em></span><br>\nGrant us, we beseech You, almighty God that by constantly performing these holy acts, we may be worthy to come closer to the gifts of heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

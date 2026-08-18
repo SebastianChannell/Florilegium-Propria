@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-05-12",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Ss. Nerei, Achillei et Domitillæ Virg. atque Pancratii Martyrum",
+  "rank": "Semiduplex",
+  "note": "Commemoratio: Feria IV infra Octavam Ascensionis",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 32:18; 32:19; 32:20</em></span><br>\nEcce, óculi Dómini super timéntes eum, sperántes in misericórdia ejus, allelúja: ut erípiat a morte ánimas eórum: quóniam adjútor et protéctor noster est, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nExsultáte, justi, in Dómino: rectos decet collaudátio.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nEcce, óculi Dómini super timéntes eum, sperántes in misericórdia ejus, allelúja: ut erípiat a morte ánimas eórum: quóniam adjútor et protéctor noster est, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps. 32:18-20.</em></span><br>\nBut see, the eyes of the Lord are upon those who fear Him, upon those who hope in His kindness, alleluia: to deliver them from death; for He is our help and our shield, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nExult, you just, in the Lord; praise from the upright is fitting.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nBut see, the eyes of the Lord are upon those who fear Him, upon those who hope in His kindness, alleluia: to deliver them from death; for He is our help and our shield, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nSemper nos, Dómine, Mártyrum tuórum Nérei, Achíllei, Domitíllæ atque Pancrátii fóveat, quǽsumus, beáta solémnitas: et tuo dignos reddat obséquio.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria IV infra Octavam Ascensionis</em></span><br>\nConcéde, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum, Redemptórem nostrum, ad cœlos ascendísse crédimus; ipsi quoque mente in cœléstibus habitémus.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nConcéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nMay the holy feast of Your Martyrs, Nereus, Achilleus, Domitilla and Pancras, ever comfort us, we beseech You, O Lord, and make us worthy to serve You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria IV infra Octavam Ascensionis</em></span><br>\nGrant, we beseech thee, Almighty God, that like as we do believe thine Only-Begotten Son our Saviour to have this day ascended into the heavens, so we may also in heart and mind thither ascend, and with Him continually dwell.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nGrant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of mind and body; and by the intercession of glorious and blessed Mary, ever Virgin, may we be delivered from present sorrow and partake to the full of eternal happiness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Sap 5:1-5</em></span><br>\nStabunt justi in magna constántia advérsus eos, qui se angustiavérunt et qui abstulérunt labóres eórum. Vidéntes turbabúntur timore horríbili, et mirabúntur in subitatióne insperátæ salútis, dicéntes intra se, pœniténtiam agéntes, et præ angústia spíritus geméntes: Hi sunt, quos habúimus aliquándo in derísum et in similitúdinem impropérii. Nos insensáti vitam illórum æstimabámus insániam, et finem illórum sine honóre: ecce, quómodo computáti sunt inter fílios Dei, et inter Sanctos sors illórum est.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Wisdom<br>\n<span class=\"rubric\"><em>Wis 5:1-5.</em></span><br>\nThe just shall stand with great assurance before their oppressors who set at nought their labors. Seeing this, these shall be shaken with dreadful fear, and amazed at the suddenness of the unlooked-for salvation. They shall say among themselves, rueful and groaning through anguish of spirit: These are they whom once we held as a laughingstock and as a type for mockery, fools that we were! Their life we deemed madness, and their death dishonored. See how they are accounted among the sons of God; how their lot is with the Saints!<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Allelúja, allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> Hæc est vera fratérnitas, quæ vicit mundi crímina: Christum secúta est, ínclita tenens regna cœléstia. Allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> Te Mártyrum candidátus laudat exércitus, Dómine. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia.<br>\n<span class=\"marker\"><em>℣.</em></span> This is the true brotherhood, which overcame the wickedness of the world; it followed Christ, attaining the noble kingdom of heaven. Alleluia.<br>\n<span class=\"marker\"><em>℣.</em></span> The white-robed army of Martyrs praises You, O Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 4:46-53</em></span><br>\nIn illo témpore: Erat quidam régulus, cujus fílius infirmabátur Caphárnaum. Hic cum audísset, quia Jesus adveníret a Judǽa in Galilǽam, ábiit ad eum, et rogábat eum, ut descénderet et sanáret fílium ejus: incipiébat enim mori. Dixit ergo Jesus ad eum: Nisi signa et prodígia vidéritis, non créditis. Dicit ad eum régulus: Dómine, descénde, priúsquam moriátur fílius meus. Dicit ei Jesus: Vade, fílius tuus vivit. Crédidit homo sermóni, quem dixit ei Jesus, et ibat. Jam autem eo descendénte, servi occurrérunt ei et nuntiavérunt, dicéntes, quia fílius ejus víveret. Interrogábat ergo horam ab eis, in qua mélius habúerit. Et dixérunt ei: Quia heri hora séptima relíquit eum febris. Cognóvit ergo pater, quia illa hora erat, in qua dixit ei Jesus: Fílius tuus vivit: et crédidit ipse et domus ejus tota.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 4:46-53.</em></span><br>\nAt that time, there was a certain royal official whose son was lying sick at Capharnaum. When he heard that Jesus had come from Judea into Galilee, he went to him and besought Him to come down and heal his son, for he was at the point of death. Jesus therefore said to him, Unless you see signs and wonders, you do not believe. The royal official said to Him, Sir, come down before my child dies. Jesus said to him, Go your way, your son lives. The man believed the word that Jesus spoke to him, and departed. But even as he was now going down, his servants met him and brought word saying that his son lived. He asked of them therefore the hour in which he had got better. And they told him, Yesterday, at the seventh hour, the fever left him. The father knew then that it was at that very hour in which Jesus had said to him, Your son lives. And he himself believed, and his whole household.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 88:6</em></span><br>\nConfitebúntur cœli mirabília tua, Dómine: et veritátem tuam in ecclésia sanctórum, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 88:6</em></span><br>\nThe heavens proclaim Your wonders, O Lord, and Your faithfulness, in the assembly of the holy ones, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sanctórum Martyrum tuórum, quǽsumus. Dómine, Nérei, Achíllei, Domitíllæ atque Pancrátii sit tibi grata conféssio: quæ et múnera nostra comméndet, et tuam nobis indulgéntiam semper implóret.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria IV infra Octavam Ascensionis</em></span><br>\nSúscipe, Dómine, múnera, quæ pro Fílii tui gloriósa Ascensióne deférimus: et concéde propítius; ut a præséntibus perículis liberémur, et ad vitam perveniámus ætérnam.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the witnessing to the faith made by Your holy Martyrs, Nereus, Achilleus, Domitilla and Pancras, be pleasing to You, O Lord, both to commend our offerings to You and to assure us of Your everlasting mercy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria IV infra Octavam Ascensionis</em></span><br>\nReceive, O Lord, the gifts which we offer for the glorious Ascension of thy Son, and mercifully grant that we may be delivered from present dangers and attain eternal life.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Ascensione Domini</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui post resurrectiónem suam ómnibus discípulis suis maniféstus appáruit et, ipsis cernéntibus, est elevátus in cælum, ut nos divinitátis suæ tribúeret esse partícipes. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Ascension</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who, after His Resurrection, appeared openly to all His disciples, and, while they looked on, was taken up into heaven, that He might grant unto us to be sharers in His own divinity. And therefore, with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nGaudéte, justi, in Dómino, allelúja: rectos decet collaudátio, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps. 32:1</em></span><br>\nExult, you just, in the Lord, alleluia: praise from the upright is fitting, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nQuǽsumus, Dómine: ut beatórum Mártyrum tuórum Nérei, Achíllei, Domitíllæ atque Pancrátii deprecatiónibus, sacraménta sancta, quæ súmpsimus, ad tuæ nobis profíciant placatiónis augméntum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria IV infra Octavam Ascensionis</em></span><br>\nPræsta nobis, quǽsumus, omnípotens et miséricors Deus: ut, quæ visibílibus mystériis suménda percépimus, invisíbili consequámur efféctu.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nSumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO Lord, we beseech You, that the holy sacrament we have received may, by the pleadings of Your blessed Martyrs, Nereus, Achilleus, Domitilla and Pancras, grant us always more of Your forgiveness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria IV infra Octavam Ascensionis</em></span><br>\nGrant us, we beseech thee, almighty and merciful God, that what we have taken and received in visible mysteries, may profit us by its invisible effects.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nGrant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

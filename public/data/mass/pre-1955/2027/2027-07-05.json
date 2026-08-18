@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-07-05",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Antonii Mariæ Zaccaria Confessoris",
+  "rank": "Duplex",
+  "note": "Commemoratio: Septima die infra Octavam Ss. Apostolorum Petri et Pauli",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>1 Cor 2:4</em></span><br>\nSermo meus et prædicátio mea non in persuasibílibus humánæ sapiéntiæ verbis, sed in ostensióne spíritus et virtútis.<br>\n<span class=\"rubric\"><em>Ps 110:1</em></span><br>\nConfitébor tibi, Dómine, in toto corde meo, in consílio justórum et congregatióne.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSermo meus et prædicátio mea non in persuasibílibus humánæ sapiéntiæ verbis, sed in ostensióne spíritus et virtútis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>1 Cor. 2:4</em></span><br>\nMy speech and my preaching were not in the persuasive words of human wisdom, but in the demonstration of the Spirit and of the power.<br>\n<span class=\"rubric\"><em>Ps 110:1</em></span><br>\nI will give thanks to You, O Lord, with all my heart; in the company and assembly of the just.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nMy speech and my preaching were not in the persuasive words of human wisdom, but in the demonstration of the Spirit and of the power."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nFac nos, Dómine Deus, supereminéntem Jesu Christi sciéntiam, spíritu Pauli Apóstoli, edíscere: qua beátus Antónius María mirabíliter erudítus, novas in Ecclésia tua clericórum et vírginum famílias congregávit.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Septima die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nDeus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant us, O Lord God, to learn in the spirit of Paul the Apostle that excelling knowledge of Jesus Christ, by which St. Anthony Mary, himself wondrously learned, gathered together in Your Church new families of clerics and virgins.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Seventh Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nO God, Who made this day holy by the martyrdom of Your Apostles Peter and Paul, grant Your Church to follow in all things the teaching of those from whom she first received the faith.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Timótheum<br>\n<span class=\"rubric\"><em>1. Tim 4:8-16.</em></span><br>\nCaríssime: Píetas ad ómnia utilis est: promissiónem habens vitæ, quæ nunc est, et futúræ. Fidélis sermo et omni acceptióne dignus. In hoc enim laborámus et maledícimur, quia sperámus in Deum vivum, qui est Salvátor ómnium hóminum, maxime fidélium. Præcipe hæc et doce. Nemo adolescentiam tuam contémnat: sed exémplum esto fidélium in verbo, in conversatióne, in caritáte, in fide, in castitáte. Dum vénio, atténde lectióni, exhortatióni et doctrínæ. Noli neglégere grátiam, quæ in te est, quæ data est tibi per prophetíam, cum impositióne mánuum presbytérii. Hæc meditáre, in his esto: ut proféctus tuus maniféstus sit ómnibus. Attende tibi et doctrínæ: insta in illis. Hoc enim fáciens, et teípsum salvum fácies, et eos qui te áudiunt.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to Timothy<br>\n<span class=\"rubric\"><em>1 Tim. 4:8-16</em></span><br>\nDearly beloved: Godliness is profitable in all respects, since it has the promise of the present life as well as of that which is to come. This saying is true and worthy of entire acceptance; for we work and are reviled for this reason, that we hope in the living God, Who is the Saviour of all men, especially of believers. Command and teach these things. Let no man despise your youth, but be an example to the faithful in speech, in conduct, in charity, in faith, in chastity. Until I come, be diligent in reading, in exhortation and in teaching. Do not neglect the grace that is in you, granted to you by reason of prophecy with the laying on of hands of the presbyterate. Meditate on these things, give yourself entirely to them, that your progress may be manifest to all. Take heed to yourself and to your teaching, be earnest in them. For in so doing you will save both yourself and those who hear you.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Philipp 1:8-9</em></span><br>\nTestis mihi est Deus, quo modo cúpiam omnes vos in viscéribus Jesu Christi. Et hoc oro, ut cáritas vestra magis ac magis abúndet in sciéntia et in omni sensu.<br>\n<span class=\"rubric\"><em>Philip 1:10</em></span><br>\nUt probétis potióra, ut sitis sincéri et sine offénsa in diem Christi.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Philip 1:11.</em></span><br>\nRepléti fructu justítiæ per Jesum Christum, in glóriam et laudem Dei. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Phil 1:8-11</em></span><br>\nGod is my witness how I long after you all in the heart of Christ Jesus. And this I pray, that your charity may more and more abound in knowledge and all discernment.<br>\n<span class=\"marker\"><em>℣.</em></span> That you may approve the better things, that you may be upright and without offense to the day of Christ. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Phil 1:11</em></span><br>\nFilled with the fruit of justice, through Jesus Christ, to the glory and praise of God. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 10:15-21</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Quisquis non recéperit regnum Dei velut párvulus, non intrábit in illud. Et compléxans párvulos et impónens manus super illos, benedicébat eos. Et cum egréssus esset in viam, procúrrens quidam, genu flexo ante eum, rogábat eum: Magíster bone, quid fáciam, ut vitam ætérnam percípiam? Jesus autem dixit ei: Quid me dicis bonum? Nemo bonus, nisi unus Deus. Præcépta nosti: Ne adúlteres, ne occídas, ne furéris, ne falsum testimónium díxeris, ne fraudem féceris, honora patrem tuum et matrem. At ille respóndens, ait illi: Magíster, hæc ómnia observávi a juventúte mea. Jesus autem intúitus eum, diléxit eum et dixit ei: Unum tibi deest: vade, quæcúmque habes, vende et da paupéribus, et habébis thesáurum in cælo: et veni, séquere me.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Mark<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Mark 10:15-21</em></span><br>\nAt that time, Jesus said to His disciples, Whoever does not accept the kingdom of God as a little child will not enter into it. And He put His arms about the children, and laying His hands upon them, He began to bless them. And as He was going forth on His journey, a certain man running up fell upon his knees before Him, and asked Him, Good Master, what shall I do to gain eternal life? But Jesus said to him, Why do you call Me good? No one is good but only God. You know the commandments: You shall not commit adultery. You shall not kill. You shall not steal. You shall not bear false witness. You shall not defraud. Honor your father and mother. And he answered and said, Master, all these I have kept ever since I was a child. And Jesus, looking upon him, loved him, and said to him, One thing is lacking to you; go, sell whatever you have, and give to the poor, and you shall have treasure in heaven; and come, follow Me.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 137:1-2</em></span><br>\nIn conspéctu Angelórum psallam tibi: adorábo ad templum sanctum tuum, et confitébor nómini tuo."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 137:1-2</em></span><br>\nIn the presence of the angels I will sing Your praise; I will worship at Your holy temple and give thanks to Your name."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Ad mensam cœléstis convívii fac nos, Dómine, eam mentis et córporis puritátem afférre, qua beátus Antónius María, hanc sacratíssimam hóstiam ófferens, mirífice ornátus enítuit.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Septima die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nHóstias, Dómine, quas nómini tuo sacrándas offérimus, apostolica prosequátur orátio: per quam nos expiári tríbuas et deféndi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May we bring to the table of the heavenly banquet, O Lord, that purity of mind and body with which St. Anthony Mary was so wondrously imbued and in which he excelled when he offered these sacrificial gifts.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Seventh Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nHóstias, Dómine, quas nómini tuo sacrándas offérimus, apostolica prosequátur orátio: per quam nos expiári tríbuas et deféndi.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\nIt is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Philipp 3:17</em></span><br>\nImitatóres mei estóte, fratres, et observáte eos, qui ita ámbulant, sicut habétis formam nostram."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Phil 3:17</em></span><br>\nBrethren, be imitators of me, and mark those who walk after the pattern you have in us."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nCœlésti dape, qua pasti sumus, Dómine Jesu Christe, eo corda nostra caritátis igne flamméscant: quo beátus Antónius María salutáris hóstiæ vexíllum, contra Ecclésiæ tuæ hostes, éxtulit ad victóriam:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Septima die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nQuos cœlésti, Dómine, aliménto satiásti: apostólicis intercessiónibus ab omni adversitáte custódi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the heavenly banquet at which we have been fed, O Lord Jesus Christ, set our hearts aflame with that fire of love with which St. Anthony Mary bore the banner of the saving Victim to victory against the enemies of Your Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Seventh Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nO Lord, by the intercession of Your Apostles, defend from all harm those whom You have filled with heavenly food.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

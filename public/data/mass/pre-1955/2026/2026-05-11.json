@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-05-11",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Feria Secunda in Rogationibus",
+  "rank": "Feria major",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 17:7.</em></span><br>\nExaudívit de templo sancto suo vocem meam, allelúja: et clamor meus in conspectu ejus, introívit in aures ejus, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 17:2-3</em></span><br>\nDíligam te, Dómine, virtus mea: Dóminus firmaméntum meum et refúgium meum et liberátor meus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nExaudívit de templo sancto suo vocem meam, allelúja: et clamor meus in conspectu ejus, introívit in aures ejus, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 17:7</em></span><br>\nIn my affliction I called upon the Lord, and I cried to my God: And he heard my voice from his holy temple: and my cry before him came into his ears. allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 17:2-3</em></span><br>\nI will love thee, O Lord, my strength: The Lord is my firmament, my refuge, and my deliverer. .<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nIn my affliction I called upon the Lord, and I cried to my God: And he heard my voice from his holy temple: and my cry before him came into his ears. allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, qui in afflictióne nostra de tua pietáte confídimus; contra advérsa ómnia, tua semper protectióne muniámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nConcéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nDeus, ómnium fidélium pastor et rector, fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti, propítius réspice: da ei, quǽsumus, verbo et exémplo, quibus prǽest, profícere; ut ad vitam, una cum grege sibi crédito, pervéniat sempitérnam.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech thee, O Almighty God, that we who in our tribulation are yet of good cheer because of thy loving-kindness, may find thee mighty to save from all dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nGrant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of mind and body; and by the intercession of glorious and blessed Mary, ever Virgin, may we be delivered from present sorrow and partake to the full of eternal happiness.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nO God, the shepherd and ruler of all the faithful, graciously look upon thy servant Leo, who thou hast willed to be chief pastor of thy Church; grant him we beseech thee, by word and example to profit those over whom he rules, that together with the flock entrusted to him, he may attain to life everlasting.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Jacóbi Apóstoli.<br>\n<span class=\"rubric\"><em>Jas 5:16-20</em></span><br>\nCaríssimi: Confitémini altérutrum peccáta vestra, et oráte pro ínvicem, ut salvémini: multum enim valet deprecátio justi assídua. Elías homo erat símilis nobis passíbilis: et oratióne orávit, ut non plúeret super terram, et non pluit annos tres et menses sex. Et rursum orávit: et cœlum dedit plúviam et terra dedit fructum suum. Fratres mei, si quis ex vobis erráverit a veritáte et convérterit quis eum: scire debet, quóniam, qui convérti fécerit peccatórem ab erróre viæ suæ, salvábit ánimam ejus a morte, et opériet multitúdinem peccatórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St James the Apostle<br>\n<span class=\"rubric\"><em>Jas 5:16-20</em></span><br>\nDearly beloved: Confess therefore your sins one to another: and pray one for another, that you may be saved. For the continual prayer of a just man availeth much. Elias was a man passible like unto us: and with prayer he prayed that it might not rain upon the earth, and it rained not for three years and six months. And he prayed again: and the heaven gave rain, and the earth brought forth her fruit. My brethren, if any of you err from the truth, and one convert him: He must know that he who causeth a sinner to be converted from the error of his way, shall save his soul from death, and shall cover a multitude of sins.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "alleluia",
+      "kind": "alleluia",
+      "latin": {
+        "label": "Allelúja.",
+        "html": "Allelúja.<br>\n<span class=\"rubric\"><em>Ps 117:1.</em></span><br>\nConfitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia ejus."
+      },
+      "english": {
+        "label": "Alleluia.",
+        "html": "Allelúa, alleluia.<br>\n<span class=\"rubric\"><em>Ps 117:1</em></span><br>\nGive praise to Lord, for he is good: for his mercy endureth for ever."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 11:5-13</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Quis vestrum habébit amícum, et íbit ad illum média nocte, et dicet illi: Amíce, cómmoda mihi tres panes, quóniam amícus meus venit de via ad me, et non hábeo quod ponam ante illum: et ille deíntus respóndens, dicat: Noli mihi moléstus esse, jam óstium clausum est, et púeri mei mecum sunt in cubíli, non possum súrgere et dare tibi. Et si ille perseveráverit pulsans: dico vobis, etsi non dabit illi surgens, eo quod amícus ejus sit, propter improbitátem tamen ejus surget et dabit illi, quotquot habet necessários. Et ego dico vobis: Pétite, et dábitur vobis: quǽrite, et inveniétis: pulsáte, et aperiétur vobis. Omnis enim, qui petit, áccipit: et qui quærit, invénit: et pulsánti aperietur, Quis autem ex vobis patrem pétii panem, numquid lápidem dabit illi? Aut piscem: numquid pro pisce serpéntem dabit illi? Aut si petíerit ovum: numquid pórriget illi scorpiónem? Si ergo vos, cum sitis mali, nostis bona data dare fíliis vestris: quanto magis Pater vester de cœlo dabit spíritum bonum peténtibus se?<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 11:5-13</em></span><br>\nIn that time: Jesus said to His disciples: Which of you shall have a friend, and shall go to him at midnight, and shall say to him: Friend, lend me three loaves, Because a friend of mine is come off his journey to me, and I have not what to set before him. And he from within should answer, and say: Trouble me not, the door is now shut, and my children are with me in bed; I cannot rise and give thee. Yet if he shall continue knocking, I say to you, although he will not rise and give him, because he is his friend; yet, because of his importunity, he will rise, and give him as many as he needeth. And I say to you, Ask, and it shall be given you: seek, and you shall find: knock, and it shall be opened to you. For every one that asketh, receiveth; and he that seeketh, findeth; and to him that knocketh, it shall be opened. And which of you, if he ask his father bread, will he give him a stone? or a fish, will he for a fish give him a serpent? Or if he shall ask an egg, will he reach him a scorpion? If you then, being evil, know how to give good gifts to your children, how much more will your Father from heaven give the good Spirit to them that ask him?<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 108:30-31</em></span><br>\nConfitébor Dómino nimis in ore meo: et in médio multórum laudábo eum, qui ástitit a dextris páuperis: ut salvam fáceret a persequéntibus ánimam meam, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 108:30-31</em></span><br>\nI will give great thanks to the Lord with my mouth: and in the midst of many I will praise him. Because he hath stood at the right hand of the poor, to save my soul from persecutors, allelúja."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hæc múnera, quǽsumus, Dómine, et víncula nostræ pravitátis absólvant, et tuæ nobis misericórdiæ dona concílient.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nOblátis, quǽsumus, Dómine, placáre munéribus: et fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti, assídua protectióne gubérna.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We beseech thee, O Lord, that these offerings may both loosen the bonds of our wickedness and obtain for us the gift of mercy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nLook down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom thou hast chosen to be the chief pastor of the Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hoc potíssimum gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially in this season when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luc 11:9-10</em></span><br>\nPétite, et accipiétis: quǽrite, et inveniétis: pulsáte, et aperiétur vobis: omnis enim qui pétit, áccipit: et qui quærit, ínvenit: et pulsánti aperiétur, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Luke 11:9-10</em></span><br>\nAsk, and it shall be given you: seek, and you shall find: knock, and it shall be opened to you. For every one that asketh, receiveth; and he that seeketh, findeth; and to him that knocketh, it shall be opened, allelúja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nVota nostra, quǽsumus, Dómine, pio favóre proséquere: ut, dum dona tua in tribulatióne percípimus, de consolatióne nostra in tuo amóre crescámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nSumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nHæc nos, quǽsumus, Dómine, divíni sacraménti percéptio prótegat: et fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti; una cum commísso sibi grege, salvet semper et múniat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMercifully grant our prayers, we beseech thee, O Lord, that while we receive thy gifts in tribulation, we may be conforted, and so increase in thy love.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nGrant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nLet the reception of this divine Sacrament protect us, O Lord, we beseech theee: and may thy servant Leo, whom thou has chosen as the chief pastor of thy Church, along with the flock committed to him derive always from it protection and help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

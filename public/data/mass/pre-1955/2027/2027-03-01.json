@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-03-01",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Feria Secunda infra Hebdomadam III in Quadragesima",
+  "rank": "Feria major",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 55:5.</em></span><br>\nIn Deo laudábo verbum, in Dómino laudábo sermónem: in Deo sperábo, non timebo, quid fáciat mihi homo.<br>\n<span class=\"rubric\"><em>Ps 55:2</em></span><br>\nMiserére mei, Deus, quóniam conculcávit me homo: tota die bellans tribulávit me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nIn Deo laudábo verbum, in Dómino laudábo sermónem: in Deo sperábo, non timebo, quid fáciat mihi homo."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 55:5</em></span><br>\nIn God, in Whose promise I glory, in the Lord Whose word I praise, in God I trust without fear; what can flesh do against me?<br>\n<span class=\"rubric\"><em>Ps 55:2</em></span><br>\nHave pity on me, O God, for men trample upon me; all the day they press their attack against me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nIn God, in Whose promise I glory, in the Lord Whose word I praise, in God I trust without fear; what can flesh do against me?"
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nCórdibus nostris, quǽsumus, Dómine, grátiam tuam benígnus infúnde: ut, sicut ab escis carnálibus abstinémus; ita sensus quoque nostros a nóxiis retrahámus excéssibus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nOmnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris, quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet, vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia ómnium delictórum suórum véniam consequántur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO Lord, we beseech You, in Your mercy, pour forth Your grace into our hearts, that, as we abstain from material food, so may we restrain our senses from sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nAlmighty and eternal God, who has dominion over both the living and the dead, and has mercy upon all whom You foreknow will be Yours by faith and good works; we humbly beseech You that all for whom we have resolved to make supplication, whether the present world home still holds them in the flesh or the world to come holds them out of the body, may, through the intercession of Your saints, obtain of Your goodness and clemency pardon for all their sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Regum.<br>\n<span class=\"rubric\"><em>4 Reg 5:1-15</em></span><br>\nIn diébus illis: Náaman, princeps milítiæ regis Sýriæ, erat vir magnus apud dóminum suum, et honorátus: per illum enim dedit Dóminus salútem Sýriæ: erat autem vir fortis et dives, sed leprósus. Porro de Sýria egréssi fúerant latrúnculi, et captívam dúxerant de terra Israël puéllam párvulam, quæ erat in obséquio uxóris Náaman, quæ ait ad dóminam suam: Utinam fuísset dóminus meus ad Prophétam, qui est in Samaría: profécto curásset eum a lepra, quam habet. Ingréssus est ítaque Náaman ad dóminum suum, et nuntiávit ei, dicens: Sic et sic locúta est puélla de terra Israël. Dixítque ei rex Sýriæ: Vade, et mittam lítteras ad regem Israël. Qui cum proféctus esset, et tulísset secum decem talénta argénti, et sex míllia áureos, et decem mutatória vestimentórum, détulit lítteras ad regem Israël in hæc verba: Cum accéperis epístolam hanc, scito, quod míserim ad te Náaman servum meum, ut cures eum a lepra sua. Cumque legísset rex Israël lítteras, scidit vestiménta sua, et ait: Numquid Deus ego sum, ut occídere possim et vivificáre, quia iste misit ad me, ut curem hóminem a lepra sua? animadvértite et vidéte, quod occasiónes quærat advérsum me. Quod cum audísset Eliséus vir Dei, scidísse vidélicet regem Israël vestiménta sua, misit ad eum, dicens: Quare scidísti vestiménta tua? véniat ad me, et sciat esse prophétam in Israël. Venit ergo Náaman cum equis et cúrribus, et stetit ad óstium domus Eliséi: misítque ad eum Eliséus núntium, dicens: Vade, et laváre sépties in Jordáne, et recípiet sanitátem caro tua, atque mundáberis. Irátus Náaman recedébat, dicens: Putábam, quod egrederétur ad me, et stans invocáret nomen Dómini, Dei sui, et tángeret manu sua locum lepræ, et curáret me. Numquid non melióres sunt Abana et Pharphar, flúvii Damásci, ómnibus aquis Israël, ut laver in eis, et munder? Cum ergo vertísset se, et abíret indígnans, accessérunt ad eum servi sui, et locúti sunt ei: Pater, et si rem grandem dixísset tibi Prophéta, certe fácere debúeras: quanto magis quia nunc dixit tibi: Laváre, et mundáberis? Descéndit, et lavit in Jordáne sépties, juxta sermónem viri Dei, et restitúta est caro ejus, sicut caro púeri párvuli, et mundátus est. Reversúsque ad virum Dei cum univérso comitátu suo, venit, et stetit coram eo, et ait: Vere scio, quod non sit álius Deus in univérsa terra, nisi tantum in Israël.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Kings<br>\n<span class=\"rubric\"><em>4 Kings, 5:1-15</em></span><br>\nIn those days, Naaman, general of the army of the king of Syria, was a great man with his master, and honorable - for by him the Lord gave deliverance to Syria - and he was a valiant man and rich, but a leper. Now there had gone out robbers from Syria, and had led away captive out of the land of Israel a little maid, and she waited upon Naaman’s wife, and she said to her mistress, I wish my master had been with the prophet who is in Samaria; he would certainly have healed him of the leprosy which he has. Then Naaman went in to his lord, and told him, saying, Thus and thus said the girl from the land of Israel. And the king of Syria said to him, Go, and I will send a letter to the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment and brought the letter to the king of Israel, in these words, When you shall receive this letter, know that I have sent to you Naaman my servant, that you may heal him of his leprosy. And when the king of Israel had read the letter, he rent his garments and said, Am I God, to be able to kill and give life, that this man has sent to me to heal a man of his leprosy? Mark, and see how he seeks occasions against me. And when Eliseus the man of God had heard this, to wit, that the king of Israel had rent his garments, he sent to him, saying, Why have you rent your garments? Let him come in to me, and let him know that there is a prophet in Israel. So Naaman came with his horses and chariots, and stood at the door of the house of Eliseus: and Eliseus sent a messenger to him, saying, Go, and wash seven times in the Jordan, and your flesh shall recover health and you shall be clean. Naaman was angry and went away, saying, I thought he would have come out to me, and standing would have invoked the name of the Lord his God, and touched with his hand the place of the leprosy, and healed me. Are not the Abana and the Pharphar, rivers of Damascus, better than all the waters of Israel, that I may wash in them, and be made clean? So as he turned, and was going away with indignation, his servants came to him, and said to him, Father, if the prophet had bid you to do some great thing, surely you should have done it; how much rather what he now has said to you, ‘Wash, and you shall be clean’? Then he went down, and washed in the Jordan seven times, according to the word of the man of God, and his flesh was restored, like the flesh of a little child, and he was made clean. And returning to the man of God with all his train, he came, and stood before him, and said, In truth I know, there is no other God in all the earth, but only in Israel.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 55:9, 2</em></span><br>\nDeus, vitam meam annuntiávi tibi: posuísti lácrimas meas in conspéctu tuo.<br>\n<span class=\"marker\"><em>℣.</em></span> Miserére mei, Dómine, quóniam conculcávit me homo: tota die bellans tribulávit me.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 55:9, 2</em></span><br>\nO God, my wanderings You have counted; my tears are recorded in Your sight.<br>\n<span class=\"marker\"><em>℣.</em></span> Have pity on me, O Lord, for men trample upon me; all the day they press their attack against me.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\nO Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 4:23-30.</em></span><br>\nIn illo témpore: Dixit Jesus pharisǽis: Utique dicétis mihi hanc similitúdinem: Médice, cura teípsum: quanta audívimus facta in Caphárnaum, fac et hic in pátria tua. Ait autem: Amen, dico vobis, quia nemo prophéta accéptus est in pátria sua. In veritáte dico vobis, multæ víduæ erant in diébus Elíæ in Israël, quando clausum est cœlum annis tribus et ménsibus sex, cum facta esset fames magna in omni terra: et ad nullam illárum missus est Elías, nisi in Sarépta Sidóniæ ad mulíerem víduam. Et multi leprósi erant in Israël sub Eliséo Prophéta: et nemo eórum mundátus est nisi Náaman Syrus. Et repléti sunt omnes in synagóga ira, hæc audiéntes. Et surrexérunt, et ejecérunt illum extra civitátem: et duxérunt illum usque ad supercílium montis, super quem cívitas illórum erat ædificáta, ut præcipitárent eum. Ipse autem tránsiens per médium illórum, ibat.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 4:23-30</em></span><br>\nAt that time, Jesus said to the Pharisees: You will surely quote me this proverb, ‘Physician, cure Yourself! Whatever things we have heard of as done in Capharnaum, do here also in Your own country!’ But He said, Amen I say to you, no prophet is acceptable in his own country. In truth I say to you, there were many widows in Israel in the days of Elias, when heaven was shut up for three years and six months, and a great famine came over all the land; and to none of them was Elias sent, but rather to a widowed woman in Sarepta of Sidon. And there were many lepers in Israel in the time of Eliseus the prophet; and not one of them was cleansed, but only Naaman the Syrian. And all in the synagogue, as they heard these things, were filled with wrath. And they rose up and put Him forth out of the town, and led Him to the brow of the hill, on which their town was built, that they might throw Him down headlong. But He, passing through their midst, went His way.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 54:2-3</em></span><br>\nExáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: inténde in me, et exáudi me."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 54:2-3</em></span><br>\nHearken, O God, to my prayer; turn not away from my pleading; give heed to me, and answer me."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Munus, quod tibi, Dómine, nostræ servitútis offérimus, tu salutáre nobis pérfice sacraméntum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nDeus, cui soli cógnitus est númerus electórum in supérna felicitáte locándus: tríbue, quǽsumus; ut, intercedéntibus ómnibus Sanctis tuis, universórum, quos in oratióne commendátas suscépimus, et ómnium fidélium nómina beátæ prædestinatiónis liber adscrípta retíneat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, make for us a sacrament of salvation the gift of homage which we offer to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nO God who alone knowest the number of the elect to be admitted into heaven, grant, we beseech Thee, that through the intercession of all the saints, the names of all who have been recommended to our prayers and of all the faithful, may be inscribed in the book of blessed predestination.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 13:7</em></span><br>\nQuis dabit ex Sion salutáre Israël? cum avérterit Dóminus captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 13:7</em></span><br>\nOh, that out of Sion would come the salvation of Israel! When the Lord restores the well being of His people, then shall Jacob exult and Israel be glad."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nPræsta, quǽsumus, omnípotens et miséricors Deus: ut, quod ore contíngimus, pura mente capiámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nPuríficent nos, quǽsumus, omnípotens et miséricors Deus, sacraménta quæ súmpsimus: et, intercedéntibus ómnibus Sanctis tuis, præsta; ut hoc tuum sacraméntum non sit nobis reátus ad pœnam, sed intercéssio salutáris ad véniam: sit ablútio scélerum, sit fortitúdo fragílium, sit contra ómnia mundi perícula firmaméntum: sit vivórum atque mortuórum fidélium remíssio ómnium delictórum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\nOrémus.<br>\nHumiliáte cápita vestra Deo.<br>\nSubvéniat nobis, Dómine, misericórdia tua: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nGrant, we beseech You, almighty and merciful God, that what we take into our mouth, we may eat with a pure heart.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nMay the Sacraments which we have received purify us, we beseech Thee, O almighty and merciful Lord; and through the intercession of all the saints, grant that this Thy Sacrament may not be unto us a condemnation, but a salutory intercession for pardon; may it be the washing away of sin, the strength of the weak, a protection against all dangers of the world, and a remission of all the sins of the faithful, whether living or dead.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\nLet us pray.<br>\nBow your heads to God.<br>\nLet Your mercy come to our help, O Lord, that under Your protection we may be found worthy to be snatched from the threatening dangers of our sins, and saved by Your deliverance.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

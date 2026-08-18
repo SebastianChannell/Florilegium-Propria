@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-06-21",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Aloisii Gonzagæ Confessoris",
+  "rank": "Duplex",
+  "note": "Scriptura: Feria secunda infra Hebdomadam V post Octavam Pentecostes",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 8:6</em></span><br>\nMinuísti eum paulo minus ab Angelis: glória et honóre coronásti eum.<br>\n<span class=\"rubric\"><em>Ps 148:2</em></span><br>\nLaudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nMinuísti eum paulo minus ab Angelis: glória et honóre coronásti eum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 8:6</em></span><br>\nYou have made him little less than the angels, and crowned him with glory and honor.<br>\n<span class=\"rubric\"><em>Ps 148:2</em></span><br>\nPraise the Lord, all you His angels, praise Him, all you His hosts.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nYou have made him little less than the angels, and crowned him with glory and honor."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nCœléstium donórum distribútor, Deus, qui in angélico júvene Aloísio miram vitæ innocéntiam pari cum pœniténtia sociásti: ejus méritis et précibus concéde; ut, innocéntem non secúti, pœniténtem imitémur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, bestower of heavenly gifts, Who in the angelic youth Aloysius joined wondrous innocence of life to an equally wondrous love of penance; grant, by his merits and prayers, that we who have not followed him in his innocence may imitate him in his penance.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Eccli 31:8-11</em></span><br>\nBeátus vir, qui invéntus est sine mácula, et qui post aurum non ábiit, nec sperávit in pecúnia et thesáuris. Quis est hic, et laudábimus eum? fecit enim mirabília in vita sua. Qui probátus est in illo, et perféctus est, erit illi glória ætérna: qui potuit tránsgredi, et non est transgréssus: fácere mala, et non fecit: ídeo stabilíta sunt bona illíus in Dómino, et eleemósynas illíus enarrábit omnis ecclésia sanctórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Ecclesiasticus<br>\n<span class=\"rubric\"><em>Sir 31:8-11</em></span><br>\nHappy the man found without fault, who turns not aside after gain, nor puts his trust in money nor in treasures! Who is he, that we may praise him? For he has done wonders in his life. He has been tested by gold and come off safe, and this remains his glory forever; he could have sinned but did not, could have done evil but would not, so that his possessions are secure in the Lord, and the assembly of the Saints shall recount his alms.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 70:5-6</em></span><br>\nDómine, spes mea a juventúte mea: in te confirmátus sum ex útero: de ventre matris meæ tu es protéctor meus.<br>\n<span class=\"rubric\"><em>Ps 40:13</em></span><br>\nMe autem propter innocéntiam suscepísti: et confirmásti me in conspéctu tuo in ætérnum.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 64:5</em></span><br>\nBeátus, quem elegísti et assumpsísti: inhabitábit in átriis tuis. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 70:5-6</em></span><br>\nMy trust, O Lord, from my youth; on You I depend from birth; from my mother’s womb You are my strength.<br>\n<span class=\"rubric\"><em>Ps 40:13</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> But because of my integrity You sustain me and let me stand before You forever. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 64:5</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Happy the man You choose, and bring to dwell in Your courts. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 22:29-40</em></span><br>\nIn illo témpore: Respóndens Jesus, ait sadducæis: Errátis, nesciéntes Scriptúras neque virtútem Dei. In resurrectióne enim neque nubent neque nubéntur: sed erunt sicut Angeli Dei in cœlo. De resurrectióne autem mortuórum non legístis, quod dictum est a Deo dicénte vobis: Ego sum Deus Abraham et Deus Isaac et Deus Jacob? Non est Deus mortuórum, sed vivéntium. Et audiéntes turbæ, mirabántur in doctrína ejus. Pharisæi autem audiéntes, quod siléntium imposuísset sadducæis, convenérunt in unum: et interrogávit eum unus ex eis legis doctor, tentans eum: Magíster, quod est mandátum magnum in lege? Ait illi Jesus: Díliges Dóminum, Deum tuum, ex toto corde tuo, et in tota ánima tua, et in tota mente tua. Hoc est máximum et primum mandátum. Secúndum autem símile est huic: Díliges próximum tuum, sicut teípsum. In his duóbus mandátis univérsa lex pendet et Prophétæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 22:29-40</em></span><br>\nAt that time, Jesus answered and said to the Sadducees, You err because you know neither the Scriptures nor the power of God. For at the Resurrection they will neither marry nor be given in marriage, but will be as angels of God in heaven. But as to the resurrection of the dead, have you not read what was spoken to you by God, saying, ‘I am the God of Abraham, and the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living. And when the crowds heard this, they marveled at His teaching. But the Pharisees, hearing that He had silenced the Sadducees, gathered together. And one of them, a doctor of the Law, putting Him to the test, asked Him, Master, which is the great commandment in the Law? Jesus said to him, You shall love the Lord your God with your whole heart, and with your whole soul, and with your whole mind.’ This is the greatest and the first commandment. And the second is like it, ‘You shall love your neighbor as yourself.’ On these two commandments depend the whole Law and the Prophets.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 23:3-4</em></span><br>\nQuis ascéndet in montem Dómini, aut quis stabit in loco sancto ejus? Innocens mánibus, et mundo corde."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 23:3-4</em></span><br>\nWho can ascend the mountain of the Lord? or who may stand in His holy place? He whose hands are sinless, whose heart is clean."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Cœlésti convívio fac nos, Dómine, nuptiáli veste indútos accúmbere: quam beáti Aloísii pia præparátio et juges lácrimæ inæstimabílibus ornábant margarítis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Make us take our place, O Lord, at Your heavenly banquet clothed in the wedding-garment which the loving preparation and constant tears of blessed Aloysius adorned with precious pearls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 77:24-25</em></span><br>\nPanem cœli dedit eis: panem Angelórum manducávit homo."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 77:24-25</em></span><br>\nHe gave them heavenly bread; the bread of the angels was eaten by men."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nAngelórum esca nutrítos, angélicis étiam, Dómine, da móribus vívere: et ejus, quem hódie cólimus, exémplo in gratiárum semper actióne manére.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nGrant, O Lord, that we who have been fed with the food of angels may also live angelic lives, and, following the example of him whom we honor today, may we spend our days in unceasing thanksgiving.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

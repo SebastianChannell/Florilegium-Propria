@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-12-21",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Thomæ Apostoli",
+  "rank": "Duplex II. classis",
+  "note": "Commemoratio: Feria III infra Hebdomadam IV Adventus",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nMihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"rubric\"><em>Ps 138:1-2.</em></span><br>\nDómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nMihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nTo me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened.<br>\n<span class=\"rubric\"><em>Ps 138:1-2</em></span><br>\nO Lord, You have probed me and You know me; You know when I sit and when I stand.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nTo me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDa nobis, quǽsumus, Dómine, beáti Apóstoli tui Thomæ sollemnitátibus gloriári: ut ejus semper et patrocíniis sublevémur; et fidem cóngrua devotióne sectémur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria III infra Hebdomadam IV Adventus</em></span><br>\nExcita, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO Lord, grant us, we beseech You, to glory in the feast-day of blessed Thomas, Your Apostle, that we may be helped continually by his patronage and imitate his faith with a devotion like his.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria III infra Hebdomadam IV Adventus</em></span><br>\nPut forth Your power, O Lord, we beseech You, and delay not: and with Your great might come to our aid, so that what is hindered by our sins may be hastened by Your merciful goodness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios.<br>\n<span class=\"rubric\"><em>Ephes 2:19-22</em></span><br>\nFratres: Jam non estis hóspites et ádvenæ: sed estis cives sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum et Prophetárum, ipso summo angulári lápide Christo Jesu: in quo omnis ædificátio constrúcta crescit in templum sanctum in Dómino, in quo et vos coædificámini in habitáculum Dei in Spíritu.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Ephesians<br>\n<span class=\"rubric\"><em>Eph 2:19-22</em></span><br>\nBrethren: You are now no longer strangers and foreigners, but you are citizens with the saints and members of God’s household: you are built upon the foundation of the apostles and prophets with Christ Jesus Himself as the chief cornerstone. In Him the whole structure is closely fitted together and grows into a temple holy in the Lord, in Him you too are being built together into a dwelling place for God in the Spirit.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18.</em></span><br>\nNimis honorati sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Dinumerábo eos, et super arénam multiplicabúntur. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nGaudéte, justi, in Dómino: rectos decet collaudátio. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18</em></span><br>\nYour friends, O God, are made exceedingly honorable: their principality is exceedingly strengthened.<br>\n<span class=\"marker\"><em>℣.</em></span> Were I to recount them, they would outnumber the sands. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Exult, you just, in the Lord; praise from the upright is fitting. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joann 20:24-29</em></span><br>\nIn illo témpore: Thomas, unus ex duódecim, qui dícitur Dídymus, non erat cum eis, quando venit Jesus. Dixérunt ergo ei alii discípuli: Vídimus Dóminum. Ille autem dixit eis: Nisi videro in mánibus ejus fixúram clavórum, et mittam dígitum meum in locum clavórum, et mittam manum meam in latus ejus, non credam. Et post dies octo, íterum erant discípuli ejus intus, et Thomas cum eis. Venit Jesus jánuis clausis, et stetit in médio, et dixit: Pax vobis. Deinde dicit Thomæ: Inter dígitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum: et noli esse incrédulus, sed fidélis. Respóndit Thomas et dixit ei: Dóminus meus et Deus meus. Dixit ei Jesus: Quia vidisti me, Thoma, credidísti: beáti, qui non vidérunt, et credidérunt.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 20:24-29</em></span><br>\nAt that time, Thomas, one of the Twelve, called the Twin, was not with them when Jesus came. The other disciples therefore said to him, We have seen the Lord. But he said to them, Unless I see in His hands the print of the nails, and put my finger into the place of the nails, and put my hand into His side, I will not believe. And after eight days, His disciples were again inside, and Thomas with them. Jesus came, the doors being closed, and stood in their midst, and said, Peace be to you! Then He said to Thomas, Bring here your finger, and see My hands; and bring here your hand, and put it into My side; and be not unbelieving, but believing. Thomas answered and said to Him, ‘My Lord and my God! Jesus said to him, Because you have seen Me, Thomas, you have believed. Blessed are they who have not seen, and yet have believed.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 18:5</em></span><br>\nIn omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 18:5</em></span><br>\nThrough all the earth their voice resounds, and to the ends of the world, their message."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Débitum tibi, Dómine, nostræ réddimus servitútis, supplíciter exorántes: ut, suffrágiis beáti Thomæ Apóstoli, in nobis tua múnera tueáris, cujus honoránda confessióne laudis tibi hóstias immolámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria III infra Hebdomadam IV Adventus</em></span><br>\nSacrifíciis præséntibus, quǽsumus, Dómine, placátus inténde: ut et devotióni nostræ profíciant et salúti.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, we who dutifully worship You humbly entreat You that, by the prayers of Your blessed Apostle Thomas, in honor of whose martyrdom we offer these sacrifices of praise, You safeguard Your gifts within us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria III infra Hebdomadam IV Adventus</em></span><br>\nLook with favor, O Lord, we beseech You, upon the offerings here present, that they may be profitable for our devotion and for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\nIt is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joannes 20:27</em></span><br>\nMitte manum tuam, et cognósce loca clavórum, allelúja: et noli esse incrédulus, sed fidélis, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 20:27</em></span><br>\nPut in your hand and know the place of the nails, and be not unbelieving, but believing."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nAdésto nobis, miséricors Deus: et, intercedénte pro nobis beáto Thoma Apóstolo, tua circa nos propitiátus dona custódi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria III infra Hebdomadam IV Adventus</em></span><br>\nSumptis munéribus, quǽsumus, Dómine: ut, cum frequentatióne mystérii, crescat nostræ salútis efféctus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMerciful God, abide with us, and through the intercession of Your blessed Apostle Thomas, mercifully safeguard the gifts You have given us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria III infra Hebdomadam IV Adventus</em></span><br>\nHaving received Your gifts, we beseech You, O Lord, that each partaking of this sacrament may increase within us its saving effect.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -2,7 +2,6 @@ import { execFile } from "node:child_process";
 import { cpus } from "node:os";
 import {
   mkdir,
-  readFile,
   readdir,
   rm,
   writeFile,
@@ -11,6 +10,13 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { promisify } from "node:util";
 import { parseDivinumMass } from "./lib/divinum-parser.mjs";
+import {
+  DEFAULT_RUBRIC_KEY,
+  RUBRIC_DEFINITIONS,
+  RUBRIC_KEYS,
+  rubricAssetPath,
+  rubricKey,
+} from "./lib/rubrics.mjs";
 
 const run = promisify(execFile);
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -55,13 +61,13 @@ async function sourceMetadata(sourceDirectory) {
   };
 }
 
-async function generateDay({ date, sourceDirectory, source }) {
+async function generateDay({ date, rubric, sourceDirectory, source }) {
   const script = join(sourceDirectory, "web", "cgi-bin", "missa", "missa.pl");
   const { stdout, stderr } = await run(
     process.env.PERL ?? "perl",
     [
       script,
-      "version=Rubrics 1960 - 1960",
+      `version=${rubric.version}`,
       "command=praySanctaMissa",
       `date=${divinumDate(date)}`,
       "lang1=Latin",
@@ -78,13 +84,13 @@ async function generateDay({ date, sourceDirectory, source }) {
   );
 
   if (stderr.trim()) {
-    throw new Error(`${date}: Divinum Officium wrote to stderr: ${stderr.trim()}`);
+    throw new Error(`${date} (${rubric.label}): Divinum Officium wrote to stderr: ${stderr.trim()}`);
   }
 
-  return parseDivinumMass(stdout, { date, source });
+  return parseDivinumMass(stdout, { date, rubricKey: rubric.key, source });
 }
 
-async function inParallel(items, concurrency, task) {
+async function inParallel(items, concurrency, label, task) {
   const results = new Array(items.length);
   let cursor = 0;
   let complete = 0;
@@ -96,7 +102,7 @@ async function inParallel(items, concurrency, task) {
       results[index] = await task(items[index], index);
       complete += 1;
       if (complete % 25 === 0 || complete === items.length) {
-        process.stdout.write(`Resolved ${complete}/${items.length} days\n`);
+        process.stdout.write(`${label}: resolved ${complete}/${items.length} days\n`);
       }
     }
   }
@@ -105,11 +111,19 @@ async function inParallel(items, concurrency, task) {
   return results;
 }
 
-async function availableYears(outputDirectory) {
+function editionDirectory(outputDirectory, rubric) {
+  return rubric.dataPath ? join(outputDirectory, rubric.dataPath) : outputDirectory;
+}
+
+async function availableYears(outputDirectory, rubric) {
+  const directory = editionDirectory(outputDirectory, rubric);
   try {
-    const entries = await readdir(outputDirectory, { withFileTypes: true });
+    const entries = await readdir(directory, { withFileTypes: true });
     return entries
-      .filter((entry) => entry.isDirectory() && /^\d{4}$/.test(entry.name))
+      .filter((entry) => (
+        entry.isDirectory()
+        && /^\d{4}$/.test(entry.name)
+      ))
       .map((entry) => Number(entry.name))
       .sort((left, right) => left - right);
   } catch (error) {
@@ -118,62 +132,119 @@ async function availableYears(outputDirectory) {
   }
 }
 
+async function generateEditionYear({
+  concurrency,
+  dates,
+  outputDirectory,
+  rubric,
+  source,
+  sourceDirectory,
+  year,
+}) {
+  const masses = await inParallel(dates, concurrency, rubric.label, (date) => generateDay({
+    date,
+    rubric,
+    sourceDirectory,
+    source,
+  }));
+
+  const yearDirectory = join(editionDirectory(outputDirectory, rubric), String(year));
+  await rm(yearDirectory, { recursive: true, force: true });
+  await mkdir(yearDirectory, { recursive: true });
+
+  for (const mass of masses) {
+    await writeFile(join(yearDirectory, `${mass.date}.json`), `${JSON.stringify(mass, null, 2)}\n`);
+  }
+
+  const days = Object.fromEntries(masses.map((mass) => [mass.date, {
+    title: mass.title,
+    rank: mass.rank,
+    note: mass.note,
+    sectionCount: mass.sections.length,
+    path: rubricAssetPath(rubric.key, mass.date),
+  }]));
+
+  const manifest = {
+    schemaVersion: 2,
+    year,
+    rubricKey: rubric.key,
+    label: rubric.label,
+    rubrics: rubric.version,
+    missal: rubric.missal,
+    source,
+    days,
+  };
+  await writeFile(join(yearDirectory, "index.json"), `${JSON.stringify(manifest, null, 2)}\n`);
+
+  process.stdout.write(
+    `Generated ${masses.length} ${rubric.label} Masses for ${year} from ${source.commit.slice(0, 12)}\n`,
+  );
+}
+
+async function writeAvailableManifest(outputDirectory, source) {
+  const rubrics = {};
+  for (const key of RUBRIC_KEYS) {
+    const rubric = RUBRIC_DEFINITIONS[key];
+    rubrics[key] = {
+      label: rubric.label,
+      version: rubric.version,
+      missal: rubric.missal,
+      years: await availableYears(outputDirectory, rubric),
+    };
+  }
+
+  await writeFile(join(outputDirectory, "available.json"), `${JSON.stringify({
+    schemaVersion: 2,
+    defaultRubric: DEFAULT_RUBRIC_KEY,
+    rubrics,
+    source,
+  }, null, 2)}\n`);
+}
+
 const options = argumentsFor(process.argv.slice(2));
 const year = Number.parseInt(options.get("year") ?? "", 10);
-const sourceDirectory = resolve(options.get("source") ?? process.env.DIVINUM_OFFICIUM_SOURCE ?? "");
+const sourceOption = options.get("source") ?? process.env.DIVINUM_OFFICIUM_SOURCE;
+const sourceDirectory = resolve(sourceOption ?? ".");
 const outputDirectory = resolve(options.get("output") ?? join(root, "public", "data", "mass"));
 const concurrency = Number.parseInt(
   options.get("concurrency") ?? String(Math.min(8, Math.max(2, cpus().length))),
   10,
 );
+const requestedRubrics = String(options.get("rubrics") ?? "all").trim().toLowerCase();
+const requestedRubricKey = requestedRubrics === "all"
+  ? null
+  : rubricKey(requestedRubrics, { fallback: null });
 
 if (!Number.isInteger(year) || year < 1900 || year > 2100) {
   throw new Error("Provide --year with a value from 1900 through 2100");
 }
 
-if (!options.get("source") && !process.env.DIVINUM_OFFICIUM_SOURCE) {
+if (!sourceOption) {
   throw new Error("Provide --source or set DIVINUM_OFFICIUM_SOURCE");
+}
+
+if (!Number.isInteger(concurrency) || concurrency < 1 || concurrency > 64) {
+  throw new Error("Provide --concurrency with a value from 1 through 64");
+}
+
+if (requestedRubrics !== "all" && !requestedRubricKey) {
+  throw new Error("Provide --rubrics with one of: all, 1954, pre-1955, 1960");
 }
 
 const source = await sourceMetadata(sourceDirectory);
 const dates = datesInYear(year);
-const masses = await inParallel(dates, concurrency, (date) => generateDay({
-  date,
-  sourceDirectory,
-  source,
-}));
+const keys = requestedRubrics === "all" ? RUBRIC_KEYS : [requestedRubricKey];
 
-const yearDirectory = join(outputDirectory, String(year));
-await rm(yearDirectory, { recursive: true, force: true });
-await mkdir(yearDirectory, { recursive: true });
-
-for (const mass of masses) {
-  await writeFile(join(yearDirectory, `${mass.date}.json`), `${JSON.stringify(mass, null, 2)}\n`);
+for (const key of keys) {
+  await generateEditionYear({
+    concurrency,
+    dates,
+    outputDirectory,
+    rubric: RUBRIC_DEFINITIONS[key],
+    source,
+    sourceDirectory,
+    year,
+  });
 }
 
-const days = Object.fromEntries(masses.map((mass) => [mass.date, {
-  title: mass.title,
-  rank: mass.rank,
-  note: mass.note,
-  sectionCount: mass.sections.length,
-  path: `/data/mass/${year}/${mass.date}.json`,
-}]));
-
-const manifest = {
-  schemaVersion: 1,
-  year,
-  rubrics: "Rubrics 1960 - 1960",
-  missal: "1962 Roman Missal",
-  source,
-  days,
-};
-await writeFile(join(yearDirectory, "index.json"), `${JSON.stringify(manifest, null, 2)}\n`);
-
-const years = await availableYears(outputDirectory);
-await writeFile(join(outputDirectory, "available.json"), `${JSON.stringify({
-  schemaVersion: 1,
-  years,
-  source,
-}, null, 2)}\n`);
-
-process.stdout.write(`Generated ${masses.length} Masses for ${year} from ${source.commit.slice(0, 12)}\n`);
+await writeAvailableManifest(outputDirectory, source);

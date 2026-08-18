@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-09-14",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Exaltatione Sanctæ Crucis",
+  "rank": "Duplex majus",
+  "note": "Scriptura: Feria Secunda infra Hebdomadam XVI post Octavam Pentecostes III. Septembris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Gal 6:14</em></span><br>\nNos autem gloriári opórtet in Cruce Dómini nostri Jesu Christi: in quo est salus, vita et resurréctio nostra: per quem salváti et liberáti sumus.<br>\n<span class=\"rubric\"><em>Ps 66:2</em></span><br>\nDeus misereátur nostri, et benedícat nobis: illúminet vultum suum super nos, et misereátur nostri.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nNos autem gloriári opórtet in Cruce Dómini nostri Jesu Christi: in quo est salus, vita et resurréctio nostra: per quem salváti et liberáti sumus."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Gal 6:14</em></span><br>\nBut it behooves us to glory in the Cross of our Lord Jesus Christ: in Whom is our salvation, life, and resurrection: by Whom we are saved, and delivered.<br>\n<span class=\"rubric\"><em>Ps 66:2</em></span><br>\nMay God have pity on us and bless us; may He let His face shine upon us; and may He have pity on us.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nBut it behooves us to glory in the Cross of our Lord Jesus Christ: in Whom is our salvation, life, and resurrection: by Whom we are saved, and delivered."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui nos hodiérna die Exaltatiónis sanctæ Crucis ánnua sollemnitáte lætíficas: præsta, quǽsumus; ut, cujus mystérium in terra cognóvimus, ejus redemptiónis præmia in cœlo mereámur.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who gladden us this day by the yearly feast of the Exaltation of the Holy Cross, grant, we beseech You, that we who know on earth the mysteries of Christ may be found worthy to obtain in heaven the rewards of His redemption.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses<br>\n<span class=\"rubric\"><em>Philipp 2:5-11</em></span><br>\nFratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapinam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accipiens, in similitudinem hóminum factus, et hábitu inventus ut homo. Humiliávit semetípsum, factus obœ́diens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum: et donávit illi nomen, quod est super omne nomen: <span class=\"rubric\">hic genuflectitur</span> ut in nomine Jesu omne genu flectátur cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Philippians<br>\n<span class=\"rubric\"><em>Phil 2:5-11</em></span><br>\nBrethren: Have this mind in you which was also in Christ Jesus, Who though He was by nature God, did not consider being equal to God a thing to be clung to, but emptied Himself, taking the nature of a slave and being made like unto men. And appearing in the form of man, He humbled Himself, becoming obedient to death, even to death on a cross. Therefore God also has exalted Him and has bestowed upon Him the name that is above every name, <span class=\"rubric\">here all genuflect</span> so that at the name of Jesus every knee should bend of those in heaven, on earth and under the earth, and every tongue should confess that the Lord Jesus Christ is in the glory of God the Father.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Phil 2:8-9</em></span><br>\nChristus factus est pro nobis obœ́diens usque ad mortem, mortem autem crucis.<br>\n<span class=\"marker\"><em>℣.</em></span> Propter quod et Deus exaltávit illum, et dedit illi nomen, quod est super omne nomen. Allelúja, allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> Dulce lignum, dulces clavos, dúlcia ferens póndera: quæ sola fuísti digna sustinére Regem cœlórum et Dóminum. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Phil 2:8-9</em></span><br>\nChrist became obedient for us to death, even to death on a cross.<br>\n<span class=\"marker\"><em>℣.</em></span> Therefore God also has exalted Him, and has bestowed upon Him the name that is above every name. Alleluia, alleluia.<br>\n<span class=\"marker\"><em>℣.</em></span> Sweet the wood, sweet the nails, sweet the load that hangs on you: to bear up the King and Lord of heaven, you alone were worthy. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joann 12:31-36</em></span><br>\nIn illo témpore: Dixit Jesus turbis Judæórum: Nunc judícium est mundi: nunc princeps hujus mundi ejiciétur foras. Et ego si exaltátus fuero a terra, ómnia traham ad meipsum. (Hoc autem dicébat, signíficans qua morte esset moritúrus.) Respóndit ei turba. Nos audívimus ex lege, quia Christus manet in ætérnum: et quómodo tu dicis: Opórtet exaltári Fílium hóminis? Quis est iste Fílius hóminis? Dixit ergo eis Jesus: Adhuc módicum lumen in vobis est. Ambuláte, dum lucem habétis, ut non vos ténebræ comprehéndant: et qui ámbulat in ténebris, nescit, quo vadat. Dum lucem habétis, crédite in lucem, ut fílii lucis sitis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 12:31-36</em></span><br>\nAt that time, Jesus said to the multitudes of the Jews, Now is the judgment of the world; now will the prince of the world be cast out. And I, if I be lifted up from the earth, will draw all things to Myself. Now he said this signifying by what death He was to die. The crowd answered Him, We have heard from the Law that the Christ abides forever. And how can You say, ‘The son of Man must be lifted up’? Who is this Son of Man? Jesus therefore said to them, Yet a little while the light is among you. Walk while you have the light, that darkness may not overtake you. He who walks in the darkness does not know where he goes. While you have the light, believe in the light, that you may become sons of light.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "Prótege, Dómine, plebem tuam per signum sanctæ Crucis ab ómnibus insídiis inimicórum ómnium: ut tibi gratam exhibeámus servitútem, et acceptábile fiat sacrifícium nostrum, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "Through the sign of the Holy Cross protect Your people, O Lord, from the snares of all their enemies, that we may pay You a worthy service, and our sacrifice may be acceptable to You, alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Jesu Christi, Dómini nostri, Córpore et Sánguine saginándi, per quem Crucis est sanctificátum vexíllum: quǽsumus, Dómine, Deus noster; ut, sicut illud adoráre merúimus, ita perénniter ejus glóriæ salutáris potiámur efféctu.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We who are about to take as nourishment the Body and Blood of Jesus Christ our Lord, through Whom the Cross became a holy emblem, beseech You, O Lord, that just as we have the grace to honor it, so we may forever enjoy the salvation it has won for us.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Sancta Cruce</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui salútem humáni géneris in ligno Crucis constituísti: ut, unde mors oriebátur, inde vita resúrgeret: et, qui in ligno vincébat, in ligno quoque vincerétur: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti júbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Cross</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who didst establish the salvation of mankind on the tree of the Cross; that whence death came, thence also life might arise again, and that he, who overcame by the tree, by the tree also might be overcome: Through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "Per signum Crucis de inimícis nostris líbera nos, Deus noster."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "Through the sign of the Cross, deliver us from our enemies, O our God."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nAdésto nobis, Dómine, Deus noster: et, quos sanctæ Crucis lætári facis honóre, ejus quoque perpétuis defénde subsídiis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nStand by us, O Lord our God, and protect by Your everlasting help those to whom You have given strength through Your sacrament.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

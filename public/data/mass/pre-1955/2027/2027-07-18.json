@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-07-18",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Dominica IX Post Pentecosten",
+  "rank": "Semiduplex Dominica minor",
+  "note": "Commemoratio: S. Camilli de Lellis Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 53:6-7</em></span><br>\nEcce, Deus adjuvat me, et Dóminus suscéptor est ánimæ meæ: avérte mala inimícis meis, et in veritáte tua dispérde illos, protéctor meus, Dómine.<br>\n<span class=\"rubric\"><em>Ps 53:3</em></span><br>\nDeus, in nómine tuo salvum me fac: et in virtúte tua libera me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nEcce, Deus adjuvat me, et Dóminus suscéptor est ánimæ meæ: avérte mala inimícis meis, et in veritáte tua dispérde illos, protéctor meus, Dómine."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 53:6-7</em></span><br>\nBehold, God is my helper, the Lord sustains my life. Turn back the evil upon my foes; in Your faithfulness destroy them, O Lord, my protector.<br>\n<span class=\"rubric\"><em>Ps 53:3</em></span><br>\nO God, by Your name save me, and by Your might deliver me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nBehold, God is my helper, the Lord sustains my life. Turn back the evil upon my foes; in Your faithfulness destroy them, O Lord, my protector."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nPáteant aures misericórdiæ tuæ, Dómine, précibus supplicántium: et, ut peténtibus desideráta concédas; fac eos quæ tibi sunt plácita, postuláre.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Camilli de Lellis Confessoris</em></span><br>\nDeus, qui sanctum Camíllum, ad animárum in extrémo agóne luctántium subsídium, singulári caritátis prærogatíva decorásti: ejus, quǽsumus, méritis, spíritum nobis tuæ dilectiónis infúnde; ut in hora éxitus nostri hostem víncere, et ad cœléstem mereámur corónam perveníre.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Symphorosæ et Septem Filiorum Martyrum</em></span><br>\nDeus, qui nos concédis sanctórum Mártyrum tuórum Symphorósæ et filiórum ejus natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nMay Your merciful ears be open, O Lord, to the prayers of those who humbly entreat You; grant that they may ask for what pleases You so that You may fulfill their desires.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Camillus de Lellis, Confessor</em></span><br>\nO God, Who endowed St. Camillus with a special gift of charity for the help of souls struggling in their final agony, pour upon us, we beseech You, by his merits, the spirit of Your love, so that in the hour of our death we may be found worthy to overcome the enemy and attain the heavenly crown.<br>\n<span class=\"rubric\"><em>Commemoration S. Symphorosa with her Seven Sons, Martyrs</em></span><br>\nO God, Who permits us to celebrate the anniversary of the death of Your holy Martyrs, Symphorosa and her sons, grant that we may enjoy their companionship in everlasting happiness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios<br>\n<span class=\"rubric\"><em>1 Cor 10:6-13</em></span><br>\nFratres: Non simus concupiscéntes malórum, sicut et illi concupiérunt. Neque idolólatræ efficiámini, sicut quidam ex ipsis: quemádmodum scriptum est: Sedit pópulus manducáre et bíbere, et surrexérunt lúdere. Neque fornicémur, sicut quidam ex ipsis fornicáti sunt, et cecidérunt una die vigínti tria mília. Neque tentémus Christum, sicut quidam eórum tentavérunt, et a serpéntibus periérunt. Neque murmuravéritis, sicut quidam eórum murmuravérunt, et periérunt ab exterminatóre. Hæc autem ómnia in figúra contingébant illis: scripta sunt autem ad correptiónem nostram, in quos fines sæculórum devenérunt. Itaque qui se exístimat stare, vídeat ne cadat. Tentátio vos non apprehéndat, nisi humána: fidélis autem Deus est, qui non patiétur vos tentári supra id, quod potéstis, sed fáciet étiam cum tentatióne provéntum, ut póssitis sustinére.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 10:6-13</em></span><br>\nBrethren: We should not lust after evil things even as they lusted. And do not become idolaters, even as some of them were, as it is written, The people sat down to eat and drink, and rose up to play. Neither let us commit fornication, even as some of them committed fornication, and there fell in one day twenty-three thousand. Neither let us tempt Christ, as some of them tempted, and perished by the serpents. Neither murmur, as some of them murmured, and perished at the hands of the destroyer. Now all these things happened to them as a type, and they were written for our correction, upon whom the final age of the world has come. Therefore let him who thinks he stands take heed lest he fall. May no temptation take hold of you but such as man is equal to. God is faithful and will not permit you to be tempted beyond your strength, but with the temptation will also give you a way out that you may be able to bear it.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 8:2</em></span><br>\nDómine, Dóminus noster, quam admirábile est nomen tuum in universa terra!<br>\n<span class=\"marker\"><em>℣.</em></span> Quóniam eleváta est magnificéntia tua super cœlos.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 58:2</em></span><br>\nEripe me de inimícis meis, Deus meus: et ab insurgéntibus in me líbera me. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 8:2</em></span><br>\nO Lord, our Lord, how glorious is Your name over all the earth!<br>\n<span class=\"marker\"><em>℣.</em></span> You have elevated Your Majesty above the heavens.<br>\nAlleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 58:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Rescue me from my enemies, O my God; from my adversaries defend me. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 19:41-47</em></span><br>\nIn illo témpore: Cum appropinquáret Jesus Jerúsalem, videns civitátem, flevit super illam, dicens: Quia si cognovísses et tu, et quidem in hac die tua, quæ ad pacem tibi, nunc autem abscóndita sunt ab óculis tuis. Quia vénient dies in te: et circúmdabunt te inimíci tui vallo, et circúmdabunt te: et coangustábunt te úndique: et ad terram prostérnent te, et fílios tuos, qui in te sunt, et non relínquent in te lápidem super lápidem: eo quod non cognóveris tempus visitatiónis tuæ. Et ingréssus in templum, cœpit ejícere vendéntes in illo et eméntes, dicens illis: Scriptum est: Quia domus mea domus oratiónis est. Vos autem fecístis illam speluncam latrónum. Et erat docens quotídie in templo.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 19:41-47</em></span><br>\nAt that time, when Jesus drew near to Jerusalem and saw the city, He wept over it, saying, If you had known, in this your day, even you, the things that are for your peace! But now they are hidden from your eyes. For days will come upon you when your enemies will throw up a rampart about you, and surround you and shut you in on every side, and will dash you to the ground and your children within you, and will not leave in you one stone upon another, because you have not known the time of your visitation. And He entered the temple, and began to cast out those who were selling and buying in it, saying to them, It is written, ‘My house is a house of prayer,’ but you have made it a den of thieves. And He was teaching daily in the temple.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 18:9, 10, 11, 12</em></span><br>\nJustítiæ Dómini rectæ, lætificántes corda, et judícia ejus dulcióra super mel et favum: nam et servus tuus custódit ea."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 18:9-12</em></span><br>\nThe precepts of the Lord are right, rejoicing the heart, and His ordinances sweeter than syrup or honey from the comb; therefore Your servant is careful of them."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Concéde nobis, quǽsumus, Dómine, hæc digne frequentáre mystéria: quia, quóties hujus hóstiæ commemorátio celebrátur, opus nostræ redemptiónis exercétur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Camilli de Lellis Confessoris</em></span><br>\nHóstia immaculáta, qua illud Dómini nostri Jesu Christi imménsæ caritátis opus renovámus, sit, Deus Pater omnípotens, sancto Gamíllo intercedénte, contra omnes córporis et animæ infirmitates salutáre remedium, et in extrémo agóne solátium et tutéla.<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Symphorosæ et Septem Filiorum Martyrum</em></span><br>\nMúnera tibi, Dómine, nostra devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Justórum, et nobis salutária, te miseránte, reddántur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant us, we beseech You, O Lord, to take part worthily and frequently in this sacramental action: for as often as this sacrifice of commemoration is offered, the work of our redemption is performed.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Camillus de Lellis, Confessor</em></span><br>\nThrough the prayers of St. Camillus may this spotless sacrificial offering, by which we renew the work of our Lord Jesus Christ’s infinite charity, be a healing remedy against all infirmities of body and soul and a consolation and protection in our last agony.<br>\n<span class=\"rubric\"><em>Commemoration S. Symphorosa with her Seven Sons, Martyrs</em></span><br>\nWe offer You, O Lord, the gifts of our service; may they be pleasing to You for the honor of Your just ones and, through Your mercy, bring us salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotídie, una voce dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joann 6:57</em></span><br>\nQui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in eo, dicit Dóminus."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 6:57</em></span><br>\nHe who eats My Flesh, and drinks My Blood, abides in Me, and I in him, says the Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nTui nobis, quǽsumus, Dómine, commúnio sacraménti, et purificatiónem cónferat, et tríbuat unitátem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Camilli de Lellis Confessoris</em></span><br>\nPer hæc cœléstia aliménta, quæ, sancti Camílli Confessóris tui sollémnia celebrántes, pia devotióne suscépimus: da, quǽsumus. Dómine; ut, in hora mortis nostræ sacraméntis refécti et culpis ómnibus expiáti, in sinum misericórdiæ tuæ læti súscipi mereámur:<br>\n<span class=\"rubric\"><em>Commemoratio Ss. Symphorosæ et Septem Filiorum Martyrum</em></span><br>\nPræsta nobis, quǽsumus, Dómine: intercedéntibus sanctis Martýribus tuis Symphorósa et fíliis ejus; ut, quod ore contíngimus, pura mente capiámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the partaking of Your sacrament, we beseech You, O Lord, cleanse us and unite us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Camillus de Lellis, Confessor</em></span><br>\nThrough this heavenly food which we have received with holy devotion as we celebrate the feast of St. Camillus, Your Confessor, grant, we beseech You, O Lord, that in the hour of our death, strengthened by Your sacraments and absolved of all our sins, we may be found worthy to be taken up, rejoicing, into the bosom of Your mercy.<br>\n<span class=\"rubric\"><em>Commemoration S. Symphorosa with her Seven Sons, Martyrs</em></span><br>\nGrant, we beseech You, O almighty and merciful God, that through the intercession of Your holy Martyrs, Symphorosa and her sons what we take into our mouths we may eat with pure heart.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

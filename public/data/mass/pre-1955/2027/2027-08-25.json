@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-08-25",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Ludovici Regis Franciæ Confessoris",
+  "rank": "Semiduplex",
+  "note": "Scriptura: Feria Quarta infra Hebdomadam XIV post Octavam Pentecostes IV. Augusti",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\nOs justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus.<br>\n<span class=\"rubric\"><em>Ps 36:1</em></span><br>\nNoli æmulári in malignántibus: neque zeláveris faciéntes iniquitátem.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nOs justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\nThe mouth of the just man tells of wisdom, and his tongue utters what is right. The law of his God is in his heart.<br>\n<span class=\"rubric\"><em>Ps 36:1</em></span><br>\nBe not vexed over evildoers, nor jealous of those who do wrong.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThe mouth of the just man tells of wisdom, and his tongue utters what is right. The law of his God is in his heart."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui beátum Ludovícum Confessórem tuum de terréno regno ad cœléstis regni glóriam transtulísti: ejus, quǽsumus, méritis et intercessióne; Regis regum Jesu Christi, Fílii tui, fácias nos esse consórtes:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (vel ad libitum)</em></span><br>\nConcéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who transported Your blessed Confessor Louis from an earthly throne to the glory of the heavenly kingdom, by his merits and intercession we beseech You to make us of the company of the King of kings, Jesus Christ Your Son.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (or any other)</em></span><br>\nGrant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of mind and body; and by the intercession of glorious and blessed Mary, ever Virgin, may we be delivered from present sorrow and partake to the full of eternal happiness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Sap 10:10-14</em></span><br>\nJustum dedúxit Dóminus per vias rectas, et ostendit illi regnum Dei, et dedit illi sciéntiam sanctórum: honestávit illum in labóribus, et complévit labores illíus. In fraude circumveniéntium illum áffuit illi, et honéstum fecit illum. Custodívit illum ab inimícis, et a seductóribus tutávit illum, et certámen forte dedit illi, ut vínceret et sciret, quóniam ómnium poténtior est sapiéntia. Hæc vénditum justum non derelíquit, sed a peccatóribus liberávit eum: descendítque cum illo in fóveam, et in vínculis non derelíquit illum, donec afférret illi sceptrum regni, et poténtiam advérsus eos, qui eum deprimébant: et mendáces osténdit, qui maculavérunt illum, et dedit illi claritátem ætérnam, Dóminus, Deus noster.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Wisdom<br>\n<span class=\"rubric\"><em>Wis 10:10-14</em></span><br>\nThe Lord guided the just in direct ways, showed him the kingdom of God, and gave him knowledge of holy things; He prospered him in his labors and made abundant the fruit of his works, stood by him against the greed of his defrauders, and enriched him; He preserved him from foes, and secured him against ambush, and He gave him the prize for his stern struggle that he might recognize that devotion to God is mightier than all else. He did not abandon the just man when he was sold, but delivered him from sin. He went down with him into the dungeon, and did not desert him in his bonds, until He brought him the scepter of royalty and authority over his oppressors, and showed those who had defamed him false; and the Lord our God gave him eternal glory.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 91:13; 91:14</em></span><br>\nJustus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\nAd annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja<br>\n<span class=\"rubric\"><em>Ja 1:12</em></span><br>\nBeátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 91:13; 91:14</em></span><br>\nThe just man shall flourish like the palm tree, like a cedar of Lebanon shall he grow in the house of the Lord.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> To proclaim Your kindness at dawn and Your faithfulness throughout the night. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Jas 1:12</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Blessed is the man who endures temptation; for when he has been tried, he will receive the crown of life. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 19:12-26</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis parábolam hanc: Homo quidam nóbilis ábiit in regionem longínquam accípere sibi regnum, et revérti. Vocátis autem decem servis suis, dedit eis decem mnas, et ait ad illos: Negotiámini, dum vénio. Cives autem ejus óderant eum: et misérunt legatiónem post illum, dicéntes: Nólumus hunc regnáre super nos. Et factum est, ut redíret accépto regno: et jussit vocári servos, quibus dedit pecúniam, ut sciret, quantum quisque negotiátus esset. Venit autem primus, dicens: Dómine, mna tua decem mnas acquisívit. Et ait illi: Euge, bone serve, quia in módico fuísti fidélis, eris potestátem habens super decem civitátes. Et alter venit, dicens: Dómine, mna tua fecit quinque mnas. Et huic ait: Et tu esto super quinque civitátes. Et alter venit, dicens: Dómine, ecce mna tua, quam hábui repósitam in sudário: tímui enim te, quia homo austérus es: tollis, quod non posuísti, et metis, quod non seminásti. Dicit ei: De ore tuo te júdico, serve nequam. Sciébas, quod ego homo austérus sum, tollens, quod non pósui, et metens, quod non seminávi: et quare non dedísti pecúniam meam ad mensam, ut ego véniens cum usúris útique exegíssem illam? Et astántibus dixit: Auferte ab illo mnam et date illi, qui decem mnas habet. Et dixérunt ei: Dómine, habet decem mnas. Dico autem vobis: Quia omni habénti dábitur, et abundábit: ab eo autem, qui non habet, et, quod habet, auferétur ab eo.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 19:12-26</em></span><br>\nAt that time, Jesus spoke this parable to His disciples: A certain nobleman went into a far country to obtain for himself a kingdom and then return. And having summoned ten of his servants, he gave them ten gold pieces and said to them, ‘Trade till I come.’ But his citizens hated him; and they sent a delegation after him to say, ‘We do not wish this man to be king over us.’ And it came to pass when he had returned, after receiving the kingdom, that he ordered the servants to whom he had given the money to be called to him in order that he might learn how much each one had made by trading. And the first came, saying, ‘Lord, your gold piece has earned ten gold pieces.’ And he said to him, ‘Well done, good servant; because you have been faithful in a very little, you shall have authority over ten towns.’ Then the second came, saying, ‘Lord, your gold piece has made five gold pieces.’ And he said to him, ‘Be you also over five towns.’ And another came, saying, ‘Lord, behold your gold piece, which I have kept laid up in a napkin; for I feared you, because you are a stern man. You take up what you did not sow.’ He said to him, ‘Out of your own mouth I judge you, you wicked servant. You knew that I am a stern man, taking up what I did not lay down and reaping what I did not sow. Why, then, did you not put my money in a bank, so that I on my return might have gotten it with interest?’ And he said to the bystanders, ‘Take away the gold piece from him, and give it to him who has the ten gold pieces.’ But they said to him, ‘Lord, he has ten gold pieces.’ I say to you that to everyone who has shall be given; but from him who does not have, even that which he has shall be taken away.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 88:25</em></span><br>\nVéritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 88:25</em></span><br>\nMy faithfulness and My kindness shall be with him, and through My name shall his horn be exalted."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Præsta, quǽsumus, omnípotens Deus: ut, sicut beátus Ludovícus Conféssor tuus, spretis mundi oblectaméntis, soli Regi Christo placére stúduit; ita ejus orátio nos tibi reddat accéptos.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (vel ad libitum)</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant, we beseech You, almighty God, that as blessed Louis, Your Confessor, spurning the delights of the world, labored earnestly to please Christ, the only King, so may his prayer make us pleasing to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary (or any other)</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 24:46-47</em></span><br>\nBeátus servus, quem, cum vénerit dóminus, invénerit vigilántem: amen, dico vobis, super ómnia bona sua constítuet eum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 24:46-47</em></span><br>\nBlessed is that servant whom his master, when he comes, shall find watching. Amen I say to you, he will set him over all his goods."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nDeus, qui beátum Confessórem tuum Ludovícum mirificásti in terris, et gloriósum in cœlis fecísti: eúndem, quǽsumus, Ecclésiæ tuæ constítue defensórem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria (vel ad libitum)</em></span><br>\nSumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO God, Who made Your blessed Confessor, Louis, wonderful on earth and glorious in heaven, make him, we beseech You, the defender of Your Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary (or any other)</em></span><br>\nGrant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

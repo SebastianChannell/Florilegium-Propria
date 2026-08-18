@@ -1,3 +1,9 @@
+import {
+  invalidRubricResponse,
+  massRedirect,
+  normalizeRubric,
+} from "../../lib/mass-routing.js";
+
 function dateInTimezone(timeZone) {
   const parts = new Intl.DateTimeFormat("en-CA", {
     timeZone,
@@ -12,6 +18,8 @@ function dateInTimezone(timeZone) {
 export const onRequestGet = async ({ request }) => {
   const url = new URL(request.url);
   const requestedTimezone = url.searchParams.get("timezone") ?? "America/New_York";
+  const rubric = normalizeRubric(url.searchParams.get("rubrics"));
+  if (!rubric) return invalidRubricResponse();
 
   let date;
   try {
@@ -23,12 +31,5 @@ export const onRequestGet = async ({ request }) => {
     );
   }
 
-  const target = new URL(`/data/mass/${date.slice(0, 4)}/${date}.json`, request.url);
-  return new Response(null, {
-    status: 307,
-    headers: {
-      Location: target.toString(),
-      "Cache-Control": "public, max-age=60",
-    },
-  });
+  return massRedirect(request, rubric, date, 60);
 };

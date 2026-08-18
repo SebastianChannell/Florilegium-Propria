@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-07-16",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Beatæ Mariæ Virginis de Monte Carmelo",
+  "rank": "Duplex majus",
+  "note": "Scriptura: Feria quinta infra Hebdomadam VII post Octavam Pentecostes",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sedulius</em></span><br>\nGaudeamus omnes in Domino diem festum celebrantes sub honore beatae Mariæ Virginis: de cujus assumptione gaudent, angeli, et collaudant Filium Dei.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nEructávit cor meum verbum bonum: dico ego ópera mea Regi.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nGaudeamus omnes in Domino diem festum celebrantes sub honore beatae Mariæ Virginis: de cujus assumptione gaudent, angeli, et collaudant Filium Dei."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<br>\nLet us all rejoice in the Lord, celebrating a festival in honor of the Blessed Virgin Mary, for whose solemnity the angels rejoice, and join in praising the Son of God.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nLet us all rejoice in the Lord, celebrating a festival in honor of the Blessed Virgin Mary, for whose solemnity the angels rejoice, and join in praising the Son of God."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui beatíssimæ semper Vírginis et Genitrícis tuæ Maríæ singulári título Carméli órdinem decorásti: concéde propítius; ut, cujus hódie Commemoratiónem sollémni celebrámus offício, ejus muníti præsídiis, ad gáudia sempitérna perveníre mereámur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who honored the Order of Carmel with the special title of the most blessed Mary, ever Virgin, Your mother, graciously grant, that we who this day honor her commemoration with solemn rites, defended by her care, may be found worthy to attain everlasting happiness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Eccli 24:23-31</em></span><br>\nEgo quasi vitis fructificávi suavitátem odóris: et flores mei fructus honóris et honestátis. Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei. In me grátia omnis viæ et veritátis: in me omnis spes vitæ et virtútis. Transíte ad me, omnes, qui concupíscitis me, et a generatiónibus meis implémini. Spíritus enim meus super mel dulcis, et heréditas mea super mel et favum. Memória mea in generatiónes sæculórum. Qui edunt me, adhuc esúrient: et qui bibunt me, adhuc sítient. Qui audit me, non confundétur: et qui operántur in me, non peccábunt. Qui elúcidant me, vitam ætérnam habébunt.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Ecclesiasticus<br>\n<span class=\"rubric\"><em>Sir 24:23-31</em></span><br>\nI bud forth delights like the vine, my blossoms become fruit fair and rich. I am the mother of fair love, and of fear, and of knowledge, and of holy hope. In me is all grace of the way and of the truth, in me is all hope of life and of virtue. Come to me, all you that yearn for me, and be filled with my fruits; for my spirit is sweeter than honey, and my inheritance better to have than honey and the honeycomb. My memory is to everlasting generations. They who eat of me will hunger still, and they who drink of me will thirst for more. He who obeys me will not be put to shame, they who serve me will never fail. They who explain me shall have life everlasting.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénta es Mater Salvatóris.<br>\n<span class=\"marker\"><em>℣.</em></span> Virgo, Dei Génitrix, quem totus non capit orbis, in tua se clausit víscera factus homo.<br>\n<br>\nAllelúja, allelúja.<br>\nPer te, Dei Génitrix, nobis est vita pérdita data: quæ de cœlo suscepísti prolem, et mundo genuísti Salvatórem. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "O Virgin Mary, blessed and venerable art thou: who without blemish to thy maidenhood, didst become the Mother of the Savior.<br>\n<span class=\"marker\"><em>℣.</em></span> O Virgin Mother of God, He whom the whole world cannot contain, enclosed Himself within thy womb, and became man.<br>\n<br>\nAlleluia, alleluia.<br>\nThrough thee, O Mother of God, has the life we had lost been<br>\nrestored: from heaven didst thou beget thy Child, to the world brought forth a Savior. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 11:27-28</em></span><br>\nIn illo témpore: Loquénte Jesu ad turbas, extóllens vocem quædam múlier de turba, dixit illi: Beátus venter, qui te portávit, et úbera, quæ suxísti. At ille dixit: Quinímmo beáti, qui áudiunt verbum Dei, et custódiunt illud.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 11:27-28</em></span><br>\nAt that time, as Jesus was speaking to the multitudes, a certain woman from the crowd lifted up her voice and said to Him, Blessed is the womb that bore You, and the breasts that nursed You. But He said, Rather, blessed are they who hear the word of God and keep it.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Jer 18:20</em></span><br>\nRecordáre, Virgo Mater, in conspéctu Dei, ut loquáris pro nobis bona, et ut avértat indignatiónem suam a nobis."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Jer 18:20</em></span><br>\nRemember, O Virgin Mother, to speak good things before God’s face in our behalf, so that He may turn away His wrath from us."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sanctífica, Dómine, quǽsumus, obláta libámina: et, beátæ Dei Genitrícis Maríæ salubérrima intercessióne, nobis salutária fore concéde.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, we beseech You, make holy the sacrificial gifts we offer, and by the most powerful prayers of blessed Mary, Mother of God, grant they may be helpful to our salvation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Beata Maria Virgine</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Et te in Commemoratione beátæ Maríæ semper Vírginis collaudáre, benedícere et prædicáre. Quæ et Unigénitum tuum Sancti Spíritus obumbratióne concépit: et, virginitátis glória permanénte, lumen ætérnum mundo effúdit, Jesum Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Blessed Virgin</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: and that we should praise and bless, and proclaim Thee, in the Commemoratione of the Blessed Mary, ever-Virgin: Who also conceived Thine only-begotten Son by the overshadowing of the Holy Ghost, and the glory of her virginity still abiding, gave forth to the world the everlasting Light, Jesus Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, and the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "Regína mundi digníssima, María Virgo perpétua, intercéde pro nostra pace et salúte, quæ genuísti Christum Dóminum, Salvatórem ómnium."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "Most worthy Queen of the world, Mary ever Virgin, who have borne Christ the Lord, the Saviour of all, intercede for our peace and salvation."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nAdjuvet nos, quǽsumus, Dómine, gloriósæ tuæ Genitrícis sempérque Vírginis Maríæ intercéssio veneránda: ut, quos perpétuis cumulávit benefíciis, a cunctis perículis absolútos, sua fáciat pietáte concórdes:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the venerable intercession of Your glorious Mother Mary, ever Virgin, help us, O Lord, that those whom she has ladened with lasting benefits may be delivered from all dangers and be made of one mind by her godliness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

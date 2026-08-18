@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-12-10",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "De III die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virgini",
+  "rank": "Semiduplex",
+  "note": "Commemoratio: Feria VI infra Hebdomadam II Adventus",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Is 61:10</em></span><br>\nGaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo: quia índuit me vestiméntis salútis: et induménto justítiæ circúmdedit me, quasi sponsam ornátam monílibus suis.<br>\n<span class=\"rubric\"><em>Ps 29:2</em></span><br>\nExaltábo te, Dómine, quóniam suscepísti me: nec delectásti inimícos meos super me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nGaudens gaudébo in Dómino, et exsultábit ánima mea in Deo meo: quia índuit me vestiméntis salútis: et induménto justítiæ circúmdedit me, quasi sponsam ornátam monílibus suis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Isa 61:10</em></span><br>\nI will heartily rejoice in the Lord, in my God is the joy of my soul; for He has clothed me with a robe of salvation, and wrapped me in a mantle of justice, like a bride bedecked with her jewels.<br>\n<span class=\"rubric\"><em>Ps 29:2</em></span><br>\nI will extol You, O Lord, for You drew me clear and did not let my enemies rejoice over me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nI will heartily rejoice in the Lord, in my God is the joy of my soul; for He has clothed me with a robe of salvation, and wrapped me in a mantle of justice, like a bride bedecked with her jewels."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: quǽsumus; ut, qui ex morte ejúsdem Filii tui prævísa eam ab omni labe præservásti, nos quoque mundos ejus intercessióne ad te perveníre concédas.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria VI infra Hebdomadam II Adventus</em></span><br>\nExcita, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut, per ejus advéntum, purificátis tibi méntibus servíre mereámur:<br>\n<span class=\"rubric\"><em>Commemoratio S. Melchiadis Papæ et Martyris</em></span><br>\nGregem tuum, Pastor ætérne, placátus inténde: et, per beátum Melchíadem Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who by the Immaculate Conception of the Virgin, prepared a worthy dwelling for Your Son, and Who, by Your Son’s death, foreseen by You, preserved her from all taint, grant, we beseech You, through her intercession, that we too may come to You unstained by sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI infra Hebdomadam II Adventus</em></span><br>\nStir up our hearts, O Lord, to prepare the ways of Your only-begotten Son, so that through His coming we may be able to serve You with purified minds.<br>\n<span class=\"rubric\"><em>Commemoration St. Melchiades, Pope and Martyr</em></span><br>\nLook forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed Melchiades thy Martyr and Sovereign Pontiff, whom thou didst constitute Shepherd of the whole Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Prov 8:22-35</em></span><br>\nDóminus possedit me in inítio viárum suárum, ántequam quidquam fáceret a princípio. Ab ætérno ordináta sum, et ex antíquis, ántequam terra fíeret. Nondum erant abýssi, et ego jam concépta eram: necdum fontes aquárum erúperant: necdum montes gravi mole constíterant: ante colles ego parturiébar: adhuc terram non fécerat et flúmina et cárdines orbis terræ. Quando præparábat cœlos, áderam: quando certa lege et gyro vallábat abýssos: quando æthera firmábat sursum et librábat fontes aquárum: quando circúmdabat mari términum suum et legem ponébat aquis, ne transírent fines suos: quando appendébat fundaménta terræ. Cum eo eram cuncta compónens: et delectábar per síngulos dies, ludens coram eo omni témpore: ludens in orbe terrárum: et delíciæ meæ esse cum filiis hóminum. Nunc ergo, filii, audíte me: Beáti, qui custódiunt vias meas. Audíte disciplínam, et estóte sapiéntes, et nolíte abjícere eam. Beátus homo, qui audit me et qui vígilat ad fores meas quotídie, et obsérvat ad postes óstii mei. Qui me invénerit, invéniet vitam et háuriet salútem a Dómino.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Proverbs<br>\n<span class=\"rubric\"><em>Prov 8:22-35</em></span><br>\nThe Lord begot me, the firstborn of His ways, the forerunner of His prodigies of long ago; from of old I was poured forth, at the first, before the earth. When there were not depths I was brought forth, when there were not fountains or springs of water; before the mountains were settled into place, before the hills, I was brought forth; while as yet the earth and the fields were not made, nor the first clods of the world. When He established the heavens I was there, when He marked out the vault over the face of the deep; when He made firm the skies above, and poised the fountains of waters; when He set for the sea its limit, so that the waters should not transgress His command; when He fixed fast the foundations of the earth, then was I beside Him as His craftsman, and I was His delight day by day, playing before Him all the while, playing on the surface of His earth and I found delight in the sons of men. So now, O children, listen to me; happy those who keep my ways. Hear instruction, and be wise, and refuse it not. Happy the man who obeys me, watching daily at my gates, waiting at my doorsteps; for he who finds me finds life, and wins favor from the Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Judith 13:23</em></span><br>\nBenedícta es tu. Virgo María, a Dómino, Deo excélso, præ ómnibus muliéribus super terram.<br>\n<span class=\"rubric\"><em>Judith 15:10</em></span><br>\nTu glória Jerúsalem, tu lætítia Israël, tu honorificéntia pópuli nostri.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Cant 4:7</em></span><br>\nTota pulchra es, María: et mácula originális non est in te. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Judith 13:23</em></span><br>\nBlessed are you, O Virgin Mary, by the Lord the most high God, above all women upon the earth.<br>\n<span class=\"rubric\"><em>Judith 15:10</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> You are the glory of Jerusalem, you are the joy of Israel, you are the honor of our people. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Cant. 4:7</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> You are all-beautiful, O Mary, and there is in you no stain of original sin. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 1:26-28</em></span><br>\nIn illo témpore: Missus est Angelus Gábriël a Deo in civitátem Galilææ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 1:26-28</em></span><br>\nAt that time, the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin’s name was Mary. And when the angel come to her, he said, Hail, full of grace, the Lord is with you. Blessed are you among women.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Luc 1:28</em></span><br>\nAve, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Luke 1:28</em></span><br>\nHail Mary full of grace, the Lord is with you; blessed are you among women. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Salutárem hóstiam, quam in sollemnitáte immaculátæ Conceptiónis beátæ Vírginis Maríæ tibi, Dómine, offérimus, súscipe et præsta: ut, sicut illam tua grátia præveniénte ab omni labe immúnem profitémur; ita ejus intercessióne a culpis ómnibus liberémur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria VI infra Hebdomadam II Adventus</em></span><br>\nPlacáre, quǽsumus, Dómine, humilitátis nostræ précibus et hóstiis: et, ubi nulla suppétunt suffrágia meritórum, tuis nobis succúrre præsídiis.<br>\n<span class=\"rubric\"><em>Commemoratio S. Melchiadis Papæ et Martyris</em></span><br>\nOblátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut, et gregis tui profíciat ubíque succéssus, et grati fiant nómini tuo, te gubernánte, pastóres.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Accept, O Lord, the sacrifice of salvation which we offer You on the feast of the Immaculate Conception of the Blessed Virgin Mary; and grant that as we profess that she was kept from all taint of evil, by Your anticipating grace, so, through her intercession, may we be freed from all sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI infra Hebdomadam II Adventus</em></span><br>\nBe appeased, we beseech You, O Lord, by the prayers and offerings of our human frailty, and where the support of our own merits is lacking, come to our assistance with Your protection.<br>\n<span class=\"rubric\"><em>Commemoration St. Melchiades, Pope and Martyr</em></span><br>\nBy the offered gifts we beseech thee, O Lord, that thou kindly enlighten thy Church, so that thy flock may everywhere progress and prosper, and thy shepherds, under thy guidance may be pleasing to thy name.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Beata Maria Virgine</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Et te in Conceptióne immaculáta beátæ Maríæ semper Vírginis collaudáre, benedícere et prædicáre. Quæ et Unigénitum tuum Sancti Spíritus obumbratióne concépit: et, virginitátis glória permanénte, lumen ætérnum mundo effúdit, Jesum Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Blessed Virgin</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: and that we should praise and bless, and proclaim Thee, in the Conceptióne immaculáta of the Blessed Mary, ever-Virgin: Who also conceived Thine only-begotten Son by the overshadowing of the Holy Ghost, and the glory of her virginity still abiding, gave forth to the world the everlasting Light, Jesus Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, and the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 86:3, Luc 1:49</em></span><br>\nGloriósa dicta sunt de te, María: quia fecit tibi magna qui potens est."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em> Ps 86:3, Luc 1:49</em></span><br>\nGlorious things are said of you, O Mary, for He Who is mighty has done great things for you."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSacraménta quæ súmpsimus, Dómine, Deus noster: illíus in nobis culpæ vúlnera réparent; a qua immaculátam beátæ Maríæ Conceptiónem singuláriter præservásti.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria VI infra Hebdomadam II Adventus</em></span><br>\nRepléti cibo spirituális alimóniæ, súpplices te, Dómine, deprecámur: ut, hujus participatióne mystérii, dóceas nos terréna despícere et amáre cœléstia.<br>\n<span class=\"rubric\"><em>Commemoratio S. Melchiadis Papæ et Martyris</em></span><br>\nRefectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the sacrament we have received, O Lord our God, heal in us the wounds of that sin from which by a singular privilege, You kept immaculate the conception of blessed Mary.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI infra Hebdomadam II Adventus</em></span><br>\nWe who have been refreshed by the food of spiritual nourishment, humbly beseech You, O Lord, that through partaking of this sacrament You will teach us to disdain the things of earth and love those of heaven.<br>\n<span class=\"rubric\"><em>Commemoration St. Melchiades, Pope and Martyr</em></span><br>\nBeing appeased, O Lord, guide thy Church, which has been nourished by holy refreshment, that under thy direction and powerful rule it may receive increase of liberty and may continue in religious integrity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

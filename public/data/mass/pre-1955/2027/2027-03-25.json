@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-03-25",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "De missa chrismatis",
+  "rank": "Duplex I. classis",
+  "note": "Transfer: In Annuntiatione Beate Mariæ Virgine",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ex 30:25,31</em></span><br>\nFácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.<br>\n<span class=\"rubric\"><em>Ps 88:2</em></span><br>\nMisericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo. Fácies unctiónis.<br>\nFácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ex 30:25,31</em></span><br>\nFácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.<br>\n<span class=\"rubric\"><em>Ps 88:2</em></span><br>\nMisericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo. Fácies unctiónis.<br>\nFácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDómine, Deus, qui in regenerándis plébibus tuis ministério úteris sacerdótum; tríbue nobis perseverántem in tua voluntáte famulátum; ut dono grátiæ tuæ, in diébus nostris, et méritis et número sacrátus tibi pópulus augeátur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nDómine, Deus, qui in regenerándis plébibus tuis ministério úteris sacerdótum; tríbue nobis perseverántem in tua voluntáte famulátum; ut dono grátiæ tuæ, in diébus nostris, et méritis et número sacrátus tibi pópulus augeátur.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Jacóbi Apóstoli.<br>\n<span class=\"rubric\"><em>Jc 5:13-16</em></span><br>\nFratres: Tristátur áliquis vestrum? Oret. Æquo ánimo est? Psallat. Infirmátur quis in vobis? Indúcat presbýteros ecclésiæ, et orent super eum, ungéntes eum óleo in nómine Dómini; et orátio fídei salvábit infírmum, et alleviábit eum Dóminus; et si in peccátis sit, remitténtur ei. Confitémini ergo altérutrum peccáta vestra, et oráte pro ínvicem ut salvémini; multum enim valet deprecátio justi assídua.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Léctio Epístolæ beáti Jacóbi Apóstoli.<br>\n<span class=\"rubric\"><em>Jc 5:13-16</em></span><br>\nFratres: Tristátur áliquis vestrum? Oret. Æquo ánimo est? Psallat. Infirmátur quis in vobis? Indúcat presbýteros ecclésiæ, et orent super eum, ungéntes eum óleo in nómine Dómini; et orátio fídei salvábit infírmum, et alleviábit eum Dóminus; et si in peccátis sit, remitténtur ei. Confitémini ergo altérutrum peccáta vestra, et oráte pro ínvicem ut salvémini; multum enim valet deprecátio justi assídua.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 27:7-8</em></span><br>\nIn Deo sperávit cor meum, et adjútus sum. Et reflóruit caro mea: et ex voluntáte mea confitébor ei.<br>\n<span class=\"marker\"><em>℣.</em></span> Dóminus fortitúdo plebis suæ: et protéctor salvatiónum Christi sui est."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 27:7-8</em></span><br>\nIn Deo sperávit cor meum, et adjútus sum. Et reflóruit caro mea: et ex voluntáte mea confitébor ei.<br>\n<span class=\"marker\"><em>℣.</em></span> Dóminus fortitúdo plebis suæ: et protéctor salvatiónum Christi sui est."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 6:7-13</em></span><br>\nIn illo témpore: Vocávit Jesus duódecim, et coepit eos míttere binos, et dabat illis potestátem spirítuum immundórum. Et præcépit eis, ne quid tóllerent in via, nisi virgam tantum; non peram, non panem, neque in zona æs, sed calceátos sandáliis, et ne indueréntur duábus túnicis. Et dicébat eis: «&nbsp;Quocúmque introiéritis in domum, illic manéte, donec exeátis inde; et quicúmque non recéperint vos, nec audíerint vos, exeúntes inde, excútite púlverem de pédibus vestris, in testimónium illis&nbsp;». Et exeúntes prædicábant ut pæniténtiam ágerent; et dæmónia multa ejiciébant, et ungébant óleo multos ægros, et sanábant.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em><span class=\"rubric\"><em><span class=\"rubric\"><em><span class=\"rubric\"><em>S.</em></span></em></span></em></span></em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum.<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Marc 6:7-13</em></span><br>\nIn illo témpore: Vocávit Jesus duódecim, et coepit eos míttere binos, et dabat illis potestátem spirítuum immundórum. Et præcépit eis, ne quid tóllerent in via, nisi virgam tantum; non peram, non panem, neque in zona æs, sed calceátos sandáliis, et ne indueréntur duábus túnicis. Et dicébat eis: «&nbsp;Quocúmque introiéritis in domum, illic manéte, donec exeátis inde; et quicúmque non recéperint vos, nec audíerint vos, exeúntes inde, excútite púlverem de pédibus vestris, in testimónium illis&nbsp;». Et exeúntes prædicábant ut pæniténtiam ágerent; et dæmónia multa ejiciébant, et ungébant óleo multos ægros, et sanábant.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em><span class=\"rubric\"><em><span class=\"rubric\"><em><span class=\"rubric\"><em>S.</em></span></em></span></em></span></em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:7</em></span><br>\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:7</em></span><br>\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hujus sacrifícii poténtia, Dómine, quǽsumus, et vetustátem nostram cleménter abstérgat, et novitátem nobis áugeat et salútem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Hujus sacrifícii poténtia, Dómine, quǽsumus, et vetustátem nostram cleménter abstérgat, et novitátem nobis áugeat et salútem.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>special</em></span><br>\nVere dignum et justum est, aequum et salutáre, cleméntiam tuam supplíciter obsecráre, ut spirituális lavácri baptísmo renovándis creatúram chrísmatis in sacraméntum perféctae salútis vitaéque confírmes&nbsp;; ut sanctificatióne unctiónis infúsa, corruptióne primae nativitátis absórpta, sanctum uniuscujúsque templum acceptábilis vitae innocéntiae odóre redoléscat&nbsp;; ut secúndum constitutiónis tuae sacraméntum, régio et sacerdotáli propheticóque honóre perfúsi, vestiménto incorrúpti múneris induántur: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Caeli, caelorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti júbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>special</em></span><br>\nVere dignum et justum est, aequum et salutáre, cleméntiam tuam supplíciter obsecráre, ut spirituális lavácri baptísmo renovándis creatúram chrísmatis in sacraméntum perféctae salútis vitaéque confírmes&nbsp;; ut sanctificatióne unctiónis infúsa, corruptióne primae nativitátis absórpta, sanctum uniuscujúsque templum acceptábilis vitae innocéntiae odóre redoléscat&nbsp;; ut secúndum constitutiónis tuae sacraméntum, régio et sacerdotáli propheticóque honóre perfúsi, vestiménto incorrúpti múneris induántur: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Caeli, caelorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti júbeas, deprecámur, súpplici confessióne dicéntes:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Marc. 6:12-13</em></span><br>\nPrædicábant Apóstoli ut pæniténtiam ágerent, et ungébant óleo multos ægros, et sanábant."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Marc. 6:12-13</em></span><br>\nPrædicábant Apóstoli ut pæniténtiam ágerent, et ungébant óleo multos ægros, et sanábant."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nPræsta, quǽsumus, Dómine: ut, sicut de prætéritis ad nova transímus; ita, vetustáte depósita, sanctificátis méntibus innovémur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nPræsta, quǽsumus, Dómine: ut, sicut de prætéritis ad nova transímus; ita, vetustáte depósita, sanctificátis méntibus innovémur.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

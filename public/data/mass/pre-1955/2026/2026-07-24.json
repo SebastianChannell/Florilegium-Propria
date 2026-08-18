@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-07-24",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Vigilia S. Jacobi Ap.",
+  "rank": "Simplex",
+  "note": "Commemoratio: S. Christinæ Virginis et Martyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 51:10-11</em></span><br>\nEgo autem, sicut olíva fructífera in domo Dómini, sperávi in misericórdia Dei mei: et exspectábo nomen tuum, quóniam bonum est ante conspéctum sanctórum tuorum.<br>\n<span class=\"rubric\"><em>Ps 51:3</em></span><br>\nQuid gloriáris in malítia: qui potens es in iniquitáte?<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nEgo autem, sicut olíva fructífera in domo Dómini, sperávi in misericórdia Dei mei: et exspectábo nomen tuum, quóniam bonum est ante conspéctum sanctórum tuorum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 51:10-11</em></span><br>\nBut I, as a fruitful olive tree in the house of God, have hoped in the mercy of God for ever, yea for ever and ever. I will praise thee for ever, because thou hast done it: and I will wait on thy name, for it is good in the sight of thy saints.<br>\n<span class=\"rubric\"><em>Ps 51:3</em></span><br>\nWhy dost thou glory in malice, thou that art mighty in iniquity?<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nBut I, as a fruitful olive tree in the house of God, have hoped in the mercy of God for ever, yea for ever and ever. I will praise thee for ever, because thou hast done it: and I will wait on thy name, for it is good in the sight of thy saints."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDa, quǽsumus, omnípotens Deus: ut beáti Jacóbi Apóstoli tui, quam prævenimus, veneránda solémnitas, et devotiónem nobis áugeat et salútem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Christinæ Virginis et Martyris</em></span><br>\nIndulgéntiam nobis, quǽsumus, Dómine, beáta Christína Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech thee, O Almighty God, that the worshipful feast of thy blessed Apostle, James on the eve whereof we now stand, may avail us to the increase both of godliness toward thee, and of health to our own souls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Christina, Virgin and Martyr</em></span><br>\nMay blessed Christina, Virgin and Martyr, who was ever pleasing to You by the merit of her chastity and by her trust in Your power, implore for us Your forgiveness, we beseech You, O Lord.<br>\n<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Eccli 44:25-27; 45:2-4; 45:6-9</em></span><br>\nBenedíctio Dómini super caput justi. Ideo dedit illi Dóminus hereditátem, et divísit illi partem in tríbubus duódecim: et invénit grátiam in conspéctu omnis carnis. Et magnificávit eum in timóre inimicórum, et in verbis suis monstra placávit. Glorificávit illum in conspéctu regum, et jussit illi coram pópulo suo, et osténdit illi glóriam suam. In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne. Et dedit illi coram præcépta, et legem vitæ et disciplínæ, et excélsum fecit illum. Statuit ei testaméntum ætérnum, et circumcínxit eum zona justítiæ: et índuit eum Dóminus corónam glóriæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Ecclesiasticus<br>\n<span class=\"rubric\"><em>Sir 44:25-27; 45:2-4; 45:6-9</em></span><br>\nThe Lord gave him the blessing of all nations, and confirmed his covenant upon the head of Jacob. He acknowledged him in his blessings, and gave him an inheritance, and divided him his portion in twelve tribes. And he preserved for him men of mercy, that found grace in the eyes of all flesh. He made him like the saints in glory, and magnified him in the fear of his enemies, and with his words he made prodigies to cease. He glorified him in the sight of kings, and gave him commandments in the sight of his people, and shewed him his glory. He sanctified him in his faith, and meekness, and chose him out of all flesh. And he gave him commandments before his face, and a law of life and instruction, that he might teach Jacob his covenant, and Israel his judgments. He exalted Aaron his brother, and like to himself of the tribe of Levi: He made an everlasting covenant with him, and gave him the priesthood of the nation, and made him blessed in glory, And he girded him about with a glorious girdle, and clothed him with a robe of glory, and crowned him with majestic attire.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 91:13-14</em></span><br>\nJustus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 91:13; 91:14</em></span><br>\nThe just shall flourish like the palm tree: he shall grow up like the cedar of Libanus. They that are planted in the house of the Lord shall flourish in the courts of the house of our God.<br>\n<span class=\"rubric\"><em>Ps 91:3</em></span><br>\nTo shew forth thy mercy in the morning, and thy truth in the night:"
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 15:12-16</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Hoc est præcéptum meum, ut diligátis ínvicem, sicut diléxi vos. Majórem hac dilectiónem nemo habet, ut ánimam suam ponat quis pro amícis suis. Vos amíci mei estis, si fecéritis quæ ego præcípio vobis. Jam non dicam vos servos: quia servus nescit, quid fáciat dóminus ejus. Vos autem dixi amícos: quia ómnia, quæcúmque audívi a Patre meo, nota feci vobis. Non vos me elegístis: sed ego elégi vos, et pósui vos, ut eátis, et fructum afferátis: et fructus vester maneat: ut, quodcúmque petiéritis Patrem in nómine meo, det vobis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 15:12-16</em></span><br>\nAt that time, Jesus said to His disciples, This is My commandment, that you love one another as I have loved you. Greater love than this no one has, that one lay down his life for his friends. You are My friends if you do the things I command you. No longer do I call you servants, because the servant does not know what his master does. But I have called you friends, because all things that I have heard from My Father I have made known to you. You have not chosen Me, but I have chosen you, and have appointed you that you should go and bear fruit, and that your fruit should remain; that whatever you ask the Father in My name He may give you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nGlória et honore coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nThou hast made him a little less than the angels, thou hast crowned him with glory and honour: and hast set him over the works of thy hands."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Apostólici reveréntia cúlminis offeréntes tibi sacra mystéria, Dómine, quae; sumus: ut beáti Jacóbi Apóstoli tui suffrágiis, cujus natalícia prævenímus; plebs tua semper et sua vota deprómat, et desideráta percípiat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Christinæ Virginis et Martyris</em></span><br>\nHóstias tibi, Dómine, beátæ Christínæ Vírginis et Mártyris tuæ dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Offering to thee these holy mysteries with reverence for the high dignity of the Apostleship, we beseech thee, O Lord that through the prayers of blessed James, thy Apostle, to whose feast we look forward, thy people ever may set forth their desires before thee and gain what they seek.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Christina, Virgin and Martyr</em></span><br>\nGraciously accept the sacrificial gifts offered You, O Lord, through the merits of blessed Christina, Your Virgin and Martyr, and grant they may prove an unfailing aid for us.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:6</em></span><br>\nMagna est glória ejus in salutári tuo: glóriam et magnum decórem impónes super eum, Dómine."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:6</em></span><br>\nHis glory is great in thy salvation: glory and great beauty shalt thou lay upon him."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSancti Apóstoli tui Jacóbi, quǽsumus. Dómine, supplicatióne placátus: et veniam nobis tríbue, et remédia sempitérna concéde.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Christinæ Virginis et Martyris</em></span><br>\nDivíni múneris largitáte satiáti, quǽsumus, Dómine, Deus noster: ut, intercedénte beáta Christína Vírgine et Mártyre tua, in ejus semper participatióne vivámus.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nBe appeased, we beseech thee, O Lord, by the prayers of thy holy Apostle, James, and grant us pardon and unfailing remedies.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Christina, Virgin and Martyr</em></span><br>\nWe who have been refreshed by the richness of Your divine sacrament beseech You, O Lord our God, that through the intercession of blessed Christina, Your Virgin and Martyr, we may forevermore abide in its participation.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

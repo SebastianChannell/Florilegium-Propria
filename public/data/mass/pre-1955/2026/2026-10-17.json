@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-17",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Margaritæ Mariæ Alaquoque Virginis",
+  "rank": "Duplex",
+  "note": "Scriptura: Sabbato infra Hebdomadam XX post Octavam Pentecostes II. Octobris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Cant 2:3.</em></span><br>\nSub umbra illíus, quem desideráveram, sedi: et fructus ejus dulcis gútturi meo.<br>\n<span class=\"rubric\"><em>Ps 83:2-3</em></span><br>\nQuam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSub umbra illíus, quem desideráveram, sedi: et fructus ejus dulcis gútturi meo."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Cant 2:3</em></span><br>\nI rest in His shadow Whom I desire, and His fruit is sweet to my mouth.<br>\n<span class=\"rubric\"><em>Ps 83:2-3</em></span><br>\nHow lovely is Your dwelling place, O Lord of Hosts! My soul yearns and pines for the courts of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nI rest in His shadow Whom I desire, and His fruit is sweet to my mouth."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDómine Jesu Christe, qui investigábiles divítias Cordis tui beátæ Margarítæ Maríæ Vírgini mirabíliter revelásti: da nobis ejus méritis et imitatióne; ut, te in ómnibus et super ómnia diligéntes, jugem in eódem Corde tuo mansiónem habére mereámur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO Lord Jesus Christ, Who wondrously revealed the unsearchable riches of Your Heart to blessed Margaret Mary, the Virgin, grant us, by her merits and through imitating her, to love You in all things and above all things, so that we may be found worthy to possess a lasting dwelling place in Your Heart itself.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios.<br>\n<span class=\"rubric\"><em>Ephes 3:8-9; 14-19.</em></span><br>\nFratres: Mihi ómnium sanctórum mínimo data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi, et illumináre omnes, quæ sit dispensátio sacraménti abscónditi a sǽculis in Deo, qui ómnia creávit. Hujus rei grátia flecto génua mea ad Patrem Dómini nostri Jesu Christi, ex quo omnis patérnitas in cælis et in terra nominátur, ut det vobis secúndum divítias glóriæ suæ, virtúte corroborári per Spíritum ejus in interiórem hóminem: Christum habitáre per fidem in córdibus vestris: in caritáte radicáti et fundáti, ut póssitis comprehéndere cum ómnibus sanctis, quæ sit latitúdo et longitúdo et sublímitas et profúndum: scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Ephesians<br>\n<span class=\"rubric\"><em>Eph 3:8-9, 14-19</em></span><br>\nBrethren: To me, the very least of all saints, there was given this grace to announce among the Gentiles the good tidings of the unfathomable riches of Christ, and to enlighten all men as to what is the dispensation of the mystery which has been hidden from eternity in God, Who created all things. For this reason I bend my knees to the Father of our Lord Jesus Christ, from Whom all fatherhood in heaven and on earth receives its name, that He may grant you from His glorious riches to be strengthened with power through His Spirit unto the progress of the inner man; and to have Christ dwelling through faith in your hearts: so that, being rooted and grounded in love, you may be able to comprehend with all the saints what is the breadth and length and height and depth, and to know Christ’s love which surpasses knowledge, in order that you may be filled unto all the fullness of God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Cant 8:7.</em></span><br>\nAquæ multæ non potuérunt exstínguere caritátem, nec flúmina óbruent illam.<br>\n<span class=\"rubric\"><em>Ps 72:26</em></span><br>\nDefécit caro mea et cor meum: Deus cordis mei, et pars mea Deus in ætérnum. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Cant 7:10.</em></span><br>\nEgo dilécto meo, et ad me conversio ejus. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Cant 8:7</em></span><br>\nDeep waters cannot quench love, nor floods sweep it away.<br>\n<span class=\"rubric\"><em>Ps 72:26</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> My flesh and my heart waste away; God is the God of my heart and my portion forever. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Cant. 7:10</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> I belong to my lover and for me He yearns. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 11:25-30</em></span><br>\nIn illo témpore: Respóndens Jesus, dixit: Confíteor tibi, Pater, Dómine cæli et terræ, quia abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea párvulis. Ita, Pater: quóniam sic fuit plácitum ante te. Omnia mihi trádita sunt a Patre meo. Et nemo novit Fílium nisi Pater: neque Patrem quis novit nisi Fílius, et cui volúerit Fílius reveláre. Veníte ad me, omnes, qui laborátis et oneráti estis, et ego refíciam vos. Tóllite jugum meum super vos, et discite a me, quia mitis sum et húmilis corde: et inveniétis réquiem animábus vestris. Jugum enim meum suave est et onus meum leve.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 11:25-30</em></span><br>\nAt that time, Jesus spoke and said, I praise You, Father, Lord of heaven and earth, that You hid these things from the wise and prudent, and revealed them to little ones. Yes, Father, for such was Your good pleasure. All things have been delivered to Me by My Father; and no one knows the Son except the Father; nor does anyone know the Father except the Son, and him to whom the Son chooses to reveal Him. Come to Me, all you who labor and are burdened, and I will give you rest. Take My yoke upon you, and learn from Me, for I am meek and humble of heart; and you will find rest for your souls. For My yoke is easy, and My burden light.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Zach 9:17</em></span><br>\nQuid bonum ejus est et quid pulchrum ejus, nisi fruméntum electórum et vinum gérminans vírgines?"
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Zach 9:17</em></span><br>\nWhat wealth is His, and what beauty! grain that makes the chosen ones flourish, and new wine, the maidens."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Accépta tibi sint, Dómine, plebis tuæ múnera: et concéde; ut ignis ille divínus nos inflámmet, quo de Corde Fílii tui emisso beáta Margaríta María veheménter æstuávit.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the gifts of Your people be acceptable to You, O Lord, and grant that we be enkindled with that divine fire radiating from the Heart of Your Son, which burned so fervently in blessed Margaret.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Cant 6:2</em></span><br>\nEgo dilécto meo, et diléctus meus mihi, qui páscitur inter lília."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Cant 6:2</em></span><br>\nI belong to my lover and my lover to me; He browses among the lilies."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nCórporis et Sánguinis tui, Dómine Jesu, sumptis mystériis: concéde nobis, quǽsumus, beáta Margaríta María Vírgine intercedénte; ut, supérbis sǽculi vanitátibus exútis, mansuetúdinem et humilitátem Cordis tui indúere mereámur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nHaving received the sacrament of Your Body and Blood, we beseech You, O Lord Jesus, grant us by the intercession of blessed Margaret Mary, the Virgin, that, stripping ourselves of worldly vanities, we may be found worthy to put on the meekness and humility of Your Heart.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

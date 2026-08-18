@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-01-05",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Vigilia Epiphaniæ",
+  "rank": "Semiduplex Vigilia II. classis",
+  "note": "Commemoratio: S. Telesphori Papæ et Martyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sap 18:14-15</em></span><br>\n<span class=\"rubric\"><em>Sap 18:14-15.</em></span><br>\nDum médium siléntium tenérent ómnia, et nox in suo cursu médium iter háberet, omnípotens Sermo tuus, Dómine, de cœlis a regálibus sédibus venit.<br>\n<span class=\"rubric\"><em>Ps 92:1</em></span><br>\nDóminus regnávit, decórem indútus est: indútus est Dóminus fortitúdinem, et præcínxit se.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDum médium siléntium tenérent ómnia, et nox in suo cursu médium iter háberet, omnípotens Sermo tuus, Dómine, de cœlis a regálibus sédibus venit."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Wis 18:14-15.</em></span><br>\n<span class=\"rubric\"><em>Wis 18:14-15</em></span><br>\nWhen a profound stillness compassed everything and the night in its swift course was half spent, Your all-powerful Word, O Lord, bounded from heaven’s royal throne.<br>\n<span class=\"rubric\"><em>Ps 92:1</em></span><br>\nThe Lord is King, in splendor robed; robed is the Lord and girt about with strength.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nWhen a profound stillness compassed everything and the night in its swift course was half spent, Your all-powerful Word, O Lord, bounded from heaven’s royal throne."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nOmnípotens sempitérne Deus, dírige actus nostros in beneplácito tuo: ut in nómine dilécti Fílii tui mereámur bonis opéribus abundáre:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Telesphori Papæ et Martyris</em></span><br>\nGregem tuum, Pastor ætérne, placátus inténde: et, per beátum Telésphorum Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nDeus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno generi præmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum, Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO Almighty and everlasting God, do Thou order all our actions in conformity with thy good pleasure, that through the name of thy well-beloved Son, we may worthily abound in all good works.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Telesphorus, Pope and Martyr</em></span><br>\nLook forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed Telesphorus thy Martyr and Sovereign Pontiff, whom thou didst constitute Shepherd of the whole Church.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nO God, Who by the fruitful virginity of blessed Mary, have bestowed upon mankind the reward of eternal salvation, grant, we beseech You, that we may enjoy the intercession of her through whom we have been found worthy to receive among us the author of life, our Lord Jesus Christ, Your Son,<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Lectio Epístolæ beati Pauli Apóstoli ad Gálatas.<br>\n<span class=\"rubric\"><em>Gal 4:1-7</em></span><br>\nFratres: Quanto témpore heres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus et actóribus est usque ad præfinítum tempus a patre: ita et nos, cum essémus párvuli, sub eleméntis mundi erámus serviéntes. At ubi venit plenitúdo témporis, misit Deus Fílium suum, factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus. Quóniam autem estis fílii, misit Deus Spíritum Fílii sui in corda vestra, clamántem: Abba, Pater. Itaque jam non est servus, sed fílius: quod si fílius, et heres per Deum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Galatians<br>\n<span class=\"rubric\"><em>Gal 4:1-7</em></span><br>\nBrethren: As long as the heir is a child, he differs in no way from a slave, though he is the master of all; but he is under guardians and stewards until the time set by his father. So we too, when we were children, were enslaved under the elements of the world. But when the fullness of time came, God sent His Son, born of a woman, born under the Law, that He might redeem those who were under the Law, that we might receive the adoption of sons. And because you are sons, God has sent the Spirit of His Son into our hearts, crying, Abba, Father. So that He is no longer a slave, but a son; and if a son, an heir also through God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 44:3; 44:2</em></span><br>\nSpeciósus forma præ filiis hóminum: diffúsa est gratia in lábiis tuis.<br>\n<span class=\"marker\"><em>℣.</em></span> Eructávit cor meum verbum bonum, dico ego ópera mea Regi: lingua mea cálamus scribæ, velóciter scribéntis. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 92:1.</em></span><br>\nDóminus regnávit, decórem índuit: índuit Dóminus fortitúdinem, et præcínxit se virtúte. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 44:3, 2</em></span><br>\nFairer in beauty are You than the sons of men; grace is poured out upon Your lips.<br>\n<span class=\"marker\"><em>℣.</em></span> My heart overflows with a goodly theme; as I sing my ode to the King, my tongue is nimble as the pen of a skillful scribe. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 92:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord is King, in splendor robed; robed is the Lord and girt about with strength. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 2:19-23</em></span><br>\nIn illo témpore: Defúncto Heróde, ecce, Angelus Dómini appáruit in somnis Joseph in Ægýpto, dicens: Surge, et áccipe Púerum et Matrem ejus, et vade in terram Israël: defúncti sunt enim, qui quærébant ánimam Pueri. Qui consúrgens, accépit Púerum et Matrem ejus, et venit in terram Israël. Audiens autem, quod Archeláus regnáret in Judæa pro Heróde patre suo, tímuit illo ire: et, admonítus in somnis, secéssit in partes Galilææ. Et véniens habitávit in civitáte, quæ vocátur Názareth: ut adimplére tur quod dictum est per Prophétas: Quóniam Nazaræus vocábitur.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 2:19-23.</em></span><br>\nBut when Herod was dead, behold; an angel of the Lord appeared in sleep to Joseph in Egypt, saying: Arise, and take the child and his mother, and go into the land of Israel. For they are dead that sought the life of the child. Who arose, and took the child and his mother, and came into the land of Israel. But hearing that Archelaus reigned in Judea in the room of Herod his father, he was afraid to go thither: and being warned in sleep retired into the quarters of Galilee. And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by prophets: That he shall be called a Nazarene.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 92:1-2</em></span><br>\nDeus firmávit orbem terræ, qui non commovébitur: paráta sedes tua, Deus, ex tunc, a sǽculo tu es."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 92:1-2</em></span><br>\nGod has made the world firm, not to be moved. Your throne, O God, stands firm from of old; from everlasting You are."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Concéde, quǽsumus, omnípotens Deus: ut óculis tuæ majestátis munus oblátum, et grátiam nobis piæ devotiónis obtíneat, et efféctum beátæ perennitátis acquírat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Telesphori Papæ et Martyris</em></span><br>\nOblátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut, et gregis tui profíciat ubíque succéssus, et grati fiant nómini tuo, te gubernánte, pastóres.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant, we beseech Thee, almighty God, that the offering made in the sight of Thy Majesty may obtain for us the grace of loving devotion, and the reward of a blessed eternity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Telesphorus, Pope and Martyr</em></span><br>\nBy the offered gifts we beseech thee, O Lord, that thou kindly enlighten thy Church, so that thy flock may everywhere progress and prosper, and thy shepherds, under thy guidance may be pleasing to thy name.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Nativitate Domini</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit: ut, dum visibíliter Deum cognóscimus, per hunc in invisibílium amorem rapiámur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes."
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Nativity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God, for through the Mystery of the Word made flesh, the new light of Thy glory hath shone upon the eyes of our mind, so that while we acknowledge God in visible form, we may through Him be drawn to the love of things invisible. And therefore with Angels and Archangels, with Throne and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:20</em></span><br>\nTolle Púerum et Matrem ejus, et vade in terram Israël: defúncti sunt enim, qui quærébant ánimam Púeri."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:20</em></span><br>\nTake the Child and His mother, and go into the land of Israel, for those who sought the Child’s life are dead."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nPer hujus, Dómine, operatiónem mystérii, et vítia nostra purgéntur, et justa desidéria compleántur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Telesphori Papæ et Martyris</em></span><br>\nRefectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nHæc nos commúnio, Dómine, purget a crímine: et, intercedénte beáta Vírgine Dei Genitríce María, cœléstis remédii fáciat esse consórtes.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nBy the working of this Mystery, O Lord, may our vices be removed, and our just desires fulfilled.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Telesphorus, Pope and Martyr</em></span><br>\nBeing appeased, O Lord, guide thy Church, which has been nourished by holy refreshment, that under thy direction and powerful rule it may receive increase of liberty and may continue in religious integrity.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nMay this Communion, O Lord, cleanse us from sin and, through the intercession of the Blessed Virgin Mary, Mother of God, make us sharers of Your heavenly healing.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

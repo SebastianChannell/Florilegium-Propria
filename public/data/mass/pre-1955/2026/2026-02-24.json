@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-02-24",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Matthiæ Apostoli",
+  "rank": "Duplex II. classis",
+  "note": "Commemoratio: Feria Tertia infra Hebdomadam I in Quadragesima",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nMihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"rubric\"><em>Ps 138:1-2.</em></span><br>\nDómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nMihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 138:17</em></span><br>\nTo me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened.<br>\n<span class=\"rubric\"><em>Ps 138:1-2</em></span><br>\nO Lord, You have probed me and You know me; You know when I sit and when I stand.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nTo me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDéus, qui beátum Matthíam Apostolórum tuórum collégio sociásti: tríbue, quǽsumus; ut, eius interventióne, tuæ circa nos pietátis sémper víscera sentiámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Tertia infra Hebdomadam I in Quadragesima</em></span><br>\nRéspice, Dómine, famíliam tuam: et præsta; ut apud te mens nostra tuo desidério fúlgeat, quæ se carnis maceratióne castígat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who didst choose thy blessed servant Matthias to be of the number of the twelve Apostles, grant, we beseech thee, that thy Church, being upholden by his prayers, may ever feel about her the arms of thy most mighty protection.<br>\nper Dominum<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam I in Quadragesima</em></span><br>\nLook upon Your household, O Lord, and grant that our minds, chastened by mortification of the flesh, may, because of their desire for You, shine in Your sight.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Act 1, 15-26.</em></span><br>\nIn diébus illis exsúrgens Petrus in médio fratrum, dixit - erat autem turba hóminum simul, fere centum vigínti -: Viri fratres, opórtet impléri Scriptúram, quam prædíxit Spíritus Sanctus per os David de Juda, qui fuit dux eórum, qui comprehendérunt Jesum: qui connumerátus erat in nobis, et sortítus est sortem ministérii hujus. Et hic quidem possédit agrum de mercéde iniquitátis, et suspénsus crépuit médius: et diffúsa sunt ómnia víscera ejus. Et notum factum est ómnibus habitántibus Jerúsalem, ita ut appellarétur ager ille, lingua eórum, Hacéldama, hoc est ager sánguinis. Scriptum est enim in libro Psalmórum: Fiat commorátio eórum desérta, et non sit, qui inhábitet in ea: et episcopátum ejus accípiat alter. Opórtet ergo ex his viris, qui nobíscum sunt congregáti in omni témpore, quo intrávit et exívit inter nos Dóminus Jesus, incípiens a baptísmate Joánnis usque in diem, qua assúmptus est a nobis, testem resurrectiónis ejus nobíscum fíeri unum ex istis. Et statuérunt duos, Joseph qui vocabátur Bársabas, qui cognominátus est Justus, et Matthíam. Et orántes dixérunt: Tu, Dómine, qui corda nosti ómnium, osténde, quem elégeris ex his duóbus unum, accípere locum ministérii hujus et apostolátus, de quo prævaricátus est Judas, ut abíret in locum suum. Et dedérunt sortes eis, et cécidit sors super Matthíam, et annumerátus est cum úndecim Apóstolis.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 1:15-26</em></span><br>\nIn those days, Peter stood up in the midst of the brethren - now the number of persons met together was about a hundred and twenty - and he said, Brethren, the Scripture must be fulfilled which the Holy Spirit declared before by the mouth of David concerning Judas, who was the guide of those who arrested Jesus; inasmuch as he had been numbered among us and was allotted his share in this ministry. And he indeed bought a field with the price of his iniquity and, being hanged, burst asunder in the midst, and all his bowels gushed out. And it became known to all the residents of Jerusalem, so that the field came to be called in their language Haceldama, that is, the Field of Blood. For it is written in the book of Psalms, ‘Let their habitation become desolate and let there be none to dwell in it.’ And, ‘His ministry let another take.’ Therefore, of these men who have been in our company all the time that the Lord Jesus moved among us, from John’s baptism until the day that He was taken up from us, of these one must become a witness with us of His Resurrection.” And they put forward two: Joseph, called Barsabbas, who was surnamed Justus, and Matthias. And they prayed and said, You, Lord, Who know the hearts of all, show which of these two You have chosen to take the place in this ministry and apostleship from which Judas fell away to go to his own place. And they drew lots between them, and the lot fell upon Matthias; and he was numbered with the eleven apostles.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18</em></span><br>\nNimis honoráti sunt amíci tui, Deus: nimis confortátus est principatus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Dinumerábo eos, et super arénam multiplicabúntur.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 20:3-4</em></span><br>\nDesidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum.<br>\n<span class=\"marker\"><em>℣.</em></span> Quóniam prævenísti eum in benedictiónibus dulcédinis.<br>\n<span class=\"marker\"><em>℣.</em></span> Posuísti in cápite ejus corónam de lápide pretióso."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18</em></span><br>\nYour friends, O God, are exceedingly honorable; their principality is exceedingly strengthened.<br>\n<span class=\"marker\"><em>℣.</em></span> Were I to recount them, they would outnumber the sands.<br>\n<span class=\"rubric\"><em>Ps 20:3-4</em></span><br>\nYou have granted him his heart’s desire. You refused not the wish of his lips.<br>\n<span class=\"marker\"><em>℣.</em></span> For You welcomed him with goodly blessings.<br>\n<span class=\"marker\"><em>℣.</em></span> You placed on his head a crown of pure gold."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 11:25-30</em></span><br>\nIn illo témpore: Respóndens Jesus, dixit: Confíteor tibi, Pater, Dómine coeli et terræ, quia abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea párvulis. Ita, Pater: quóniam sic fuit plácitum ante te. Omnia mihi trádita sunt a Patre meo. Et nemo novit Fílium nisi Pater: neque Patrem quis novit nisi Fílius, et cui volúerit Fílius reveláre. Veníte ad me, omnes, qui laborátis et oneráti estis, et ego refíciam vos. Tóllite jugum meum super vos, et díscite a me, quia mitis sum et húmilis corde: et inveniétis réquiem animábus vestris. Jugum enim meum suáve est et onus meum leve.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 11:25-30</em></span><br>\nAt that time, Jesus spoke and said, I praise You, Father, Lord of heaven and earth, that You hid these things from the wise and prudent, and revealed them to little ones. Yes, Father, for such was Your good pleasure. All things have been delivered to Me by My Father; and no one knows the Son except the Father; nor does anyone know the Father except the Son, and him to whom the Son chooses to reveal Him. Come to Me, all you who labor and are burdened, and I will give you rest. Take My yoke upon you, and learn from Me, for I am meek and humble of heart; and you will find rest for your souls. For My yoke is easy, and My burden light.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:17-18</em></span><br>\nConstítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine, in omni progénie et generatióne."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 44:17-18</em></span><br>\nYou shall make them princes through all the land; they shall remember Your name, O Lord, through all generations."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hóstias tibi, Dómine, quas nómini tuo sacrándas offérimus, sancti Matthíæ Apóstoli tui prosequátur orátio: per quam nos expiári fácias et deféndi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Tertia infra Hebdomadam I in Quadragesima</em></span><br>\nOblátis, quǽsumus, Dómine, placáre munéribus: et a cunctis nos defénde perículis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May the prayer of Your holy Apostle Matthias, O Lord, accompany the sacrificial gifts which we offer to be hallowed in Your name, so that we may obtain pardon and protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam I in Quadragesima</em></span><br>\nBe appeased, we beseech You, O Lord, by the gifts we offer, and safeguard us from all dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\nIt is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28</em></span><br>\nVos, qui secúti estis me, sedébitis super sedes, judicántes duódecim tribus Israël."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 19:28</em></span><br>\nYou who have followed Me shall sit on thrones judging the twelve tribes of Israel."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut per hæc sancta, quæ súmpsimus, interveniénte beáto Matthía Apóstolo tuo, véniam consequámur et pacem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Tertia infra Hebdomadam I in Quadragesima</em></span><br>\nQuǽsumus, omnípotens Deus: ut illíus salutáris capiámus efféctum, cujus per hæc mystéria pignus accépimus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nGrant, almighty God, we pray You, that through the intercession of blessed Matthias, Your Apostle, we may obtain pardon and peace through the holy things of which we have partaken.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam I in Quadragesima</em></span><br>\nWe beseech You, almighty God, that we may obtain that salvation whose pledge we have received in this divine sacrament.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

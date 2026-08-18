@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-02",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Commemoratione Omnium Fidelium Defunctorum Ad primam Missam",
+  "rank": "Duplex",
+  "note": "Scriptura: Feria Secunda infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>4 Esdr 2:34; 2:35</em></span><br>\nRéquiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis.<br>\n<span class=\"rubric\"><em>Ps 64:2-3</em></span><br>\nTe decet hymnus, Deus, in Sion, et tibi reddétur votum in Jerúsalem: exáudi oratiónem meam, ad te omnis caro véniet.<br>\nRéquiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>4 Esd. 2:34-35</em></span><br>\nEternal rest give to them, O Lord; and let perpetual light shine upon them.<br>\n<span class=\"rubric\"><em>Ps 64:2-3</em></span><br>\nTo You we owe our hymn of praise, O God, in Sion; to You must vows be fulfilled in Jerusalem. Hear my prayer; to You all flesh must come.<br>\nEternal rest give to them, O Lord; and let perpetual light shine upon them."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nFidélium, Deus, ómnium Cónditor et Redémptor: animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum; ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Creator and Redeemer of all the faithful, grant to the souls of Your servants and handmaids the remission of all their sins, that they may obtain by our loving prayers the forgiveness which they have always desired.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>1 Cor 15:51-57</em></span><br>\nFratres: Ecce, mystérium vobis dico: Omnes quidem resurgámus, sed non omnes immutábimur. In moménto, in ictu óculi, in novíssima tuba: canet enim tuba, et mórtui resúrgent incorrúpti: et nos immutábimur. Opórtet enim corruptíbile hoc induere incorruptiónem: et mortále hoc indúere immortalitátem. Cum autem mortále hoc indúerit immortalitátem, tunc fiet sermo, qui scriptus est: Absórpta est mors in victória. Ubi est, mors, victória tua? Ubi est, mors, stímulus tuus? Stímulus autem mortis peccátum est: virtus vero peccáti lex. Deo autem grátias, qui dedit nobis victóriam per Dóminum nostrum Jesum Christum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 15:51-57</em></span><br>\nBrethren: Behold, I tell you a mystery: we shall all indeed rise, but we shall not all be changed - in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet shall sound, and the dead shall rise incorruptible and we shall be changed. For this corruptible body must put on incorruption, and this mortal body must put on immortality. But when this mortal body put on immortality, then shall come to pass the word that is written, Death is swallowed up in victory! O death, where is your victory? O death, where is your sting? Now the sting of death is sin, and the power of sin is the Law. But thanks be to God Who has given us the victory through our Lord Jesus Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>4 Esdr 2:34-35</em></span><br>\nRéquiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis.<br>\n<span class=\"rubric\"><em>Ps 111:7.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> In memória ætérna erit justus: ab auditióne mala non timébit.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\nAbsólve, Dómine, ánimas ómnium fidélium ab omni vínculo delictórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Et grátia tua illis succurrénte, mereántur evádere judícium ultiónis.<br>\n<span class=\"marker\"><em>℣.</em></span> Et lucis ætérnæ beatitúdine pérfrui.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nDies iræ, dies illa<br>\nSolvet sæclum in favílla:<br>\nTeste David cum Sibýlla.<br>\n<br>\nQuantus tremor est futúrus,<br>\nQuando judex est ventúrus,<br>\nCuncta stricte discussúrus!<br>\n<br>\nTuba mirum spargens sonum<br>\nPer sepúlcra regiónum,<br>\nCoget omnes ante thronum.<br>\n<br>\nMors stupébit et natúra,<br>\nCum resúrget creatúra,<br>\nJudicánti responsúra.<br>\n<br>\nLiber scriptus proferétur,<br>\nIn quo totum continétur,<br>\nUnde mundus judicétur.<br>\n<br>\nJudex ergo cum sedébit,<br>\nQuidquid latet, apparébit:<br>\nNil inúltum remanébit.<br>\n<br>\nQuid sum miser tunc dictúrus?<br>\nQuem patrónum rogatúrus,<br>\nCum vix justus sit secúrus?<br>\n<br>\nRex treméndæ majestátis,<br>\nQui salvándos salvas gratis,<br>\nSalva me, fons pietátis.<br>\n<br>\nRecordáre, Jesu pie,<br>\nQuod sum causa tuæ viæ:<br>\nNe me perdas illa die.<br>\n<br>\nQuærens me, sedísti lassus:<br>\nRedemísti Crucem passus:<br>\nTantus labor non sit cassus.<br>\n<br>\nJuste judex ultiónis,<br>\nDonum fac remissiónis<br>\nAnte diem ratiónis.<br>\n<br>\nIngemísco, tamquam reus:<br>\nCulpa rubet vultus meus:<br>\nSupplicánti parce, Deus.<br>\n<br>\nQui Maríam absolvísti,<br>\nEt latrónem exaudísti,<br>\nMihi quoque spem dedísti.<br>\n<br>\nPreces meæ non sunt dignæ:<br>\nSed tu bonus fac benígne,<br>\nNe perénni cremer igne.<br>\n<br>\nInter oves locum præsta,<br>\nEt ab hœdis me sequéstra,<br>\nStátuens in parte dextra.<br>\n<br>\nConfutátis maledíctis,<br>\nFlammis ácribus addíctis:<br>\nVoca me cum benedíctis.<br>\n<br>\nOro supplex et acclínis,<br>\nCor contrítum quasi cinis:<br>\nGere curam mei finis.<br>\n<br>\nLacrimósa dies illa,<br>\nQua resúrget ex favílla<br>\nJudicándus homo reus.<br>\n<br>\nHuic ergo parce, Deus:<br>\nPie Jesu Dómine,<br>\nDona eis réquiem.<br>\nAmen."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>4 Esd. 2:34-35</em></span><br>\nEternal rest give to them, O Lord; and let perpetual light shine upon them.<br>\n<span class=\"rubric\"><em>Ps 111:7</em></span><br>\nThe just man shall be in everlasting remembrance; an evil report he shall not fear.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\nO Lord, absolve the souls of all the faithful departed from every bond of sin.<br>\n<span class=\"marker\"><em>℣.</em></span> And by the help of Your grace may they be worthy to escape the sentence of vengeance.<br>\n<span class=\"marker\"><em>℣.</em></span> And to enjoy all the beatitude of the light eternal.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\n<span class=\"rubric\"><em>May be omitted at Daily Mass</em></span><br>\nDreaded day, that day of ire,<br>\nWhen the world shall melt in fire,<br>\nTold by Sibyl and David’s lyre.<br>\n<br>\nFright men’s hearts shall rudely shift,<br>\nAs the Judge through gleaming rift<br>\nComes each soul to closely sift.<br>\n<br>\nThen, the trumpet’s shrill refrain,<br>\nPiercing tombs by hill and plain,<br>\nSouls to judgment shall arraign.<br>\n<br>\nDeath and nature stand aghast,<br>\nAs the bodies rising fast,<br>\nHie to hear the sentence passed.<br>\n<br>\nThen, before Him shall be placed,<br>\nThat whereon the verdict’s based,<br>\nBook wherein each deed is traced.<br>\n<br>\nWhen the Judge His seat shall gain,<br>\nAll that’s hidden shall be plain,<br>\nNothing shall unjudged remain.<br>\n<br>\nWretched man, what can I plead?<br>\nWhom to ask to intercede,<br>\nWhen the just much mercy need?<br>\n<br>\nYou, O awe-inspiring Lord,<br>\nSaving e’en when unimplored,<br>\nSave me, mercy’s fount adored.<br>\n<br>\nO sweet Jesus, mindful be,<br>\nThat You came on earth for me:<br>\nCast me not from You this day.<br>\n<br>\nSeeking me Your strength was spent<br>\nRansoming Your limbs were rent:<br>\nIs this toil to no intent?<br>\n<br>\nYou, awarding pains condign,<br>\nMercy’s ear to me incline,<br>\nEre the reckoning You assign.<br>\n<br>\nI, felon-like, my lot bewail,<br>\nSuffused cheeks my shame unveil:<br>\nGod! O let my prayer prevail.<br>\n<br>\nMary’s soul You fashioned white,<br>\nAnd did to heaven the thief invite;<br>\nHope in me these now excite.<br>\n<br>\nPrayers of mine in vain ascend:<br>\nYou are good and will forefend,<br>\nIn quenchless fire my life to end.<br>\n<br>\nWhen the cursed by shame oppressed,<br>\nEnter flames at Your behest,<br>\nCall me then to join the blessed.<br>\n<br>\nPlace amid Your sheep accord,<br>\nKeep me from the tainted horde,<br>\nSet me in Your sight, O Lord.<br>\n<br>\nProstrate, suppliant, now no more<br>\nUnrepenting, as of yore,<br>\nSave me dying, I implore.<br>\n<br>\nMournful day that day of sighs,<br>\nWhen from dust shall man arise,<br>\nStained with guilt his doom to know,<br>\n<br>\nMercy, Lord, on him bestow.<br>\nJesus, kind! Your souls release,<br>\nLed them thence to realms of peace.<br>\nAmen."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joann 5:25-29</em></span><br>\nIn illo témpore: Dixit Jesus turbis Judæórum: Amen, amen, dico vobis, quia venit hora, et nunc est, quando mórtui áudient vocem Fílii Dei: et qui audíerint, vivent. Sicut enim Pater habet vitam in semetípso, sic dedit et Fílio habére vitam in semetípso: et potestátem dedit ei judícium fácere, quia Fílius hóminis est. Nolíte mirári hoc, quia venit hora, in qua omnes, qui in monuméntis sunt, áudient vocem Fílii Dei: et procédent, qui bona fecérunt, in resurrectiónem vitæ: qui vero mala egérunt, in resurrectiónem judícii.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 5:25-29</em></span><br>\nAt that time, Jesus said to the multitudes of the Jews, Amen, amen, I say to you, the hour is coming, and now is here, when the dead shall hear the voice of the Son of God, and those who hear shall live. For as the Father has life in Himself, even so He has given to the Son also to have life in Himself; and He has granted Him power to render judgment, because He is Son of Man. Do not wonder at this, for the hour is coming in which all who are in the tombs shall hear the voice of the Son of God. And they who have done good shall come forth unto resurrection of life; but they who have done evil unto resurrection of judgment.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "Dómine Jesu Christe, Rex glóriæ, líbera ánimas ómnium fidélium defunctórum de pœnis inférni et de profúndo lacu: líbera eas de ore leónis, ne absórbeat eas tártarus, ne cadant in obscúrum: sed sígnifer sanctus Míchaël repræséntet eas in lucem sanctam:<br>\n* Quam olim Abrahæ promisísti et sémini ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Hóstias et preces tibi, Dómine, laudis offérimus: tu súscipe pro animábus illis, quarum hódie memóriam fácimus: fac eas, Dómine, de morte transíre ad vitam.<br>\n* Quam olim Abrahæ promisísti et sémini ejus."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "O Lord, Jesus Christ, King of glory, deliver the souls of all the faithful departed from the pains of hell and the deep pit; deliver them from the lion’s mouth, that hell engulf them not, nor they fall into darkness, but that Michael, the holy standard-bearer, bring them into the holy light * which You once promised to Abraham and his seed.<br>\n<span class=\"marker\"><em>℣.</em></span> We offer You, O Lord, sacrifices and prayers of praise; accept them for those souls whom we this day commemorate; grant them, O Lord, to pass from death to the life * which You once promised to Abraham and his seed."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hóstias, quǽsumus, Dómine, quas tibi pro animábus famulórum famularúmque tuárum offérimus, propitiátus inténde: ut, quibus fídei christiánæ méritum contulísti, dones et prǽmium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Look with mercy, we beseech You, O Lord, upon the sacrificial gifts we offer for the souls of Your servants and handmaids, so that, to those upon whom You conferred the merits of Christian faith, You will also grant its reward.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Defunctorum</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. In quo nobis spes beátæ resurrectiónis effúlsit, ut, quos contrístat certa moriéndi condício, eósdem consolétur futúræ immortalitátis promíssio. Tuis enim fidélibus, Dómine, vita mutátur, non tóllitur: et, dissolúta terréstris hujus incolátus domo, ætérna in cælis habitátio comparátur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Dead</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God, through Christ our Lord. In whom the hope of a blessed resurrection hath shone forth unto us; so that those who are saddened by the certain lot of dying, may be consoled by the promise of a future deathless life. For to Thy faithful people, O Lord, life is changed, not taken away: and when the home of this earthly sojourn is dissolved, an eternal dwelling place is being prepared in the heavens. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>4 Esdr 2:35; 2:34</em></span><br>\nLux ætérna lúceat eis, Dómine:<br>\n* Cum Sanctis tuis in ætérnum: quia pius es.<br>\n<span class=\"marker\"><em>℣.</em></span> Requiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis.<br>\n* Cum Sanctis tuis in ætérnum: quia pius es."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>4 Esdr 2:35; 2:34</em></span><br>\nMay light eternal shine upon them, O Lord, with Your Saints forever, for You are kind.<br>\n<span class=\"marker\"><em>℣.</em></span> Grant them eternal rest, O Lord; and let perpetual light shine upon them: with Your Saints forever, for You are kind."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nAnimábus, quǽsumus, Dómine, famulórum famularúmque tuárum orátio profíciat supplicántium: ut eas et a peccátis ómnibus éxuas, et tuæ redemptiónis fácias esse partícipes:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the prayer of Your suppliants, O Lord, benefit the souls of Your servants and handmaids, that You may deliver them from all sins and make them sharers in Your redemption.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

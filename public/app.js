@@ -2,19 +2,34 @@ const elements = {
   article: document.querySelector("#mass-content"),
   date: document.querySelector("#mass-date"),
   dateInput: document.querySelector("#date-input"),
+  edition: document.querySelector("#mass-edition"),
   languageRow: document.querySelector("#language-row"),
   nextDay: document.querySelector("#next-day"),
   note: document.querySelector("#mass-note"),
   previousDay: document.querySelector("#previous-day"),
   propers: document.querySelector("#propers"),
   rank: document.querySelector("#mass-rank"),
+  rubricButtons: [...document.querySelectorAll("[data-rubrics]")],
   status: document.querySelector("#status-message"),
+  subtitle: document.querySelector("#site-subtitle"),
   title: document.querySelector("#mass-title"),
   viewLabel: document.querySelector("#view-label"),
   viewToggle: document.querySelector("#view-toggle"),
 };
 
 const READINGS = new Set(["lesson", "gospel"]);
+const RUBRICS = Object.freeze({
+  1954: Object.freeze({
+    edition: "Divino Afflatu · 1954",
+    errorLabel: "Divino Afflatu 1954",
+    subtitle: "Missa diéi · Divino Afflatu MCMLIV",
+  }),
+  1960: Object.freeze({
+    edition: "Missale Romanum · 1962",
+    errorLabel: "1960/1962",
+    subtitle: "Missa diéi · Rubricæ MCMLX",
+  }),
+});
 const DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
 const DECORATIVE_INITIAL_PATTERN = /<span class="rubric">\s*<strong>\s*<em>(\p{L})<\/em>\s*<\/strong>\s*<\/span>/gu;
 const REPEATED_BREAK_PATTERN = /(?:<br>\s*){2,}/gi;
@@ -23,6 +38,7 @@ const state = {
   date: localDateKey(new Date()),
   mass: null,
   request: 0,
+  rubrics: "1960",
   view: "readings",
 };
 
@@ -63,6 +79,7 @@ function pageUrl() {
   const url = new URL(window.location.href);
   url.search = "";
   url.searchParams.set("date", state.date);
+  if (state.rubrics === "1954") url.searchParams.set("rubrics", "1954");
   if (state.view === "all") url.searchParams.set("view", "all");
   return `${url.pathname}${url.search}`;
 }
@@ -77,6 +94,17 @@ function normalizeProperHtml(value) {
   return String(value ?? "")
     .replace(DECORATIVE_INITIAL_PATTERN, "$1")
     .replace(REPEATED_BREAK_PATTERN, "<br>");
+}
+
+function renderRubricContext(mass = null) {
+  const rubric = RUBRICS[state.rubrics];
+  elements.edition.textContent = rubric.edition;
+  elements.edition.title = mass?.rubrics ?? "";
+  elements.subtitle.textContent = rubric.subtitle;
+  for (const button of elements.rubricButtons) {
+    const selected = button.dataset.rubrics === state.rubrics;
+    button.setAttribute("aria-pressed", String(selected));
+  }
 }
 
 function makeSection(section) {
@@ -119,6 +147,7 @@ function renderMass() {
   const mass = state.mass;
   if (!mass) return;
 
+  renderRubricContext(mass);
   elements.date.dateTime = state.date;
   elements.date.textContent = displayDate(state.date);
   elements.title.textContent = mass.title || "Feria";
@@ -147,6 +176,7 @@ function renderMass() {
 }
 
 function showLoading() {
+  renderRubricContext();
   elements.article.setAttribute("aria-busy", "true");
   elements.date.dateTime = state.date;
   elements.date.textContent = displayDate(state.date);
@@ -171,16 +201,22 @@ function showError() {
   elements.propers.replaceChildren();
   elements.status.hidden = false;
   elements.status.classList.add("is-error");
-  elements.status.textContent = `The generated 1960/1962 propers for ${displayDate(state.date)} are not available yet.`;
+  elements.status.textContent = `The generated ${RUBRICS[state.rubrics].errorLabel} propers for ${displayDate(state.date)} are not available yet.`;
   document.title = "Mass unavailable — Propria";
 }
 
-async function fetchMass(dateKey) {
+async function fetchMass(dateKey, rubricKey) {
   const year = dateKey.slice(0, 4);
-  const paths = [
-    `/api/mass/${dateKey}`,
-    `/data/mass/${year}/${dateKey}.json`,
-  ];
+  const paths = rubricKey === "1954"
+    ? [
+        `/api/mass/1954/${dateKey}`,
+        `/api/mass/${dateKey}?rubrics=1954`,
+        `/data/mass/pre-1955/${year}/${dateKey}.json`,
+      ]
+    : [
+        `/api/mass/${dateKey}`,
+        `/data/mass/${year}/${dateKey}.json`,
+      ];
 
   for (const path of paths) {
     const response = await fetch(path, { headers: { Accept: "application/json" } });
@@ -201,11 +237,15 @@ async function loadDate(dateKey, { historyMode = "push", focus = false } = {}) {
   if (historyMode === "replace") history.replaceState({}, "", pageUrl());
 
   const request = ++state.request;
+  const rubric = state.rubrics;
   showLoading();
 
   try {
-    const mass = await fetchMass(dateKey);
+    const mass = await fetchMass(dateKey, rubric);
     if (request !== state.request) return;
+    if (mass.rubricKey && mass.rubricKey !== rubric) {
+      throw new Error(`Expected ${rubric} Mass data, received ${mass.rubricKey}`);
+    }
     state.mass = mass;
     renderMass();
   } catch (error) {
@@ -226,6 +266,16 @@ function setView(view, { updateHistory = true } = {}) {
   if (updateHistory) history.replaceState({}, "", pageUrl());
 }
 
+function setRubrics(value, { load = true, updateHistory = true } = {}) {
+  const rubrics = Object.hasOwn(RUBRICS, value) ? value : "1960";
+  const changed = rubrics !== state.rubrics;
+  state.rubrics = rubrics;
+  renderRubricContext();
+  if (!changed) return;
+  if (updateHistory) history.pushState({}, "", pageUrl());
+  if (load) loadDate(state.date, { historyMode: "none" });
+}
+
 elements.previousDay.addEventListener("click", () => {
   loadDate(shiftDate(state.date, -1), { focus: true });
 });
@@ -244,9 +294,14 @@ elements.viewToggle.addEventListener("click", () => {
   setView(state.view === "all" ? "readings" : "all");
 });
 
+for (const button of elements.rubricButtons) {
+  button.addEventListener("click", () => setRubrics(button.dataset.rubrics));
+}
+
 window.addEventListener("popstate", () => {
   const params = new URLSearchParams(window.location.search);
   setView(params.get("view"), { updateHistory: false });
+  setRubrics(params.get("rubrics"), { load: false, updateHistory: false });
   const date = params.get("date");
   loadDate(isDateKey(date) ? date : localDateKey(new Date()), { historyMode: "none" });
 });
@@ -254,4 +309,5 @@ window.addEventListener("popstate", () => {
 const params = new URLSearchParams(window.location.search);
 const initialDate = isDateKey(params.get("date")) ? params.get("date") : state.date;
 setView(params.get("view"), { updateHistory: false });
+setRubrics(params.get("rubrics"), { load: false, updateHistory: false });
 loadDate(initialDate, { historyMode: "replace" });

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-04-02",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Die VI infra octavam Paschæ",
+  "rank": "Semiduplex",
+  "note": "Commemoratio: S. Francisci de Paula Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 77:53</em></span><br>\nEdúxit eos Dóminus in spe, allelúja: et inimícos eórum opéruit mare, allelúja, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nAtténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nEdúxit eos Dóminus in spe, allelúja: et inimícos eórum opéruit mare, allelúja, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 77:53</em></span><br>\nAnd he brought them out in hope, and they feared not: and the sea overwhelmed their enemies, allelúja, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nAttend, O my people, to my law: incline your ears to the words of my mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nAnd he brought them out in hope, and they feared not: and the sea overwhelmed their enemies, allelúja, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nOmnípotens sempitérne Deus, qui paschále sacraméntum in reconciliatiónis humánæ fœ́dere contulísti: da méntibus nostris; ut, quod professióne celebrámus, imitémur efféctu.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Francisci de Paula Confessoris</em></span><br>\nDeus, humílium celsitúdo, qui beátum Francíscum Confessórem Sanctórum tuórum glória sublimásti: tríbue, quǽsumus; ut, ejus méritis et imitatióne, promíssa humílibus præmia felíciter consequámur.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nDeus, ómnium fidélium pastor et rector, fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti, propítius réspice: da ei, quǽsumus, verbo et exémplo, quibus prǽest, profícere; ut ad vitam, una cum grege sibi crédito, pervéniat sempitérnam.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nAlmighty and eternal God, in the Easter sacrament thou instituted the covenant, whereby thou forgavest mankind; grant to our souls, that what we outwardly profess we may show forth in our deeds.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Francis of Paula, Confessor</em></span><br>\nO God, the greatness of the humble, Who raised blessed Francis, Your Confessor, to the glory of Your Saints, grant, we beseech You, that, by his merits and our imitation of his life, we may happily attain the rewards promised to the humble.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nO God, the shepherd and ruler of all the faithful, graciously look upon thy servant Leo, who thou hast willed to be chief pastor of thy Church; grant him we beseech thee, by word and example to profit those over whom he rules, that together with the flock entrusted to him, he may attain to life everlasting.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Petri Apóstoli<br>\n<span class=\"rubric\"><em>1 Petri 3:18-22</em></span><br>\nCaríssimi: Christus semel pro peccátis nostris mórtuus est, justus pro injústis, ut nos offérret Deo, mortificátus quidem carne, vivificátus autem spíritu. In quo et his, qui in cárcere erant, spirítibus véniens prædicávit: qui incréduli fúerant aliquándo, quando exspectábant Dei patiéntiam in diébus Noë, cum fabricarétur arca, in qua pauci, id est octo ánimæ salvæ factæ sunt per aquam. Quod et vos nunc símilis formæ salvos facit baptísma: non carnis deposítio sórdium, sed consciéntiæ bonæ interrogátio in Deum per resurrectiónem Jesu Christi, Dómini nostri, qui est in dextera Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Peter the Apostle<br>\n<span class=\"rubric\"><em>1 Pet 3:18-22</em></span><br>\nBeloved: Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit. In which also coming he preached to those spirits that were in prison: Which had been some time incredulous, when they waited for the patience of God in the days of Noe, when the ark was a building: wherein a few, that is, eight souls, were saved by water. Whereunto baptism being of the like form, now saveth you also: not the putting away of the filth of the flesh, but the examination of a good conscience towards God by the resurrection of Jesus Christ. Who is on the right hand of God, swallowing down death, that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 117:24; 117:26-27</em></span><br>\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.<br>\n<span class=\"marker\"><em>℣.</em></span> Benedíctus, qui venit in nómine Dómini: Deus Dóminus, et illúxit nobis.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 95:10</em></span><br>\nDícite in géntibus: quia Dóminus regnávit a ligno.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVíctimæ pascháli laudes ímmolent Christiáni.<br>\nAgnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres.<br>\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus.<br>\nDic nobis, María, quid vidísti in via?<br>\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis.<br>\nAngélicos testes, sudárium et vestes.<br>\nSurréxit Christus, spes mea: præcédet vos in Galilǽam.<br>\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúja.<br>\n<span class=\"rubric\"><em>Sequentia dicitur usque ad Sabbatum in Albis inclusive.</em></span>"
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 117:24; 117:26-27</em></span><br>\nThis is the day which the Lord hath made: let us be glad and rejoice therein. Blessed be he that cometh in the name of the Lord. The Lord is God, and he hath shone upon us. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 95:10</em></span><br>\nSay ye among the Gentiles, the Lord hath reigned from a tree.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nChristians! to the Paschal Victim offer your thankful praises.<br>\nThe Lamb the sheep redeemeth: Christ, who only is sinless, reconcileth sinners to the Father.<br>\nDeath and life contended in that conflict stupendous: the Prince of Life, who died, deathless reigneth.<br>\nSpeak, Mary, declaring what thou sawest wayfaring.<br>\n“The tomb of Christ who now liveth: and likewise the glory of the Risen.<br>\nBright Angels attesting, the shroud and napkin resting.<br>\nYea, Christ my hope is arisen: to Galilee He goeth before you.”<br>\nWe know that Christ is risen, henceforth ever living: Have mercy, Victor King, pardon giving. Amen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 28:16-20</em></span><br>\nIn illo témpore: Undecim discípuli abiérunt in Galilǽam, in montem, ubi constitúerat illis Jesus. Et vidéntes eum adoravérunt: quidam autem dubitavérunt. Et accédens Jesus locútus est eis, dicens: Data est mihi omnis potéstas in cœlo, et in terra. Eúntes ergo, docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti: docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce, ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 28:16-20</em></span><br>\nIn that time:  the eleven disciples went into Galilee, unto the mountain where Jesus had appointed them. And seeing Him they adored: but some doubted. And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth. Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost. Teaching them to observe all things whatsoever I have commanded you: and behold I am with you all days, even to the consummation of the world.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Exod 12:14</em></span><br>\nErit vobis hæc dies memoriális, allelúja: et diem festum celebrábitis solémnem Dómino in progénies vestras: legítimum sempitérnum diem, allelúja, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Exod 12:14</em></span><br>\nAnd this day shall be for a memorial to you: and you shall keep it a feast to the Lord in your generations with an everlasting observance, allelúja, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hóstias, quǽsumus, Dómine, placátus assúme: quas et pro renatórum expiatióne peccáti deférimus, et pro acceleratióne cœléstis auxílii.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Francisci de Paula Confessoris</em></span><br>\nHæc dona devótæ plebis, Dómine, quibus tua cumulámus altária, beáti Francísci méritis tibi grata nobísque salutária, te miseránte, reddántur.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nOblátis, quǽsumus, Dómine, placáre munéribus: et fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti, assídua protectióne gubérna.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "In thy forgiving mercy, O Lord we pray, accept the sacrifice which we offer, to atone for the sins of those who are born anew and to hasten the giving of thy heavenly help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Francis of Paula, Confessor</em></span><br>\nMay these sacrificial gifts which Your devoted people heap upon Your altar, O Lord, become pleasing to You by the merits of blessed Francis, and, by Your mercy, helpful to us.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nLook down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom thou hast chosen to be the chief pastor of the Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hac potíssimum die gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially on this day when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 28:18-19</em></span><br>\nData est mihi omnis potéstas in cœlo et in terra, allelúja: eúntes, docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 28:18-19</em></span><br>\nAll power is given to me in heaven and in earth. Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nRéspice, quǽsumus, Dómine, pópulum tuum: et, quem ætérnis dignátus es renováre mystériis, a temporálibus culpis dignánter absólve.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Francisci de Paula Confessoris</em></span><br>\nSumpta, Dómine, sacraménta cœléstia: beáto Francísco Confessóre tuo intercedénte, precámur; ut et temporális vitæ subsídia nobis cónferant et ætérnæ.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nHæc nos, quǽsumus, Dómine, divíni sacraménti percéptio prótegat: et fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti; una cum commísso sibi grege, salvet semper et múniat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO Lord, we beseech thee, behold thy people, and as thou hast decided to quicken them with the mysteries of eternity, mercifully free them from the sins committed in time.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Francis of Paula, Confessor</em></span><br>\nWe pray You, O Lord, that the heavenly sacrament which we have received, may by the intercession of blessed Francis, Your Confessor, help us both in this life and in the life everlasting.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nLet the reception of this divine Sacrament protect us, O Lord, we beseech theee: and may thy servant Leo, whom thou has chosen as the chief pastor of thy Church, along with the flock committed to him derive always from it protection and help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-11-23",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Clementis Papæ et Martyris",
+  "rank": "Duplex",
+  "note": "Commemoratio: S. Felicitatis Martyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Is 59:21; 56:7</em></span><br>\nDicit Dóminus: Sermónes mei, quos dedi in os tuum, non defícient de ore tuo: et múnera tua accépta erunt super altáre meum.<br>\n<span class=\"rubric\"><em>Ps 111:1</em></span><br>\nBeátus vir, qui timet Dóminum: in mandátis ejus cupit nimis.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDicit Dóminus: Sermónes mei, quos dedi in os tuum, non defícient de ore tuo: et múnera tua accépta erunt super altáre meum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Isa 59:21; 56:7</em></span><br>\nThe Lord says, My words which I have put in your mouth, shall not depart out of your mouth; and your gifts shall be accepted upon My altar.<br>\n<span class=\"rubric\"><em>Ps 111:1</em></span><br>\nHappy the man who fears the Lord, who greatly delights in His commands.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThe Lord says, My words which I have put in your mouth, shall not depart out of your mouth; and your gifts shall be accepted upon My altar."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nGregem tuum, Pastor ætérne, placátus inténde: et, per beátum Cleméntem Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Felicitatis Martyris</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut, beátæ Felicitátis Martyris tuæ sollémnia recenséntes, méritis ipsíus protegámur et précibus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nLook forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed Clement thy Martyr and Sovereign Pontiff, whom thou didst constitute Shepherd of the whole Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Felicity, Martyr</em></span><br>\nGrant, we beseech thee, O Almighty God, that in calling to mind the victory of thy blessed Martyr Felicity, we may find shelter both for her sake and in her prayers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses<br>\n<span class=\"rubric\"><em>Phil 3:17-21; 4:1-3</em></span><br>\nFratres: Imitatóres mei estóte, et observáte eos, qui ita ámbulant, sicut habétis formam nostram. Multi enim ámbulant, quos sæpe dicébam vobis - nunc autem et flens dico - inimícos Crucis Christi: quorum finis intéritus: quorum Deus venter est: et glória in confusióne ipsórum, qui terréna sápiunt. Nostra autem conversátio in cœlis est: unde étiam Salvatórem exspectámus, Dóminum nostrum Jesum Christum, qui reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ, secúndum operatiónem, qua étiam possit subjícere sibi ómnia. Itaque, fratres mei caríssimi et desideratíssimi, gáudium meum et coróna mea: sic state in Dómino, caríssimi. Evódiam rogo et Sýntychen déprecor idípsum sápere in Dómino. Etiam rogo et te, germáne compar, ádjuva illas, quæ mecum laboravérunt in Evangélio cum Cleménte et céteris adjutóribus meis, quorum nómina sunt in libro vitæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Philippians<br>\n<span class=\"rubric\"><em>Phil 3:17-21; 4:1-3</em></span><br>\nBrethren: Be imitators of me, and mark those who walk after the pattern you have in us. For many walk, of whom I have told you often and now tell you even weeping, that they are enemies of the Cross of Christ. Their end is ruin, their god is the belly, their glory is in their shame, they mind the things of earth. But our citizenship is in heaven from which also we eagerly await a Saviour, our Lord Jesus Christ, Who will refashion the body of our lowliness, conforming it to the body of His glory by exerting the power by which he is able also to subject all things to Himself. So then, my brethren, beloved and longed for, my joy and my crown, stand fast thus in the Lord, beloved. I entreat Evodia and I exhort Syntyche to be of one mind in the Lord. And I beseech you also, my loyal comrade, help them, for they have toiled with me in the gospel, as have Clement and the rest of my fellow-workers whose names are in the book of life.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 106:32; 106:31.</em></span><br>\nExáltent eum in ecclésia plebis: et in cáthedra seniórum laudent eum.<br>\n<span class=\"marker\"><em>℣.</em></span> Confiteántur Dómino misericórdiæ ejus, et mirabília ejus fíliis hóminum.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Matt 16:18</em></span><br>\nTu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 106:32; 106:31</em></span><br>\nAnd let them exalt him in the church of the people: and praise him in the chair of the ancients.<br>\n<span class=\"marker\"><em>℣.</em></span> Let the mercies of the Lord give glory to him, and his wonderful works to the children of men. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Matt 16:18</em></span><br>\nAnd I say to thee: That thou art Peter; and upon this rock I will build My Church. Allelúja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 16:13-19</em></span><br>\nIn illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi dixérunt: Alii Joánnem Baptístam, alii autem Elíam, álii vero Jeremíam, aut unum ex prophétis. Dicit illis Jesus: Vos autem quem me esse dícitis? Respóndens Simon Petrus, dixit: Tu es Christus, Fílius Dei vivi. Respóndens autem Jesus, dixit ei: Beátus es, Simon Bar Jona: quia caro et sanguis non revelávit tibi, sed Pater meus, qui in cœlis est. Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificábo Ecclésiam meam, et portæ ínferi non prævalébunt advérsus eam. Et tibi dabo claves regni cœlórum. Et quodcúmque ligáveris super terram, erit ligátum et in cœlis: et quodcúmque sólveris super terram, erit solútum et in cœlis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 16:13-19</em></span><br>\nIn that time: Jesus came into the quarters of Caesarea Philippi: and he asked his disciples, saying: Whom do men say that the Son of man is? But they said: Some John the Baptist, and other some Elias, and others Jeremias, or one of the prophets. Jesus saith to them: But whom do you say that I am? Simon Peter answered and said: Thou art Christ, the Son of the living God. And Jesus answering, said to him: Blessed art thou, Simon Bar-Jona: because flesh and blood hath not revealed it to thee, but my Father who is in heaven. And I say to thee: That thou art Peter; and upon this rock I will build My Church, and the gates of hell shall not prevail against it. And I will give to thee the keys of the kingdom of heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven: and whatsoever thou shalt loose upon earth, it shall be loosed also in heaven.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Jer 1:9-10</em></span><br>\nEcce, dedi verba mea in ore tuo: ecce, constítui te super gentes et super regna, ut evéllas et déstruas, et ædífices et plantes."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Jer 1:9-10</em></span><br>\nBehold I have given my words in thy mouth: Lo, I have set thee over the nations, and over the kingdoms, to root up, and pull down, and to waste, and to destroy, and to build, and to plant."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Oblátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut, et gregis tui profíciat ubíque succéssus, et grati fiant nómini tuo, te gubernánte, pastóres.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Felicitatis Martyris</em></span><br>\nVota pópuli tui, Dómine, propitiátus inténde: et, cujus nos tríbuis sollémnia celebráre, fac gaudére suffrágiis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "By the offered gifts we beseech thee, O Lord, that thou kindly enlighten thy Church, so that thy flock may everywhere progress and prosper, and thy shepherds, under thy guidance may be pleasing to thy name.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Felicity, Martyr</em></span><br>\nBe merciful, O Lord, and look with favor upon the prayers of Your people, and make us rejoice in the patronage of her whose solemnity we celebrate.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 16:18</em></span><br>\nTu es Petrus, et super hanc petram ædificábo Ecclésiam meam."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 16:18</em></span><br>\nThou art Peter; and upon this rock I will build My Church, and the gates of hell shall not prevail against it."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nRefectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Felicitatis Martyris</em></span><br>\nSúpplices te rogámus, omnípotens Deus: ut, intercedéntibus Sanctis tuis, et tua in nobis dona multíplices, et témpora nostra dispónas.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nBeing appeased, O Lord, guide thy Church, which has been nourished by holy refreshment, that under thy direction and powerful rule it may receive increase of liberty and may continue in religious integrity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Felicity, Martyr</em></span><br>\nWe humbly beseech You, almighty God, that by the intercession of Your Saints, You will multiply Your gifts in us and direct the course of our lives.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-12-26",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Stephani Protomartyris",
+  "rank": "Duplex II. classis",
+  "note": "Commemoratio: Diei II infra Octavam Nativitatis",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:23; 118:86; 118:23</em></span><br>\nSedérunt príncipes, et advérsum me loquebántur: et iníqui persecúti sunt me: ádjuva me, Dómine, Deus meus, quia servus tuus exercebátur in tuis justificatiónibus.<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nBeati immaculáti in via, qui ámbulant in lege Dómini,<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSedérunt príncipes, et advérsum me loquebántur: et iníqui persecúti sunt me: ádjuva me, Dómine, Deus meus, quia servus tuus exercebátur in tuis justificatiónibus."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 118:23, 86, 23</em></span><br>\nPrinces met and talked against me, and the wicked persecuted me wrongfully; help me, O Lord my God, for Your servant meditates on Your statutes.<br>\n<span class=\"rubric\"><em>Ps 118:1</em></span><br>\nHappy are they whose way is blameless, who walk in the law of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nPrinces met and talked against me, and the wicked persecuted me wrongfully; help me, O Lord my God, for Your servant meditates on Your statutes."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDa nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Pro Octava Nativitatis.</em></span><br>\nConcéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant us, we beseech thee, O Lord, so to imitate what we revere, that we may learn to love even our enemies; for we celebrate the heavenly birthday of him who knew how to pray for his very persecutors to our Lord Jesus Christ:<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>For the Octave of the Nativity.</em></span><br>\nGrant, we beseech You, almighty God, that the new birth, in the flesh, of Your only-begotten Son may deliver us whom the bondage of old keeps under the yoke of sin.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Act 6:8-10; 7:54-59</em></span><br>\nIn diebus illis: Stéphanus plenus grátia et fortitúdine, faciébat prodígia et signa magna in pópulo. Surrexérunt autem quidam de synagóga, quæ appellátur Libertinórum, et Cyrenénsium, et Alexandrinórum, et eórum, qui erant a Cilícia et Asia, disputántes cum Stéphano: et non póterant resístere sapiéntiæ et Spirítui, qui loquebátur. Audiéntes autem hæc, dissecabántur córdibus suis, et stridébant déntibus in eum. Cum autem esset Stéphanus plenus Spíritu Sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem a dextris Dei. Et ait: Ecce, vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei. Exclamántes autem voce magna continuérunt aures suas, et ímpetum fecerunt unanímiter in eum. Et ejiciéntes eum extra civitatem, lapidábant: et testes deposuérunt vestiménta sua secus pedes adolescéntis, qui vocabátur Saulus. Et lapidábant Stéphanum invocántem et dicéntem: Dómine Jesu, súscipe spíritum meum. Pósitis autem génibus, clamávit voce magna, dicens: Dómine, ne státuas illis hoc peccátum. Et cum hoc dixísset, obdormívit in Dómino.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 6:8-10; 7:54-59</em></span><br>\nIn those days, Stephen, full of grace and power, was working great wonders and signs among the people. But there arose some from the synagogue which is called that of the Freedmen, and of the Cyrenians and of the Alexandrians and of those from Cilicia and the province of Asia, disputing with Stephen. And they were not able to withstand the wisdom and the Spirit Who spoke. Now as they heard these things, they were cut to the heart and gnashed their teeth at him. But he, being full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God; and he said, Behold, I see the heavens opened, and the Son of Man standing at the right hand of God. But they cried out with a loud voice and stopped their ears and rushed upon him all together. And they cast him out of the city and stoned him. And the witnesses laid down their garments at the feet of a young man named Saul. And while they were stoning Stephen he prayed and said, Lord Jesus, receive my spirit. And falling on his knees, he cried out with a loud voice, saying, Lord, do not lay this sin against them. And with these words he fell asleep.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 118:23; 118:86</em></span><br>\nSedérunt príncipes, et advérsum me loquebántur: et iníqui persecúti sunt me.<br>\n<span class=\"rubric\"><em>Ps 6:5</em></span><br>\nAdjuva me, Dómine, Deus meus: salvum me fac propter misericórdiam tuam.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Act 7:56</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Vídeo cœlos apértos, et Jesum stantem a dextris virtútis Dei. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 118:23, 86</em></span><br>\nPrinces met and talked against me, and the wicked persecuted me wrongfully.<br>\n<span class=\"rubric\"><em>Ps 6:5</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Help me, O Lord my God: rescue me because of Your kindness. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Acts 7:56</em></span><br>\nI see the heavens opened, and Jesus standing on the right hand of the power of God. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secundum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 23:34-39</em></span><br>\nIn illo témpore: Dicébat Jesus scribis et pharisǽis: Ecce, ego mitto ad vos prophétas, et sapiéntes, et scribas, et ex illis occidétis et crucifigétis, et ex eis flagellábitis in synagógis vestris, et persequémini de civitáte in civitátem: ut véniat super vos omnis sanguis justus, qui effúsus est super terram, a sánguine Abel justi usque ad sánguinem Zacharíæ, filii Barachíæ, quem occidístis inter templum et altáre. Amen, dico vobis, vénient hæc ómnia super generatiónem istam. Jerúsalem, Jerúsalem, quæ occídis prophétas, et lápidas eos, qui ad te missi sunt, quóies vólui congregáre fílios tuos, quemádmodum gallína cóngregat pullos suos sub alas, et noluísti? Ecce, relinquétur vobis domus vestra desérta. Dico enim vobis, non me vidébitis ámodo, donec dicátis: Benedíctus, qui venit in nómine Dómini.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 23:34-39</em></span><br>\nAt that time, Jesus said to the Scribes and Pharisees, Therefore, behold, I send you prophets, and wise men, and scribes; and some of them you will put to death and crucify, and some you will scourge in your synagogues, and persecute from town to town; that upon you may come all the just blood that has been shed on the earth, from the blood of Abel the just unto the blood of Zacharias the son of Barachias, whom you killed between the temple and the altar. Amen I say to you, all these things will come upon this generation. Jerusalem, Jerusalem! you who kill the prophets, and stone those who are sent to you! How often would I have gathered your children together, as a hen gathers her young under her wings, but you would not! Behold, your house is left to you desolate. For I say to you, you shall not see Me henceforth until you shall say, Blessed is He Who comes in the name of the Lord!<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Act 6:5; 7:59</em></span><br>\nElegérunt Apóstoli Stéphanum Levítam, plenum fide et Spíritu Sancto: quem lapidavérunt Judæi orántem, et dicéntem: Dómine Jesu, áccipe spíritum meum, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Acts 6:5; 7:59</em></span><br>\nThe Apostles chose Stephen to be a levite, a man full of faith and of the Holy Spirit: whom the Jews stoned, praying and saying, Lord Jesus, receive my spirit. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, Dómine, múnera pro tuórum commemoratióne Sanctórum: ut, sicut illos pássio gloriósos effécit; ita nos devótio reddat innócuos.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Pro Octava Nativitatis.</em></span><br>\nObláta, Dómine, múnera, nova Unigéniti tui Nativitáte sanctífica: nosque a peccatórum nostrórum máculis emúnda.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Receive our offerings, O Lord, in memory of Your saints, that, as their passion has given them eternal glory, so may this sacrificial act free us from guilt. Through our Lord.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>For the Octave of the Nativity.</em></span><br>\nMake holy the sacrificial gifts we offer, O Lord, and by the new birth of Your only-begotten Son cleanse us from the stains of our sins.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Nativitate Domini</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit: ut, dum visibíliter Deum cognóscimus, per hunc in invisibílium amorem rapiámur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes."
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Nativity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God, for through the Mystery of the Word made flesh, the new light of Thy glory hath shone upon the eyes of our mind, so that while we acknowledge God in visible form, we may through Him be drawn to the love of things invisible. And therefore with Angels and Archangels, with Throne and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Act 7:55; 7:58-59</em></span><br>\nVídeo cœlos apértos, et Jesum stantem a dextris virtútis Dei: Dómine Jesu, accipe spíritum meum, et ne státuas illis hoc peccátum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Acts 7:56, 59-60</em></span><br>\nI see the heavens opened, and Jesus standing on the right hand of the power of God: Lord Jesus receive my spirit, and do not lay this sin against them."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nAuxiliéntur nobis, Dómine, sumpta mystéria: et, intercedénte beáto Stéphano Mártyre tuo, sempitérna protectióne confírment.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Pro Octava Nativitatis.</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut natus hódie Salvátor mundi, sicut divínæ nobis generatiónis est auctor; ita et immortalitátis sit ipse largítor:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the sacrament we have received aid us, O Lord; and by the intercession of blessed Stephen, Your Martyr, may it sustain us under Your everlasting protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>For the Octave of the Nativity.</em></span><br>\nGrant, we beseech You, almighty God, that the Saviour of the world, born this day, Who is the author of our birth in godliness, may bestow on us immortal life.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

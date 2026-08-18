@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-04-28",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Pauli a Cruce Confessoris",
+  "rank": "Duplex",
+  "note": "Commemoratio: Die VII infra Octavam Patrocinii St Joseph",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Gal 2:19-20</em></span><br>\nChristo confíxus sum Cruci: vivo autem, jam non ego; vivit vero in me Christus: in fide vivo Fílii Dei, qui diléxit me, et trádidit semetípsum pro me, allelúja, alleluja.<br>\n<span class=\"rubric\"><em>Ps 40:2.</em></span><br>\nBeátus, qui intéllegit super egénum et páuperem: in die mala liberábit eum Dóminus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nChristo confíxus sum Cruci: vivo autem, jam non ego; vivit vero in me Christus: in fide vivo Filii Dei, qui diléxit me, et trádidit semetípsum pro me, allelúja, alleluja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Gal 2:19-20</em></span><br>\nWith Christ I am nailed to the cross. And I live, now not I; but Christ liveth in me. And that I live now in the flesh: I live in the faith of the Son of God, who loved me, and delivered himself for me, alleluja, alleluja.<br>\n<span class=\"rubric\"><em>Ps 40:2</em></span><br>\nBlessed is he that understandeth concerning the needy and the poor: the Lord will deliver him in the evil day.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nWith Christ I am nailed to the cross. And I live, now not I; but Christ liveth in me. And that I live now in the flesh: I live in the faith of the Son of God, who loved me, and delivered himself for me, alleluja, alleluja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDómine Jesu Christe, qui, ad mystérium Crucis prædicándum, sanctum Paulum singulári caritáte donásti, et per eum novam in Ecclésia famíliam floréscere voluísti: ipsíus nobis intercessióne concéde; ut, passiónem tuam júgiter recoléntes in terris, ejúsdem fructum cónsequi mereámur in cœlis:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Die VII infra Octavam Patrocinii St Joseph</em></span><br>\nDeus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta, quǽsumus; ut, quem protectórem venerámur in terris, intercessórem habére mereámur in cœlis:<br>\n<span class=\"rubric\"><em>Commemoratio S. Vitalis Martyris</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut, qui beáti Vitális Mártyris tui natalítia cólimus, intercessióne ejus in tui nóminis amóre roborémur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nLord Jesus Christ, Who didst gift thine holy servant Paul with great love that he might preach the mystery of thy cross, and hast been pleased that through him a new family should grow up in thy Church, grant unto us at his prayers that upon earth we may so call thy sufferings to mind as worthily to gain the fruit thereof in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Die VII infra Octavam Patrocinii St Joseph</em></span><br>\nGod, Who in thine unspeakable foreknowledge didst choose thy blessed servant Joseph to be the husband of thine Own most holy Mother; mercifully grant that now that he is in heaven with thee, we who on earth do reverence him for our Defender, may worthily be holpen by the succour of his prayers to thee on our behalf;<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nGrant, we beseech thee, almighty God, that we who celebrate the martyrdom of blessed Vitalis, through his intercession be strengthened in your love.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios<br>\n<span class=\"rubric\"><em>1 Cor 1:17-25.</em></span><br>\nFratres: Non misit me Christus baptizáre, sed evangelizáre: non in sapiéntia verbi, ut non evacuétur Crux Christi. Verbum enim Crucis pereúntibus quidem stultítia est: iis autem, qui salvi fiunt, id est nobis, Dei virtus est. Scriptum est enim: Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo. Ubi sápiens? ubi scriba? ubi conquisítor hujus sǽculi? Nonne stultam fecit Deus sapiéntiam hujus mundi? Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum: plácuit Deo per stultítiam prædicatiónis salvos fácere credéntes. Quóniam et Judǽi signa petunt et Græci sapiéntiam quærunt: nos autem prædicámus Christum crucifíxum: Judǽis quidem scándalum, géntibus autem stultítiam, ipsis autem vocátis Judǽis atque Græcis Christum Dei virtútem et Dei sapiéntiam: quia, quod stultum est Dei, sapiéntius est homínibus: et, quod infírmum est Dei, fórtius est homínibus.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor 1:17-25.</em></span><br>\nBrothers: Christ sent me not to baptize, but to preach the gospel: not in wisdom of speech, lest the cross of Christ should be made void. For the word of the cross, to them indeed that perish, is foolishness; but to them that are saved, that is, to us, it is the power of God. For it is written: I will destroy the wisdom of the wise, and the prudence of the prudent I will reject. Where is the wise? Where is the scribe? Where is the disputer of this world? Hath not God made foolish the wisdom of this world? For seeing that in the wisdom of God the world, by wisdom, knew not God, it pleased God, by the foolishness of our preaching, to save them that believe. For both the Jews require signs, and the Greeks seek after wisdom: But we preach Christ crucified, unto the Jews indeed a stumbling-block, and unto the Gentiles foolishness: But unto them that are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. For the foolishness of God is wiser than men; and the weakness of God is stronger than men.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "alleluia",
+      "kind": "alleluia",
+      "latin": {
+        "label": "Allelúja.",
+        "html": "Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>2 Cor 5:15</em></span><br>\nPro ómnibus mórtuus est Christus: ut, et qui vivunt, jam non sibi vivant, sed ei, qui pro ipsis mórtuus est, et resurréxit. Allelúja.<br>\n<span class=\"rubric\"><em>Rom 8:17</em></span><br>\nSi fílii, et herédes: herédes quidem Dei, coherédes autem Christi: si tamen compátimur, ut et conglorificémur. Allelúja."
+      },
+      "english": {
+        "label": "Alleluia.",
+        "html": "Alleluja, alleluja<br>\n<span class=\"rubric\"><em>2 Cor 5:15</em></span><br>\nAnd Christ died for all; that they also who live, may not now live to themselves, but unto him who died for them, and rose again. Alleluja.<br>\n<span class=\"rubric\"><em>Rom 8:17</em></span><br>\nAnd if sons, heirs also; heirs indeed of God, and joint heirs with Christ: yet so, if we suffer with him, that we may be also glorified with him. Alleluja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 10:1-9</em></span><br>\nIn illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 10:1-9</em></span><br>\nAt that time, the Lord appointed seventy-two others, and sent them forth two by two before Him into every town and place where He Himself was about to come. And He said to them, The harvest indeed is great, but the laborers are few. Pray therefore the Lord of the harvest to send forth laborers into His harvest. Go. Behold, I send you forth as lambs in the midst of wolves. Carry neither purse, nor wallet, nor sandals, and greet no one on the way. Whatever house you enter, first say, ‘Peace to this house!’ And if a son of peace be there, your peace will rest upon him; but if not, it will return to you. And remain in the same house, eating and drinking what they have; for the laborer deserves his wages. Do not go from house to house. And whatever town you enter, and they receive you, eat what is set before you, and cure the sick who are there, and say to them, ‘The kingdom of God is at hand for you.’<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ephes 5:2</em></span><br>\nAmbuláte in dilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem et hóstiam Deo in odórem suavitátis, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Eph 5:2</em></span><br>\nAnd walk in love, as Christ also hath loved us, and hath delivered himself for us, an oblation and a sacrifice to God for an odour of sweetness."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Cœléstem nobis, Dómine, prǽbeant mystéria hæc passiónis et mortis tuæ fervórem: quo sanctus Paulus, ea offeréndo, corpus suum hóstiam vivéntem, sanctam tibíque placéntem exhíbuit:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Die VII infra Octavam Patrocinii St Joseph</em></span><br>\nSanctíssimæ Genitrícis tuæ sponsi patrocínio suffúlti, rogámus, Dómine, cleméntiam tuam: ut corda nostra fácias terréna cuncta despícere, ac te verum Deum perfécta caritáte dilígere:<br>\n<span class=\"rubric\"><em>Commemoratio S. Vitalis Martyris</em></span><br>\nMunéribus nostris, quǽsumus, Dómine, precibúsque suscéptis: et cœléstibus nos munda mystériis, et cleménter exáudi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May these mysteries of thy passion and death, O Lord, fill us with that heavenly fervor, with which St. Paul, when he offered them presented his body as a living sacrifice, holy and pleasing unto thee.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<span class=\"rubric\"><em>Commemoration Die VII infra Octavam Patrocinii St Joseph</em></span><br>\nSupported by the patronage of the spouse of thy most holy Mother, we beseech thy clemency, O Lord, that thou wouldst make our hearts despise all eartly things and love thee, the true God with perfect charity.<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nAs thou hast received our gifts and prayers, O Lord, cleanse us, we ask by thy heavenly mysteries, and graciously hear us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de S. Joseph</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Et te in Veneratióne beáti Joseph débitis magnificáre præcóniis, benedícere et prædicáre. Qui et vir justus, a te Deíparæ Vírgini Sponsus est datus: et fidélis servus ac prudens, super Famíliam tuam est constitútus: ut Unigénitum tuum, Sancti Spíritus obumbratióne concéptum, paterna vice custodíret, Jesum Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti júbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>St. Joseph</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: and that we should magnify with due praises, bless and proclaim Thee on the solemnity of blessed Joseph; who, being a just man, was given by Thee as a Spouse to the Virgin Mother of God, and, as a faithful and prudent servant was set over Thy Family, that, with fatherly care, he might guard Thine only-begotten Son, conceived by the overshadowing of the Holy Ghost, even Jesus Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, and the Powers stand in awe. The heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with them we entreat Thee that Thou mayest bid our voices also to be admitted, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Pet 4:13</em></span><br>\nCommunicántes Christi passiónibus gaudéte, ut in revelatióne glóriæ ejus gaudeátis exsultántes. Allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Pet 4:13</em></span><br>\nBut if you partake of the sufferings of Christ, rejoice that when his glory shall be revealed, you may also be glad with exceeding joy, alleluja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSúmpsimus, Dómine, divínum sacraméntum, imménsæ caritátis tuæ memoriále perpétuum: tríbue, quǽsumus; ut, sancti Pauli méritis et imitatióne, aquam de fóntibus tuis hauriámus in vitam ætérnam saliéntem, et tuam sacratíssimam passiónem córdibus nostris impréssam móribus et vita teneámus:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Die VII infra Octavam Patrocinii St Joseph</em></span><br>\nDivíni múneris fonte refécti, quǽsumus, Dómine, Deus noster: ut, sicut nos facis beáti Joseph protectióne gaudére; ita, ejus méritis et intercessióne, cœléstis glóriæ fácias esse partícipes.<br>\n<span class=\"rubric\"><em>Commemoratio S. Vitalis Martyris</em></span><br>\nDa, quǽsumus, Dómine, Deus noster: ut, sicut tuórum commemoratióne Sanctórum temporáli gratulámur offício; ita perpétuo lætémur aspéctu.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nWe have received, O Lord, the divine sacrament, which is a perpetual memorial, of thy boundless love; grant we pray, that through the merits and example of St. Paul, we may draw from thy fountains water springing up to life eternal, and in our life and conduct, we may keep thy most holy Passion ever impressed upon our hearts.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Die VII infra Octavam Patrocinii St Joseph</em></span><br>\nRefreshed at the fount of divine blessing, we beseech thee, O Lord our God, that as thou dost gladden us by the protection of blessed Joseph, so by his merits and intercession thou woulds make us partakers of his heavenly glory.<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nGrant, we beseech thee, O our God, that we who in time render joyful service in memory of thy saints, may be gladdened by their company in eternity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-04-01",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Die V infra octavam Paschæ",
+  "rank": "Semiduplex",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sap 10:20-21</em></span><br>\nVictrícem manum tuam, Dómine, laudavérunt páriter, allelúja: quia sapiéntia apéruit os mutum, et linguas infántium fecit disértas, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 97:1</em></span><br>\nCantáte Dómino cánticum novum: quia mirabília fecit.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nVictrícem manum tuam, Dómine, laudavérunt páriter, allelúja: quia sapiéntia apéruit os mutum, et linguas infántium fecit disértas, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Wis 10:20-21</em></span><br>\nThey sung to thy holy name, O Lord, and they praised with one accord thy victorious hand, alleluia. For wisdom opened the mouth of the dumb, and made the tongues of infants eloquent, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 97:1</em></span><br>\nSing ye to the Lord a new canticle: because he hath done wonderful things.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThey sung to thy holy name, O Lord, and they praised with one accord thy victorious hand, alleluia. For wisdom opened the mouth of the dumb, and made the tongues of infants eloquent, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui diversitátem géntium in confessióne tui nóminis adunásti: da, ut renátis fonte baptísmatis una sit fides méntium, et píetas actiónum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nEcclésiæ tuæ, quǽsumus, Dómine, preces placátus admítte: ut, destrúctis adversitátibus et erróribus univérsis, secúra tibi sérviat libertáte.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who dost make all nations, how diverse soever they be, to become one family in giving of praise to thy Name, grant unto all them that are born again in the fountain of baptism to live ever in oneness of faith, and godliness of works.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nMercifully hear the prayers of thy Church, we beseech thee, O Lord, that all adversities and errors being overcome, she may serve thee in security and feedom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolorum<br>\n<span class=\"rubric\"><em>Act 8:26-40</em></span><br>\nIn diébus illis: Angelus Dómini locútus est ad Philíppum, dicens: Surge et vade contra meridiánum ad viam, quæ descéndit ab Jerúsalem in Gazam: hæc est desérta. Et surgens ábiit. Et ecce vir Æthiops eunúchus, potens Candácis regínæ Æthíopum, qui erat super omnes gazas ejus, vénerat adoráre in Jerúsalem: et revertebátur sedens super currum suum, legénsque Isaíam Prophétam. Dixit autem Spíritus Philíppo: Accéde et adjúnge te ad currum istum. Accúrrens autem Philíppus, audívit eum legéntem Isaíam Prophétam, et dixit: Putásne, intéllegis, quæ legis? Qui ait: Et quómodo possum, si non áliquis osténderit mihi? Rogavítque Philíppum, ut ascénderet et sedéret secum. Locus autem Scriptúræ, quam legébat, erat hic: Tamquam ovis ad occisiónem ductus est: et sicut agnus coram tondénte se, sine voce, sic non apéruit os suum. In humilitáte judícium ejus sublátum est. Generatiónem ejus quis enarrábit, quóniam tollétur de terra vita ejus? Respóndens autem eunúchus Philíppo, dixit: Obsecro te, de quo Prophéta dicit hoc? de se, an de álio áliquo? Apériens autem Philíppus os suum, et incípiens a Scriptúra ista, evangelizávit illi Jesum. Et dum irent per viam, venérunt ad quandam aquam: et ait eunúchus: Ecce aqua, quid próhibet me baptizári? Dixit autem Philíppus: Si credis ex toto corde, licet. Et respóndens, ait: Credo, Fílium Dei esse Jesum Christum. Et jussit stare currum: et descendérunt utérque in aquam, Philíppus et eunúchus, et baptizávit eum. Cum autem ascendíssent de aqua, Spíritus Dómini rápuit Philíppum, et ámplius non vidit eum eunúchus. Ibat autem per viam suam gaudens. Philíppus autem invéntus est in Azóto, et pertránsiens evangelizábat civitátibus cunctis - donec veníret Cæsaréam - nomen Dómini Jesu Christi.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 8:26-40</em></span><br>\nIn that time, an angel of the Lord spoke to Philip, saying: Arise, go towards the south, to the way that goeth down from Jerusalem into Gaza: this is desert. And rising up, he went. And behold a man of Ethiopia, an eunuch, of great authority under Candace the queen of the Ethiopians, who had charge over all her treasures, had come to Jerusalem to adore. And he was returning, sitting in this chariot, and reading Isaias the prophet. And the Spirit said to Philip: Go near, and join thyself to this chariot. And Philip running thither, heard him reading the prophet Isaias. And he said: Thinkest thou that thou understandest what thou readest? Who said: And how can I, unless some man shew me? And he desired Philip that he would come up and sit with him. And the place of the scripture which he was reading was this: He was led as a sheep to the slaughter; and like a lamb without voice before his shearer, so openeth he not his mouth. In humility his judgment was taken away. His generation who shall declare, for his life shall be taken from the earth? And the eunuch answering Philip, said: I beseech thee, of whom doth the prophet speak this? of himself, or of some other man? Then Philip, opening his mouth, and beginning at this scripture, preached unto him Jesus. And as they went on their way, they came to a certain water; and the eunuch said: See, here is water: what doth hinder me from being baptized? And Philip said: If thou believest with all thy heart, thou mayest. And he answering, said: I believe that Jesus Christ is the Son of God. And he commanded the chariot to stand still; and they went down into the water, both Philip and the eunuch: and he baptized him. And when they were come up out of the water, the Spirit of the Lord took away Philip; and the eunuch saw him no more. And he went on his way rejoicing. But Philip was found in Azotus; and passing through, he preached the gospel to all the cities, till he came to Caesarea.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 117:24; 117:22-23.</em></span><br>\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.<br>\n<span class=\"marker\"><em>℣.</em></span> Lápidem, quem reprobavérunt ædificántes, hic factus est in caput ánguli: a Dómino factum est istud, et est mirábile in óculis nostris.<br>\nAllelúja, allelúja,<br>\n<span class=\"marker\"><em>℣.</em></span> Surréxit Christus, qui creávit ómnia: et misértus est humáno géneri.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVíctimæ pascháli laudes ímmolent Christiáni.<br>\nAgnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres.<br>\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus.<br>\nDic nobis, María, quid vidísti in via?<br>\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis.<br>\nAngélicos testes, sudárium et vestes.<br>\nSurréxit Christus, spes mea: præcédet vos in Galilǽam.<br>\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúja.<br>\n<span class=\"rubric\"><em>Sequentia dicitur usque ad Sabbatum in Albis inclusive.</em></span>"
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 117:24; 117:22-23.</em></span><br>\nThis is the day which the Lord hath made: let us be glad and rejoice therein.<br>\n<span class=\"marker\"><em>℣.</em></span> The stone which the builders rejected; the same is become the head of the corner. This is the Lord's doing: and it is wonderful in our eyes. Allelúja, allelúja,<br>\n<span class=\"marker\"><em>℣.</em></span> Christ is risen, who created all things, and has had compassion upon the human race.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nChristians! to the Paschal Victim offer your thankful praises.<br>\nThe Lamb the sheep redeemeth: Christ, who only is sinless, reconcileth sinners to the Father.<br>\nDeath and life contended in that conflict stupendous: the Prince of Life, who died, deathless reigneth.<br>\nSpeak, Mary, declaring what thou sawest wayfaring.<br>\n“The tomb of Christ who now liveth: and likewise the glory of the Risen.<br>\nBright Angels attesting, the shroud and napkin resting.<br>\nYea, Christ my hope is arisen: to Galilee He goeth before you.”<br>\nWe know that Christ is risen, henceforth ever living: Have mercy, Victor King, pardon giving. Amen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 20:11-18</em></span><br>\nIn illo témpore: María stabat ad monuméntum foris, plorans. Dum ergo fleret, inclinávit se et prospéxit in monuméntum: et vidit duos Angelos in albis, sedéntes, unum ad caput et unum ad pedes, ubi pósitum fúerat corpus Jesu. Dicunt ei illi: Múlier, quid ploras? Dicit eis: Quia tulérunt Dóminum meum: et néscio, ubi posuérunt eum. Hæc cum dixísset, convérsa est retrórsum, et vidit Jesum stantem: et non sciébat, quia Jesus est. Dicit ei Jesus: Múlier, quid ploras? quem quæris? Illa exístimans, quia hortulánus esset, dicit ei: Dómine, si tu sustulísti eum, dícito mihi, ubi posuísti eum: et ego eum tollam. Dicit ei Jesus: María. Convérsa illa, dicit ei: Rabbóni - quod dícitur Magíster. - Dicit ei Jesus: Noli me tángere, nondum enim ascéndi ad Patrem meum: vade autem ad fratres meos et dic eis: Ascéndo ad Patrem meum et Patrem vestrum, Deum meum et Deum vestrum. Venit María Magdaléne annúntians discípulis: Quia vidi Dóminum, et hæc dixit mihi.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 20:11-18</em></span><br>\nIn that time: Mary stood at the sepulchre without, weeping. Now as she was weeping, she stooped down, and looked into the sepulchre, And she saw two angels in white, sitting, one at the head, and one at the feet, where the body of Jesus had been laid. They say to her: Woman, why weepest thou? She saith to them: Because they have taken away my Lord; and I know not where they have laid him. When she had thus said, she turned herself back, and saw Jesus standing; and she knew not that it was Jesus. Jesus saith to her: Woman, why weepest thou? whom seekest thou? She, thinking it was the gardener, saith to him: Sir, if thou hast taken him hence, tell me where thou hast laid him, and I will take him away. Jesus saith to her: Mary. She turning, saith to him: Rabboni - which is to say, Master. - Jesus saith to her: Do not touch me, for I am not yet ascended to my Father. But go to my brethren, and say to them: I ascend to my Father and to your Father, to my God and your God. Mary Magdalen cometh, and telleth the disciples: I have seen the Lord, and these things he said to me.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Exod 13:5</em></span><br>\nIn die solemnitátis vestræ, dicit Dóminus, indúcam vos in terram fluéntem lac et mel, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Exod 13:5</em></span><br>\nIn the day of your solemnity, said the Lord, I will bring you into a land that floweth with milk and honey, allelúja."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, quǽsumus, Dómine, múnera populórum tuórum propítius: ut, confessióne tui nóminis et baptísmate renováti, sempitérnam beatitúdinem consequántur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nPrótege nos, Dómine, tuis mystériis serviéntes: ut, divínis rebus inhæréntes, et córpore tibi famulémur et mente.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Graciously receive, we beseech thee, O Lord, the offering of thy people, and grant that they who are renewed by baptism and the confession of thy name, may attain to everlasting happiness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nProtect us, O Lord, who celebrate thy mysteries, that holding fast to divine things, we may serve thee with body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hac potíssimum die gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially on this day when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Pet 2:9</em></span><br>\nPópulus acquisitiónis, annuntiáte virtútes ejus, allelúja: qui vos de ténebris vocávit in admirábile lumen suum, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>1 Pet 2:9</em></span><br>\nBut you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light: allelúja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nExáudi, Dómine, preces nostras: ut redemptiónis nostræ sacrosáncta commércia, et vitæ nobis cónferant præséntis auxílium, et gáudia sempitérna concílient.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nQuǽsumus, Dómine, Deus noster: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subjacére perículis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO Lord, hear our prayers; that the holy channels of our redemption may obtain us help in this our present life, and secure us eternal joys.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nWe beseech thee, O Lord, our God, that thou permit not those, to whom thou hast given a participation of divine things to be subjected to human dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

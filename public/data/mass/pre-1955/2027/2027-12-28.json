@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-12-28",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Ss. Innocentium",
+  "rank": "Duplex II. classis",
+  "note": "Commemoratio: Diei IV infra Octavam Nativitatis",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 8:3</em></span><br>\nEx ore infántium, Deus, et lacténtium perfecísti laudem propter inimicos tuos.<br>\n<span class=\"rubric\"><em>Ps 8:2</em></span><br>\nDómine, Dóminus noster: quam admirábile est nomen tuum in univérsa terra!<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nEx ore infántium, Deus, et lacténtium perfecísti laudem propter inimicos tuos."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 8:3</em></span><br>\nOut of the mouths of babes and of sucklings, O God, You have fashioned praise because of Your foes.<br>\n<span class=\"rubric\"><em>Ps 8:2</em></span><br>\nO Lord, our Lord, how glorious is Your name over all the earth!<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nOut of the mouths of babes and of sucklings, O God, You have fashioned praise because of Your foes."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, cujus hodierna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Pro Octava Nativitatis.</em></span><br>\nConcéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Whose praise the Innocents, Your martyrs, this day proclaimed, not by speaking, but by dying, put to death in us all the wickedness of sin, so that Your faith which our tongue professes may be proclaimed also by our life.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>For the Octave of the Nativity.</em></span><br>\nGrant, we beseech You, almighty God, that the new birth, in the flesh, of Your only-begotten Son may deliver us whom the bondage of old keeps under the yoke of sin.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Apocalýpsis beáti Joánnis Apóstoli<br>\n<span class=\"rubric\"><em>Apoc 14:1-5</em></span><br>\nIn diébus illis: Vidi supra montem Sion Agnum stantem, et cum eo centum quadragínta quatuor mília, habéntes nomen ejus, et nomen Patris ejus scriptum in fróntibus suis. Et audívi vocem de cœlo, tamquam vocem aquárum multárum, et tamquam vocem tonítrui magni: et vocem, quam audívi, sicut citharœdórum citharizántium in cítharis suis. Et cantábant quasi cánticum novum ante sedem, et ante quátuor animália, et senióres: et nemo póterat dícere cánticum, nisi illa centum quadragínta quátuor mília, qui empti sunt de terra. Hi sunt, qui cum muliéribus non sunt coinquináti: vírgines enim sunt. Hi sequúntur Agnum, quocúmque íerit. Hi empti sunt ex homínibus primítiæ Deo, et Agno: et in ore eórum non est invéntum mendácium: sine mácula enim sunt ante thronum Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Revelation<br>\n<span class=\"rubric\"><em>Apoc 14:1-5</em></span><br>\nIn those days, I saw the Lamb standing upon Mount Sion, and with Him a hundred and forty-four thousand having His name and the name of His Father written on their foreheads. And I heard a voice from heaven like a voice of many waters, and like a voice of loud thunder; and the voice that I heard was as of harpers playing on their harps. And they were singing as it were a new song before the throne, and before the four living creatures and the elders; and no one could learn the song except those hundred and forty-four thousand, who have been purchased from the earth. These are they who were not defiled with women; for they are virgins. These follow the Lamb wherever He goes. These were purchased from among men, first-fruits unto God and unto the Lamb, and in their mouth there was found no lie; they are without blemish before the throne of God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 123:7-8</em></span><br>\nAnima nostra, sicut passer, erépta est de láqueo venántium.<br>\n<span class=\"marker\"><em>℣.</em></span> Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 112:1</em></span><br>\nLaudáte, púeri, Dóminum, laudáte nomen Dómini. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 123:7-8</em></span><br>\nWe were rescued like a bird from the fowlers’ snare.<br>\n<span class=\"marker\"><em>℣.</em></span> Broken was the snare, and we were freed. Our help is in the name of the Lord, Who made heaven and earth. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 112:1</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Praise the Lord, you children, praise the name of the Lord. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secundum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 2:13-18</em></span><br>\nIn illo témpore: Angelus Dómini appáruit in somnis Joseph, dicens: Surge, et áccipe Púerum et Matrem ejus, et fuge in Ægýptum, et esto ibi, usque dum dicam tibi. Futúrum est enim, ut Heródes quærat Púerum ad perdéndum eum. Qui consúrgens accépit Púerum et Matrem ejus nocte, et secéssit in Ægýptum: et erat ibi usque ad óbitum Heródis: ut adimplerétur quod dictum est a Dómino per Prophétam dicéntem: Ex Ægýpto vocávi Fílium meum. Tunc Heródes videns, quóniam illúsus esset a Magis, irátus est valde, et mittens occídit omnes púeros, qui erant in Béthlehem et in ómnibus fínibus ejus, a bimátu et infra, secúndum tempus, quod exquisíerat a Magis. Tunc adimplétum est, quod dictum est per Jeremíam Prophetam dicéntem: Vox in Rama audíta est, plorátus et ululátus multus: Rachel plorans fílios suos, et nóluit consolári, quia non sunt.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 2:13-18</em></span><br>\nAt that time, an angel of the Lord appeared in a dream to Joseph, saying, Arise, and take the Child and His mother, and flee into Egypt, and remain there until I tell you. For Herod will seek the Child to destroy Him. So he arose, and took the Child and His mother by night, and withdrew into Egypt, and remained there until the death of Herod; that what was spoken by the Lord through the prophet might be fulfilled, Out of Egypt I called My Son. Then Herod, seeing that he had been tricked by the Magi, was exceedingly angry; and he sent and slew all the boys in Bethlehem and all its neighborhood who were two years old or under, according to the time that he had carefully ascertained from the Magi. Then was fulfilled what was spoken through Jeremias the prophet. A voice was heard in Rama, weeping and loud lamentation; Rachel weeping for her children, and she would not be comforted, because they are no more.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 123:7</em></span><br>\nAnima nostra, sicut passer, erépta est de láqueo venántium: láqueus contrítus est, et nos liberáti sumus."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 123:7</em></span><br>\nWe were rescued like a bird from the fowlers’ snare. Broken was the snare and we were freed."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sanctórum tuórum, Dómine, nobis pia non desit orátio: quæ et múnera nostra concíliet, et tuam nobis indulgéntiam semper obtíneat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Pro Octava Nativitatis.</em></span><br>\nObláta, Dómine, múnera, nova Unigéniti tui Nativitáte sanctífica: nosque a peccatórum nostrórum máculis emúnda.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Let not the gracious prayer of Your saints fail us, O Lord, but may it make our offerings acceptable to You and obtain for us Your mercy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>For the Octave of the Nativity.</em></span><br>\nMake holy the sacrificial gifts we offer, O Lord, and by the new birth of Your only-begotten Son cleanse us from the stains of our sins.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Nativitate Domini</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Quia per incarnáti Verbi mystérium nova mentis nostræ óculis lux tuæ claritátis infúlsit: ut, dum visibíliter Deum cognóscimus, per hunc in invisibílium amorem rapiámur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes."
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Nativity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God, for through the Mystery of the Word made flesh, the new light of Thy glory hath shone upon the eyes of our mind, so that while we acknowledge God in visible form, we may through Him be drawn to the love of things invisible. And therefore with Angels and Archangels, with Throne and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:18</em></span><br>\nVox in Rama audíta est, plorátus, et ululátus: Rachel plorans fílios suos, et nóluit consolári, quia non sunt."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 2:18</em></span><br>\nA voice was heard in Rama, weeping and loud lamentation; Rachel weeping for her children, and she would not be comforted, because they are no more."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nVotíva, Dómine, dona percépimus: quæ Sanctórum nobis précibus, et præséntis, quǽsumus, vitæ páriter et ætérnæ tríbue conférre subsídium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Pro Octava Nativitatis.</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut natus hódie Salvátor mundi, sicut divínæ nobis generatiónis est auctor; ita et immortalitátis sit ipse largítor:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nWe have partaken, O Lord, of the dedicated gifts: may they, we beseech You, help us through the intercession of Your saints both for this life and life eternal.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>For the Octave of the Nativity.</em></span><br>\nGrant, we beseech You, almighty God, that the Saviour of the world, born this day, Who is the author of our birth in godliness, may bestow on us immortal life.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

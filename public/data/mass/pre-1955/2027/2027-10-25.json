@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-10-25",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Ss. Chrysanthi et Dariæ Martyrum",
+  "rank": "Simplex",
+  "note": "Scriptura: Feria Secunda infra Hebdomadam XXIII post Octavam Pentecostes IV. Octobris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 78:11-12; 78:10</em></span><br>\nIntret in conspéctu tuo, Dómine, gémitus compeditórum: redde vicínis nostris séptuplum in sinu eórum: víndica sánguinem Sanctórum tuórum, qui effúsus est.<br>\n<span class=\"rubric\"><em>Ps 78:1</em></span><br>\nDeus, venérunt gentes in hereditátem tuam: polluérunt templum sanctum tuum: posuérunt Jerúsalem in pomórum custódiam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nIntret in conspéctu tuo, Dómine, gémitus compeditórum: redde vicínis nostris séptuplum in sinu eórum: víndica sánguinem Sanctórum tuórum, qui effúsus est."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 78:11; 78:12; 78:10</em></span><br>\nLet the prisoners’ sighing come before You, O Lord; repay our neighbors sevenfold into their bosoms; avenge the shedding of Your servants’ blood.<br>\n<span class=\"rubric\"><em>Ps 78:1</em></span><br>\nO God, the nations have come into Your inheritance; they have defiled Your holy temple, they have made Jerusalem as a place to keep fruit.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nLet the prisoners’ sighing come before You, O Lord; repay our neighbors sevenfold into their bosoms; avenge the shedding of Your servants’ blood."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nBeatórum Mártyrum tuórum, Dómine, Chrysánthi et Daríæ, quǽsumus, adsit nobis orátio: ut, quos venerámur obséquio, eórum pium júgiter experiámur auxílium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nConcéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nEcclésiæ tuæ, quǽsumus, Dómine, preces placátus admítte: ut, destrúctis adversitátibus et erróribus univérsis, secúra tibi sérviat libertáte.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nMay the prayer of Your blessed Martyrs, Chrysanthus and Daria, defend us, O Lord, that we may ever enjoy the loving help of those whom we honor by this celebration.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nGrant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of mind and body; and by the intercession of glorious and blessed Mary, ever Virgin, may we be delivered from present sorrow and partake to the full of eternal happiness.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nMercifully hear the prayers of thy Church, we beseech thee, O Lord, that all adversities and errors being overcome, she may serve thee in security and feedom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Sap 3:1-8</em></span><br>\nJustorum ánimæ in manu Dei sunt, et non tanget illos torméntum mortis. Visi sunt oculis insipiéntium mori: et æstimála est afflíctio exitus illórum: et quod a nobis est iter, extermínium: illi autem sunt in pace. Et si coram homínibus torménta passi sunt, spes illórum immortalitáte plena est. In paucis vexáti, in multis bene disponéntur: quóniam Deus tentávit eos, et invenit illos dignos se. Tamquam aurum in fornáce probávit illos, et quasi holocáusti hóstiam accépit illos, et in témpore erit respéctus illorum. Fulgébunt justi, et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et dominabúntur pópulis, et regnábit Dóminus illórum in perpétuum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Wisdom<br>\n<span class=\"rubric\"><em>Wis 3:1-8</em></span><br>\nThe souls of the just are in the hands of God, and no torment of death shall touch them. They seemed, in the view of the foolish, to be dead; and their passing away was judged an affliction, and their going forth from us, utter destruction. But they are in peace. For if before men, indeed, they be punished, yet is their hope full of immortality; chastised a little, they shall be greatly blessed, because God tried them and found them worthy of Himself. As gold in the furnace, He proved them, and as sacrificial offerings He took them to Himself. In the time of their visitation they shall shine, and shall dart about as sparks through stubble; they shall judge nations and rule over peoples, and the Lord shall be their King forever.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Exod 15:11</em></span><br>\nGloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia.<br>\n<span class=\"rubric\"><em>Exod 15:6</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Eccl 44:14</em></span><br>\nCórpora Sanctórum in pace sepúlta sunt, et nómina eórum vivent in generatiónem et generatiónem. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Exo 15:11</em></span><br>\nGod is glorious in His Saints, wonderful in majesty, a worker of wonders.<br>\n<span class=\"rubric\"><em>Exo 15:6</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Your right hand, O Lord, is magnificent in power; Your right hand has shattered the enemy. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Sir 44:14</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The bodies of the Saints are buried in peace, but their name lives on and on. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc. 11:47-51</em></span><br>\nIn illo témpore: Dicébat Jesus scribis et pharisǽis: Væ vobis, qui ædificátis monuménta prophetárum: patres autem vestri occidérunt illos. Profécto testificámini, quod consentítis opéribus patrum vestrórum: quóniam ipsi quidem eos occidérunt, vos autem ædificátis eórum sepúlcra. Proptérea et sapiéntia Dei dixit: Mittam ad illos prophétas et apóstolos, et ex illis occídent et persequántur: ut inquirátur sanguis ómnium prophetárum, qui effúsus est a constitutióne mundi a generatióne~ ista, a sánguine Abel usque ad sánguinem Zacharíæ, qui périit inter altáre et ædem. Ita dico vobis, requirétur ab hac generatióne.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Luke.<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 11:47-51</em></span><br>\nAt that time, Jesus said to the Scribes and Pharisees: Woe to you who build the monuments of the prophets: and your fathers killed them. Truly you bear witness that you consent to the doings of your fathers: for they indeed killed them, and you build their sepulchres. For this cause also the wisdom of God said: I will send to them prophets and apostles; and some of them they will kill and persecute. That the blood of all the prophets which was shed from the foundation of the world, may be required of this generation, from the blood of Abel unto the blood of Zacharias, who was slain between the altar and the temple: Yea I say to you, it shall be required of this generation.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 67:36</em></span><br>\nMirábilis Deus in Sanctis suis: Deus Israël, ipse dabit virtútem et fortitúdinem plebi suæ: benedíctus Deus, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 67:36</em></span><br>\nGod is wonderful in His Saints; the God of Israel is He Who gives power and strength to His people. Blessed be God! Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Pópuli tui, quǽsumus, Dómine, tibi grata sit hóstia, quæ in natalítiis sanctórum Mártyrum tuórum Chrysánthi et Daríæ sollémniter immolátur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nPrótege nos, Dómine, tuis mystériis serviéntes: ut, divínis rebus inhæréntes, et córpore tibi famulémur et mente.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, may the offering which Your people sacrifice on the anniversary of the death of Your holy Martyrs, Chrysanthus and Daria, be pleasing to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nProtect us, O Lord, who celebrate thy mysteries, that holding fast to divine things, we may serve thee with body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Sap 3:4-6</em></span><br>\nEt si coram homínibus torménta passi sunt, Deus tentávit eos: tamquam aurum in fornáce probávit eos, et quasi holocáusta accépit eos."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Wis 3:4-6</em></span><br>\nFor if before men they be punished, God tried them; as gold in the furnace, He proved them, and as sacrificial offerings He took them to Himself."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nMýsticis, Dómine, repléti sumus votis et gáudiis: præsta, quǽsumus; ut, intercessiónibus sanctórum Mártyrum tuórum Chrysánthi et Daríæ, quæ temporáliter ágimus, spirituáliter consequámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nSumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nQuǽsumus, Dómine, Deus noster: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subjacére perículis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nYou have filled us with spiritual joy and delight; grant, we beseech You, O Lord, that by the intercession of Your holy Martyrs, Chrysanthus and Daria, we may spiritually attain what now we ritually perform.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nGrant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nWe beseech thee, O Lord, our God, that thou permit not those, to whom thou hast given a participation of divine things to be subjected to human dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

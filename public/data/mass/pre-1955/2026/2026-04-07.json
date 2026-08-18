@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-04-07",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Die III infra octavam Paschæ",
+  "rank": "Duplex I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Eccli 15:3-4</em></span><br>\nAqua sapiéntiæ potávit eos, allelúja: firmábitur in illis et non flectétur, allelúja: et exaltábit eos in ætérnum, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 104: 1</em></span><br>\nConfitémini Dómino et invocáte nomen ejus: annuntiáte inter gentes ópera ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nAqua sapiéntiæ potávit eos, allelúja: firmábitur in illis et non flectétur, allelúja: et exaltábit eos in ætérnum, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Sir 15:3-4</em></span><br>\nHe gave them the water of wholesome wisdom to drink, alleluia; and it shall be made strong in him, and shall not be moved, alleluia, and it shall exalt them forever, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nGive glory to the Lord, and call upon his name: declare his deeds among the Gentiles.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nHe gave them the water of wholesome wisdom to drink, alleluia; and it shall be made strong in him, and shall not be moved, alleluia, and it shall exalt them forever, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui Ecclésiam tuam novo semper fœtu multíplicas: concéde fámulis tuis; ut sacraméntum vivéndo téneant, quod fide percepérunt.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who art ever multiplying the Children of thy Church, grant unto the same thy servants that they may lead the rest of their lives according to this beginning wherein Thou hast given them faith to receive the Sacrament of the New Birth.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Acts 13:16; 13:26-33</em></span><br>\nIn diébus illis: Surgens Paulus et manu siléntium índicens, ait: Viri fratres, fílii géneris Abraham, et qui in vobis timent Deum, vobis verbum salútis hujus missum est. Qui enim habitábant Jerúsalem, et príncipes ejus, ignorántes Jesum et voces Prophetárum, quæ per omne sábbatum legúntur, judicántes implevérunt: et nullam causam mortis inveniéntes in eo, petiérunt a Piláto, ut interfícerent eum. Cumque consummássent ómnia, quæ de eo scripta erant, deponéntes eum de ligno, posuérunt eum in monuménto. Deus vero suscitávit eum a mórtuis tértia die: qui visus est per dies multos his, qui simul ascénderant cum eo de Galilǽa in Jerúsalem, qui usque nunc sunt testes ejus ad plebem. Et nos vobis annuntiámus eam, quæ ad patres nostros repromíssio facta est: quóniam hanc Deus adimplévit fíliis nostris, resúscitans Jesum Christum, Dóminum nostrum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 13:16; 13:26-33</em></span><br>\nIn that time Paul rising up, and with his hand bespeaking silence, said: Ye men of Israel, and you that fear God, give ear. Men, brethren, children of the stock of Abraham, and whosoever among you fear God, to you the word of this salvation is sent. For they that inhabited Jerusalem, and the rulers thereof, not knowing him, nor the voices of the prophets, which are read every sabbath, judging him have fulfilled them. And finding no cause of death in him, they desired of Pilate, that they might kill him. And when they had fulfilled all things that were written of him, taking him down from the tree, they laid him in a sepulchre. But God raised him up from the dead the third day: Who was seen for many days, by them who came up with him from Galilee to Jerusalem, who to this present are his witnesses to the people. And we declare unto you, that the promise which was made to our fathers, This same God hath fulfilled to our children, raising up Jesus, as in the second psalm also is written: Thou art my Son, this day have I begotten thee.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 117:24;106:2</em></span><br>\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.<br>\n<span class=\"rubric\"><em>Ps 106:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dicant nunc, qui redémpti sunt a Dómino: quos redémit de manu inimíci, et de regiónibus congregávit eos.<br>\nAllelúja, allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> Surrexit Dóminus de sepúlcro, qui pro nobis pepéndit in ligno.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVíctimæ pascháli laudes ímmolent Christiáni.<br>\nAgnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres.<br>\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus.<br>\nDic nobis, María, quid vidísti in via?<br>\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis.<br>\nAngélicos testes, sudárium et vestes.<br>\nSurréxit Christus, spes mea: præcédet vos in Galilǽam.<br>\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúja.<br>\n<span class=\"rubric\"><em>Sequentia dicitur usque ad Sabbatum in Albis inclusive.</em></span>"
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia<br>\n<span class=\"rubric\"><em>Ps 117:24;</em></span><br>\nThis is the day which the Lord hath made: let us be glad and rejoice therein.<br>\n<span class=\"rubric\"><em>Ps 106:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span>  Let them say so that have been redeemed by the Lord, whom he hath redeemed from the hand of the enemy: and gathered out of the countries. Allelúja, allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> The Lord is risen from the sepulcher, He, who hangeth on the tree<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nChristians! to the Paschal Victim offer your thankful praises.<br>\nThe Lamb the sheep redeemeth: Christ, who only is sinless, reconcileth sinners to the Father.<br>\nDeath and life contended in that conflict stupendous: the Prince of Life, who died, deathless reigneth.<br>\nSpeak, Mary, declaring what thou sawest wayfaring.<br>\n“The tomb of Christ who now liveth: and likewise the glory of the Risen.<br>\nBright Angels attesting, the shroud and napkin resting.<br>\nYea, Christ my hope is arisen: to Galilee He goeth before you.”<br>\nWe know that Christ is risen, henceforth ever living: Have mercy, Victor King, pardon giving. Amen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc. 24, 36-47</em></span><br>\nIn illo témpore: Stetit Jesus in médio discipulórum suórum et dicit eis: Pax vobis: ego sum, nolíte timére. Conturbáti vero et contérriti, existimábant se spíritum vidére. Et dixit eis: Quid turbáti estis, et cogitatiónes ascéndunt in corda vestra? Vidéte manus meas et pedes, quia ego ipse sum: palpáte et vidéte: quia spíritus carnem et ossa non habet, sicut me vidétis habére. Et cum hoc dixísset, osténdit eis manus et pedes. Adhuc autem illis non credéntibus et mirántibus præ gáudio, dixit: Habétis hic aliquid, quod manducétur? At illi obtulérunt ei partem piscis assi et favum mellis. Et cum manducásset coram eis, sumens relíquias, dedit eis. Et dixit ad eos: Hæc sunt verba, quæ locútus sum ad vos, cum adhuc essem vobíscum, quóniam necésse est impléri ómnia, quæ scripta sunt in lege Móysi et Prophétis et Psalmis de me. Tunc apéruit illis sensum, ut intellégerent Scriptúras. Et dixit eis: Quóniam sic scriptum est, et sic oportébat Christum pati, et resúrgere a mórtuis tértia die: et prædicári in nómine ejus pœniténtiam, et remissiónem peccatórum in omnes gentes.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 24:36-47</em></span><br>\nIn that time Jesus stood in the midst of them, and saith to them: Peace be to you; it is I, fear not. But they being troubled and frightened, supposed that they saw a spirit. And he said to them: Why are you troubled, and why do thoughts arise in your hearts? See my hands and feet, that it is I myself; handle, and see: for a spirit hath not flesh and bones, as you see me to have. And when he had said this, he shewed them his hands and feet. But while they yet believed not, and wondered for joy, he said: Have you any thing to eat? And they offered him a piece of a broiled fish, and a honeycomb. And when he had eaten before them, taking the remains, he gave to them. And he said to them: These are the words which I spoke to you, while I was yet with you, that all things must needs be fulfilled, which are written in the law of Moses, and in the prophets, and in the psalms, concerning me. Then he opened their understanding, that they might understand the scriptures. And he said to them: Thus it is written, and thus it behoved Christ to suffer, and to rise again from the dead, the third day: And that penance and remission of sins should be preached in his name, unto all nations, beginning at Jerusalem. And you are witnesses of these things.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 17:14; 17:16</em></span><br>\nIntónuit de cœlo Dóminus, et Altíssimus dedit vocem suam: et apparuérunt fontes aquárum, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 17:14; 17:16</em></span><br>\nAnd the Lord thundered from heaven, and the highest gave his voice:  Then the fountains of waters appeared, allelúja."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, Dómine, fidélium preces cum oblatiónibus hostiárum: ut, per hæc piæ devotiónis offícia, ad cœléstem glóriam transeámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Accept, O Lord, the prayers and the sacrifice of thy faithful; that by these services of pious devotion, we may come to heavenly glory.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hac potíssimum die gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially on this day when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Col 3:1-2</em></span><br>\nSi consurrexístis cum Christo, quæ sursum sunt quǽrite, ubi Christus est in déxtera Dei sedens, allelúja: quæ sursum sunt sápite, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Col 3:1-2</em></span><br>\nIf you be risen with Christ, seek the things that are above; where Christ is sitting at the right hand of God: alleluia. Mind the things that are above, allelúja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nConcéde, quǽsumus, omnípotens Deus: ut paschális percéptio sacraménti, contínua in nostris méntibus persevéret.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nGrant, we beseech thee, Almighty God, that the grace of the paschal sacrament which we have received may ever abide in our souls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

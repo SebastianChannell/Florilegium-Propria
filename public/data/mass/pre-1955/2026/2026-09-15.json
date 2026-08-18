@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-09-15",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Septem Dolorum Beatæ Mariæ Virginis",
+  "rank": "Duplex II. classis",
+  "note": "Commemoratio ad Laudes & Matutinum: S. Nicomedis Martyris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Joann 19:25</em></span><br>\nStabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et Salóme et María Magdaléne.<br>\n<span class=\"rubric\"><em>Joann 19:26-27</em></span><br>\nMúlier, ecce fílius tuus: dixit Jesus; ad discípulum autem: Ecce Mater tua.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nStabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et Salóme et María Magdaléne."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Jn. 19:25</em></span><br>\nThere were standing by the Cross of Jesus His Mother, and His Mother’s sister, Mary of Cleophas, and Salome, and Mary Magdalene.<br>\n<span class=\"rubric\"><em>Jn. 19:26-27</em></span><br>\nWoman, behold your son, said Jesus; and to the disciple, Behold your mother.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThere were standing by the Cross of Jesus His Mother, and His Mother’s sister, Mary of Cleophas, and Salome, and Mary Magdalene."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, in cujus passióne, secúndum Simeónis prophetíam, dulcíssimam ánimam gloriósæ Vírginis et Matris Maríæ dolóris gladius pertransívit: concéde propítius; ut, qui transfixiónem ejus et passiónem venerándo recólimus, gloriósis méritis et précibus ómnium Sanctórum Cruci fidéliter astántium intercedéntibus, passiónis tuæ efféctum felícem consequámur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Nicomedis Martyris</em></span><br>\nAdésto, Dómine, pópulo tuo: ut, beáti Nicomédis Mártyris tui mérita præclára suscípiens, ad impetrándam misericórdiam tuam semper ejus patrocíniis adjuvétur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, in Whose Passion the sword, according to the prophecy of blessed Simeon, pierced through the soul of Mary, the glorious Virgin and Mother, mercifully grant that we, who reverently commemorate her piercing through and her suffering, may, by the interceding glorious merits of all the saints faithfully standing by the Cross, obtain the abundant fruit of Your passion.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Nicomedes, Martyr</em></span><br>\nStand by Your people, O Lord, that, celebrating the wondrous merits of blessed Nicomedes, Your Martyr, we may obtain mercy through the help of his prayers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Judith<br>\n<span class=\"rubric\"><em>Judith 13:22; 13:23-25</em></span><br>\nBenedíxit te Dóminus in virtúte sua, quia per te ad níhilum redégit inimícos nostros. Benedícta es tu, fília, a Dómino, Deo excélso, præ ómnibus muliéribus super terram. Benedíctus Dóminus, qui creávit cœlum et terram: quia hódie nomen tuum ita magnificávit, ut non recédat laus tua de ore hóminum, qui mémores fúerint virtútis Dómini in ætérnum, pro quibus non pepercísti ánimæ tuæ propter angústias et tribulatiónem géneris tui, sed subvenísti ruínæ ante conspéctum Dei nostri.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Judith<br>\n<span class=\"rubric\"><em>Judith 13:22; 13:25</em></span><br>\nThe Lord has blessed you by His power, Who by you has brought our enemies to nought. Blessed are you, O daughter, by the Lord the Most High God, above all women upon the earth. Blessed be the Lord Who made heaven and earth, because He has so magnified your name this day, that your praise shall not depart out of the mouth of men, who shall be mindful of the power of the Lord forever: for you have not spared your life by reason of the distress and tribulation of your people, but have prevented our ruin in the presence of our God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Dolorósa et lacrimábilis es, Virgo María, stans juxta Crucem Dómini Jesu, Fílii tui, Redemptóris.<br>\n<span class=\"marker\"><em>℣.</em></span> Virgo Dei Génitrix, quem totus non capit orbis, hoc crucis fert supplícium, auctor vitæ factus homo.<br>\nAllelúja, allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> Stabat sancta María, cœli Regína et mundi Dómina, juxta Crucem Dómini nostri Jesu Christi dolorósa.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nStabat Mater dolorósa<br>\nJuxta Crucem lacrimósa,<br>\nDum pendébat Fílius.<br>\n<br>\nCujus ánimam geméntem,<br>\nContristátam et doléntem<br>\nPertransívit gládius.<br>\n<br>\nO quam tristis et afflícta<br>\nFuit illa benedícta<br>\nMater Unigéniti!<br>\n<br>\nQuæ mærébat et dolébat,<br>\nPia Mater, dum vidébat<br>\nNati pœnas íncliti.<br>\n<br>\nQuis est homo, qui non fleret,<br>\nMatrem Christi si vidéret<br>\nIn tanto supplício?<br>\n<br>\nQuis non posset contristári,<br>\nChristi Matrem contemplári<br>\nDoléntem cum Fílio?<br>\n<br>\nPro peccátis suæ gentis<br>\nVidit Jesum in torméntis<br>\nEt flagéllis súbditum.<br>\n<br>\nVidit suum dulcem<br>\nNatum Moriéndo desolátum,<br>\nDum emísit spíritum.<br>\n<br>\nEja, Mater, fons amóris,<br>\nMe sentíre vim dolóris<br>\nFac, ut tecum lúgeam.<br>\n<br>\nFac, ut árdeat cor meum<br>\nIn amándo Christum Deum,<br>\nUt sibi compláceam.<br>\n<br>\nSancta Mater, istud agas,<br>\nCrucifixi fige plagas<br>\nCordi meo válide.<br>\n<br>\nTui Nati vulneráti,<br>\nTam dignáti pro me pati,<br>\nPœnas mecum dívide.<br>\n<br>\nFac me tecum pie flere,<br>\nCrucifíxo condolére,<br>\nDonec ego víxero.<br>\n<br>\nJuxta Crucem tecum stare<br>\nEt me tibi sociáre<br>\nIn planctu desídero.<br>\n<br>\nVirgo vírginum præclára.<br>\nMihi jam non sis amára:<br>\nFac me tecum plángere.<br>\n<br>\nFac, ut portem Christi mortem,<br>\nPassiónis fac consórtem<br>\nEt plagas recólere.<br>\n<br>\nFac me plagis vulnerári,<br>\nFac me Cruce inebriári<br>\nEt cruóre Fílii.<br>\n<br>\nFlammis ne urar succénsus,<br>\nPer te, Virgo, sim defénsus<br>\nIn die judícii.<br>\n<br>\nChriste, cum sit hinc exíre.<br>\nDa per Matrem me veníre<br>\nAd palmam victóriæ.<br>\n<br>\nQuando corpus moriétur,<br>\nFac, ut ánimæ donétur<br>\nParadísi glória.<br>\nAmen. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Sorrowful and tearful are you, O Virgin Mary, standing by the Cross of the Lord Jesus, your Son and Redeemer.<br>\n<span class=\"marker\"><em>℣.</em></span> O Virgin Mother of God, He Whom the whole earth contains not, the Author of life, made man, bears this anguish of the Cross.<br>\n<span class=\"marker\"><em>℣.</em></span> Holy Mary, the Queen of heaven and mistress of the world, stood by the Cross of our Lord Jesus Christ, full of sorrows.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nAt the Cross her station keeping,<br>\nStood the mournful Mother weeping,<br>\nClose to Jesus to the last.<br>\n<br>\nThrough her heart, His sorrow sharing,<br>\nAll His bitter anguish bearing<br>\nNow at length the sword had passed.<br>\n<br>\nOh, how sad and sore distressed<br>\nWas that Mother highly blessed<br>\nOf the sole begotten One!<br>\n<br>\nChrist above in torment hangs,<br>\nShe beneath beholds the pangs<br>\nOf her dying, glorious Son.<br>\n<br>\nIs there one who would not weep<br>\n‘Whelmed in miseries so deep<br>\nChrist’s dear Mother’s pain untold.<br>\n<br>\nCan the human heart refrain<br>\nFrom partaking in her pain,<br>\nIn that Mother’s pain untold?<br>\n<br>\nBruised, derided, cursed, defiled,<br>\nShe beheld her tender Child,<br>\nAll with bloody scourges rent.<br>\n<br>\nFor the sins of His own nation<br>\nSaw Him hang in desolation<br>\nTill His spirit forth He sent.<br>\n<br>\nO sweet Mother! fount of love,<br>\nTouch my spirit from above,<br>\nMake my heart with yours accord.<br>\n<br>\nMake me feel as you have felt;<br>\nMake my soul to glow and melt<br>\nWith the love of Christ, my Lord.<br>\n<br>\nHoly Mother, pierce me through,<br>\nIn my heart each wound renew<br>\nOf my Saviour crucified.<br>\n<br>\nLet me share with you His pain,<br>\nWho for all our sins was slain,<br>\nWho for me in torments died.<br>\n<br>\nMix’d with yours let my tears be,<br>\nMourning Him Who mourned for me,<br>\nAll the days that I may live.<br>\n<br>\nBy the Cross with you to stay,<br>\nThere with you to weep and pray,<br>\nIs all I ask of you to give.<br>\n<br>\nVirgin of all virgins blest!<br>\nListen to my fond request:<br>\nLet me share that grief of yours.<br>\n<br>\nLet me, to my latest breath,<br>\nIn my body bear the death<br>\nOf that dying Son of yours.<br>\n<br>\nWounded with His every wound,<br>\nSteep my soul till it has swooned<br>\nIn His very Blood away.<br>\n<br>\nBe to me, O Virgin, nigh,<br>\nLest in flames I burn and die,<br>\nIn this awful judgment day.<br>\n<br>\nChrist, when You shall call me hence,<br>\nBe Your Mother my defense,<br>\nBe Your Cross my victory.<br>\n<br>\nWhile my body here decays,<br>\nMay my soul Your goodness praise,<br>\nSafe in heaven eternally.<br>\nAmen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joann 19:25-27.</em></span><br>\nIn illo témpore: Stabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et María Magdaléne. Cum vidísset ergo Jesus Matrem, et discípulum stantem, quem diligébat, dicit Matri suæ: Múlier, ecce fílius tuus. Deinde dicit discípulo: Ecce Mater tua. Et ex illa hora accépit eam discípulus in sua.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 19:25-27</em></span><br>\nAt that time, there were standing by the Cross of Jesus His Mother and His Mother’s sister, Mary of Cleophas, and Mary Magdalene. When Jesus, therefore, saw His Mother and the disciple standing by, whom He loved, He said to His Mother, Woman, behold your son. Then He said to the disciple, Behold your Mother. And from that hour the disciple took her into his home.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Jer 18:20</em></span><br>\nRecordáre, Virgo Mater, in conspéctu Dei, ut loquáris pro nobis bona, et ut avértat indignatiónem suam a nobis."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Jer 18:20</em></span><br>\nRemember, O Virgin Mother, to speak good things before God’s face in our behalf, so that He may turn away His wrath from us."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Offérimus tibi preces et hóstias, Dómine Jesu Christe, humiliter supplicántes: ut, qui Transfixiónem dulcíssimi spíritus beátæ Maríæ, Matris tuæ, précibus recensémus; suo suorúmque sub Cruce Sanctórum consórtium multiplicáto piíssimo intervéntu, méritis mortis tuæ, méritum cum beátis habeámus:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Nicomedis Martyris</em></span><br>\nSúscipe, Dómine, múnera propítius obláta: quæ majestáti tuæ beáti Nicomédis Mártyris comméndet orátio.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord Jesus Christ, we offer You prayers and sacrificial gifts, humbly beseeching You that, as we prayerfully recall the piercing of the most sweet soul of Your blessed Mother Mary, so through the merits of Your death and the manifold intercession of her and her holy friends at the foot of the Cross, we may have our reward with the blessed.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<span class=\"rubric\"><em>Commemoration St. Nicomedes, Martyr</em></span><br>\nGraciously accept, O Lord, the gifts we offer You, and may the prayer of the blessed Martyr, Nicomedes, make them pleasing to Your Majesty.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Beata Maria Virgine</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Et te in Transfixióne beátæ Maríæ semper Vírginis collaudáre, benedícere et prædicáre. Quæ et Unigénitum tuum Sancti Spíritus obumbratióne concépit: et, virginitátis glória permanénte, lumen ætérnum mundo effúdit, Jesum Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Blessed Virgin</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: and that we should praise and bless, and proclaim Thee, in the Transfixion of the Blessed Mary, ever-Virgin: Who also conceived Thine only-begotten Son by the overshadowing of the Holy Ghost, and the glory of her virginity still abiding, gave forth to the world the everlasting Light, Jesus Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, and the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "Felíces sensus beátæ Maríæ Vírginis, qui sine morte meruérunt martýrii palmam sub Cruce Dómini."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "Happy the Heart of the Blessed Virgin Mary, which without dying earned the palm of martyrdom beneath the Cross of our Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSacrifícia, quæ súmpsimus, Dómine Jesu Christe, Transfixiónem Matris tuæ et Vírginis devóte celebrántes: nobis ímpetrent apud cleméntiam tuam omnis boni salutáris efféctum:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Nicomedis Martyris</em></span><br>\nPuríficent nos, Dómine, sacraménta quæ súmpsimus: et, intercedénte beáto Nicoméde Mártyre tuo, a cunctis effíciant vitiis absolútos.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO Lord Jesus Christ, may the sacrifices of which we have partaken, while devoutly celebrating the piercing of Your Virgin Mother’s soul, obtain for us, through Your kindness, the good effect of salvation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Nicomedes, Martyr</em></span><br>\nMay the sacrament we have received purify us, O Lord, and may the intercession of blessed Nicomedes, Your Martyr, cause us to be absolved from all sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

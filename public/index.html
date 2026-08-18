@@ -7,15 +7,15 @@
     <meta name="color-scheme" content="dark">
     <meta
       name="description"
-      content="The daily Mass propers of the 1962 Roman Missal in parallel Latin and English."
+      content="Daily Roman Mass propers under the pre-1955 and 1960 rubrics in parallel Latin and English."
     >
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Propria — Sacrum Florilegium</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml">
     <link rel="manifest" href="./manifest.webmanifest">
-    <link rel="stylesheet" href="./styles.css?v=2">
-    <script type="module" src="./app.js?v=2"></script>
+    <link rel="stylesheet" href="./styles.css?v=3">
+    <script type="module" src="./app.js?v=3"></script>
   </head>
   <body>
     <a class="skip-link" href="#mass-content">Skip to the propers</a>
@@ -26,7 +26,7 @@
           <span>Sacrum Florilegium</span>
           <strong>Propria</strong>
         </a>
-        <p class="subtitle">Missa diéi · Rubricæ MCMLX</p>
+        <p id="site-subtitle" class="subtitle">Missa diéi · Rubricæ MCMLX</p>
       </header>
 
       <main>
@@ -49,9 +49,17 @@
           </button>
         </nav>
 
+        <div class="rubrics-control" role="group" aria-label="Mass rubrics">
+          <span>Rubrics</span>
+          <div class="rubrics-options">
+            <button type="button" data-rubrics="1954" aria-pressed="false">Pre-1955</button>
+            <button type="button" data-rubrics="1960" aria-pressed="true">1960</button>
+          </div>
+        </div>
+
         <article id="mass-content" class="mass" aria-labelledby="mass-title" aria-busy="true">
           <header class="mass-header">
-            <p class="edition">Missale Romanum · 1962</p>
+            <p id="mass-edition" class="edition">Missale Romanum · 1962</p>
             <time id="mass-date" class="mass-date"></time>
             <h1 id="mass-title" tabindex="-1">Loading the Mass…</h1>
             <p id="mass-rank" class="mass-rank" hidden></p>

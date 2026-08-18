@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-06-23",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Vigilia S. Joannis Baptistæ",
+  "rank": "Simplex",
+  "note": "Scriptura: Feria quarta infra Hebdomadam V post Octavam Pentecostes",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Luc 1:13; 1:15; 1:14</em></span><br>\nNe tímeas, Zacharía, exaudíta est orátio tua: et Elísabeth uxor tua páriet tibi fílium, et vocábis nomen ejus Joánnem: et erit magnus coram Dómino: et Spíritu Sancto replébitur adhuc ex útero matris suæ: et multi in nativitáte ejus gaudébunt.<br>\n<span class=\"rubric\"><em>Ps 20:2</em></span><br>\nDómine, in virtúte tua lætábitur rex: et super salutáre tuum exsultábit veheménter.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nNe tímeas, Zacharía, exaudíta est orátio tua: et Elísabeth uxor tua páriet tibi fílium, et vocábis nomen ejus Joánnem: et erit magnus coram Dómino: et Spíritu Sancto replébitur adhuc ex útero matris suæ: et multi in nativitáte ejus gaudébunt."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Luke 1:13; 1:15; 1:14</em></span><br>\nDo not be afraid, Zachary, your prayer has been heard, and your wife Elizabeth shall bear you a son, and you shall call his name John; and he shall be great before the Lord, and shall be filled with the Holy Spirit even from his mother’s womb; and many will rejoice at his birth.<br>\n<span class=\"rubric\"><em>Ps 20:2</em></span><br>\nO Lord, in Your strength the king is glad; in Your victory how greatly he rejoices.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nDo not be afraid, Zachary, your prayer has been heard, and your wife Elizabeth shall bear you a son, and you shall call his name John; and he shall be great before the Lord, and shall be filled with the Holy Spirit even from his mother’s womb; and many will rejoice at his birth."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut família tua per viam salútis incédat; et, beáti Joánnis Præcursóris hortaménta sectándo ad eum, quem prædíxit, secúra pervéniat, Dóminum nostrum Jesum Christum, Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nConcéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nDeus, ómnium fidélium pastor et rector, fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti, propítius réspice: da ei, quǽsumus, verbo et exémplo, quibus prǽest, profícere; ut ad vitam, una cum grege sibi crédito, pervéniat sempitérnam.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech You, almighty God, that Your household may walk in the way of salvation and, by following the counsels of blessed John the Herald, safely come to our Lord Jesus Christ, Your Son, Whom he foretold.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nGrant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of mind and body; and by the intercession of glorious and blessed Mary, ever Virgin, may we be delivered from present sorrow and partake to the full of eternal happiness.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nO God, the shepherd and ruler of all the faithful, graciously look upon thy servant Leo, who thou hast willed to be chief pastor of thy Church; grant him we beseech thee, by word and example to profit those over whom he rules, that together with the flock entrusted to him, he may attain to life everlasting.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Jeremíæ Prophétæ<br>\n<span class=\"rubric\"><em>Jer 1:4-10</em></span><br>\nIn diébus illis: Factum est verbum Dómini ad me, dicens: Priúsquam te formárem in útero, novi te: et ántequam exíres de vulva, sanctificári te, et prophétam in géntibus dedi te. Et dixi: A a a, Dómine Deus: ecce, néscio loqui, quia puer ego sum. Et dixit Dóminus ad me: Noli dícere: Puer sum; quóniam ad ómnia, quæ mittam te, ibis: et univérsa, quæcúmque mandávero tibi, lóqueris. Ne tímeas a fácie eórum: quia tecum ego sum, ut éruam te, dicit Dóminus. Et misit Dóminus manum suam, et tétigit os meum: et dixit Dóminus ad me: Ecce, dedi verba mea in ore tuo; ecce, constítui te hódie super gentes et super regna, ut evéllas, et déstruas et dispérdas et díssipes et ædífices et plantes: dicit Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Jeremias<br>\n<span class=\"rubric\"><em>Jer 1:4-10</em></span><br>\nIn those days, the word of the Lord came to me thus: Before I formed you in the womb I knew you, before you were born I dedicated you, a prophet to the nations I appointed you. Ah, Lord God! I said, I know not how to speak; I am too young. But the Lord answered me, Say not, ‘I am too young.’ To whomever I send you, you shall go; whatever I command you, you shall speak. Have no fear before them, because I am with you to deliver you, says the Lord. Then the Lord extended His hand and touched my mouth, saying, See, I place My words in your mouth! This day I set you over nations and over kingdoms, to root up and to tear down, to destroy and to demolish, to build and to plant, says the Lord almighty.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Joann 1:6-7</em></span><br>\nFuit homo missus a Deo, cui nomen erat Joánnes.<br>\n<span class=\"marker\"><em>℣.</em></span> Hic venit, ut testimónium perhibéret de lúmine, paráre Dómino plebem perféctam."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>John 1:6-7</em></span><br>\nThere was a man, one sent from God, whose name was John.<br>\n<span class=\"marker\"><em>℣.</em></span> This man came to bear witness concerning the light, to prepare for the Lord a perfect people."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Initium <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 1:5-17</em></span><br>\nFuit in diébus Heródis, regis Judææ, sacérdos quidam nómine Zacharías, de vice Abía, et uxor illíus de filiábus Aaron, et nomen ejus Elísabeth. Erant autem justi ambo ante Deum, incedéntes in ómnibus mandátis et justificatiónibus Dómini sine queréla, et non erat illis fílius, eo quod esset Elísabeth stérilis, et ambo processíssent in diébus suis. Factum est autem, cum sacerdótio fungerétur in órdine vicis suæ ante Deum, secúndum consuetúdinem sacerdótii, sorte éxiit, ut incénsum póneret, ingréssus in templum Dómini: et omnis multitúdo pópuli erat orans foris hora incénsi. Appáruit autem illi Angelus Dómini, stans a dextris altáris incénsi. Et Zacharias turbátus est, videns, et timor írruit super eum. Ait autem ad illum Angelus: Ne tímeas, Zacharía, quóniam exaudíta est deprecátio tua: et uxor tua Elísabeth páriet tibi fílium, et vocábis nomen ejus Joánnem: et erit gáudium tibi et exsultátio, et multi in nativitáte ejus gaudébunt: erit enim magnus coram Dómino: et vinum, et síceram non bibet, et Spíritu Sancto replébitur adhuc ex útero matris suæ: et multos filiórum Israël convértet ad Dóminum, Deum ipsórum: et ipse præcédet ante illum in spíritu et virtúte Elíæ: ut convértat corda patrum in fílios, et incrédulos ad prudéntiam justórum, paráre Dómino plebem perféctam.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 1:5-17</em></span><br>\nIn the days of Herod, king of Judea, there was a certain priest named Zachary, of the course of Abia; and his wife was of the daughters of Aaron, and her name was Elizabeth. Both were just before God, walking blamelessly in all the commandments and ordinances of the Lord. But they had no son, for Elizabeth was barren, and they were both advanced in years. Now it came to pass, while he was officiating in the order of his course as priest before God, according to the custom of the priest’s office, that he was chosen by lot to enter the temple of the Lord to burn incense. And the whole multitude of the people were praying outside at the hour of incense. And there appeared to him an angel of the Lord, standing at the right of the altar of incense. And Zachary, seeing him, was troubled, and fear fell upon him. But the angel said to him, Do not be afraid, Zachary, for your petition has been heard, and your wife Elizabeth shall bear you a son and you shall call his name John. And you shall have joy and gladness, and many will rejoice at his birth. For he shall be great before the Lord; he shall drink no wine or strong drink, and shall be filled with the Holy Spirit even from his mother’s womb. And he shall bring back to the Lord their God many of the children of Israel, and he shall himself go before Him in the spirit and power of Elias, to turn the hearts of fathers to their children and the incredulous to the wisdom of the just; to prepare for the Lord a perfect people.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nGlória et honore coronásti eum: et constituísti eum super ópera mánuum tuárum, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nYou crowned him with glory and honor. You have given him rule over the works of Your hands, O Lord."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Múnera, Dómine, obláta sanctífica: et, intercedénte beáto Joánne Baptista, nos per hæc a peccatórum nostrórum máculis emúnda.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nOblátis, quǽsumus, Dómine, placáre munéribus: et fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti, assídua protectióne gubérna.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Sanctify, O Lord, the gifts offered to You, and, by the intercession of Blessed John the Baptist, purify us by them from the stains of our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nLook down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom thou hast chosen to be the chief pastor of the Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:6</em></span><br>\nMagna est glória ejus in salutári tuo: glóriam et magnum decórem impónes super eum, Dómine."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:6</em></span><br>\nGreat is his glory in Your victory; majesty and splendor You conferred upon him, O Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nBeáti Joánnis Baptístæ nos, Dómine, præclára comitétur orátio: et, quem ventúrum esse prædíxit, poscat nobis fore placátum, Dóminum nostrum Jesum Christum, Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nSumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nHæc nos, quǽsumus, Dómine, divíni sacraménti percéptio prótegat: et fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti; una cum commísso sibi grege, salvet semper et múniat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the powerful prayer of blessed John the Baptist go with us, O Lord, and may he plead with our Lord Jesus Christ, Your Son, Whose coming he foretold, to be merciful unto us.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nGrant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nLet the reception of this divine Sacrament protect us, O Lord, we beseech theee: and may thy servant Leo, whom thou has chosen as the chief pastor of thy Church, along with the flock committed to him derive always from it protection and help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

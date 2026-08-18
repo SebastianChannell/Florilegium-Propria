@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-11-28",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Dominica I Adventus",
+  "rank": "Semiduplex Dominica I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 24:1-3</em></span><br>\nAd te levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur.<br>\n<span class=\"rubric\"><em>Ps 24:4</em></span><br>\nVias tuas, Dómine, demónstra mihi: et sémitas tuas édoce me.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nAd te levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 24:1-3</em></span><br>\nTo You I lift up my soul: in You, O my God, I trust; let me not be put to shame; let not my enemies exult over me. No one who waits for You shall be put to shame.<br>\n<span class=\"rubric\"><em>Ps 24:4</em></span><br>\nYour ways, O Lord, make known to me; teach me Your paths.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nTo You I lift up my soul: in You, O my God, I trust; let me not be put to shame; let not my enemies exult over me. No one who waits for You shall be put to shame."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nExcita, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria tempore Adventus</em></span><br>\nDeus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genitrícem Dei credimus, ejus apud te intercessiónibus adjuvémur.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nEcclésiæ tuæ, quǽsumus, Dómine, preces placátus admítte: ut, destrúctis adversitátibus et erróribus univérsis, secúra tibi sérviat libertáte.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nPut forth Your power, O Lord, we beseech You, and come, that with You as our protector we may be rescued from the impending danger of our sins; and with You as our deliverer, may we obtain our salvation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nO God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nMercifully hear the prayers of thy Church, we beseech thee, O Lord, that all adversities and errors being overcome, she may serve thee in security and feedom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Lectio Epístolæ beáti Pauli Apóstoli ad Romános<br>\n<span class=\"rubric\"><em>Rom 13:11-14.</em></span><br>\nFratres: Sciéntes, quia hora est jam nos de somno súrgere. Nunc enim própior est nostra salus, quam cum credídimus. Nox præcéssit, dies autem appropinquávit. Abjiciámus ergo ópera tenebrárum, et induámur arma lucis. Sicut in die honéste ambulémus: non in comessatiónibus et ebrietátibus, non in cubílibus et impudicítiis, non in contentióne et æmulatióne: sed induímini Dóminum Jesum Christum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Romans<br>\n<span class=\"rubric\"><em>Rom 13:11-14</em></span><br>\nBrethren: Understand, for it is now the hour for us to rise from sleep, because now our salvation is nearer than when we came to believe. The night is far advanced; the day is at hand. Let us therefore lay aside the works of darkness, and put on the armor of light. Let us walk becomingly as in the day, not in revelry and drunkenness, not in debauchery and wantonness, not in strife and jealousy. But put on the Lord Jesus Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 24:3; 24:4</em></span><br>\nUnivérsi, qui te exspéctant, non confundéntur, Dómine.<br>\n<span class=\"marker\"><em>℣.</em></span> Vias tuas, Dómine, notas fac mihi: et sémitas tuas édoce me. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 84:8.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Osténde nobis, Dómine, misericórdiam tuam: et salutáre tuum da nobis. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 24:3-4</em></span><br>\nNo one who waits for You shall be put to shame.<br>\n<span class=\"marker\"><em>℣.</em></span> Your ways, O Lord, make known to me; teach me Your paths. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 84:8</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Show us, O Lord, Your kindness, and grant us Your salvation. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secundum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 21:25-33.</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Erunt signa in sole et luna et stellis, et in terris pressúra géntium præ confusióne sónitus maris et flúctuum: arescéntibus homínibus præ timóre et exspectatióne, quæ supervénient univérso orbi: nam virtútes cœlórum movebúntur. Et tunc vidébunt Fílium hóminis veniéntem in nube cum potestáte magna et majestáte. His autem fíeri incipiéntibus, respícite et leváte cápita vestra: quóniam appropínquat redémptio vestra. Et dixit illis similitúdinem: Vidéte ficúlneam et omnes árbores: cum prodúcunt jam ex se fructum, scitis, quóniam prope est æstas. Ita et vos, cum vidéritis hæc fíeri, scitóte, quóniam prope est regnum Dei. Amen, dico vobis, quia non præteríbit generátio hæc, donec ómnia fiant. Cœlum et terra transíbunt: verba autem mea non transíbunt.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 21:25-33</em></span><br>\nAt that time, Jesus said to His disciples: There will be signs in the sun and moon and stars, and upon the earth distress of nations bewildered by the roaring of sea and waves; men fainting for fear and for expectation of the things that are coming on the world; for the powers of heaven will be shaken. And then they will see the son of Man coming upon a cloud with great power and majesty. but when these things begin to come to pass, look up, and lift up your heads, because your redemption is at hand. And He spoke to them a parable. Behold the fig tree, and all the trees. When they now put forth their buds, you know that summer is near. Even so, when you see these things coming to pass, know that the kingdom of God is near. Amen I say to you, this generation will not pass away till all things have been accomplished. Heaven and earth will pass away, but My words will not pass away.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 24:1-3.</em></span><br>\nAd te levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 24:1-3</em></span><br>\nTo You I lift up my soul: in You, O my God, I trust; let me not be put to shame; let not my enemies exult over me. No one who waits for You shall be put to shame."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hæc sacra nos, Dómine, poténti virtúte mundátos ad suum fáciant purióres veníre princípium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore Adventus</em></span><br>\nIn mentibus nostris, quǽsumus, Dómine, veræ fídei sacraménta confírma: ut, qui concéptum de Vírgine Deum verum et hóminem confitémur; per ejus salutíferæ resurrectiónis poténtiam, ad ætérnam mereámur perveníre lætítiam.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nPrótege nos, Dómine, tuis mystériis serviéntes: ut, divínis rebus inhæréntes, et córpore tibi famulémur et mente.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "May these offerings, O Lord, cleanse us by their mighty power and thus make us come purer before You Who are their author.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Adveny</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nProtect us, O Lord, who celebrate thy mysteries, that holding fast to divine things, we may serve thee with body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Adventu</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum. Quem pérdito hóminum géneri Salvatórem miséricors et fidélis promisísti: cujus véritas instrúeret ínscios, sánctitas justificáret ímpios, virtus adiuváret infírmos. Dum ergo prope est ut véniat quem missúrus es, et dies affúlget liberatiónis nostræ, in hac promissiónum tuárum fide, piis gáudiis exsultámus. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cœléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Advent</em></span><br>\nIt is truly fitting and proper, right and profitable to salvation, that we should at all times and in all places give thanks to You, Lord, holy Father, Almighty and everlasting God, through Christ our Lord. For You have promised Him, O faithful and merciful One, as a Saviour for the lost human race; so that His truth might instruct the ignorant, His holiness might sanctify sinners, and His power might strengthen the weak. Since, therefore, the time of His coming is near, and the day of our liberation is dawning, we trust in Your promises and exult with joyous love. And, therefore, with Angels and Archangels, with Thrones and Dominations, and with the whole host of the heavenly army, we sing a hymn to Your glory, saying without ceasing:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 84:13.</em></span><br>\nDóminus dabit benignitátem: et terra nostra dabit fructum suum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 84:13</em></span><br>\nThe Lord will give His benefits: and our land shall yield its increase."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSuscipiámus, Dómine, misericórdiam tuam in médio templi tui: ut reparatiónis nostræ ventúra sollémnia cóngruis honóribus præcedámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria tempore Adventus</em></span><br>\nGrátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut, qui, Angelo nuntiánte, Christi, Fílii tui, incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nQuǽsumus, Dómine, Deus noster: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subjacére perículis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay we receive Your mercy, O Lord, in the midst of Your temple, and thus prepare with due observance for the coming festal season of our redemption.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nMay this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nWe beseech thee, O Lord, our God, that thou permit not those, to whom thou hast given a participation of divine things to be subjected to human dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

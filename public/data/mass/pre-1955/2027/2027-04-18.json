@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-04-18",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Dominica III Post Pascha",
+  "rank": "Semiduplex Dominica minor",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 65:1-2.</em></span><br>\nJubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúja: date glóriam laudi ejus, allelúja, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 65:3</em></span><br>\nDícite Deo, quam terribília sunt ópera tua, Dómine! in multitúdine virtútis tuæ mentiéntur tibi inimíci tui.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nJubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúja: date glóriam laudi ejus, allelúja, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 65:1-2</em></span><br>\nShout with joy to God, all the earth, sing ye a psalm to his name; give glory to his praise. allelúja, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 65:3</em></span><br>\nSay unto God, How terrible are thy works, O Lord! in the multitude of thy strength thy enemies shall lie to thee.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nShout with joy to God, all the earth, sing ye a psalm to his name; give glory to his praise. allelúja, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Pro Octavæ Patrocinii S. Joseph</em></span><br>\nDeus, qui ineffabili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta, quǽsumus; ut, quem protectórem venerámur in terris, intercessórem habére mereámur in cœlis:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nAlmighty God, Who showest to them that be in error the light of thy truth, to the intent that they may return into the way of righteousness grant unto all them that are admitted into the fellowship of Christ's Religion, that they may eschew those things that are contrary to their profession, and follow all such things as are agreeable to the same.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>For Octava St Joseph</em></span><br>\nGod, Who in thine unspeakable foreknowledge didst choose thy blessed servant Joseph to be the husband of thine Own most holy Mother; mercifully grant that now that he is in heaven with thee, we who on earth do reverence him for our Defender, may worthily be holpen by the succour of his prayers to thee on our behalf;<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Petri Apóstoli<br>\n<span class=\"rubric\"><em>1 Pet 2:11-19</em></span><br>\nCaríssimi: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam, conversatiónem vestram inter gentes habéntes bonam: ut in eo, quod detréctant de vobis tamquam de malefactóribus, ex bonis opéribus vos considerántes, gloríficent Deum in die visitatiónis. Subjécti ígitur estóte omni humánæ creatúræ propter Deum: sive regi, quasi præcellénti: sive dúcibus, tamquam ab eo missis ad vindíctam malefactórum, laudem vero bonórum: quia sic est volúntas Dei, ut benefaciéntes obmutéscere faciátis imprudéntium hóminum ignorántiam: quasi líberi, et non quasi velámen habéntes malítiæ libertátem, sed sicut servi Dei. Omnes honoráte: fraternitátem dilígite: Deum timéte: regem honorificáte. Servi, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dýscolis. Hæc est enim grátia: in Christo Jesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Peter the Apostle<br>\n<span class=\"rubric\"><em>1 Pet 2:11-19</em></span><br>\nDearly beloved, I beseech you as strangers and pilgrims, to refrain yourselves from carnal desires which war against the soul, Having your conversation good among the Gentiles: that whereas they speak against you as evildoers, they may, by the good works, which they shall behold in you, glorify God in the day of visitation. Be ye subject therefore to every human creature for God's sake: whether it be to the king as excelling; Or to governors as sent by him for the punishment of evildoers, and for the praise of the good: For so is the will of God, that by doing well you may put to silence the ignorance of foolish men: As free, and not as making liberty a cloak for malice, but as the servants of God. Honour all men. Love the brotherhood. Fear God. Honour the king. Servants, be subject to your masters with all fear, not only to the good and gentle, but also to the froward. For this is thankworthy, if for conscience towards God, a man endure sorrows, suffering wrongfully.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "alleluia",
+      "kind": "alleluia",
+      "latin": {
+        "label": "Allelúja.",
+        "html": "Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 110:9</em></span><br>\nRedemptiónem misit Dóminus pópulo suo. Allelúja.<br>\n<span class=\"rubric\"><em>Luc 24:46</em></span><br>\nOportebat pati Christum, et resúrgere a mórtuis: et ita intráre in glóriam suam. Allelúja."
+      },
+      "english": {
+        "label": "Alleluia.",
+        "html": "Allelúja, allelúja<br>\n<span class=\"rubric\"><em>Ps 110:9</em></span><br>\nHe hath sent redemption to his people:<br>\n<span class=\"rubric\"><em>Luke 24:46</em></span><br>\nThus it behoved Christ to suffer, and to rise again from the dead, the third day. Allelúja."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 16:16-22</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Módicum, et jam non vidébitis me: et íterum módicum, et vidébitis me: quia vado ad Patrem. Dixérunt ergo ex discípulis ejus ad ínvicem: Quid est hoc, quod dicit nobis: Módicum, et non vidébitis me: et íterum módicum, et vidébitis me, et quia vado ad Patrem? Dicébant ergo: Quid est hoc, quod dicit: Módicum? nescímus, quid lóquitur. Cognóvit autem Jesus, quia volébant eum interrogáre, et dixit eis: De hoc quǽritis inter vos, quia dixi: Módicum, et non vidébitis me: et íterum módicum, et vidébitis me. Amen, amen, dico vobis: quia plorábitis et flébitis vos, mundus autem gaudébit: vos autem contristabímini, sed tristítia vestra vertétur in gáudium. Múlier cum parit, tristítiam habet, quia venit hora ejus: cum autem pepérerit púerum, jam non méminit pressúræ propter gáudium, quia natus est homo in mundum. Et vos ígitur nunc quidem tristítiam habétis, íterum autem vidébo vos, et gaudébit cor vestrum: et gáudium vestrum nemo tollet a vobis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 16:16-22</em></span><br>\nIn that time: Jesus said to his disciples: A little while, and now you shall not see me; and again a little while, and you shall see me: because I go to the Father. Then some of the disciples said one to another: What is this that he saith to us: A little while, and you shall not see me; and again a little while, and you shall see me, and, because I go to the Father? They said therefore: What is this that he saith, A little while? we know not what he speaketh. And Jesus knew that they had a mind to ask him; and he said to them: Of this do you inquire among yourselves, because I said: A little while, and you shall not see me; and again a little while, and you shall see me? Amen, amen I say to you, that you shall lament and weep, but the world shall rejoice; and you shall be made sorrowful, but your sorrow shall be turned into joy. A woman, when she is in labour, hath sorrow, because her hour is come; but when she hath brought forth the child, she remembereth no more the anguish, for joy that a man is born into the world. So also you now indeed have sorrow; but I will see you again, and your heart shall rejoice; and your joy no man shall take from you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 145:2</em></span><br>\nLauda, ánima mea, Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 145:2</em></span><br>\nPraise the Lord, O my soul, in my life I will praise the Lord:  as long as I shall be. Allelúja."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "His nobis, Dómine, mystériis conferátur, quo, terréna desidéria mitigántes, discámus amáre cœléstia.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Pro Octavæ Patrocinii S. Joseph</em></span><br>\nSanctíssimæ Genitrícis tuæ sponsi patrocínio suffúlti, rogámus, Dómine, cleméntiam tuam: ut corda nostra fácias terréna cuncta despícere, ac te verum Deum perfécta caritáte dilígere:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Confer on us, O Lord, by these mysteries the moderation of our earthly desires: and teach us to love the things of heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>For Octava St Joseph</em></span><br>\nSupported by the patronage of the spouse of thy most holy Mother, we beseech thy clemency, O Lord, that thou wouldst make our hearts despise all eartly things and love thee, the true God with perfect charity.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hoc potíssimum gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially in this season when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joannes 16:16</em></span><br>\nMódicum, et non vidébitis me, allelúja: íterum módicum, et vidébitis me, quia vado ad Patrem, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 16:16</em></span><br>\nA little while, and now you shall not see me; and again a little while, and you shall see me: because I go to the Father, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSacraménta quæ súmpsimus, quǽsumus, Dómine: et spirituálibus nos instáurent aliméntis, et corporálibus tueántur auxíliis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Pro Octavæ Patrocinii S. Joseph</em></span><br>\nDivíni múneris fonte refécti, quǽsumus, Dómine, Deus noster: ut, sicut nos facis beáti Joseph protectióne gaudére; ita, ejus méritis et intercessióne, cœléstis glóriæ fácias esse partícipes.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the Sacraments which we have received, O Lord, we ask, refresh us with spiritual nourishment, and preserve as with bodily assistance.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>For Octava St Joseph</em></span><br>\nRefreshed at the fount of divine blessing, we beseech thee, O Lord our God, that as thou dost gladden us by the protection of blessed Joseph, so by his merits and intercession thou woulds make us partakers of his heavenly glory.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

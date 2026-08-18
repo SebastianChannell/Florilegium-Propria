@@ -166,14 +166,62 @@ a {
 
 .day-step:focus-visible,
 .date-control:focus-within,
+.rubrics-options button:focus-visible,
 .view-control button:focus-visible,
 .wordmark:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 3px;
 }
 
+.rubrics-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  width: min(100%, 28rem);
+  margin: 0.45rem auto 0;
+}
+
+.rubrics-control > span {
+  color: var(--faint);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.rubrics-options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  padding: 0.16rem;
+  border: 1px solid var(--line);
+  border-radius: 0.3rem;
+  background: var(--surface);
+}
+
+.rubrics-options button {
+  min-height: 2.1rem;
+  padding: 0 0.8rem;
+  border: 0;
+  border-radius: 0.2rem;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.71rem;
+  font-weight: 700;
+}
+
+.rubrics-options button:hover {
+  color: var(--text);
+}
+
+.rubrics-options button[aria-pressed="true"] {
+  background: var(--accent-line);
+  color: var(--text);
+}
+
 .mass {
-  margin-top: 0.75rem;
+  margin-top: 0.55rem;
 }
 
 .mass-header {

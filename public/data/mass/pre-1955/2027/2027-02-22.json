@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-02-22",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Cathedra S. Petri Apostoli Antiochiæ",
+  "rank": "Duplex majus",
+  "note": "Commemoratio: Feria Secunda infra Hebdomadam II in Quadragesima",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nIn virtúte tua, Dómine, lætábitur justus: et super salutáre tuum exsultábit veheménter: desidérium ánimæ ejus tribuísti ei.<br>\n<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nQuóniam prævenísti eum in benedictiónibus dulcédinis: posuísti in cápite ejus corónam de lápide pretióso.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nIn virtúte tua, Dómine, lætábitur justus: et super salutáre tuum exsultábit veheménter: desidérium ánimæ ejus tribuísti ei."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 20:2-3</em></span><br>\nIn thy strength, O Lord, the king shall joy; and in thy salvation he shall rejoice exceedingly. Thou hast given him his heart's desire.<br>\n<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nFor thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nIn thy strength, O Lord, the king shall joy; and in thy salvation he shall rejoice exceedingly. Thou hast given him his heart's desire."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui beáto Petro Apóstolo tuo, collátis clávibus regni cœléstis, ligándi atque solvéndi pontifícium tradidísti: concéde; ut, intercessiónis ejus auxílio, a peccatórum nostrórum néxibus liberémur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Pauli</em></span><br>\nDeus, qui multitúdinem géntium beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, cujus commemoratiónem cólimus, ejus apud te patrocínia sentiámus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Secunda infra Hebdomadam II in Quadragesima</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut família tua, quæ se, affligéndo carnem, ab aliméntis ábstinet: sectándo justítiam, a culpa jejúnet.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, who together with the keys of the kingdom of heaven didst bestow on thy blessed Apostle Peter the pontifical power of binding and loosing, grant that by the aid of this intercession, we may be released from the bonds of our sins.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration of St. Paul</em></span><br>\nO God, Who taught vast numbers of the Gentiles by the preaching of the blessed Apostle Paul, grant, we beseech You, that by honoring his memory, we may enjoy the benefit of his patronal intercession with You.<br>\n<span class=\"rubric\"><em>Commemoration Feria Secunda infra Hebdomadam II in Quadragesima</em></span><br>\nGrant, we beseech You, almighty God, that Your servants who discipline the body by fasting from food, may strive after righteousness by abstaining from sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Petri Apóstoli<br>\n<span class=\"rubric\"><em>1 Pet 1:1-7</em></span><br>\nPetrus, Apóstolus Jesu Christi, eléctis ádvenis dispersiónis Ponti, Galátiæ, Cappadóciæ, Asiæ et Bithýniæ secúndum præsciéntiam Dei Patris, in sanctificatiónem Spíritus, in obœdiéntiam, et aspersiónem sánguinis Jesu Christi: grátia vobis et pax multiplicétur. Benedíctus Deus et Pater Dómini nostri Jesu Christi, qui secúndum misericórdiam suam magnam regenerávit nos in spem vivam, per resurrectiónem Jesu Christi ex mórtuis, in hereditátem incorruptíbilem et incontaminátam et immarcescíbilem, conservátam in cœlis in vobis, qui in virtúte Dei custodímini per fidem in salútem, parátam revelári in témpore novíssimo. In quo exsultábitis, módicum nunc si opórtet contristári in váriis tentatiónibus: ut probátio vestræ fídei multo pretiósior auro [quod per ignem probatur] inveniátur in laudem et glóriam et honórem, in revelatióne Jesu Christi, Dómini nostri.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St Peter the Apostle<br>\n<span class=\"rubric\"><em>1 Pet 1:1-7</em></span><br>\nPeter, an apostle of Jesus Christ, to the sojourners of the Dispersion in Pontus, Galatia, Cappadocia, Asia and Bithynia, chosen unto the sanctification of the Spirit according to the foreknowledge of God the Father, unto obedience to Jesus Christ and the sprinkling of His blood: grace and peace be given you in abundance. Blessed be the God and Father of our Lord Jesus Christ, Who according to His great mercy has begotten us again, through the Resurrection of Jesus Christ from the dead, unto a living hope, unto an incorruptible inheritance - undefiled and unfading, reserved for you in heaven. By the power of God you are guarded through faith for salvation, which is ready to be revealed in the last time. Over this you rejoice; though now for a little while, if need be, you are made sorrowful by various trials, that the temper of your faith - more precious by far than gold which is tried by fire - may be found unto praise and glory and honor at the revelation of Jesus Christ our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 106:32; 106:31</em></span><br>\nExáltent eum in Ecclésia plebis: et in cáthedra seniórum laudent eum.<br>\n<span class=\"marker\"><em>℣.</em></span> Confiteántur Dómino misericórdiæ ejus; et mirabília ejus fíliis hóminum.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Matt 16:18-19</em></span><br>\nTu es Petrus, et super hanc petram ædificábo Ecclésiam meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Et portæ ínferi non prævalébunt advérsus eam: et tibi dabo claves regni cœlórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Quodcúmque ligáveris super terram, erit ligátum et in cœlis.<br>\n<span class=\"marker\"><em>℣.</em></span> Et quodcúmque sólveris super terram, erit solútum et in cœlis."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 106:32, 31</em></span><br>\nLet them extol him in the assembly of the people and praise him in the council of the elders.<br>\n<span class=\"marker\"><em>℣.</em></span> Let them give thanks to the Lord for His kindness and His wondrous deeds to the children of men.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Matt 16:18-19</em></span><br>\nYou are Peter, and upon this rock I will build My Church.<br>\n<span class=\"marker\"><em>℣.</em></span> And the gates of hell shall not prevail against it; and I will give you the keys of the kingdom of heaven.<br>\n<span class=\"marker\"><em>℣.</em></span> Whatever you shall bind on earth shall be bound in heaven.<br>\n<span class=\"marker\"><em>℣.</em></span> And whatever you shall loose on earth shall be loosed in heaven."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 16:13-19</em></span><br>\nIn illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi dixérunt: Alii Joánnem Baptístam, alii autem Elíam, álii vero Jeremíam, aut unum ex prophétis. Dicit illis Jesus: Vos autem quem me esse dícitis? Respóndens Simon Petrus, dixit: Tu es Christus, Fílius Dei vivi. Respóndens autem Jesus, dixit ei: Beátus es, Simon Bar Jona: quia caro et sanguis non revelávit tibi, sed Pater meus, qui in cœlis est. Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificábo Ecclésiam meam, et portæ ínferi non prævalébunt advérsus eam. Et tibi dabo claves regni cœlórum. Et quodcúmque ligáveris super terram, erit ligátum et in cœlis: et quodcúmque sólveris super terram, erit solútum et in cœlis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 16:13-19</em></span><br>\nIn that time: Jesus came into the quarters of Caesarea Philippi: and he asked his disciples, saying: Whom do men say that the Son of man is? But they said: Some John the Baptist, and other some Elias, and others Jeremias, or one of the prophets. Jesus saith to them: But whom do you say that I am? Simon Peter answered and said: Thou art Christ, the Son of the living God. And Jesus answering, said to him: Blessed art thou, Simon Bar-Jona: because flesh and blood hath not revealed it to thee, but my Father who is in heaven. And I say to thee: That thou art Peter; and upon this rock I will build My Church, and the gates of hell shall not prevail against it. And I will give to thee the keys of the kingdom of heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in heaven: and whatsoever thou shalt loose upon earth, it shall be loosed also in heaven.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Matt 16:18-19</em></span><br>\nTu es Petrus, et super hanc petram ædificábo Ecclésiam meam: et portæ ínferi non prævalébunt advérsus eam: et tibi dabo claves regni cœlórum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Matt 16:18-19</em></span><br>\nYou are Peter, and upon this rock I will build My Church, and the gates of hell shall not prevail against it; and I will give you the keys of the kingdom of heaven"
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Ecclésiæ tuæ, quǽsumus, Dómine, preces et hóstias beáti Petri Apóstoli comméndet orátio: ut, quod pro illíus glória celebrámus, nobis prosit ad véniam.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Pro S. Paulo</em></span><br>\nApóstoli tui Pauli précibus, Dómine, plebis tuæ dona sanctífica: ut, quæ tibi tuo grata sunt institúto, gratióra fiant patrocínio supplicántis.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Secunda infra Hebdomadam II in Quadragesima</em></span><br>\nHæc hóstia, Dómine, placatiónis et laudis, tua nos protectióne dignos effíciat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We beseech You, O Lord, may the prayer of the blessed Apostle, Peter, recommend the petitions and offerings of Your Church, so that what we celebrate in his honor may obtain forgiveness for us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>For St. Paul</em></span><br>\nO Lord, make holy the offerings of Your people, through the prayer of Paul, Your Apostle, that those things which You have established as pleasing to You may be more pleasing through his patronal intercession.<br>\n<span class=\"rubric\"><em>Commemoration Feria Secunda infra Hebdomadam II in Quadragesima</em></span><br>\nMay this sacrificial gift offered in appeasement and praise, O Lord, make us worthy of Your protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Apostolis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te, Dómine, supplíciter exoráre, ut gregem tuum, Pastor ætérne, non déseras: sed per beátos Apóstolos tuos contínua protectióne custódias. Ut iísdem rectóribus gubernétur, quos óperis tui vicários eídem contulísti præésse pastóres. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em> of Apostles</em></span><br>\nIt is truly meet and just, right and for our salvation, to entreat Thee humbly, O Lord, that Thou wouldst not desert Thy flock, O everlasting Shepherd, but, through Thy blessed Apostles, wouldst keep it under Thy constant protection; that it may be governed by those same rulers, whom as vicars of Thy work, Thou didst set over it to be its pastors. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 16:18</em></span><br>\nTu es Petrus, et super hanc petram ædificábo Ecclésiam meam."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 16:18</em></span><br>\nThou art Peter; and upon this rock I will build My Church, and the gates of hell shall not prevail against it."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nLætíficet nos, Dómine, munus oblátum: ut, sicut in Apóstolo tuo Petro te mirábilem prædicámus; sic per illum tuæ sumámus indulgéntiæ largitátem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Pro S. Paulo</em></span><br>\nSanctificáti, Dómine, salutári mystério: quǽsumus; ut nobis ejus non desit orátio, cujus nos donásti patrocínio gubernári.<br>\n<span class=\"rubric\"><em>Commemoratio Feria Secunda infra Hebdomadam II in Quadragesima</em></span><br>\nHæc nos commúnio, Dómine, purget a crímine: et cœléstis remédii fáciat esse consórtes.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO Lord, may the gift we offer bring us joy, that as we praise Your wondrous work in Your Apostle Peter, so through him may we share Your generous forgiveness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>For St. Paul</em></span><br>\nMade holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of him under whose patronal care You have granted us to be ruled may never fail us.<br>\n<span class=\"rubric\"><em>Commemoration Feria Secunda infra Hebdomadam II in Quadragesima</em></span><br>\nMay this Communion, O Lord, cleanse us of sin, and make us partakers of heavenly healing.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

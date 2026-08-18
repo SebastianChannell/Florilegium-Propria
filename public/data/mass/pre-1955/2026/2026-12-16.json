@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-12-16",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Eusebii Episcopi et Martyris",
+  "rank": "Semiduplex",
+  "note": "Commemoratio: Feria IV Quattuor Temporum in Adventu",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Dan 3:84; 3:87</em></span><br>\nSacerdótes Dei, benedícite Dóminum: sancti et húmiles corde, laudáte Deum.<br>\n<span class=\"rubric\"><em>Dan 3:57</em></span><br>\nBenedícite, ómnia ópera Dómini, Dómino: laudáte et superexaltáte eum in sǽcula.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSacerdótes Dei, benedícite Dóminum: sancti et húmiles corde, laudáte Deum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Dan 3:84, 87</em></span><br>\nPriests of the Lord, bless the Lord; holy men of humble heart, praise God.<br>\n<span class=\"rubric\"><em>Dan 3:57</em></span><br>\nBless the Lord, all you works of the Lord, praise and exalt Him above all forever.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nPriests of the Lord, bless the Lord; holy men of humble heart, praise God."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui nos beáti Eusébii Mártyris tui atque Pontíficis ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria IV Quattuor Temporum in Adventu</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut redemptiónis nostræ ventúra sollémnitas et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis prǽmia largiátur.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore Adventus</em></span><br>\nDeus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genitrícem Dei credimus, ejus apud te intercessiónibus adjuvémur.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, who year by year dost gladden us by the solemn feast day of thy Blessed Martyr and Bishop Eusebius, mercifully grant that we who keep his birthday, may ever feel the joyful effects of his protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria IV Quattuor Temporum in Adventu</em></span><br>\nGrant us, we beseech You, almighty God, that the coming feast of our redemption may bring us both help for our present life, and the reward of everlasting happiness.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nO God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios<br>\n<span class=\"rubric\"><em>2 Cor 1:3-7</em></span><br>\nFratres: Benedíctus Deus et Pater Dómini nostri Jesu Christi, Pater misericordiárum, et Deus totíus consolatiónis, qui consolátur nos in omni tribulatióne nostra: ut possímus et ipsi consolári eos, qui in omni pressúra sunt, per exhortatiónem, qua exhortámur et ipsi a Deo. Quóniam sicut abúndant passiónes Christi in nobis: ita et per Christum abúndat consolátio nostra. Sive autem tribulámur pro vestra exhortatióne et salúte, sive consolámur pro vestra consolatióne, sive exhortámur pro vestra exhortatióne et salúte, quæ operátur tolerántiam earúndem passiónum, quas et nos pátimur: ut spes nostra firma sit pro vobis: sciéntes, quod, sicut sócii passiónum estis, sic éritis et consolatiónis: in Christo Jesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the second letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>2 Cor. 1:3-7</em></span><br>\nBrethren: Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort, Who comforts us in all our afflictions, that we also may be able to comfort those who are in any distress by the comfort wherewith we ourselves are comforted by God. For as the sufferings of Christ abound in us, so also through Christ does our comfort abound. For whether we are afflicted, it is for your instruction and salvation; or whether we are comforted, it is for your comfort; which shows its efficacy in the endurance of the selfsame sufferings that we also suffer. And our hope for you is steadfast, knowing that as you are partakers of the sufferings, so will you also be of the comfort, in Christ Jesus our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nGlória et honóre coronásti eum.<br>\n<span class=\"marker\"><em>℣.</em></span> Et constituísti eum super ópera mánuum tuárum, Dómine. Allelúja, allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> Hic est Sacérdos, quem coronávit Dóminus. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 8:6-7</em></span><br>\nYou crowned him with glory and honor.<br>\n<span class=\"marker\"><em>℣.</em></span> You have given him rule over the works of Your hands, O Lord. Alleluia, alleluia.<br>\n<span class=\"marker\"><em>℣.</em></span> This is the priest whom the Lord has crowned. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 16:24-27</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Qui enim voluerit ánimam suam salvam fácere, perdet eam: qui autem perdíderit ánimam suam propter me, invéniet eam. Quid enim prodest hómini, si mundum univérsum lucrétur, ánimæ vero suæ detriméntum patiátur? Aut quam dabit homo commutatiónem pro ánima sua? Fílius enim hóminis ventúrus est in glória Patris sui cum Angelis suis: et tunc reddet unicuíque secúndum ópera ejus.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 16:24-27.</em></span><br>\nAt that time, Jesus said to His disciples, If anyone wishes to come after Me, let him deny himself, and take up his cross, and follow Me. For he who would save his life will lose it; but he who loses his life for My sake will find it. For what does it profit a man, if he gain the whole world, but suffer the loss of his own soul? For the Son of Man is to come with His angels in the glory of His Father, and then He will render to everyone according to His conduct.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 88:21-22</em></span><br>\nInvéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 88:21-22</em></span><br>\nI have found David, My servant; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Múnera tibi, Dómine, dicáta sanctífica: et, intercedénte beáto Eusébii Mártyre tuo atque Pontífice, per éadem nos placátus inténde.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Feria IV Quattuor Temporum in Adventu</em></span><br>\nAcépta tibi sint, quǽsumus, Dómine, nostra jejúnia: quæ et expiándo nos tua grátia dignos effíciant, et ad sempiterna promíssa perdúcant.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore Adventus</em></span><br>\nIn mentibus nostris, quǽsumus, Dómine, veræ fídei sacraménta confírma: ut, qui concéptum de Vírgine Deum verum et hóminem confitémur; per ejus salutíferæ resurrectiónis poténtiam, ad ætérnam mereámur perveníre lætítiam.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Sanctify the offerings dedicated to You, O Lord, and through the intercession of blessed Eusebius, Your Martyr and Bishop, look upon us with mercy because of them.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria IV Quattuor Temporum in Adventu</em></span><br>\nMay our fasting, we beseech You, O Lord, be acceptable to You, and by its purifying power make us worthy of Your grace and bring us to the eternal bliss You have promised us.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Adveny</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Adventu</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum. Quem pérdito hóminum géneri Salvatórem miséricors et fidélis promisísti: cujus véritas instrúeret ínscios, sánctitas justificáret ímpios, virtus adiuváret infírmos. Dum ergo prope est ut véniat quem missúrus es, et dies affúlget liberatiónis nostræ, in hac promissiónum tuárum fide, piis gáudiis exsultámus. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cœléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Advent</em></span><br>\nIt is truly fitting and proper, right and profitable to salvation, that we should at all times and in all places give thanks to You, Lord, holy Father, Almighty and everlasting God, through Christ our Lord. For You have promised Him, O faithful and merciful One, as a Saviour for the lost human race; so that His truth might instruct the ignorant, His holiness might sanctify sinners, and His power might strengthen the weak. Since, therefore, the time of His coming is near, and the day of our liberation is dawning, we trust in Your promises and exult with joyous love. And, therefore, with Angels and Archangels, with Thrones and Dominations, and with the whole host of the heavenly army, we sing a hymn to Your glory, saying without ceasing:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nPosuísti, Dómine, in cápite ejus corónam de lápide pretióso."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 20:4</em></span><br>\nYou placed on his head, O Lord, a crown of pure gold."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nHæc nos commúnio, Dómine, purget a crímine: et, intercedénte beáto Eusébii Mártyre tuo atque Pontífice, coeléstis remédii fáciat esse consórtes.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Feria IV Quattuor Temporum in Adventu</em></span><br>\nSalutáris tui, Dómine, munere satiáti, súpplices deprecámur: ut, cujus lætámur gustu, renovémur efféctu.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore Adventus</em></span><br>\nGrátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut, qui, Angelo nuntiánte, Christi, Fílii tui, incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay this Communion, O Lord, cleanse us of sin, and through the intercession of blessed Eusebius, Your Martyr and Bishop, may it make us sharers of heavenly healing.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria IV Quattuor Temporum in Adventu</em></span><br>\nRefreshed by the sacramental gift of Your salvation, we humbly beseech You, O Lord, that enjoying its savor we may be made new by its action.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nMay this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}
