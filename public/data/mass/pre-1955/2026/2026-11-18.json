@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-18",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli",
+  "rank": "Duplex majus",
+  "note": "Scriptura: Feria IV infra Hebdomadam VI quæ superfuit post Epiphaniam IV. Novembris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Gen 28:17</em></span><br>\nTerríbilis est locus iste: hic domus Dei est et porta cœli: et vocábitur aula Dei.<br>\n<span class=\"rubric\"><em>Ps 83:2-3</em></span><br>\nQuam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nTerríbilis est locus iste: hic domus Dei est et porta cœli: et vocábitur aula Dei."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Gen. 28:17</em></span><br>\nHow awesome is this place! This is none other than the house of God; this is the gate of heaven; and it shall be called the court of God.<br>\n<span class=\"rubric\"><em>Ps 83:2-3</em></span><br>\nHow lovely is Your dwelling place, O Lord of Hosts! My soul yearns and pines for the courts of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nHow awesome is this place! This is none other than the house of God; this is the gate of heaven; and it shall be called the court of God."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\n<span class=\"rubric\"><em>In Anniversario Dedicationis Ecclesiæ</em></span><br>\nDeus, qui nobis per síngulos annos hujus sancti templi tui consecratiónis réparas diem, et sacris semper mystériis repræséntas incólumes: exáudi preces pópuli tui, et præsta; ut quisquis hoc templum benefícia petitúrus ingréditur, cuncta se impetrásse lætétur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\n<span class=\"rubric\"><em> Prayer on the anniversary of the dedication:</em></span><br>\nO God, Who for us bring each year the recurrence of the consecration day of this Your holy temple, and always bring us back safely to the sacred rites, hear the prayers of Your people and grant that whoever enters this temple to pray for blessings, may rejoice in having obtained whatever he sought.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Apocalýpsis beáti Joánnis Apóstoli<br>\n<span class=\"rubric\"><em>Apoc 21:2-5</em></span><br>\nIn diébus illis: Vidi sanctam civitátem Jerúsalem novam descendéntem de cœlo a Deo, parátam sicut sponsam ornátam viro suo. Et audívi vocem magnam de throno dicéntem: Ecce tabernáculum Dei cum homínibus, et habitábit cum eis. Et ipsi pópulus ejus erunt, et ipse Deus cum eis erit eórum Deus: et abstérget Deus omnem lácrimam ab óculis eórum: et mors ultra non erit, neque luctus neque clamor neque dolor erit ultra, quia prima abiérunt. Et dixit, qui sedébat in throno: Ecce, nova fácio ómnia.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Revelation<br>\n<span class=\"rubric\"><em>Rev 21:2-5</em></span><br>\nIn those days, I saw the holy city, New Jerusalem, coming down out of heaven from God, made ready as a bride adorned for her husband. And I heard a loud voice from the throne saying, Behold the dwelling of God with men, and He will dwell with them. And they will be His people, and God Himself will be with them as their God. And God will wipe away every tear from their eyes. And death shall be no more; neither shall there be mourning, nor crying, nor pain any more, for the former things have passed away. And He Who was sitting on the throne said, Behold, I make all things new!<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Locus iste a Deo factus est, inæstimábile sacraméntum, irreprehensíbilis est.<br>\n<span class=\"marker\"><em>℣.</em></span> Deus, cui astat Angelórum chorus, exáudi preces servórum tuórum. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 137:2</em></span><br>\nAdorábo ad templum sanctum tuum: et confitébor nómini tuo. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "This place was made by God, a priceless mystery; it is without reproof.<br>\n<span class=\"marker\"><em>℣.</em></span> O God, before Whom stands the choir of angels, give ear to the prayers of Your servants. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 137:2</em></span><br>\nI will worship at Your holy temple and give thanks to Your name. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 19:1-10</em></span><br>\nIn illo témpore: Ingréssus Jesus perambulábat Jéricho. Et ecce, vir nómine Zachǽus: et hic princeps erat publicanórum, et ipse dives: et quærébat vidére Jesum, quis esset: et non póterat præ turba, quia statúra pusíllus erat. Et præcúrrens ascéndit in árborem sycómorum, ut vidéret eum; quia inde erat transitúrus. Et cum venísset ad locum, suspíciens Jesus vidit illum, et dixit ad eum: Zachǽe, festínans descénde; quia hódie in domo tua opórtet me manére. Et festínans descéndit, et excépit illum gaudens. Et cum vidérent omnes, murmurábant, dicéntes, quod ad hóminem peccatórem divertísset. Stans autem Zachǽus, dixit ad Dóminum: Ecce, dimídium bonórum meórum, Dómine, do paupéribus: et si quid áliquem defraudávi, reddo quádruplum. Ait Jesus ad eum: Quia hódie salus dómui huic facta est: eo quod et ipse fílius sit Abrahæ. Venit enim Fílius hóminis quǽrere et salvum fácere, quod períerat.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 19:1-10</em></span><br>\nAt that time, Jesus entered and was passing through Jericho. And behold there was a man named Zacchaeus; and he was a leading publican, and he was rich. And he was trying to see Jesus, Who He was, but could not, on account of the crowd, because he was small of stature. So he ran on ahead and climbed up into a sycamore tree to see Him, for He was going to pass that way. And when Jesus came to the place, He looked up and saw him, and said to him, Zacchaeus, make haste and come down; for I must stay in your house today. And he made haste and came down, and welcomed Him joyfully. And upon seeing it all began to murmur, saying, He has gone to be the guest of a man who is a sinner. But Zacchaeus stood and said to the Lord, Behold, Lord, I give one-half of my possessions to the poor, and if I have defrauded anyone of anything, I restore it fourfold. Jesus said to him, Today salvation has come to this house, since he, too, is a son of Abraham. For the Son of Man came to seek and to save what was lost.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>1 Par 29:17-18</em></span><br>\nDómine Deus, in simplicitáte cordis mei lætus óbtuli univérsa; et pópulum tuum, qui repértus est, vidi cum ingénti gáudio: Deus Israël, custódi hanc voluntátem, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>1 Par 29:17-18</em></span><br>\nO Lord God, in the simplicity of my heart I have joyfully offered all these things; and I have seen with great joy Your people which are here present: O God of Israel, keep this will, alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "<span class=\"rubric\"><em>Extra Ecclesiam dedicatam</em></span><br>\nAnnue, quǽsumus, Dómine, précibus nostris: ut, dum hæc vota præséntia réddimus, ad ætérna prǽmia, te adjuvánte, perveníre mereámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "<span class=\"rubric\"><em>Outside the dedicated church</em></span><br>\nLook with favor upon our prayers, we beseech You, O Lord, that as we offer our prayers before You, we may, with Your help attain eternal rewards.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>in Dedicatione Ecclesiae</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui hanc oratiónis domum, quam ædificávimus, bonórum ómnium largítor inhábitas, et Ecclésiam, quam ipse fundásti, incessábili operatióne sanctíficas. Hæc est enim vere domus oratiónis, visibílibus ædifíciis adumbráta, templum habitatiónis glóriæ tuæ, sedes incommutábilis veritátis, sanctuárium ætérnæ caritátis. Hæc est arca, qui nos a mundi eréptos dilúvio, in portu salútis indúcit. Hæc est dilécta et única sponsa, quam acquisívit Christus sánguine suo, quam vivíficat Spíritu suo, cujus in sinu renáti per grátiam tuam, lacte verbi páscimur, pane vitæ roborámur, misericórdiæ tuæ subsídiis confovémur. Hæc fidéliter in terris, Sponso adiuvánte, mílitat, et perénniter in cælis, ipso coronánte, triúmphat. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cœléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Dedication of a Church</em></span><br>\nIt is truly right and just, proper and helpful toward salvation, that we always and everywhere give thanks to you, O Lord, holy Father, Almighty and eternal God, for you, the giver of all good gifts, inhabit this house of prayer which we have built, and unceasingly sanctify the Church which you founded. For your Church is the true house of prayer signified by these visible buildings, the temple where your glory dwells, the seat of unchangeable truth, the sanctuary of eternal charity. She is the ark which rescues us from the flood of this world and brings us into the port of salvation. She is the one beloved Bride whom Christ acquired by his blood and quickens by his Holy Spirit. In her bosom we are born anew by your grace, nourished by the milk of the Word, strengthened by the bread of life, encouraged by your merciful aid. With the help of her Bridegroom she struggles faithfully on earth and, crowned by him, is triumphant forever in heaven. Therefore with the Angels and Archangels, the Thrones and Dominations, and all the militant hosts of heaven, we continuously praise your glory in song, and say:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 21:13</em></span><br>\nDomus mea domus oratiónis vocábitur, dicit Dóminus: in ea omnis, qui petit, áccipit; et qui quærit, invénit; et pulsánti aperiétur."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 21:13</em></span><br>\nMy house shall be called a house of prayer, says the Lord; in it everyone who asks receives: and he who seeks finds, and to him who knocks it shall be opened."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nDeus, qui de vivis et electis lapídibus ætérnum majestáti tuæ prǽparas habitáculum: auxiliáre pópulo tuo supplicánti; ut, quod Ecclésiæ tuæ corporálibus próficit spátiis, spirituálibus amplificétur augméntis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\n<span class=\"rubric\"><em>On the day of dedication</em></span><br>\nWe beseech You, almighty God, that in this place which we, all unworthy, have dedicated to Your name, You will give a favorable hearing to all who petition You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-09",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Joannis Leonardi Confessoris",
+  "rank": "Duplex",
+  "note": "Commemoratio: S. Dionysii Epíscopi, Rustici et Eleutherii Martyrum",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Eccli 42:15-16.</em></span><br>\nIn sermónibus Dómini ópera ejus: sol illúminans per ómnia respéxit, et glória Dómini plenum est opus ejus.<br>\n<span class=\"rubric\"><em>Ps 95:1</em></span><br>\nCantáte Dómino cánticum novum: cantáte Dómino, omnis terra.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nIn sermónibus Dómini ópera ejus: sol illúminans per ómnia respéxit, et glória Dómini plenum est opus ejus."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ecclus 42:15-16</em></span><br>\nAt the Lord’s word were His works brought into being. As the rising sun is clear to all, so the glory of the Lord shines upon all His works.<br>\n<span class=\"rubric\"><em>Ps 95:1</em></span><br>\nSing to the Lord a new song; sing to the Lord, all you lands.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nAt the Lord’s word were His works brought into being. As the rising sun is clear to all, so the glory of the Lord shines upon all His works."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui beátum Joánnem Confessórem tuum ad fidem in géntibus propagándam mirabíliter excitáre dignátus es, ac per eum in erudiéndis fidélibus novam in Ecclésia tua famíliam congregásti: da nobis fámulis tuis; ita ejus institútis profícere, ut prǽmia consequámur ætérna.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Dionysii Epíscopi, Rustici et Eleutherii Martyrum</em></span><br>\nDeus, qui hodiérna die beátum Dionýsium, Mártyrem tuum atque Pontíficem, virtúte constantiæ in passióne roborásti, quique illi, ad prædicándum géntibus glóriam tuam, Rústicum et Eleuthérium sociáre dignátus es: tríbue nobis, quǽsumus; eórum imitatióne, pro amóre tuo próspera mundi despícere, et nulla ejus advérsa formidáre.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who in a wondrous way graciously urged blessed John, Your Confessor, to propagate Your faith among the pagans, and through him brought together a new religious family in Your Church for the education of the faithful, grant Your servants so to profit by his teaching that we may reach everlasting rewards.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs</em></span><br>\nO God, Who on this day strengthened blessed Dionysius, Your Martyr and Bishop, with the power to be steadfast in his suffering, and were pleased to join with him Rusticus and Eleutherius to preach Your glory to the pagans, grant us, we beseech You, out of love for You, to despise the favors of this world and to fear not its enmity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios<br>\n<span class=\"rubric\"><em>2 Cor 4:1-6, 15-18</em></span><br>\nFratres: Habéntes administratiónem juxta quod misericórdiam consecúti sumus, non defícimus, sed abdicámus occúlta dedécoris, non ambulántes in astútia, neque adulterántes verbum Dei, sed in manifestatióne veritátis commendántes nosmetípsos ad omnem consciéntiam hóminum coram Deo. Quod si étiam opértum est Evangélium nostrum: in iis, qui péreunt, est opértum: in quibus Deus hujus sǽculi excæcávit mentes infidélium, ut non fúlgeat illis illuminátio Evangélii glóriæ Christi, qui est imágo Dei. Non enim nosmetípsos prædicámus, sed Jesum Christum Dóminum nostrum: nos autem servos vestros per Jesum: quóniam Deus, qui dixit de ténebris lucem splendéscere, ipse illúxit in córdibus nostris ad illuminatiónem sciéntiæ claritátis Dei, in fácie Christi Jesu. Omnia enim propter vos: ut grátia abúndans, per multos in gratiárum actione, abúndet in glóriam Dei. Propter quod non deficimus: sed licet is, qui foris est, noster homo corrumpátur: tamen is, qui intus est, renovatur de die in diem. Id enim, quod in præsenti est momentáneum et leve tribulatiónis nostræ, supra modum in sublimitáte ætérnum glóriæ pondus operátur in nobis, non contemplántibus nobis quæ vidéntur, sed quæ non vidéntur. Quæ enim vidéntur, temporália sunt: quæ autem non vidéntur, ætérna sunt.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the second letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>2 Cor 4:1-6; 4:15-18</em></span><br>\nBrethren: Discharging this ministry in accordance with the mercy shown us, we do not lose heart. On the contrary, we renounce those practices which shame conceals, we avoid unscrupulous conduct, we do not corrupt the word of God; but making known the truth, we commend ourselves to every man’s conscience in the sight of God. And if our Gospel also is veiled, it is veiled only to those who are perishing. In their case, the god of this world has blinded their unbelieving minds, that they should not see the light of the Gospel of the glory of Christ, Who is the image of God. For we preach not of ourselves, but Jesus Christ as Lord, and ourselves merely as your servants in Jesus. For God, Who commanded light to shine out of darkness, has shone in our hearts to give enlightenment concerning the knowledge of the glory of God, shining on the face of Christ Jesus. For all things are for your sakes, so that the grace which abounds through the many may cause thanksgiving to abound to the glory of God. Wherefore we do not lose heart. On the contrary, even though our outer man is decaying, yet our inner man is being renewed day by day. For our present light affliction, which is for the moment, prepares for us an eternal weight of glory that is beyond all measure; while we look not at the things that are seen, but at the things that are not seen. For the things that are seen are temporal, but the things that are not seen are eternal.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 72:21; 68:10</em></span><br>\nInflammátum est cor meum, et renes mei commutáti sunt: zelus domus tuæ comédit me.<br>\n<span class=\"rubric\"><em>Isa 49:2</em></span><br>\nPósuit os meum quasi gládium acutum: in umbra manus suæ protéxit me, et pósuit me sicut sagíttam eléctam. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 70:7</em></span><br>\nTamquam prodígium factus sum multis: et tu adjútor fortis, Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 72:21; 68:10</em></span><br>\nMy heart was embittered and my soul was pierced; zeal for Your house consumed me.<br>\n<span class=\"rubric\"><em>Isa 49:2</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> He made of me a sharp-edged sword and concealed me in the shadow of His arm. He made me a polished arrow. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 70:7</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> A portent am I to many, but You are my strong refuge! Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 10:1-9</em></span><br>\nIn illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 10:1-9</em></span><br>\nAt that time, the Lord appointed seventy-two others, and sent them forth two by two before Him into every town and place where He Himself was about to come. And He said to them, The harvest indeed is great, but the laborers are few. Pray therefore the Lord of the harvest to send forth laborers into His harvest. Go. Behold, I send you forth as lambs in the midst of wolves. Carry neither purse, nor wallet, nor sandals, and greet no one on the way. Whatever house you enter, first say, ‘Peace to this house!’ And if a son of peace be there, your peace will rest upon him; but if not, it will return to you. And remain in the same house, eating and drinking what they have; for the laborer deserves his wages. Do not go from house to house. And whatever town you enter, and they receive you, eat what is set before you, and cure the sick who are there, and say to them, ‘The kingdom of God is at hand for you.’<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Col 1:25</em></span><br>\nChristi factus sum ego miníster secúndum dispensatiónem Dei, quæ data est mihi, ut ímpleam verbum Dómini."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Col 1:25</em></span><br>\nI have become a minister of Christ in virtue of the office that God has given me, for I am to preach the word of God fully."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Súscipe, Dómine, oblatiónem mundam salutáris hóstiæ: et præsta; ut, intercedénte beáto Joánne Confessóre tuo, úbique géntium júgiter offerátur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Dionysii Epíscopi, Rustici et Eleutherii Martyrum</em></span><br>\nObláta tibi, Dómine, múnera pópuli tui, pro tuórum honóre Sanctórum, súscipe propítius, quǽsumus: et eórum nos intercessióne sanctífica.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Accept, O Lord, the pure offering of this saving sacrifice, and by the intercession of blessed John, Your Confessor, grant that it may be offered up unceasingly throughout the world.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs</em></span><br>\nGraciously accept, O Lord, the gifts of Your people in honor of Your Saints, and make us holy by their intercession.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Phil 3:7</em></span><br>\nQuæ mihi fuérunt lucra, hæc arbitrátus sum propter Christum detriménta."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Phil 3:7</em></span><br>\nThe things that were gain to me, these, for the sake of Christ, I have counted loss."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nPretiósi córporis, et sánguinis tui sacris refécti mystériis, Dómine, adprecámur: ut beáti Joánnis Confessóris tui exémplo, studeámus confitéri quod crédidit, et ópere exercére quod dócuit:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Dionysii Epíscopi, Rustici et Eleutherii Martyrum</em></span><br>\nSumptis, Dómine, sacraméntis, quǽsumus: ut, intercedéntibus beátis Martýribus tuis Dionýsio, Rústico et Eleuthério, ad redemptiónis ætérnæ proficiamus augméntum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nRefreshed by the holy sacrament of Your precious Body and Blood, we beseech You, O Lord, that, following the example of blessed John, Your Confessor, may we strive to profess what he believed and in our actions put into practice what he taught.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs</em></span><br>\nWe who have received Your sacrament beseech You, Lord, that through the intercession of Your blessed Martyrs, Dionysius, Rusticus, and Eleutherius, we may profit unto an increase of eternal salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-04-03",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Sabbato in Albis",
+  "rank": "Semiduplex",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 104:43.</em></span><br>\nEdúxit Dóminus pópulum suum in exsultatióne, allelúja: et eléctos suos in lætítia, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nConfitémini Dómino et invocáte nomen ejus: annuntiáte inter gentes ópera ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nEdúxit Dóminus pópulum suum in exsultatióne, allelúja: et eléctos suos in lætítia, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 104:43</em></span><br>\nHe brought forth his people with joy, and his chosen with gladness, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 4:1</em></span><br>\nGive glory to the Lord, and call upon his name: declare his deeds among the Gentiles.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nHe brought forth his people with joy, and his chosen with gladness, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nConcéde, quǽsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nEcclésiæ tuæ, quǽsumus, Dómine, preces placátus admítte: ut, destrúctis adversitátibus et erróribus univérsis, secúra tibi sérviat libertáte.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech thee, O Almighty God, that we who have kept worshipfully the Easter solemnities, may at last worthily pass from keeping Feasts unto thee here to the everlasting jubilation hereafter.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nMercifully hear the prayers of thy Church, we beseech thee, O Lord, that all adversities and errors being overcome, she may serve thee in security and feedom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Petri Apóstoli<br>\n<span class=\"rubric\"><em>1 Pet 2:1-10</em></span><br>\nCaríssimi: Deponéntes ígitur omnem malítiam, et omnem dolum, et simulatiónes, et invídias, et omnes detractiónes, sicut modo géniti infántes, rationábile, sine dolo lac concupíscite: ut in eo crescátis in salútem: si tamen gustástis, quóniam dulcis est Dóminus. Ad quem accedéntes lápidem vivum, ab homínibus quidem reprobátum, a Deo autem eléctum et honorificátum: et ipsi tamquam lápides vivi superædificámini, domus spirituális, sacerdótium sanctum, offérre spirituáles hóstias, acceptábiles Deo per Jesum Christum. Propter quod cóntinet Scriptúra: Ecce, pono in Sion lápidem summum angulárem, eléctum, pretiósum: et qui credíderit in eum, non confundátur. Vobis ígitur honor credéntibus: non credéntibus autem lapis, quem reprobavérunt ædificántes, hic factus est in caput ánguli, et lapis offensiónis, et petra scándali his, qui offéndunt verbo, nec credunt in quo et pósiti sunt. Vos autem genus eléctum, regále sacerdótium, gens sancta, pópulus acquisitiónis: ut virtútes annuntiétis ejus, qui de ténebris vos vocávit in admirábile lumen suum. Qui aliquándo non pópulus, nunc autem pópulus Dei: qui non consecúti misericórdiam, nunc autem misericórdiam consecúti.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Peter the Apostle<br>\n<span class=\"rubric\"><em>1 Pet 2:1-10</em></span><br>\nBeloved: Wherefore laying away all malice, and all guile, and dissimulations, and envies, and all detractions, As newborn babes, desire the rational milk without guile, that thereby you may grow unto salvation: If so be you have tasted that the Lord is sweet. Unto whom coming, as to a living stone, rejected indeed by men, but chosen and made honourable by God: Be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. Wherefore it is said in the scripture: Behold, I lay in Sion a chief corner stone, elect, precious. And he that shall believe in him, shall not be confounded. To you therefore that believe, he is honour: but to them that believe not, the stone which the builders rejected, the same is made the head of the corner: And a stone of stumbling, and a rock of scandal, to them who stumble at the word, neither do believe, whereunto also they are set. But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light: Who in time past were not a people: but are now the people of God. Who had not obtained mercy; but now have obtained mercy.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 117:24</em></span><br>\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea. Allelúja.<br>\n<span class=\"rubric\"><em>Ps 112:1</em></span><br>\nLaudáte, púeri, Dóminum, laudáte nomen Dómini.<br>\n<span class=\"rubric\"><em> Ab hoc die usque ad Sabbatum Quatuor Temporum Pentecostes inclusive, in omnibus Missis, non dicitur Graduale sed quatuor Allelúja cum duobus Versibus, ordine infrascripto; in Missa tamen Rogationum, in Vigilia Pentecostes et post quamlibet Lectionem in Sabbato Quatuor Temporum ejusdem, unum Allelúja dicitur cum unico Versu.</em></span><br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVíctimæ pascháli laudes ímmolent Christiáni.<br>\nAgnus rédemit oves: Christus ínnocens Patri reconciliávit peccatóres.<br>\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus regnat vivus.<br>\nDic nobis, María, quid vidísti in via?<br>\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis.<br>\nAngélicos testes, sudárium et vestes.<br>\nSurréxit Christus, spes mea: præcédet vos in Galilǽam.<br>\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúja.<br>\n<span class=\"rubric\"><em>Sequentia dicitur usque ad Sabbatum in Albis inclusive.</em></span>"
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia<br>\n<span class=\"rubric\"><em>Ps 117:24</em></span><br>\nThis is the day the Lord has made; let us be glad and rejoice in it. Allelúja,<br>\n<span class=\"rubric\"><em>Ps 112:1</em></span><br>\nPraise the Lord, ye children: praise ye the name of the Lord.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nChristians! to the Paschal Victim offer your thankful praises.<br>\nThe Lamb the sheep redeemeth: Christ, who only is sinless, reconcileth sinners to the Father.<br>\nDeath and life contended in that conflict stupendous: the Prince of Life, who died, deathless reigneth.<br>\nSpeak, Mary, declaring what thou sawest wayfaring.<br>\n“The tomb of Christ who now liveth: and likewise the glory of the Risen.<br>\nBright Angels attesting, the shroud and napkin resting.<br>\nYea, Christ my hope is arisen: to Galilee He goeth before you.”<br>\nWe know that Christ is risen, henceforth ever living: Have mercy, Victor King, pardon giving. Amen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 20:1-9</em></span><br>\nIn illo témpore: Una sábbati, María Magdaléne venit mane, cum adhuc ténebræ essent, ad monuméntum: et vidit lápidem sublátum a monuménto. Cucúrrit ergo, et venit ad Simónem Petrum, et ad álium discípulum, quem amábat Jesus, et dicit illis: Tulérunt Dóminum de monuménto, et nescímus, ubi posuérunt eum. Exiit ergo Petrus et ille álius discípulus, et venérunt ad monuméntum. Currébant autem duo simul, et ille álius discípulus præcucúrrit cítius Petro, et venit primus ad monuméntum. Et cum se inclinásset, vidit pósita linteámina, non tamen introívit. Venit ergo Simon Petrus sequens eum, et introívit in monuméntum, et vidit linteámina pósita, et sudárium, quod fúerat super caput ejus, non cum linteamínibus pósitum, sed separátim involútum in unum locum. Tunc ergo introívit et ille discípulus, qui vénerat primus ad monuméntum: et vidit et crédidit: nondum enim sciébant Scriptúram, quia oportébat eum a mórtuis resúrgere.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 20:1-9</em></span><br>\nIn that time, on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre; and she saw the stone taken away from the sepulchre. She ran, therefore, and cometh to Simon Peter, and to the other disciple whom Jesus loved, and saith to them: They have taken away the Lord out of the sepulchre, and we know not where they have laid him. Peter therefore went out, and that other disciple, and they came to the sepulchre. And they both ran together, and that other disciple did outrun Peter, and came first to the sepulchre. And when he stooped down, he saw the linen cloths lying; but yet he went not in. Then cometh Simon Peter, following him, and went into the sepulchre, and saw the linen cloths lying, and the napkin that had been about his head, not lying with the linen cloths, but apart, wrapped up into one place. Then that other disciple also went in, who came first to the sepulchre: and he saw, and believed. For as yet they knew not the scripture, that he must rise again from the dead.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 7:26-27</em></span><br>\nBenedíctus, qui venit in nómine Dómini: benedíximus vobis de domo Dómini: Deus Dóminus, et illúxit nobis, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 117:26-27</em></span><br>\nBlessed be he that cometh in the name of the Lord. We have blessed you out of the house of the Lord. The Lord is God, and he hath shone upon us, allelúja, allelúja."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Concéde, quǽsumus, Dómine, semper nos per hæc mystéria paschália gratulári: ut contínua nostræ reparatiónis operátio perpétuæ nobis fiat causa lætítiæ.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nPrótege nos, Dómine, tuis mystériis serviéntes: ut, divínis rebus inhæréntes, et córpore tibi famulémur et mente.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Grant us O Lord, we beseech thee, ever to rejoyce in these Paschal mysteries, that, by the continual application of our redemption we may come to endless happiness.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nProtect us, O Lord, who celebrate thy mysteries, that holding fast to divine things, we may serve thee with body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Paschalis</em></span><br>\nVere dignum et justum est, æquum et salutáre: Te quidem, Dómine, omni témpore, sed in hac potíssimum die gloriósius prædicáre, cum Pascha nostrum immolátus est Christus. Ipse enim verus est Agnus, qui ábstulit peccáta mundi. Qui mortem nostram moriéndo destrúxit et vitam resurgéndo reparávit. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Easter</em></span><br>\nIt is truly meet and just, right and for our salvation, at all times to praise Thee, O Lord, but more gloriously especially on this day when Christ our Pasch was sacrificed. For He is the Lamb Who hath taken away the sins of the world: Who by dying hath destroyed our death: and by rising again hath restored us to life. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Gal 3:27</em></span><br>\nOmnes, qui in Christo baptizáti estis, Christum induístis, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Gal 3:27</em></span><br>\nFor as many of you as have been baptized in Christ, have put on Christ, allelúja."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nRedemptiónis nostræ múnere vegetáti, quǽsumus, Dómine: ut, hoc perpétuæ salútis auxílio, fides semper vera profíciat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nQuǽsumus, Dómine, Deus noster: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subjacére perículis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nInvigorated by the gift of redemption, we beseech thee, O Lord, that by this means of eternal salvation, the true faith may prosper evermore.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nWe beseech thee, O Lord, our God, that thou permit not those, to whom thou hast given a participation of divine things to be subjected to human dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

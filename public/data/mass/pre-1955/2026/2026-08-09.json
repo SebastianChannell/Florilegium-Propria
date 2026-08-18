@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-09",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Dominica XI Post Pentecosten II. Augusti",
+  "rank": "Semiduplex Dominica minor",
+  "note": "Commemoratio: S. Joannis Mariæ Vianney Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 67:6-7; 67:36</em></span><br>\nDeus in loco sancto suo: Deus qui inhabitáre facit unánimes in domo: ipse dabit virtútem et fortitúdinem plebi suæ.<br>\n<span class=\"rubric\"><em>Ps 67:2</em></span><br>\nExsúrgat Deus, et dissipéntur inimíci ejus: et fúgiant, qui odérunt eum, a fácie ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDeus in loco sancto suo: Deus qui inhabitáre facit unánimes in domo: ipse dabit virtútem et fortitúdinem plebi suæ."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 67:6 67:7 67:36</em></span><br>\nGod is in His holy dwelling, God Who makes men of one mind to dwell in a house; He shall give power and strength to His people.<br>\n<span class=\"rubric\"><em>Ps 67:2</em></span><br>\nGod arises; His enemies are scattered, and those who hate Him flee before Him.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nGod is in His holy dwelling, God Who makes men of one mind to dwell in a house; He shall give power and strength to His people."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nOmnípotens sempitérne Deus, qui, abundántia pietátis tuæ, et mérita súpplicum excédis et vota: effúnde super nos misericórdiam tuam; ut dimíttas quæ consciéntia métuit, et adícias quod orátio non præsúmit.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Joannis Mariæ Vianney Confessoris</em></span><br>\nOmnípotens et miséricors Deus, qui sanctum Joánnem Maríam pastoráli stúdio et jugi oratiónis ac pœniténtiæ ardóre mirábilem effecísti: da, quǽsumus; ut, ejus exémplo et intercessióne, ánimas fratrum lucrári Christo, et cum eis ætérnam glóriam cónsequi valeámus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Romani Martyris</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto Románo Mártyre tuo, et a cunctis adversitátibus liberémur in córpore, et a pravis cogitatiónibus mundémur in mente.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nAlmighty, eternal God, You Who in the abundance of Your love always grant more than Your humble petitioners deserve, and even more than they desire, pour forth Your mercy upon us that You may forgive whatever our conscience dreads, and give in addition what our prayer does not venture to ask.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Jean-Marie Vianney, Confessor</em></span><br>\nAlmighty and merciful God, Who made St. John Mary glorious by priestly zeal and untiring fervor in prayer and penance, grant, we beseech You, that by his example and intercession, we may have strength to win for Christ the souls of our brethren and, with them, attain everlasting glory.<br>\n<span class=\"rubric\"><em>Commemoration St. Romanus, Martyr</em></span><br>\nGrant, we beseech You, almighty God, that through the intercession of Your blessed Martyr Romanus, we may be delivered from all afflictions of the body and cleansed from all evil thoughts of the mind.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios.<br>\n<span class=\"rubric\"><em>1 Cor 15:1-10</em></span><br>\nFratres: Notum vobis fácio Evangélium, quod prædicávi vobis, quod et accepístis, in quo et statis, per quod et salvámini: qua ratione prædicáverim vobis, si tenétis, nisi frustra credidístis. Trádidi enim vobis in primis, quod et accépi: quóniam Christus mortuus est pro peccátis nostris secúndum Scriptúras: et quia sepúltus est, et quia resurréxit tértia die secúndum Scriptúras: et quia visus est Cephæ, et post hoc úndecim. Deinde visus est plus quam quingéntis frátribus simul, ex quibus multi manent usque adhuc, quidam autem dormiérunt. Deinde visus est Jacóbo, deinde Apóstolis ómnibus: novíssime autem ómnium tamquam abortívo, visus est et mihi. Ego enim sum mínimus Apostolórum, qui non sum dignus vocári Apóstolus, quóniam persecútus sum Ecclésiam Dei. Grátia autem Dei sum id quod sum, et grátia ejus in me vácua non fuit.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St. Paul the Apostle to the Corinthians<br>\n<span class=\"rubric\"><em>1 Cor. 15:1-10</em></span><br>\nBrethren: I recall to your minds the Gospel that I preached to you, which also you received, wherein also you stand, through which also you are being saved, if you hold it fast, as I preached it to you - unless you have believed to no purpose. For I delivered to you first of all, what I also received, that Christ died for our sins according to the Scriptures, and that He was buried, and that He rose again the third day, according to the Scriptures, and that He appeared to Cephas, and after that to the Eleven. Then He was seen by more than five hundred brethren at one time, many of whom are with us still, but some have fallen asleep. After that He was seen by James, then by the Apostles. And last of all, as by one born out of due time, He was seen also by me. For I am the least of the Apostles, and am not worthy to be called an Apostle, because I persecuted the Church of God. But by the grace of God I am what I am, and His grace in me has not been fruitless.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 27:7 27:1</em></span><br>\nIn Deo sperávit cor meum, et adjútus sum: et reflóruit caro mea, et ex voluntáte mea confitébor illi.<br>\n<span class=\"marker\"><em>℣.</em></span> Ad te, Dómine, clamávi: Deus meus, ne síleas, ne discédas a me. Allelúja, allelúja<br>\n<span class=\"rubric\"><em>Ps 80:2-3</em></span><br>\nExsultáte Deo, adjutóri nostro, jubiláte Deo Jacob: súmite psalmum jucúndum cum cíthara. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 27:7</em></span><br>\nIn God my heart trusts, and I find help; then my heart exults, and with my song I give Him thanks.<br>\n<span class=\"marker\"><em>℣.</em></span> To You, O Lord, I call; O my God, be not deaf to me; depart not from me.<br>\nAlleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 80:2-3</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Sing joyfully to God our strength; acclaim the God of Jacob. Take up a pleasant psalm with the harp. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 7:31-37</em></span><br>\nIn illo témpore: Exiens Jesus de fínibus Tyri, venit per Sidónem ad mare Galilǽæ, inter médios fines Decapóleos. Et addúcunt ei surdum et mutum, et deprecabántur eum, ut impónat illi manum. Et apprehéndens eum de turba seórsum, misit dígitos suos in aurículas ejus: et éxspuens, tétigit linguam ejus: et suspíciens in cœlum, ingémuit, et ait illi: Ephphetha, quod est adaperíre. Et statim apértæ sunt aures ejus, et solútum est vínculum linguæ ejus, et loquebátur recte. Et præcépit illis, ne cui dícerent. Quanto autem eis præcipiébat, tanto magis plus prædicábant: et eo ámplius admirabántur, dicéntes: Bene ómnia fecit: et surdos fecit audíre et mutos loqui.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Mark<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Mark 7:31-37</em></span><br>\nAt that time, Jesus departing from the district of Tyre came by way of Sidon to the sea of Galilee, through the midst of the district of Decapolis. And they brought to Him one deaf and dumb, and entreated Him to lay His hand upon him. And taking him aside from the crowd, He put His fingers into the man’s ears, and spitting, He touched his tongue. And looking up to heaven, He sighed, and said to him, Ephpheta, that is, Be opened. And his ears were at once opened, and the bond of his tongue was loosed, and he began to speak correctly. And He charged them to tell no one. But the more He charged them, so much the more did they continue to publish it. And so much the more did they wonder, saying, He has done all things well. He has made both the deaf to hear and the dumb to speak.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 29:2-3</em></span><br>\nExaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super me: Dómine, clamávi ad te, et sanásti me."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 29:2-3</em></span><br>\nI will extol You, O Lord, for You drew me near and did not let my enemies rejoice over me; O Lord, I cried out to You and You healed me."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Réspice, Dómine, quǽsumus, nostram propítius servitútem: ut, quod offérimus, sit tibi munus accéptum, et sit nostræ fragilitátis subsidium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Joannis Mariæ Vianney Confessoris</em></span><br>\nLaudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum: quibus nos et præséntibus éxui malis confídimus et futúris.<br>\n<span class=\"rubric\"><em>Commemoratio S. Romani Martyris</em></span><br>\nHóstias tibi, Dómine, beáti Románo Mártyris tui atque Pontíficis dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Look with mercy, we beseech You, O Lord, upon our act of worship that the gift we offer may be acceptable to You and may support us in our frailty.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Jean-Marie Vianney, Confessor</em></span><br>\nWe offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.<br>\n<span class=\"rubric\"><em>Commemoration St. Romanus, Martyr</em></span><br>\nO Lord, graciously accept, through the merits of Your blessed Martyr and Bishop Romanus, the sacrificial gifts dedicated to You, and grant they may prove to be for us a lasting help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotídie, una voce dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Prov 3:9-10</em></span><br>\nHónora Dóminum de tua substántia, et de prímitiis frugum tuárum: et implebúntur hórrea tua saturitáte, et vino torculária redundábunt."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Prov 3:9-10</em></span><br>\nHonor the Lord with your wealth, with first fruits of all your produce. Then will your barns be filled with grain, with new wine your vats will overflow."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSentiámus, quǽsumus, Dómine, tui perceptióne sacraménti, subsídium mentis et córporis: ut, in utróque salváti, cæléstis remédii plenitúdine gloriémur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Joannis Mariæ Vianney Confessoris</em></span><br>\nRefécti cibo potúque cœlésti, Deus noster, te súpplices exorámus: ut, in cujus hæc commemoratióne percépimus, ejus muniámur et précibus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Romani Martyris</em></span><br>\nQuǽsumus, omnípotens Deus: ut, qui cœlestia aliménta percépimus, intercedénte beáto Románo Mártyre tuo, per hæc contra ómnia advérsa muniámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nBy receiving Your sacrament, O Lord, may we experience Your help in mind and body, that being cured in both, we may glory in the full effect of the heavenly remedy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Jean-Marie Vianney, Confessor</em></span><br>\nRefreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.<br>\n<span class=\"rubric\"><em>Commemoration St. Romanus, Martyr</em></span><br>\nWe beseech You, O almighty God, that we who have eaten the food of heaven may find in it, by the intercession of blessed Romanus, Your Martyr, strength against all harm.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

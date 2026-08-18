@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-10-03",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Theresiæ a Jesu Infante Virginis",
+  "rank": "Duplex",
+  "note": "Scriptura: Sabbato infra Hebdomadam XVIII post Octavam Pentecostes V. Septembris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Cant 4:8-9.</em></span><br>\nVeni de Líbano, sponsa mea, veni de Líbano, veni: vulnerásti cor meum, soror mea sponsa, vulnerásti cor meum.<br>\n<span class=\"rubric\"><em>Ps 112:1</em></span><br>\nLaudáte, púeri, Dóminum: laudáte nomen Dómini.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nVeni de Líbano, sponsa mea, veni de Líbano, veni: vulnerásti cor meum, soror mea sponsa, vulnerásti cor meum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Song 4:8-9</em></span><br>\nCome from Lebanon, My bride, come from Lebanon, come! You have ravished My Heart, My sister, My bride; you have ravished My Heart.<br>\n<span class=\"rubric\"><em>Ps 112:1</em></span><br>\nPraise the Lord, you children, praise the name of the Lord.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nCome from Lebanon, My bride, come from Lebanon, come! You have ravished My Heart, My sister, My bride; you have ravished My Heart."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDómine, qui dixísti: Nisi efficiámini sicut párvuli, non intrábitis in regnum cœlórum: da nobis, quǽsumus: ita sanctæ Teresiæ Vírginis in humilitáte et simplicitáte cordis vestígia sectári, ut præmia consequámur ætérna.<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO Lord, Who said: Unless you become as little children, you shall not enter into the Kingdom of Heaven, grant us, we beseech You, so to follow the footsteps of blessed Theresa, the Virgin, in humility and simplicity of heart that we may obtain everlasting rewards.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Isaíæ Prophétæ<br>\n<span class=\"rubric\"><em>Is 66:12-14</em></span><br>\nHæc dicit Dóminus: Ecce, ego declinábo super eam quasi flúvium pacis, et quasi torréntem inundántem glóriam géntium, quam sugétis: ad úbera portabímini, et super génua blandiéntur vobis. Quómodo si cui mater blandiátur, ita ego consolábor vos, et in Jerúsalem consolabímini. Vidébitis, et gaudébit cor vestrum, et ossa vestra quasi herba germinábunt, et cognoscétur manus Dómini servis ejus.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Isaias<br>\n<span class=\"rubric\"><em>Isa 66:12-14</em></span><br>\nThus says the Lord: Lo, I will spread prosperity over her like a river, and the wealth of the nations like an overflowing torrent. As nurslings, you shall be carried in her arms, and fondled in her lap; as a mother comforts her son, so will I comfort you; in Jerusalem you shall find your comfort. When you see this, your heart shall rejoice, and your bodies flourish like the grass; the Lord’s power shall be known to His servants.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Matt 11:25</em></span><br>\nConfíteor tibi, Pater, Dómine cœli et terræ, quia abscondísti hæc a sapiéntibus, et prudéntibus, et revelásti ea párvulis.<br>\n<span class=\"rubric\"><em>Ps 70:5</em></span><br>\nDómine, spes mea a juventúte mea.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 39:17-19</em></span><br>\nQuasi rosa plantáta super rivos aquárum fructificate: quasi Libanus odórem suavitátis habete: florete, flores, quasi lílium, et date odórem, et frondete in grátiam, et collaudate cánticum, et benedicite Dóminum in opéribus suis. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Matt 11:25</em></span><br>\nI praise You, Father, Lord of heaven and earth, that You did hide these things from the wise and prudent, and did reveal them to little ones.<br>\n<span class=\"rubric\"><em>Ps 70:5</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> My trust, O Lord, from my youth. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Sir 39:17-19</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Open up your petals, like roses planted near running waters; send up a sweet odor like Lebanon. Break forth in blossoms like the lily, and yield a smell, and bring forth leaves in grace, and praise with canticles, and bless the Lord in His works. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 18:1-4</em></span><br>\nIn illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, major est in regno cœlórum? Et advocans Jesus párvulum, státuit eum in médio eórum, et dixit; Amen, dico vobis, nisi convérsi fuéritis, et efficiámini sicut párvuli, non intrábitis in regnum cœlorum. Quicúmque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 18:1-4</em></span><br>\nAt that time, the disciples came to Jesus, saying, Who then is greater in the kingdom of heaven? And Jesus called a little child to Him, set him in their midst, and said, Amen I say to you, unless you turn and become like little children, you will not enter into the kingdom of heaven. Whoever, therefore, humbles himself as this little child, he is the greatest in the kingdom of heaven.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Luc 1:46-49</em></span><br>\nMagníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo: quia respéxit humilitátem ancíllæ suæ: fecit mihi magna qui potens est."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Luke 1:46; 1:48-49.</em></span><br>\nMy soul magnifies the Lord, and my spirit rejoices in God my Saviour; because He has regarded the lowliness of His handmaid. He Who is mighty has done great things for me."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Sacrifícium nostrum tibi, Dómine, quǽsumus, sanctæ Terésiæ Vírginis tuæ precátio sancta concíliet: ut, in cujus honóre sollémniter exhibétur, ejus méritis efficiátur accéptum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "We beseech You, O Lord, may the holy prayers of blessed Theresa, Your Virgin, commend our sacrifice to You, so that it may be made acceptable by her merits in whose honor it is solemnly offered.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti jubeas, deprecámur, súpplici confessione dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Deut 32:10-12</em></span><br>\nCircumdúxit eam, et dócuit: et custodívit quasi pupíllam óculi sui. Sicut aquila expándit alas suas, et assúmpsit eam, atque portávit in húmeris suis. Dóminus solus dux ejus fuit."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Deut 32:10-12</em></span><br>\nHe led her about and taught her, and He guarded her as the apple of His eye. As an eagle He spread His wings to receive her and bore her up on His pinions. The Lord alone was her leader."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nIllo nos, Dómine amóris igne cœléste mystérium inflámmet: quo sancta Teresia Virgo tua se tibi pro homínibus caritátis víctimam devóvit.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay the heavenly sacrament, O Lord, enkindle in us that fire of love which urged blessed Theresa, Your Virgin, to offer herself to You as a victim of charity for mankind.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-06-16",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Die V infra Octavam SSmi Cordis Jesu",
+  "rank": "Semiduplex III. ordinis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 32:11; 32:19</em></span><br>\nCogitatiónes Cordis ejus in generatióne et generatiónem: ut éruat a morte ánimas eórum et alat eos in fame.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nExsultáte, justi, in Dómino: rectos decet collaudátio.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nCogitatiónes Cordis ejus in generatióne et generatiónem: ut éruat a morte ánimas eórum et alat eos in fame."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps. 32:11, 19</em></span><br>\nThe thoughts of His Heart are to all generations: to deliver them from death and preserve them in spite of famine.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nExult, you just, in the Lord; praise from the upright is fitting.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThe thoughts of His Heart are to all generations: to deliver them from death and preserve them in spite of famine."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui nobis in Corde Fílii tui, nostris vulneráto peccátis, infinítos dilectiónis thesáuros misericórditer largíri dignáris: concéde, quǽsumus; ut, illi devótum pietátis nostræ præstántes obséquium, dignæ quoque satisfactiónis exhibeámus offícium.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nConcéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nEcclésiæ tuæ, quǽsumus, Dómine, preces placátus admítte: ut, destrúctis adversitátibus et erróribus univérsis, secúra tibi sérviat libertáte.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who in the Heart of Your Son, wounded by our sins, mercifully lavish upon us the infinite riches of love, grant, we beseech You, that as we offer Him the faithful service of our devotion, we may also show forth fitting reparation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nGrant us, Your servants, O Lord God, we beseech You, to enjoy lasting health of mind and body; and by the intercession of glorious and blessed Mary, ever Virgin, may we be delivered from present sorrow and partake to the full of eternal happiness.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nMercifully hear the prayers of thy Church, we beseech thee, O Lord, that all adversities and errors being overcome, she may serve thee in security and feedom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios<br>\n<span class=\"rubric\"><em>Eph 3:8-12, 14-19</em></span><br>\nFratres: Mihi, ómnium sanctórum mínimo, data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi, et illumináre omnes, quæ sit dispensátio sacraménti abscónditi a sǽculis in Deo, qui ómnia creávit: ut innotéscat principátibus et potestátibus in cœléstibus per Ecclésiam multifórmis sapiéntia Dei, secúndum præfinitiónem sæculórum, quam fecit in Christo Jesu, Dómino nostro, in quo habémus fidúciam et accéssum in confidéntia per fidem ejus. Hujus rei grátia flecto génua mea ad Patrem Dómini nostri Jesu Christi, ex quo omnis patérnitas in cœlis ei in terra nominátur, ut det vobis, secúndum divítias glóriæ suæ, virtúte corroborári per Spíritum ejus in interiórem hóminem, Christum habitáre per fidem in córdibus vestris: in caritáte radicáti et fundáti, ut póssitis comprehéndere cum ómnibus sanctis, quæ sit latitúdo, et longitúdo, et sublímitas, et profúndum: scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Ephesians<br>\n<span class=\"rubric\"><em>Eph. 3:8-12, 14-19</em></span><br>\nBrethren: To me, the very least of all saints, there was given this grace, to announce among the Gentiles the good tidings of the unfathomable riches of Christ, and to enlighten all men as to what is the dispensation of the mystery which has been hidden from eternity in God, Who created all things; in order that through the Church there be made known to the Principalities and the Powers in the heavens the manifold wisdom of God according to the eternal purpose which He accomplished in Christ Jesus our Lord. In Him we have assurance and confident access through faith in Him. For this reason I bend my knees to the Father of our Lord Jesus Christ, from Whom all fatherhood in heaven and on earth receives its name, that He may grant you from His glorious riches to be strengthened with power through His Spirit unto the progress of the inner man; and to have Christ dwelling through faith in your hearts: so that, being rooted and grounded in love, you may be able to comprehend with all the saints what is the breadth and length and height and depth, and to know Christ’s love which surpasses knowledge, in order that you may be filled unto all the fullness of God.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 24:8-9</em></span><br>\nDulcis et rectus Dóminus: propter hoc legem dabit delinquéntibus in via.<br>\n<span class=\"marker\"><em>℣.</em></span> Díriget mansúetos in judício, docébit mites vias suas.<br>\n<span class=\"rubric\"><em>Mt 11:29</em></span><br>\nAllelúja, allelúja. Tóllite jugum meum super vos, et díscite a me, quia mitis sum et húmilis Corde, et inveniétis réquiem animábus vestris. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps. 24:8-9</em></span><br>\nGood and upright is the Lord; thus He shows sinners the way.<br>\n<span class=\"marker\"><em>℣.</em></span> He guides the humble to justice; He teaches the humble His way.<br>\n<span class=\"rubric\"><em>Matt 11:29</em></span><br>\nAlleluia, alleluia. Take My yoke upon you, and learn from Me, for I am meek, and humble of heart: and you will find rest for your souls. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 19:31-37</em></span><br>\nIn illo témpore: Judǽi - quóniam Parascéve erat, - ut non remanérent in cruce córpora sábbato - erat enim magnus dies ille sábbati, - rogavérunt Pilátum, ut frangeréntur eórum crura, et tolleréntur. Venérunt ergo mílites: et primi quidem fregérunt crura et alteríus, qui crucifíxus est cum eo. Ad Jesum autem cum veníssent, ut vidérunt eum jam mórtuum, non fregérunt ejus crura, sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua. Et qui vidit, testimónium perhíbuit: et verum est testimónium ejus. Et ille scit quia vera dicit, ut et vos credátis. Facta sunt enim hæc ut Scriptúra implerétur: Os non comminuétis ex eo. Et íterum alia Scriptúra dicit: Vidébunt in quem transfixérunt.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 19:31-37</em></span><br>\nAt that time, the Jews, since it was the Preparation Day, in order that the bodies might not remain upon the cross on the Sabbath - for that Sabbath was a solemn day, - besought Pilate that their legs might be broken, and that they might be taken away. The soldiers therefore came and broke the legs of the first, and of the other, who had been crucified with Him. But when they came to Jesus, and saw that He was already dead, they did not break His legs; but one of the soldiers opened His side with a lance, and immediately there came out blood and water. And he who saw it has borne witness, and his witness is true; and he knows that he tells the truth, that you also may believe. For these things came to pass that the Scripture might be fulfilled, Not a bone of Him shall you break. And again another Scripture says, They shall look upon Him Whom they have pierced.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 68:21</em></span><br>\nImpropérium exspectávit Cor meum et misériam: et sustínui, qui simul mecum contristarétur, et non fuit: consolántem me quæsívi, et non invéni."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 68:21</em></span><br>\nMy heart expected reproach and misery; I looked for sympathy, but there was none; and for comforters, and I found none."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Réspice, quǽsumus, Dómine, ad ineffábilem Cordis dilécti Fílii tui caritátem: ut quod offérimus sit tibi munus accéptum et nostrórum expiátio delictórum.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nPrótege nos, Dómine, tuis mystériis serviéntes: ut, divínis rebus inhæréntes, et córpore tibi famulémur et mente.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Look, we beseech You, O Lord, upon the Heart of Your beloved Son, with its boundless love, so that what we offer, may be an acceptable gift in Your sight and an atonement for our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nProtect us, O Lord, who celebrate thy mysteries, that holding fast to divine things, we may serve thee with body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sacratissimo Cordis Jesu</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui Unigénitum tuum, in Cruce pendéntem, láncea mílitis transfígi voluísti: ut apértum Cor, divínæ largitátis sacrárium, torréntes nobis fúnderet miseratiónis et grátiæ: et, quod amóre nostri flagráre numquam déstitit, piis esset réquies et pœniténtibus pateret salútis refúgium. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus cumque omni milítia cœléstis exércitus hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Sacred Heart</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who didst will that Thine only-begotten Son, while hanging on the cross, should be pierced by a soldier's spear, that the Heart thus opened, a shrine of divine bounty, should pour out on us streams of mercy and grace, and that what never ceased to burn with love for us, should be a resting-place to the devout, and open as a refuge of salvation to the penitent. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army, we sing the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joannes 19:34</em></span><br>\nUnus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 19:34</em></span><br>\nOne of the soldiers opened His side with a lance, and immediately there came out blood and water."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nPrǽbeant nobis, Dómine Jesu, divínum tua sancta fervórem: quo dulcíssimi Cordis tui suavitáte percépta; discámus terréna despícere, et amáre cœléstia:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nSumptis, Dómine, salútis nostræ subsídiis: da, quǽsumus, beátæ Maríæ semper Vírginis patrocíniis nos ubíque prótegi; in cujus veneratióne hæc tuæ obtúlimus majestáti.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nQuǽsumus, Dómine, Deus noster: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subjacére perículis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nMay Your sacrament, O Lord Jesus, give us holy zeal, so that, seeing the sweetness of Your most loving Heart, we may learn to despise the things of earth and love those of heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nGrant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nWe beseech thee, O Lord, our God, that thou permit not those, to whom thou hast given a participation of divine things to be subjected to human dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,9 +1,26 @@
 {
-  "schemaVersion": 1,
-  "years": [
-    2026,
-    2027
-  ],
+  "schemaVersion": 2,
+  "defaultRubric": "1960",
+  "rubrics": {
+    "1954": {
+      "label": "Pre-1955",
+      "version": "Divino Afflatu - 1954",
+      "missal": "Roman Missal · Divino Afflatu 1954",
+      "years": [
+        2026,
+        2027
+      ]
+    },
+    "1960": {
+      "label": "1960",
+      "version": "Rubrics 1960 - 1960",
+      "missal": "1962 Roman Missal",
+      "years": [
+        2026,
+        2027
+      ]
+    }
+  },
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
     "commit": "75cbb135301ff479474904f104970ec4d6906cb4",

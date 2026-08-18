@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-07-05",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Dominica VI Post Pentecosten",
+  "rank": "Semiduplex Dominica minor",
+  "note": "Commemoratio: S. Antonii Mariæ Zaccaria Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 27:8-9</em></span><br>\nDóminus fortitudo plebis suæ, et protéctor salutárium Christi sui est: salvum fac pópulum tuum, Dómine, et benedic hereditáti tuæ, et rege eos usque in sǽculum.<br>\n<span class=\"rubric\"><em>Ps 27:1</em></span><br>\nAd te, Dómine, clamábo, Deus meus, ne síleas a me: ne quando táceas a me, et assimilábor descendéntibus in lacum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDóminus fortitudo plebis suæ, et protéctor salutárium Christi sui est: salvum fac pópulum tuum, Dómine, et benedic hereditáti tuæ, et rege eos usque in sǽculum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps. 27:8-9.</em></span><br>\nThe Lord is the strength of His people, the saving refuge of His anointed. Save Your people, O Lord, and bless Your inheritance; and rule them forever!<br>\n<span class=\"rubric\"><em>Ps 27:1</em></span><br>\nTo You, O Lord, I call; O my God, be not deaf to me, lest, if You heed me not, I become one of those going down into the pit.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThe Lord is the strength of His people, the saving refuge of His anointed. Save Your people, O Lord, and bless Your inheritance; and rule them forever!"
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus virtútum, cujus est totum quod est óptimum: ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum; ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódias.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Antonii Mariæ Zaccaria Confessoris</em></span><br>\nFac nos, Dómine Deus, supereminéntem Jesu Christi sciéntiam, spíritu Pauli Apóstoli, edíscere: qua beátus Antónius María mirabíliter erudítus, novas in Ecclésia tua clericórum et vírginum famílias congregávit.<br>\n<span class=\"rubric\"><em>Commemoratio Septima die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nDeus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God of the heavenly powers, creator of all good things, implant in our hearts the love of Your Name, and bestow upon us an increase of godliness, fostering what is good, and, by Your loving care, guarding what You have fostered.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Anthony Mary Zaccaria, Confessor</em></span><br>\nGrant us, O Lord God, to learn in the spirit of Paul the Apostle that excelling knowledge of Jesus Christ, by which St. Anthony Mary, himself wondrously learned, gathered together in Your Church new families of clerics and virgins.<br>\n<span class=\"rubric\"><em>Commemoration Seventh Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nO God, Who made this day holy by the martyrdom of Your Apostles Peter and Paul, grant Your Church to follow in all things the teaching of those from whom she first received the faith.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános<br>\n<span class=\"rubric\"><em>Rom 6:3-11</em></span><br>\nFratres: Quicúmque baptizáti sumus in Christo Jesu, in morte ipsíus baptizáti sumus. Consepúlti enim sumus cum illo per baptísmum in mortem: ut, quómodo Christus surréxit a mórtuis per glóriam Patris, ita et nos in novitáte vitæ ambulémus. Si enim complantáti facti sumus similitúdini mortis ejus: simul et resurrectiónis érimus. Hoc sciéntes, quia vetus homo noster simul crucifíxus est: ut destruátur corpus peccáti, et ultra non serviámus peccáto. Qui enim mórtuus est, justificátus est a peccáto. Si autem mórtui sumus cum Christo: crédimus, quia simul étiam vivémus cum Christo: sciéntes, quod Christus resurgens ex mórtuis, jam non móritur, mors illi ultra non dominábitur. Quod enim mórtuus est peccáto, mórtuus est semel: quod autem vivit, vivit Deo. Ita et vos existimáte, vos mórtuos quidem esse peccáto, vivéntes autem Deo, in Christo Jesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the letter of St. Paul the Apostle to the Romans<br>\n<span class=\"rubric\"><em>Rom 6:3-11.</em></span><br>\nBrethren: All we who have been baptized into Christ Jesus have been baptized into His death. For we were buried with Him by means of Baptism into death, in order that, just as Christ has arisen from the dead through the glory of the Father, so we also may walk in newness of life. For if we have been united with Him in the likeness of His death, we shall be so in the likeness of His resurrection also. For we know that our old self has been crucified with Him, in order that the body of sin may be destroyed, that we may no longer be slaves to sin; for he who is dead is acquitted of sin. But if we have died with Christ, we believe that we shall also live together with Christ; for we know that Christ, having risen from the dead, dies now no more, death shall no longer have dominion over Him. For the death that He died, He died to sin once for all, but the life that He lives, He lives unto God. Thus do you consider yourselves also as dead to sin, but alive to God in Christ Jesus our Lord.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 89:13; 89:1</em></span><br>\nConvértere, Dómine, aliquántulum, et deprecáre super servos tuos.<br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, refúgium factus es nobis, a generatióne et progénie.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 30:2-3</em></span><br>\nIn te, Dómine, sperávi, non confúndar in ætérnum: in justítia tua líbera me et éripe me: inclína ad me aurem tuam, accélera, ut erípias me. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps. 89:13, 1</em></span><br>\nReturn, O Lord! How long? Have pity on Your servants!<br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, You have been our refuge through all generations. Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps. 30:2-3.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> In You, O Lord, I take refuge; let me never be put to shame. In Your justice rescue me and release me, incline Your ear to me, make haste to deliver me! Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 8:1-9</em></span><br>\nIn illo témpore: Cum turba multa esset cum Jesu, nec habérent, quod manducárent, convocátis discípulis, ait illis: Miséreor super turbam: quia ecce jam tríduo sústinent me, nec habent quod mandúcent: et si dimísero eos jejúnos in domum suam, defícient in via: quidam enim ex eis de longe venérunt. Et respondérunt ei discípuli sui: Unde illos quis póterit hic saturáre pánibus in solitúdine? Et interrogávit eos: Quot panes habétis? Qui dixérunt: Septem. Et præcépit turbæ discúmbere super terram. Et accípiens septem panes, grátias agens fregit, et dabat discípulis suis, ut appónerent, et apposuérunt turbæ. Et habébant piscículos paucos: et ipsos benedíxit, et jussit appóni. Et manducavérunt, et saturáti sunt, et sustulérunt quod superáverat de fragméntis, septem sportas. Erant autem qui manducáverant, quasi quátuor mília: et dimísit eos.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Mark<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Mark 8:1-9</em></span><br>\nAt that time, when there was a great crowd with Jesus, and they had nothing to eat, He called His disciples together and said to them, I have compassion on the crowd, for behold, they have now been with Me three days, and have nothing to eat; and if I send them away to their homes fasting, they will faint on the way, for some of them have come from a distance. And His disciples answered Him, How will anyone be able to satisfy these with bread, here in a desert? And He asked them, How many loaves have you? And they said, Seven. And He bade the crowd recline on the ground. Then taking the seven loaves, He gave thanks, broke them and gave them to His disciples to distribute; and they set them before the crowd. And they had a few little fishes; and He blessed them, and ordered them to be distributed. And they ate and were satisfied; and they took up what was left of the fragments, seven baskets. Now those who had eaten were about four thousand. And He dismissed them.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 16:5; 16:6-7</em></span><br>\nPérfice gressus meos in sémitis tuis, ut non moveántur vestígia mea: inclína aurem tuam, et exáudi verba mea: mirífica misericórdias tuas, qui salvos facis sperántes in te, Dómine."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 16:5-7</em></span><br>\nMake my steps steadfast in Your paths, that my feet may not falter. Incline Your ear to me; hear my word. Show Your wondrous kindness, O Lord, O Saviour of those who trust in You."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Propitiáre, Dómine, supplicatiónibus nostris, et has pópuli tui oblatiónes benígnus assúme: et, ut nullíus sit írritum votum, nullíus vácua postulátio, præsta; ut, quod fidéliter pétimus, efficáciter consequámur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Antonii Mariæ Zaccaria Confessoris</em></span><br>\nAd mensam cœléstis convívii fac nos, Dómine, eam mentis et córporis puritátem afférre, qua beátus Antónius María, hanc sacratíssimam hóstiam ófferens, mirífice ornátus enítuit.<br>\n<span class=\"rubric\"><em>Commemoratio Septima die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nHóstias, Dómine, quas nómini tuo sacrándas offérimus, apostolica prosequátur orátio: per quam nos expiári tríbuas et deféndi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Mercifully hear our humble prayers, O Lord, and graciously accept these offerings of Your people, and grant that no prayer may be without effect, no petition in vain, so that what we ask in faith, we may really obtain.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Anthony Mary Zaccaria, Confessor</em></span><br>\nMay we bring to the table of the heavenly banquet, O Lord, that purity of mind and body with which St. Anthony Mary was so wondrously imbued and in which he excelled when he offered these sacrificial gifts.<br>\n<span class=\"rubric\"><em>Commemoration Seventh Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nHóstias, Dómine, quas nómini tuo sacrándas offérimus, apostolica prosequátur orátio: per quam nos expiári tríbuas et deféndi.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in majestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre quotídie, una voce dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 26:6</em></span><br>\nCircuíbo et immolábo in tabernáculo ejus hóstiam jubilatiónis: cantábo et psalmum dicam Dómino."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps. 26:6</em></span><br>\nI will go round, and offer in His tent, sacrifices with shouts of gladness; I will sing and chant praise to the Lord."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nRepléti sumus, Dómine, munéribus tuis: tríbue, quǽsumus; ut eórum et mundémur efféctu et muniámur auxílio.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Antonii Mariæ Zaccaria Confessoris</em></span><br>\nCœlésti dape, qua pasti sumus, Dómine Jesu Christe, eo corda nostra caritátis igne flamméscant: quo beátus Antónius María salutáris hóstiæ vexíllum, contra Ecclésiæ tuæ hostes, éxtulit ad victóriam:<br>\n<span class=\"rubric\"><em>Commemoratio Septima die infra Octavam Ss. Apostolorum Petri et Pauli</em></span><br>\nQuos cœlésti, Dómine, aliménto satiásti: apostólicis intercessiónibus ab omni adversitáte custódi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nWe have been filled with Your gifts, O Lord; grant, we beseech You, that we may be cleansed and strengthened by their effect.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Anthony Mary Zaccaria, Confessor</em></span><br>\nMay the heavenly banquet at which we have been fed, O Lord Jesus Christ, set our hearts aflame with that fire of love with which St. Anthony Mary bore the banner of the saving Victim to victory against the enemies of Your Church.<br>\n<span class=\"rubric\"><em>Commemoration Seventh Day Within the Octave of the Apostles Sts. Peter and Paul</em></span><br>\nO Lord, by the intercession of Your Apostles, defend from all harm those whom You have filled with heavenly food.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

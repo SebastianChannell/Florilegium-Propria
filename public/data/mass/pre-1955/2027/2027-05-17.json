@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-05-17",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Die II infra octavam Pentecostes",
+  "rank": "Duplex I. classis",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 80:17</em></span><br>\nCibávit eos ex ádipe fruménti, allelúja: et de petra, melle saturávit eos, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nExsultáte Deo, adjutóri nostro: jubiláte Deo Jacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nCibávit eos ex ádipe fruménti, allelúja: et de petra, melle saturávit eos, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps. 80:17</em></span><br>\nHe fed them with the best of wheat, alleluia: and filled them with honey from the rock, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nSing joyfully to God our strength; acclaim the God of Jacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nHe fed them with the best of wheat, alleluia: and filled them with honey from the rock, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui Apóstolis tuis Sanctum dedísti Spíritum: concéde plebi tuæ piæ petitiónis efféctum; ut, quibus dedísti fidem, largiáris et pacem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, You Who gave the Holy Spirit to Your apostles, grant that the devout prayers of Your people may be effective and, as You have given us faith, also grant us peace.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Acts 10:34; 10:42-48</em></span><br>\nIn diébus illis: Apériens Petrus os suum, dixit: Viri fratres, nobis præcépit Dóminus prædicáre pópulo: et testificári, quia ipse est, qui constitútus est a Deo judex vivórum et mortuórum. Huic omnes Prophétæ testimónium pérhibent, remissiónem peccatórum accípere per nomen ejus omnes, qui credunt in eum. Adhuc loquénte Petro verba hæc, cecidit Spíritus Sanctus super omnes, qui audiébant verbum. Et obstupuérunt ex circumcisióne fidéles, qui vénerant cum Petro: quia et in natiónes grátia Spíritus Sancti effúsa est. Audiébant enim illos loquéntes linguis et magnificántes Deum. Tunc respóndit Petrus: Numquid aquam quis prohibére potest, ut non baptizéntur hi, qui Spíritum Sanctum accepérunt sicut et nos? Et jussit eos baptizári in nómine Dómini Jesu Christi.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of the Apostles<br>\n<span class=\"rubric\"><em>Acts 10:34, 42-48</em></span><br>\nIn those days, Peter opening his mouth, said, Men, brethren, the Lord charged us to preach to the people and to testify that He it is Who has been appointed by God to be judge of the living and of the dead. To Him all the prophets bear witness, that through His Name all who believe in Him may receive forgiveness of sins. While Peter was still speaking these words, the Holy Spirit came upon all who were listening to his message. And the faithful of the circumcision, who had come with Peter, were amazed, because on the Gentiles also the grace of the Holy Spirit had been poured forth; for they heard them speaking in tongues and magnifying God. Then Peter answered, Can anyone refuse the water to baptize these, seeing that they have received the Holy Spirit just as we did? And he ordered them to be baptized in the Name of Jesus Christ.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Acts 2:4</em></span><br>\nLoquebántur váriis linguis Apóstoli magnália Dei. Allelúja. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Veni, Sancte Spiritus, reple tuorum corda fidélium: et tui amóris in eis ignem accénde.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVeni, Sancte Spíritus,<br>\net emítte cǽlitus<br>\nlucis tuæ rádium.<br>\n<br>\nVeni, pater páuperum;<br>\nveni, dator múnerum;<br>\nveni, lumen córdium.<br>\n<br>\nConsolátor óptime,<br>\ndulcis hospes ánimæ,<br>\ndulce refrigérium.<br>\n<br>\nIn labóre réquies,<br>\nin æstu tempéries,<br>\nin fletu solácium.<br>\n<br>\nO lux beatíssima,<br>\nreple cordis íntima<br>\ntuórum fidélium.<br>\n<br>\nSine tuo númine<br>\nnihil est in hómine,<br>\nnihil est innóxium.<br>\n<br>\nLava quod est sórdidum,<br>\nriga quod est áridum,<br>\nsana quod est sáucium.<br>\n<br>\nFlecte quod est rígidum,<br>\nfove quod est frígidum,<br>\nrege quod est dévium.<br>\n<br>\nDa tuis fidélibus,<br>\nin te confidéntibus,<br>\nsacrum septenárium.<br>\n<br>\nDa virtútis méritum,<br>\nda salútis éxitum,<br>\nda perénne gáudium.<br>\nAmen. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Acts 2:4</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Apostles spoke in foreign tongues the wonderful works of God. Alleluia. ~<span class=\"rubric\">Kneel.</span><br>\n<span class=\"marker\"><em>℣.</em></span> Come, O Holy Spirit, fill the hearts of Your faithful, and kindle in them the fire of Your love.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nHoly Spirit! Lord of light!<br>\nFrom Thy clear celestial height,<br>\nThy pure, beaming radiance give:<br>\n<br>\nCome, Thou, Father of the poor!<br>\nCome, with treasures which endure!<br>\nCome, Thou light of all that live!<br>\n<br>\nThou of all consolers best,<br>\nVisiting the troubled breast,<br>\nDost refreshing peace bestow:<br>\n<br>\nThou in toil art comfort sweet;<br>\nPleasant coolness in the heat;<br>\nSolace in the midst of woe.<br>\n<br>\nLight immortal! Light divine!<br>\nVisit Thou these hearts of Thine,<br>\nAnd our inmost being fill.<br>\n<br>\nIf Thou take Thy grace away,<br>\nNothing pure in man will stay;<br>\nAll his good is turn’d to ill.<br>\n<br>\nHeal our wounds - our strength renew;<br>\nOn our dryness pour Thy dew;<br>\nWash the stains of guilt away:<br>\n<br>\nBend the stubborn heart and will;<br>\nMelt the frozen, warm the chill;<br>\nGuide the steps that go astray.<br>\n<br>\nThou, on those who evermore<br>\nThee confess and Thee adore,<br>\nIn Thy sevenfold gifts descend.<br>\n<br>\nGive them comfort when they die;<br>\nGive them life with Thee on high;<br>\nGive them joys which never end.<br>\nAmen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 3:16-21</em></span><br>\nIn illo témpore: Dixit Jesus Nicodémo: Sic Deus diléxit mundum, ut Fílium suum unigénitum daret: ut omnis, qui credit in eum, non péreat, sed hábeat vitam ætérnam. Non enim misit Deus Fílium suum in mundum, ut júdicet mundum, sed ut salvétur mundus per ipsum. Qui credit in eum, non judicátur; qui autem non credit, jam judicátus est: quia non credit in nómine unigéniti Fílii Dei. Hoc est autem judícium: quia lux venit in mundum, et dilexérunt hómines magis ténebras quam lucem: erant enim eórum mala ópera. Omnis enim, qui male agit, odit lucem, et non venit ad lucem, ut non arguántur ópera ejus: qui autem facit veritátem, venit ad lucem, ut manifesténtur ópera ejus, quia in Deo sunt facta.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 3:16-21</em></span><br>\nAt that time, Jesus said to Nicodemus: God so loved the world that He gave His only-begotten Son, that those who believe in Him may not perish, but may have life everlasting. For God did not send His Son into the world in order to judge the world, but that the world might be saved through Him. He who believes in Him is not judged; but he who does not believe in Him is already judged, because he does not believe in the Name of the only-begotten Son of God. Now this is the judgment: The light has come into the world, yet men have loved the darkness rather than the light, for their works were evil. For everyone who does evil hates the light, and does not come to the light, that his deeds may not be exposed. But he who does the truth comes to the light that his deeds may be made manifest, for they have been performed in God.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 17:14 et 16</em></span><br>\nIntónuit de cœlo Dóminus, et Altíssimus dedit vocem suam: et apparuérunt fontes aquárum, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps. 17:14, 16</em></span><br>\nThe Lord thundered from heaven, the Most High gave forth His voice; and the fountains of waters appeared, alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Propítius, Dómine, quǽsumus, hæc dona sanctífica: et, hóstiæ spiritális oblatióne suscépta, nosmetípsos tibi pérfice munus ætérnum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Graciously hallow these gifts, we beseech You, O Lord, and accepting the offering of the spiritual sacrifice, make us also an eternal offering to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Spiritu Sancto</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui, ascéndens super omnes cælos sedénsque ad déxteram tuam, promíssum Spíritum Sanctum hodierna die in fílios adoptiónis effúdit. Quaprópter profúsis gáudiis totus in orbe terrárum mundus exsúltat. Sed et supérnæ Virtútes atque angélicæ Potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Spirit</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who ascending above all in the heavens and sitting at Thy Right Hand, poured out the Holy Spirit upon the children of adoption. Wherefore the whole world doth rejoice with overflowing joy; and the heavenly Hosts also and the angelic Powers sing together the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joannes 14:26</em></span><br>\nSpíritus Sanctus docébit vos, allelúja: quæcúmque díxero vobis, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 14:26</em></span><br>\nThe Holy Spirit will teach you, alleluia: whatever I have said to you, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nAdésto, quǽsumus, Dómine, pópulo tuo: et, quem mystériis cœléstibus imbuísti, ab hóstium furóre defénde.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nBe near to Your people, we beseech You, O Lord, and defend against the fury of the enemy those whom You have penetrated with Your heavenly sacrament.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

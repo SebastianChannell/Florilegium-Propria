@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-02-27",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "S. Gabrielis a Virgine Perdolente Confessoris",
+  "rank": "Duplex",
+  "note": "Commemoratio: Sabbato infra Hebdomadam II in Quadragesima",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Eccli 11:13.</em></span><br>\nOculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput ejus: et miráti sunt in illo multi et honoravérunt Deum.<br>\n<span class=\"rubric\"><em>Ps 72:1.</em></span><br>\nQuam bonus Israël Deus his, qui recto sunt corde!<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nOculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput ejus: et miráti sunt in illo multi et honoravérunt Deum."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ecclus 11:13</em></span><br>\nThe eye of God looks favorably upon him; He raises him free of the vile dust, and lifts up his head to the amazement of the many who glorify God.<br>\n<span class=\"rubric\"><em>Ps 72:1</em></span><br>\nHow good is God to Israel, to those who are clean of heart!<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThe eye of God looks favorably upon him; He raises him free of the vile dust, and lifts up his head to the amazement of the many who glorify God."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDeus, qui beátum Gabriélem dulcíssimæ Matris tuæ dolóres assídue recólere docuísti, ac per illam sanctitátis et miraculórum glória sublimásti: da nobis, ejus intercessióne et exémplo; ita Genitrícis tuæ consociári flétibus, ut matérna ejúsdem protectióne salvémur:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Sabbato infra Hebdomadam II in Quadragesima</em></span><br>\nDa, quǽsumus, Dómine, nostris efféctum jejúniis salutárem: ut castigátio carnis assúmpta, ad nostrárum vegetatiónem tránseat animárum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, Who taught blessed Gabriel to meditate continually on the sorrows of Your most sweet Mother and Who, through her, exalted him by the glory of a holy life and miracles; grant us through his intercession and example so to share in the sorrows of Your Mother that her motherly protection may save us.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sabbato infra Hebdomadam II in Quadragesima</em></span><br>\nGrant that our fasting may be beneficial to us, we beseech You, O Lord, so that by chastising our flesh we may obtain strength for our souls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Epístolæ beáti Joannis Apóstoli<br>\n<span class=\"rubric\"><em>1 Joann 2, 14-17</em></span><br>\nCaríssimi: Scribo vobis, júvenes, quóniam fortes estis, et verbum Dei manet in vobis, et vicístis malígnum. Nolíte dilígere mundum neque ea, quæ in mundo sunt. Si quis díligit mundum, non est cáritas Patris in eo: quóniam omne, quod est in mundo, concupiscéntia carnis est, et concupiscéntia oculórum, et supérbia vitæ: quæ non est ex Patre, sed ex mundo est. Et mundus transit et concupiscéntia ejus. Qui autem facit voluntátem Dei, manet in ætérnum.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the first letter of St John the Apostle<br>\n<span class=\"rubric\"><em>1 John 2:14-17</em></span><br>\nBeloved: I am writing to you, young men, because you are strong and the word of God abides in you, and you have conquered the evil one. Do not love the world, or the things that are in the world. If anyone loves the world, the love of the Father is not in him; because all that is in the world is the lust of the flesh, and the lust of the eyes, and the pride of life; which is not from the Father, but from the world. And the world with its lust is passing away, but he who does the will of God abides forever.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 30:20</em></span><br>\nQuam magna multitúdo dulcédinis tuæ, Dómine, quam abscondísti timéntibus te!<br>\n<span class=\"marker\"><em>℣.</em></span> Perfecísti eis, qui sperant in te, in conspéctu filiórum hóminum.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 83:6-7, 11 et 13</em></span><br>\nBeátus vir, cujus est auxílium abs te: ascensiónes in corde suo dispósuit, in valle lacrimárum, in loco, quem pósuit.<br>\n<span class=\"marker\"><em>℣.</em></span> Elégi abjéctus esse in domo Dei mei: magis quam habitáre in tabernáculis peccatórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Non privábit bonis eos, qui ámbulant in innocéntia: Dómine virtútum, beátus homo, qui sperat in te."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 30:20</em></span><br>\nHow great is the goodness, O Lord, which You have in store for those who fear You.<br>\n<span class=\"marker\"><em>℣.</em></span> And which, toward those who take refuge in You, You show in the sight of men.<br>\n<span class=\"rubric\"><em>Ps 83:6-7, 11, 13</em></span><br>\nHappy the men whose strength You are! their hearts are set upon the pilgrimage in the vale of tears, in the place they have set.<br>\n<span class=\"marker\"><em>℣.</em></span> I had rather lie at the threshold of the house of my God than dwell in the tents of the wicked.<br>\n<span class=\"marker\"><em>℣.</em></span> He withholds no good thing from those who walk in sincerity, O Lord of Hosts, happy the men who trust in You!"
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Marcum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Marc 10:13-21</em></span><br>\nIn illo témpore: Offerébant Jesu parvulos, ut tángeret illos. Discípuli autem comminabántur offeréntibus. Quos cum vidéret Jesus, indígne tulit et ait illis: Sinite párvulos veníre ad me, et ne prohibuéritis eos: tálium enim est regnum Dei. Amen, dico vobis: Quisquis non recéperit regnum Dei velut párvulus, non intrábit in illud. Et compléxans eos et impónens manus super illos, benedicébat eos. Et cum egréssus esset in viam, procúrrens quidam genu flexo ante eum, rogábat eum: Magíster bone, quid fáciam, ut vitam ætérnam percípiam? Jesus autem dixit ei: Quid me dicis bonum? Nemo bonus, nisi unus Deus. Præcépta nosti: Ne adúlteris, Ne occídas, Ne furóris, Ne falsum testimónium díxeris, Ne fraudem féceris, Hónora patrem tuum et matrem. At ille respóndens, ait illi: Magíster, hæc ómnia observávi a juventúte mea. Jesus autem intúitus eum, diléxit eum et dixit ei: Unum tibi deest: vade, quæcúmque habes, vende et da paupéribus, et habébis thesáurum in cœlo: et veni, séquere me.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Mark<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Mark 10:13-21</em></span><br>\nAt that time, they were bringing little children to Jesus that He might touch them; but the disciples rebuked those who brought them. But when Jesus saw them, He was indignant, and said to them, Let the little children come to Me, and do not hinder them, for of such is the kingdom of God. Amen I say to you, whoever does not accept the kingdom of God as a little child will not enter into it. And He put His arms about them, He began to bless them.  And as he was going forth on His journey, a certain man running up fell upon his knees before Him, and asked Him, Good Master, what shall I do to gain eternal life? But Jesus said to him, Why do you call Me good? No one is good but only God. You know the commandments: You shall not commit adultery. You shall not kill. You shall not steal. You shall not bear false witness. You shall not defraud. Honor your father and mother. And he answered and said, ‘Master, all these I have kept ever since I was a child. And Jesus, looking upon him, loved him, and said to him, One thing is lacking to you; go, sell whatever you have, and give to the poor, and you shall have treasure in heaven; and come, follow Me.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 115:16-17</em></span><br>\nO Dómine, quia ego servus tuus, et fílius ancíllæ tuæ: dirupísti víncula mea, tibi sacrificábo hóstiam laudis."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 115:16-17</em></span><br>\nO Lord, for I am Your servant, the son of Your handmaid; You have loosed my bonds. To You will I offer sacrifice of thanksgiving."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Salutárem hóstiam in memóriam sancti Gabriélis tibi, Dómine, offeréntes, fac nos sacrifícium mortis tuæ rite recólere: ac, méritis perdoléntis Vírginis, ejúsdem sacrifícii fructum copióse percípere:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio Sabbato infra Hebdomadam II in Quadragesima</em></span><br>\nHis sacrifíciis, Dómine, concéde placátus: ut, qui própriis orámus absólvi delíctis, non gravémur extérnis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O Lord, make us who offer You the saving sacrificial gifts in memory of blessed Gabriel recall in a fitting way the sacrifice of Your death; and by the merits of the sorrowing Virgin, may we receive abundantly the fruit of that very sacrifice.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<span class=\"rubric\"><em>Commemoration Sabbato infra Hebdomadam II in Quadragesima</em></span><br>\nAppeased by these sacrificial gifts, O Lord, grant that we who pray for absolution from our own sins may not be burdened by those which are foreign to us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Apoc. 3:20</em></span><br>\nEcce, sto ad óstium et pulso: si quis audiérit vocem meam, et aperúerit mihi jánuam, intrábo ad illum, et cenábo cum illo, et ipse mecum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Rev 3:20</em></span><br>\nBehold, I stand at the door and knock. If any man listens to My voice and opens the door to Me, I will come in to him and will sup with him, and he with Me."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nQuas tibi, Dómine, in festivitáte sancti Gabriélis Confessóris tui, pro collátis donis grátias ágimus: súscipe propítius per manus gloriósæ semper Vírginis Maríæ; ex qua carnem illam assumpsísti, cujus in hoc salutári convívio merúimus gustáre dulcédinem:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio Sabbato infra Hebdomadam II in Quadragesima</em></span><br>\nSacraménti tui, Dómine, divína libátio, penetrália nostri cordis infúndat: et sui nos partícipes poténter effíciat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nO Lord, graciously accept the thanks we offer You for the gifts we have received on the feast of the blessed Gabriel, Your Confessor, through the hands of blessed Mary, ever Virgin, of whom You took that flesh whose sweetness we have been worthy to taste in this banquet of salvation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sabbato infra Hebdomadam II in Quadragesima</em></span><br>\nMay the sacrament of which we have partaken, O Lord, penetrate the depths of our hearts and make us share in its strength.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-02-26",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Feria Sexta infra Hebdomadam II in Quadragesima",
+  "rank": "Feria major",
+  "note": "",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 16:15</em></span><br>\nEgo autem cum justítia apparébo in conspéctu tuo: satiábor, dum manifestábitur glória tua.<br>\n<span class=\"rubric\"><em>Ps 16:1</em></span><br>\nExáudi, Dómine, justitiam meam: inténde deprecatióni meæ.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nEgo autem cum justítia apparébo in conspéctu tuo: satiábor, dum manifestábitur glória tua."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 16:15</em></span><br>\nBut I in justice shall behold Your face; I shall be content when Your glory shall appear.<br>\n<span class=\"rubric\"><em>Ps 16:1</em></span><br>\nHear, O Lord, a just suit; attend to my outcry.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nBut I in justice shall behold Your face; I shall be content when Your glory shall appear."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nDa, quǽsumus, omnípotens Deus: ut, sacro nos purificánte jejúnio, sincéris méntibus ad sancta ventúra fácias perveníre.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nOmnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris, quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet, vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia ómnium delictórum suórum véniam consequántur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nGrant, we beseech You, almighty God, that with the sacred fast to purify us, we may with sincere hearts reach the coming feast.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nAlmighty and eternal God, who has dominion over both the living and the dead, and has mercy upon all whom You foreknow will be Yours by faith and good works; we humbly beseech You that all for whom we have resolved to make supplication, whether the present world home still holds them in the flesh or the world to come holds them out of the body, may, through the intercession of Your saints, obtain of Your goodness and clemency pardon for all their sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio libri Génesis.<br>\n<span class=\"rubric\"><em>Gen 37:6-22</em></span><br>\nIn diébus illis: Dixit Joseph frátribus suis: Audíte sómnium meum, quod vidi: Putábam nos ligáre manípulos in agro: et quasi consúrgere manípulum meum et stare, vestrósque manípulos circumstántes adoráre manípulum meum. Respondérunt fratres ejus: Numquid rex noster eris? aut subjiciémur dicióni tuæ? Hæc ergo causa somniórum atque sermónum, invídiæ et ódii fómitem ministrávit. Aliud quoque vidit sómnium, quod narrans frátribus, ait: Vidi per sómnium, quasi solem et lunam et stellas úndecim adoráre me. Quod cum patri suo et frátribus rettulísset, increpávit eum pater suus, et dixit: Quid sibi vult hoc sómnium, quod vidísti? Num ego et mater tua et fratres tui adorábimus te super terram? Invidébant ei ígitur fratres sui: pater vero rem tácitus considerábat. Cumque fratres illíus in pascéndis grégibus patris moraréntur in Sichem, dixit ad eum Israël: Fratres tui pascunt oves in Síchimis: veni, mittam te ad eos. Quo respondénte: Præsto sum, ait ei: Vade et vide, si cuncta próspera sint erga fratres tuos et pécora: et renúntia mihi, quid agátur. Missus de valle Hebron, venit in Sichem: invenítque eum vir errántem in agro, et interrogávit, quid quǽreret. At ille respóndit: Fratres meos quæro: índica mihi, ubi pascant greges. Dixítque ei vir: Recessérunt de loco isto: audívi autem eos dicéntes: Eámus in Dóthain. Perréxit ergo Joseph post fratres suos, et invénit eos in Dóthain. Qui cum vidíssent eum procul, ántequam accéderet ad eos, cogitavérunt illum occídere, et mútuo loquebántur: Ecce, somniátor venit; veníte, occidámus eum, et mittámus in cistérnam véterem, dicemúsque: Fera péssima devorávit eum: et tunc apparébit, quid illi prosint sómnia sua. Audiens autem hoc Ruben, nitebátur liberáre eum de mánibus eórum, et dicébat: Non interficiátis ánimam ejus, nec effundátis sánguinem: sed projícite eum in cistérnam hanc, quæ est in solitúdine, manúsque vestras serváte innóxias: hoc autem dicébat, volens erípere eum de mánibus eórum, et réddere patri suo.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the book of Genesis<br>\n<span class=\"rubric\"><em>Gen 37:6-22</em></span><br>\nIn those days, Joseph said to his brothers, Listen to this dream which I had. We were binding sheaves in the field; my sheaf rose up and remained standing, while your sheaves gathered round and bowed down to my sheaf. His brothers answered, Are you to be our king? Are you to rule over us? And because of his dreams and words they hated him the more. He had another dream which he also told to his brothers. I had another dream, he said. The sun, the moon and eleven stars were worshipping me. When he told that to his father and his brothers, his father reproved him. What is this dream that you have had? he said. Can it be that I and your mother and your brothers will come to bow to the ground before you? So his brothers envied him, while his father pondered the matter. When his brothers had gone to pasture their father’s flocks at Sichem, Israel said to Joseph, Your brothers are pasturing the flocks at Sichem; get ready, I will send you to them. Joseph answered, I am ready. Go, then, said Israel, and see if all is well with your brothers and with the flocks; and bring back a report to me. So he sent him from the valley of Hebron, and he came to Sichem. A man found Joseph wandering about in the fields and asked him, What are you looking for? I am looking for my brothers, he answered. Tell me, please, where they are pasturing. The man said, They have moved on from here, because I heard them say, ‘Let us go to Dothain.’ So Joseph went after his brothers and found them in Dothain. They saw him in the distance, and before he drew near them, they plotted to kill him. They said to one another, Here comes that dreamer! Let us therefore kill him and throw him into a cistern; we can say that a wild beast devoured him. Let us see then what becomes of his dreams. But when Ruben heard of it, he tried to rescue him from them saying, We must not kill him. Then he continued, Do not shed blood. Throw him into the cistern there in the desert, but do not lay a hand on him. His purpose was to rescue him from them and restore him to his father.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 119:1-2</em></span><br>\nAd Dóminum, cum tribulárer, clamávi, et exaudívit me.<br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, líbera ánimam meam a lábiis iníquis et a lingua dolósa.<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\nDómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 119:1-2</em></span><br>\nIn my distress I called to the Lord, and He answered me.<br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, deliver me from lying lip, from treacherous tongue.<br>\n<br>\n<span class=\"rubric\"><em>Tract</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em> Ps 78: 8-9</em></span><br>\nO Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 21:33-46</em></span><br>\nIn illo témpore: Dixit Jesus turbis Judæórum et princípibus sacerdótum parábolam hanc: Homo erat paterfamílias, qui plantávit víneam, et sepem circúmdedit ei, et fodit in ea tórcular, et ædificávit turrim, et locávit eam agrícolis, et péregre proféctus est. Cum autem tempus frúctuum appropinquásset, misit servos suos ad agrícolas, ut accíperent fructus ejus. Et agrícolæ, apprehénsis servis ejus, alium cecidérunt, alium occidérunt, álium vero lapidavérunt. Iterum misit álios servos plures prióribus, et fecérunt illis simíliter. Novíssime autem misit ad eos fílium suum, dicens: Verebúntur fílium meum. Agrícolæ autem vidéntes fílium, dixérunt intra se: Hic est heres, veníte, occidámus eum, et habébimus hereditátem ejus. Et apprehénsum eum ejecérunt extra víneam, et occidérunt. Cum ergo vénerit dóminus víneæ, quid fáciet agrícolis illis? Ajunt illi: Malos male perdet: et víneam suam locábit áliis agrícolis, qui reddant ei fructum tempóribus suis. Dicit illis Jesus: Numquam legístis in Scriptúris: Lápidem, quem reprobavérunt ædificántes, hic factus est in caput ánguli? A Dómino factum est istud, et est mirábile in óculis nostris. Ideo dico vobis, quia auferétur a vobis regnum Dei, et dábitur genti faciénti fructus ejus. Et qui cecíderit super lápidem istum, confringétur: super quem vero cecíderit, cónteret eum. Et cum audíssent príncipes sacerdótum et pharisǽi parábolas ejus, cognovérunt, quod de ipsis díceret. Et quæréntes eum tenére, timuérunt turbas: quóniam sicut Prophétam eum habébant.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 21:33-46</em></span><br>\nAt that time, Jesus spoke this parable to the multitude of the Jews and the chief priests: There was a man, a householder, who planted a vineyard, and put a hedge about it, and dug a wine vat in it, and built a tower; then he let it out to vine-dressers, and went abroad. But when the fruit season drew near, he sent his servants to the vine-dressers to receive his fruits. And the vine-dressers seized his servants, and beat one, killed another, and stoned another. Again he sent another party of servants more numerous than the first; and they did the same to these. Finally he sent his son to them, saying, ‘They will respect my son.’ But the vine-dressers, on seeing the son, said among themselves, ‘This is the heir; come, let us kill him, and we shall have his inheritance.’ So they seized him, cast him out of the vineyard, and killed him. When, therefore, the owner of the vineyard comes, what will he do to those vine-dressers? They said to Him, He will utterly destroy those evil men, and will let out the vineyard to other vine-dressers, who will render to him the fruits in their seasons. Jesus said to them, Did you never read in the Scriptures, ‘The stone which the builders rejected, has become the cornerstone; by the Lord this has been done, and it is wonderful in our eyes’? Therefore I say to you, that the kingdom of God will be taken away from you and will be given to a people yielding its fruits. And he who falls on this stone will be broken to pieces; but upon whomever it falls, it will grind him to powder. And when the chief priests and Pharisees had heard His parables, they knew that He was speaking about them. And though they sought to lay hands on Him, they feared the people, because they regarded Him as a prophet.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 39:14; 39:15</em></span><br>\nDómine, in auxílium meum réspice: confundántur et revereántur, qui quærunt ánimam meam, ut áuferant eam: Dómine, in auxílium meum réspice."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 39:14-15</em></span><br>\nDeign, O Lord, to rescue me; let all be put to shame and confusion who seek to snatch away my life. Deign, O Lord, to rescue me."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Hæc in nobis sacrifícia, Deus, et actióne permáneant, et operatióne firméntur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nDeus, cui soli cógnitus est númerus electórum in supérna felicitáte locándus: tríbue, quǽsumus; ut, intercedéntibus ómnibus Sanctis tuis, universórum, quos in oratióne commendátas suscépimus, et ómnium fidélium nómina beátæ prædestinatiónis liber adscrípta retíneat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "O God, may this sacrifice which is offered, stay in us and accomplish lasting effects.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nO God who alone knowest the number of the elect to be admitted into heaven, grant, we beseech Thee, that through the intercession of all the saints, the names of all who have been recommended to our prayers and of all the faithful, may be inscribed in the book of blessed predestination.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 11:8</em></span><br>\nTu, Dómine, servábis nos, et custódies nos a generatióne hac in ætérnum."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Ps 11:8</em></span><br>\nYou, O Lord, will keep us and preserve us always from this generation."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nFac nos, quǽsumus, Dómine: accépto pígnore salútis ætérnæ, sic téndere congruénter; ut ad eam perveníre possímus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\n<br>\n<span class=\"rubric\"><em>Pro vivis et mortuis</em></span><br>\nPuríficent nos, quǽsumus, omnípotens et miséricors Deus, sacraménta quæ súmpsimus: et, intercedéntibus ómnibus Sanctis tuis, præsta; ut hoc tuum sacraméntum non sit nobis reátus ad pœnam, sed intercéssio salutáris ad véniam: sit ablútio scélerum, sit fortitúdo fragílium, sit contra ómnia mundi perícula firmaméntum: sit vivórum atque mortuórum fidélium remíssio ómnium delictórum.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\nOrémus.<br>\nHumiliáte cápita vestra Deo.<br>\nDa, quǽsumus, Dómine, pópulo tuo salútem mentis et córporis: ut, bonis opéribus inhæréndo, tuæ semper virtútis mereátur protectióne deféndi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nGrant, we beseech You, O Lord, that we who have received the pledge of everlasting salvation, may properly direct our course so that we may be able to attain our goal.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\n<br>\n<span class=\"rubric\"><em>pro vivis et mortuos</em></span><br>\nMay the Sacraments which we have received purify us, we beseech Thee, O almighty and merciful Lord; and through the intercession of all the saints, grant that this Thy Sacrament may not be unto us a condemnation, but a salutory intercession for pardon; may it be the washing away of sin, the strength of the weak, a protection against all dangers of the world, and a remission of all the sins of the faithful, whether living or dead.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\nLet us pray.<br>\nBow your heads to God.<br>\nGrant unto Your people, we beseech You, O Lord, health of mind and body, that, by persevering in good works, we may be worthy to be protected by Your mighty power.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

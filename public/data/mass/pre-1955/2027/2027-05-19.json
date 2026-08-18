@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-05-19",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Feria Quarta Quattuor Temporum Pentecostes",
+  "rank": "Semiduplex",
+  "note": "Commemoratio: S. Petri Celestini Papæ et Confessoris",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 67:8 67:9</em></span><br>\nDeus, dum egrederéris coram pópulo tuo, iter fáciens eis, hábitans in illis, allelúja: terra mota est, cœli distillavérunt, allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps. 67:2.</em></span><br>\nExsúrgat Deus, et dissipéntur inimíci ejus: et fúgiant, qui odérunt eum, a fácie ejus.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDeus, dum egrederéris coram pópulo tuo, iter fáciens eis, hábitans in illis, allelúja: terra mota est, cœli distillavérunt, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 67:8-9</em></span><br>\nO God, when You went forth at the head of Your people, making a passage for them, dwelling in their midst, alleluia: the earth quaked; it rained from heaven, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 67:2</em></span><br>\nGod arises; His enemies are scattered, and those who hate Him flee before Him.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nO God, when You went forth at the head of Your people, making a passage for them, dwelling in their midst, alleluia: the earth quaked; it rained from heaven, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nMentes nostras, quǽsumus, Dómine, Paráclitus, qui a te procédit, illúminet: et indúcat in omnem, sicut tuus promísit Fílius, veritátem:<br>\nQui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Lectio</em></strong></span><br>\nLéctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Act 2:14-21.</em></span><br>\nIn diébus illis: Stans Petrus cum úndecim, levávit vocem suam, et locútus est eis: Viri Judǽi, et qui habitátis Jerúsalem univérsi, hoc vobis notum sit, et áuribus percípite verba mea. Non enim, sicut vos æstimátis, hi ébrii sunt, cum sit hora diéi tértia: sed hoc est, quod dictum est per Prophétam Joël: Et erit in novíssimis diébus - dicit Dóminus - effúndam de Spíritu meo super omnem carnem, et prophetábunt fílii vestri et fíliæ vestræ, et júvenes vestri visiónes vidébunt, et senióres vestri sómnia somniábunt. Et quidem super servos meos et super ancíllas meas in diébus illis effúndam de Spíritu meo, et prophetábunt: et dabo prodígia in cœlo sursum et signa in terra deórsum, sánguinem et ignem et vapórem fumi. Sol convertétur in ténebras et luna in sánguinem, antequam véniat dies Dómini magnus et maniféstus. Et erit: omnis, quicúmque invocáverit nomen Dómini, salvus erit.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias.<br>\n<br>\n<span class=\"rubric\"><strong><em>Graduale</em></strong></span><br>\nAlleluia.<br>\n<span class=\"rubric\"><em>Ps 32:6</em></span><br>\nVerbo Dómini cœli firmáti sunt, et Spíritu oris ejus omnis virtus eórum.<br>\n<br>\n<span class=\"rubric\"><strong><em>Gloria</em></strong></span><br>\nGlória in excélsis Deo. Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam. Dómine Deus, Rex cæléstis, Deus Pater omnípotens. Dómine Fili unigénite, Jesu Christe. Dómine Deus, Agnus Dei, Fílius Patris. Qui tollis peccáta mundi, miserére nobis. Qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis. Quóniam tu solus Sanctus. Tu solus Dóminus. Tu solus Altíssimus, Jesu Christe. Cum Sancto Spíritu <span class=\"rubric-symbol\">✠</span> in glória Dei Patris. Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Oratio</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> Dóminus vobíscum.<br>\n<span class=\"marker\"><em>℟.</em></span> Et cum spíritu tuo.<br>\nOrémus.<br>\nPræsta, quǽsumus, omnípotens et miséricors Deus: ut Spíritus Sanctus advéniens, templum nos glóriæ suæ dignánter inhabitándo perfíciat.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Petri Celestini Papæ et Confessoris</em></span><br>\nDeus, qui beátum Petrum Cœlestínum ad summi pontificátus ápicem sublimásti, quique illum humilitáti postpónere docuísti: concéde propítius; ut ejus exémplo cuncta mundi despícere, et ad promíssa humílibus præmia perveníre felíciter mereámur.<br>\n<span class=\"rubric\"><em>Commemoratio S. Pudentianæ Virginis</em></span><br>\nExáudi nos, Deus, salutáris noster: ut sicut de beátæ Pudentiánæ Vírginis tuæ festivitáte gaudémus; ita piæ devotiónis erudiámur afféctu.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nMay the Paraclete Who proceeds from You, enlighten our minds, we beseech You, O Lord, and guide us to all truth, as Your Son has promised.<br>\nWho livest and reignest with God the Father, in the unity of the same Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<span class=\"rubric\"><strong><em>Lesson</em></strong></span><br>\nLesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 2:14-21.</em></span><br>\nIn those days, Peter, standing up with the Eleven, lifted up his voice and spoke out to them: Men of Judea and all you who dwell in Jerusalem, let this be known to you, and give ear to my words. These men are not drunk, as you suppose, for it is only the third hour of the day. But this is what was spoken through the prophet Joel: ‘And it shall come to pass in the last days, says the Lord, that I will pour forth of My Spirit upon all flesh; and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams. And moreover upon My servants and upon My handmaids in those days will I pour forth of My Spirit, and they shall prophesy. And I will show wonders in the heavens above and signs on the earth beneath, blood and fire and vapor of smoke. The sun shall be turned into darkness, and the moon into blood, before the day of the Lord comes, the great and manifest day. And it shall come to pass that whoever calls upon the name of the Lord shall be saved.’<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God.<br>\n<br>\n<span class=\"rubric\"><strong><em>Gradual</em></strong></span><br>\nAlleluia.<br>\n<span class=\"rubric\"><em>Ps 32:6</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> By the word of the Lord the heavens were made; by the breath of His mouth all their host.<br>\n<br>\n<span class=\"rubric\"><strong><em>Gloria</em></strong></span><br>\nGlory be to God on high, and on earth peace to men of good will. We praise Thee. We bless Thee. We adore Thee. We glorify Thee. We give Thee thanks for Thy great glory. O Lord God, heavenly King, God the Father almighty. O Lord Jesus Christ, the only begotten Son. O Lord God, Lamb of God, Son of the Father. Who takest away the sins of the world, have mercy on us. Who takest away the sins of the world, receive our prayer. Who sittest at the right hand of the Father, have mercy on us. For Thou only are holy. Thou only art the Lord. Thou only art most high, O Jesus Christ. Together with the Holy Ghost <span class=\"rubric-symbol\">✠</span> in the glory of God the Father. Amen.<br>\n<br>\n<span class=\"rubric\"><strong><em>Collect</em></strong></span><br>\n<span class=\"marker\"><em>℣.</em></span> The Lord be with you.<br>\n<span class=\"marker\"><em>℟.</em></span> And with thy spirit.<br>\nLet us pray.<br>\nGrant, we beseech You, almighty and most merciful God, that the Holy Spirit may come to dwell in us, graciously making us a temple of His glory.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Peter Celestine, Pope and Confessor</em></span><br>\nO God, Who raised blessed Peter Celestine to the lofty dignity of Supreme Pontiff and taught him to prefer self-abasement instead; mercifully grant that by his example we may look upon all worldly things as naught, and may be worthy to reap in joy the rewards promised to the humble.<br>\n<span class=\"rubric\"><em>Commemoration S. Pudentiana Virginis</em></span><br>\nHear us, O God, our Saviour, that as we are gladdened by the festival of blessed Pudentiana thy virgin, so we may learn from it piety and devotion.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Actuum Apostolórum<br>\n<span class=\"rubric\"><em>Acts 5:12-16</em></span><br>\nIn diébus illis: Per manus autem Apostolórum fiébant signa et prodígia multa in plebe. Et erant unanímiter omnes in pórticu Salomónis. Ceterórum autem nemo audébat se conjúngere illis: sed magnificábat eos pópulus. Magis autem augebátur credéntium in Dómino multitúdo virórum ac mulíerum, ita ut in pláteas ejícerent infírmos, et pónerent in léctulis ac grabátis, ut, veniénte Petro, saltem umbra illíus obumbráret quemquam illórum, et liberaréntur ab infirmitátibus suis. Concurrébat autem et multitúdo vicinárum civitátum Jerúsalem, afferéntes ægros et vexátos a spirítibus immúndis: qui curabántur omnes.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Acts of Apostles<br>\n<span class=\"rubric\"><em>Acts 5:12-16</em></span><br>\nIn those days, by the hands of the Apostles many signs and wonders were done among the people. And with one accord they all would meet in Solomon’s portico; but of the rest, no one dared to associate with them, yet the people made much of them. And the multitude of men and women who believed in the Lord increased still more, so that they carried the sick into the streets and laid them on beds and pallets that, when Peter passed, his shadow at least might fall on some of them. And there came also multitudes from the towns near Jerusalem, bringing the sick and those troubled with unclean spirits, and they were all cured.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "Allelúja, allelúja.<br>\n<span class=\"marker\"><em>℣.</em></span> <span class=\"rubric\">Hic genuflectitur</span> Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nVeni, Sancte Spíritus,<br>\net emítte cǽlitus<br>\nlucis tuæ rádium.<br>\n<br>\nVeni, pater páuperum;<br>\nveni, dator múnerum;<br>\nveni, lumen córdium.<br>\n<br>\nConsolátor óptime,<br>\ndulcis hospes ánimæ,<br>\ndulce refrigérium.<br>\n<br>\nIn labóre réquies,<br>\nin æstu tempéries,<br>\nin fletu solácium.<br>\n<br>\nO lux beatíssima,<br>\nreple cordis íntima<br>\ntuórum fidélium.<br>\n<br>\nSine tuo númine<br>\nnihil est in hómine,<br>\nnihil est innóxium.<br>\n<br>\nLava quod est sórdidum,<br>\nriga quod est áridum,<br>\nsana quod est sáucium.<br>\n<br>\nFlecte quod est rígidum,<br>\nfove quod est frígidum,<br>\nrege quod est dévium.<br>\n<br>\nDa tuis fidélibus,<br>\nin te confidéntibus,<br>\nsacrum septenárium.<br>\n<br>\nDa virtútis méritum,<br>\nda salútis éxitum,<br>\nda perénne gáudium.<br>\nAmen. Allelúja."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "Alleluia, alleluia.<br>\n<span class=\"marker\"><em>℣.</em></span> <span class=\"rubric\">Kneel.</span> Come, O Holy Spirit, fill the hearts of Your faithful; and kindle in them the fire of Your love.<br>\n<br>\n<span class=\"rubric\"><strong><em>Sequentia</em></strong></span>\n<br>\nHoly Spirit! Lord of light!<br>\nFrom Thy clear celestial height,<br>\nThy pure, beaming radiance give:<br>\n<br>\nCome, Thou, Father of the poor!<br>\nCome, with treasures which endure!<br>\nCome, Thou light of all that live!<br>\n<br>\nThou of all consolers best,<br>\nVisiting the troubled breast,<br>\nDost refreshing peace bestow:<br>\n<br>\nThou in toil art comfort sweet;<br>\nPleasant coolness in the heat;<br>\nSolace in the midst of woe.<br>\n<br>\nLight immortal! Light divine!<br>\nVisit Thou these hearts of Thine,<br>\nAnd our inmost being fill.<br>\n<br>\nIf Thou take Thy grace away,<br>\nNothing pure in man will stay;<br>\nAll his good is turn’d to ill.<br>\n<br>\nHeal our wounds - our strength renew;<br>\nOn our dryness pour Thy dew;<br>\nWash the stains of guilt away:<br>\n<br>\nBend the stubborn heart and will;<br>\nMelt the frozen, warm the chill;<br>\nGuide the steps that go astray.<br>\n<br>\nThou, on those who evermore<br>\nThee confess and Thee adore,<br>\nIn Thy sevenfold gifts descend.<br>\n<br>\nGive them comfort when they die;<br>\nGive them life with Thee on high;<br>\nGive them joys which never end.<br>\nAmen. Alleluia."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Joánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Joannes 6:44-52</em></span><br>\nIn illo témpore: Dixit Jesus turbis Judæórum: Nemo potest veníre ad me, nisi Pater, qui misit me, tráxerit eum: et ego resuscitábo eum in novíssimo die. Est scriptum in Prophétis: Et erunt omnes docíbiles Dei. Omnis, qui audívit a Patre et dídicit, venit ad me. Non quia Patrem vidit quisquam, nisi is, qui est a Deo, hic vidit Patrem. Amen, amen, dico vobis: qui credit in me, habet vitam ætérnam. Ego sum panis vitæ. Patres vestri manducavérunt manna in desérto, et mórtui sunt. Hic est panis de cœlo descéndens: ut, si quis ex ipso manducáverit, non moriátur. Ego sum panis vivus, qui de cœlo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum: et panis, quem ego dabo, caro mea est pro mundi vita.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 6:44-52.</em></span><br>\nAt that time, Jesus said to the Jews: No one can come to Me unless the Father Who sent Me draw him, and I will raise him up on the last day. It is written in the Prophets, “And they all shall be taught of God.” Everyone who has listened to the Father, and has learned, comes to Me; not that anyone has seen the Father except Him Who is from God, He has seen the Father. Amen, amen, I say to you, he who believes in Me has life everlasting. I am the bread of life. Your fathers ate the manna in the desert, and have died. This is the bread that comes down from heaven, so that if anyone eat of it he will not die. I am the living bread that has come down from heaven. If anyone eat of this bread he shall live forever; and the bread that I will give is My flesh for the life of the world.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:47-48</em></span><br>\nMeditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mandáta tua, quæ diléxi, allelúja."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:47-48</em></span><br>\nI will delight in Your commands, which I love exceedingly. And I will lift up my hands to Your commands, which I love. Alleluia."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Accipe, quǽsumus, Dómine, munus oblátum: et dignánter operáre; ut, quod mystériis ágimus, piis efféctibus celebrámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Petri Celestini Papæ et Confessoris</em></span><br>\nSancti tui, quǽsumus, Dómine, nos ubíque lætíficant: ut, dum eórum mérita recólimus, patrocínia sentiámus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Pudentianæ Virginis</em></span><br>\nAccépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Accept, we beseech You, O Lord, the gifts we offer, and graciously bring it about that we may practice by a holy life what we perform here by a sacred rite.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Peter Celestine, Pope and Confessor</em></span><br>\nMay Your Saints, we beseech You, O Lord, everywhere make us joyful: so that, while we reflect upon their merits, we may enjoy their help.<br>\n<span class=\"rubric\"><em>Commemoration S. Pudentiana Virginis</em></span><br>\nMay the service of thy holy people be acceptable to Thee, O Lord, and honorable to thy saints, through whose merits we know that we have received help in trouble.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Spiritu Sancto</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui, ascéndens super omnes cælos sedénsque ad déxteram tuam, promíssum Spíritum Sanctum hodierna die in fílios adoptiónis effúdit. Quaprópter profúsis gáudiis totus in orbe terrárum mundus exsúltat. Sed et supérnæ Virtútes atque angélicæ Potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Holy Spirit</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who ascending above all in the heavens and sitting at Thy Right Hand, poured out the Holy Spirit upon the children of adoption. Wherefore the whole world doth rejoice with overflowing joy; and the heavenly Hosts also and the angelic Powers sing together the hymn of Thy glory, evermore saying:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Joannes 14:27</em></span><br>\nPacem relínquo vobis, allelúja: pacem meam do vobis, allelúja, allelúja."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>John 14:27.</em></span><br>\nPeace I leave with you, alleluia; My peace I give to you, alleluia, alleluia."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSuméntes, Dómine, cœléstia sacraménta, quǽsumus cleméntiam tuam: ut quod temporáliter gérimus ætérnis gáudiis consequámur<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Petri Celestini Papæ et Confessoris</em></span><br>\nPræsta, quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, intercedénte beáto Petro Cœlestíno Confessóre tuo atque Pontífice, benefícia potióra sumámus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Pudentianæ Virginis</em></span><br>\nSatiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nAs we receive Your heavenly sacrament we beseech You, merciful Lord, may we reap in the joys of eternity the fruits of what we perform in this life.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Peter Celestine, Pope and Confessor</em></span><br>\nGrant, we beseech You, almighty God, that as we thank You for the favors we have received, we may, by the intercession of blessed Peter Celestine, Your Confessor and Bishop, obtain still greater blessings.<br>\n<span class=\"rubric\"><em>Commemoration S. Pudentiana Virginis</em></span><br>\nThou hast fed thy servants, O Lord, with the holy gifts; comfort us ever we pray, by her intercession whose festival we celebrate.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}

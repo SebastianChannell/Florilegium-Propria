@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 2,
+  "date": "2027-02-15",
+  "rubricKey": "1954",
+  "rubrics": "Divino Afflatu - 1954",
+  "missal": "Roman Missal · Divino Afflatu 1954",
+  "title": "Feria Secunda infra Hebdomadam I in Quadragesima",
+  "rank": "Feria major",
+  "note": "Commemoratio: SS. Faustini et Jovitæ",
+  "sections": [
+    {
+      "id": "introit",
+      "kind": "introit",
+      "latin": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 122:2</em></span><br>\nSicut óculi servórum in mánibus dominórum suórum: ita óculi nostri ad Dóminum, Deum nostrum, donec misereátur nobis: miserére nobis, Dómine, miserére nobis.<br>\n<span class=\"rubric\"><em>Ps 122:1</em></span><br>\nAd te levávi óculos meos: qui hábitas in cœlis,<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSicut óculi servórum in mánibus dominórum suórum: ita óculi nostri ad Dóminum, Deum nostrum, donec misereátur nobis: miserére nobis, Dómine, miserére nobis."
+      },
+      "english": {
+        "label": "Introitus",
+        "html": "<span class=\"rubric\"><em>Ps 122:2</em></span><br>\nAs the eyes of servants are on the hands of their masters, so are our eyes on the Lord, our God, till He have pity on us. Have pity on us, O Lord, have pity on us.<br>\n<span class=\"rubric\"><em>Ps 122:1</em></span><br>\nTo You I lift up my eyes, Who are enthroned in heaven.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nAs the eyes of servants are on the hands of their masters, so are our eyes on the Lord, our God, till He have pity on us. Have pity on us, O Lord, have pity on us."
+      }
+    },
+    {
+      "id": "gloria",
+      "kind": "gloria",
+      "latin": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Gloria",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "collect",
+      "kind": "collect",
+      "latin": {
+        "label": "Oratio",
+        "html": "Orémus.<br>\nConvérte nos, Deus, salutáris noster: et, ut nobis jejúnium quadragesimále profíciat, mentes nostras cœléstibus ínstrue disciplínis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio SS. Faustini et Jovitæ</em></span><br>\nDeus, qui nos ánnua sanctórum Mártyrum tuórum Faustíni et Jovítæ sollemnitáte lætíficas: concéde propítius; ut, quorum gaudémus méritis, accendámur exémplis.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nA cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclesia tua secúra tibi sérviat libertáte.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Collect",
+        "html": "Let us pray.<br>\nO God, our Saviour, direct our minds by Your heavenly teaching, so that the Lenten fast may profit us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Faustinus and Jovita, Martyrs</em></span><br>\nO God, Who gladden us by the annual festival of Your Martyrs Faustinus and Jovita, grant that we may be inspired by the example of those in whose merits we rejoice.<br>\n<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "lesson",
+      "kind": "lesson",
+      "latin": {
+        "label": "Lectio",
+        "html": "Léctio Ezechiélis Prophétæ<br>\n<span class=\"rubric\"><em>Ezech 34:11-16</em></span><br>\nHæc dicit Dóminus Deus: Ecce, ego ipse requíram oves meas, et visitábo eas. Sicut vísitat pastor gregem suum in die, quando fúerit in médio óvium suárum dissipatárum: sic visitábo oves meas, et liberábo eas de ómnibus locis, in quibus dispérsæ fúerant in die nubis et calíginis. Et edúcam eas de pópulis, et congregábo eas de terris, et indúcam eas in terram suam: et pascam eas in móntibus Israël, in rivis, et in cunctis sédibus terræ. In páscuis ubérrimis pascam eas, et in móntibus excélsis Israël erunt páscua eárum: ibi requiéscent in herbis viréntibus, et in páscuis pínguibus pascéntur super montes Israël. Ego pascam oves meas, et ego eas accubáre fáciam, dicit Dóminus Deus. Quod períerat, requíram; et quod abjéctum erat, redúcam; et quod confractum fúerat, alligábo; et quod infírmum fúerat, consolidábo; et quod pingue et forte, custódiam: et pascam illas in judício, dicit Dóminus omnípotens.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+      },
+      "english": {
+        "label": "Lesson",
+        "html": "Lesson from the Prophecy of Ezechiel<br>\n<span class=\"rubric\"><em>Ezech 34:11-16</em></span><br>\nThus says the Lord God: I Myself will look after and tend My sheep. As a shepherd tends his flock when he finds himself among his scattered sheep, so will I tend My sheep. I will rescue them from every place where they were scattered when it was cloudy and dark. I will lead them out from among the peoples and gather them from the foreign lands; I will bring them back to their own country and pasture them upon the mountains of Israel in the land’s ravines and all its inhabited places. In good pastures will I pasture them, and on the mountain heights of Israel shall be their grazing ground. There they shall lie down on good grazing ground, and in rich pastures shall they be pastured on the mountains of Israel. I Myself will pasture My sheep; I Myself will give them rest, says the Lord God. The lost I will seek out, the strayed I will bring back, the injured I will bind up, the sick I will heal, but the sleek and the strong I will preserve, shepherding them rightly, says the Lord almighty.<br>\n<span class=\"marker\"><em>℟.</em></span> Thanks be to God."
+      }
+    },
+    {
+      "id": "gradual",
+      "kind": "gradual",
+      "latin": {
+        "label": "Graduale",
+        "html": "<span class=\"rubric\"><em>Ps 83:10; 83:9</em></span><br>\nProtéctor noster, áspice, Deus, et réspice super servos tuos.<br>\n<span class=\"marker\"><em>℣.</em></span> Dómine, Deus virtútum, exáudi preces servórum tuórum.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nDómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\nDómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. <span class=\"rubric\">Hic genuflectitur</span><br>\n<span class=\"marker\"><em>℣.</em></span> Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum."
+      },
+      "english": {
+        "label": "Gradual",
+        "html": "<span class=\"rubric\"><em>Ps 83:10, 9</em></span><br>\nBehold, O God, our Protector, and look upon Your servants.<br>\n<span class=\"marker\"><em>℣.</em></span> O Lord God of Hosts, hear the prayers of Your servants.<br>\n<span class=\"rubric\"><em>Ps 102:10</em></span><br>\nO Lord, deal with us not according to our sins, nor requite us according to our crimes.<br>\n<span class=\"rubric\"><em>Ps 78:8-9</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> O Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. <span class=\"rubric\">kneel</span><br>\n<span class=\"marker\"><em>℣.</em></span> Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake."
+      }
+    },
+    {
+      "id": "gospel",
+      "kind": "gospel",
+      "latin": {
+        "label": "Evangelium",
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secundum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 25:31-46</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Cum vénerit Fílius hóminis in majestáte sua, et omnes Angeli cum eo, tunc sedébit super sedem majestátis suæ: et congregabúntur ante eum omnes gentes, et separábit eos ab ínvicem, sicut pastor ségregat oves ab hædis: et státuet oves quidem a dextris suis, hædos autem a sinístris. Tunc dicet Rex his, qui a dextris ejus erunt: Veníte, benedícti Patris mei, possidéte parátum vobis regnum a constitutióne mundi. Esurívi enim, et dedístis mihi manducáre; sitívi, et dedístis mihi bíbere; hospes eram, et collegístis me; nudus, et cooperuístis me; infírmus, et visitástis me; in cárcere eram, et venístis ad me. Tunc respondébunt ei justi, dicéntes: Dómine, quando te vídimus esuriéntem, et pávimus te; sitiéntem, et dedimus tibi potum? quando autem te vídimus hóspitem, et collégimus te? aut nudum, et cooperúimus te? aut quando te vídimus infírmum, aut in cárcere, et vénimus ad te? Et respóndens Rex, dicet illis: Amen, dico vobis: quámdiu fecístis uni ex his frátribus meis mínimis, mihi fecístis. Tunc dicet et his, qui a sinístris erunt: Discédite a me, maledícti, in ignem ætérnum, qui parátus est diábolo et ángelis ejus. Esurívi enim, et non dedístis mihi manducáre; sitívi, et non dedístis mihi potum; hospes eram, et non collegístis me; nudus, et non cooperuístis me; infírmus et in cárcere, et non visitástis me. Tunc respondébunt ei et ipsi, dicéntes: Dómine, quando te vídimus esuriéntem, aut sitiéntem, aut hóspitem, aut nudum, aut infírmum, aut in cárcere, et non ministrávimus tibi? Tunc respondébit illis, dicens: Amen, dico vobis: Quámdiu non fecístis uni de minóribus his, nec mihi fecístis. Et ibunt hi in supplícium ætérnum: justi autem in vitam ætérnam.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+      },
+      "english": {
+        "label": "Gospel",
+        "html": "Continuation of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 25:31-46</em></span><br>\nAt that time, Jesus said to His disciples: When the Son of Man shall come in His majesty, and all the angels with Him, then He will sit on the throne of His glory; and before Him will be gathered all the nations, and He will separate them one from another, as the shepherd separates the sheep from the goats; and He will set the sheep on His right hand, but the goats on the left. Then the king will say to those on his right hand, ‘Come, blessed of My Father, take possession of the kingdom prepared for you from the foundation of the world; for I was hungry and you gave Me to eat; I was thirsty and you gave Me to drink; I was a stranger and you took Me in; naked and you covered Me; sick and you visited Me; I was in prison and you came to Me.’ Then the just will answer Him, saying; ‘Lord, when did we see You hungry, and feed You; or thirsty, and give you to drink? And when did we see You a stranger, and take You in; or naked, and clothe You? Or when did we see You sick, or in prison, and come to You?’ And, answering, the king will say to them, ‘Amen I say to you, as long as you did it for one of these, the least of My brethren, you did it for Me.’ Then He will say to those on His left hand, ‘Depart from Me, accursed ones, into the everlasting fire which was prepared for the devil and his angels. For I was hungry, and you did not give Me to eat; I was thirsty and you gave Me no drink; I was a stranger and you did not take Me in; naked, and you did not clothe Me; sick, and in prison, and you did not visit Me.’ Then they also will and say, ‘Lord, when did we see You hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and did not minister to You?’ Then He will answer them, saying, ‘Amen I say to you, as long as you did not do it for one of these least ones, you did not do it for Me.’ And these will go into everlasting punishment, but the just into everlasting life.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+      }
+    },
+    {
+      "id": "creed",
+      "kind": "creed",
+      "latin": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      },
+      "english": {
+        "label": "Credo",
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
+      }
+    },
+    {
+      "id": "offertory",
+      "kind": "offertory",
+      "latin": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:18; 118:26; 118:73</em></span><br>\nLevábo óculos meos, et considerábo mirabília tua, Dómine, ut dóceas me justítias tuas: da mihi intelléctum, et discam mandáta tua."
+      },
+      "english": {
+        "label": "Offertorium",
+        "html": "<span class=\"rubric\"><em>Ps 118:18, 26, 73</em></span><br>\nI will lift up my eyes, that I may consider Your wonders, O Lord; teach me Your statutes; give me discernment that I may learn Your commands."
+      }
+    },
+    {
+      "id": "secret",
+      "kind": "secret",
+      "latin": {
+        "label": "Secreta",
+        "html": "Múnera tibi, Dómine, obláta sanctífica: nosque a peccatórum nostrórum máculis emúnda.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio SS. Faustini et Jovitæ</em></span><br>\nAdésto, Dómine, supplicatiónibus nostris, quas in Sanctórum tuórum commemoratióne deférimus: ut, qui nostræ justítiæ fidúciam non habémus, eórum, qui tibi placuérunt, méritis adjuvémur.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nExáudi nos, Deus, salutáris noster: ut, per hujus sacraménti virtútem, a cunctis nos mentis et córporis hóstibus tueáris; grátiam tríbuens in præsénti, et glóriam in futuro.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Secreta",
+        "html": "Sanctify the gifts offered unto You, O Lord, and cleanse us from the stains of our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Faustinus and Jovita, Martyrs</em></span><br>\nBe mindful, O Lord, of our humble prayers in this commemoration of Your Saints, that we who have no confidence in our own righteousness may be aided by the merits of those who have been pleasing to You.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nHear us, O God, our salvation that through the power of this Sacrament thou mayest defend us from all enemies of soul and body and bestow upon us grace here and glory hereafter.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    },
+    {
+      "id": "preface",
+      "kind": "preface",
+      "latin": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et justum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+      },
+      "english": {
+        "label": "Prefatio",
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+      }
+    },
+    {
+      "id": "communion",
+      "kind": "communion",
+      "latin": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:40; 25:34</em></span><br>\nAmen, dico vobis: quod uni ex mínimis meis fecístis, mihi fecístis: veníte, benedícti Patris mei, possidéte parátum vobis regnum ab inítio sǽculi."
+      },
+      "english": {
+        "label": "Communio",
+        "html": "<span class=\"rubric\"><em>Matt 25:40, 34</em></span><br>\nAmen I say to you: What you did for one of these, the least of My brethren, you did for Me: come, blessed of My Father, take possession of the kingdom prepared for you from the foundation of the world."
+      }
+    },
+    {
+      "id": "postcommunion",
+      "kind": "postcommunion",
+      "latin": {
+        "label": "Postcommunio",
+        "html": "Orémus.<br>\nSalutáris tui, Dómine, múnere satiáti, súpplices exorámus: ut, cujus lætámur gustu, renovémur efféctu.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio SS. Faustini et Jovitæ</em></span><br>\nQuǽsumus, Dómine, salutáribus repléti mystériis: ut, quorum sollémnia celebrámus, eórum oratiónibus adjuvémur.<br>\n<br>\n<span class=\"rubric\"><em>Ad poscenda suffragia Sanctorum</em></span><br>\nMundet et múniat nos, quǽsumus, Dómine, divíni sacraménti munus oblátum: et, intercedénte beáta Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto N. et ómnibus Sanctis; a cunctis nos reddat et perversitátibus expiátos, et adversitátibus expedítos.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\nOrémus.<br>\nHumiliáte cápita vestra Deo.<br>\nAbsólve, quǽsumus, Dómine, nostrórum víncula peccatórum: et, quidquid pro eis merémur, propitiátus avérte.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      },
+      "english": {
+        "label": "Postcommunio",
+        "html": "Let us pray.<br>\nRefreshed by the sacramental gift of Your salvation, we humbly beseech You, O Lord, that, enjoying its savor, we may be made new by its action.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Faustinus and Jovita, Martyrs</em></span><br>\nRefreshed by the sacrament of salvation, we beseech You, O Lord, that we may be aided by the prayers of those whose festival we celebrate.<br>\n<br>\n<span class=\"rubric\"><em>Of the Saints</em></span><br>\nMay the offering of this divine Sacrament cleanse and protect us, O Lord we beseech thee, and by the intercession of the Blessed Virgin Mary, Mother of God, of blessed Joseph, of thy blessed Apostles Peter and Paul, and of blessed N. and all the Saints, may it purify us from all sin, and free us from all adversity.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\nLet us pray.<br>\nBow your heads to God.<br>\nLoose the bonds of our sins, we beseech You, O Lord, and mercifully turn aside whatever punishment we deserve for them.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+      }
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/DivinumOfficium/divinum-officium",
+    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
+    "commitDate": "2026-08-14T13:10:25-04:00"
+  }
+}
