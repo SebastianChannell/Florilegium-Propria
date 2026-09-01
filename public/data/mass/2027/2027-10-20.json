@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-10-20",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "S. Joannis Cantii Confessoris",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Eccli 18:12-13</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserátio hóminis circa próximum: misericórdia autem Dei super omnem carnem. Qui misericórdiam habet, docet et érudit quasi pastor gregem suum.<br>\n<span class=\"rubric\"><em>Ps 1:1</em></span><br>\nBeátus vir, qui non ábiit in consílio impiórum, et in via peccatórum non stetit, et in cáthedra pestiléntiæ non sedit.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserátio hóminis circa próximum: misericórdia autem Dei super omnem carnem. Qui misericórdiam habet, docet et érudit quasi pastor gregem suum."
+        "html": "<span class=\"rubric\"><em>Eccli 18:12-13</em></span><br>\nMiserátio hóminis circa próximum: misericórdia autem Dei super omnem carnem. Qui misericórdiam habet, docet et érudit quasi pastor gregem suum.<br>\n<span class=\"rubric\"><em>Ps 1:1</em></span><br>\nBeátus vir, qui non ábiit in consílio impiórum, et in via peccatórum non stetit, et in cáthedra pestiléntiæ non sedit.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nMiserátio hóminis circa próximum: misericórdia autem Dei super omnem carnem. Qui misericórdiam habet, docet et érudit quasi pastor gregem suum."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Sir 18:12-13</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>an may be merciful to his fellow man, but God’s mercy reaches all flesh. He has mercy, teaches and guides, as a shepherd does his flock.<br>\n<span class=\"rubric\"><em>Ps 1:1</em></span><br>\nHappy the man who follows not the counsel of the wicked nor walks in the way of sinners, nor sits in the company of the insolent.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>an may be merciful to his fellow man, but God’s mercy reaches all flesh. He has mercy, teaches and guides, as a shepherd does his flock."
+        "html": "<span class=\"rubric\"><em>Sir 18:12-13</em></span><br>\nMan may be merciful to his fellow man, but God’s mercy reaches all flesh. He has mercy, teaches and guides, as a shepherd does his flock.<br>\n<span class=\"rubric\"><em>Ps 1:1</em></span><br>\nHappy the man who follows not the counsel of the wicked nor walks in the way of sinners, nor sits in the company of the insolent.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nMan may be merciful to his fellow man, but God’s mercy reaches all flesh. He has mercy, teaches and guides, as a shepherd does his flock."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDa, quǽsumus, omnípotens Deus: ut, sancti Ioánnis Confessóris exémplo in sciéntia Sanctórum proficiéntes atque áliis misericórdiam exhibéntes; eius méritis, indulgéntiam apud te consequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDa, quǽsumus, omnípotens Deus: ut, sancti Ioánnis Confessóris exémplo in sciéntia Sanctórum proficiéntes atque áliis misericórdiam exhibéntes; eius méritis, indulgéntiam apud te consequámur.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that by following the example of blessed John, Your Confessor, we may advance in a knowledge of holiness and, by showing pity for others, obtain Your forgiveness through his merits<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nGrant, we beseech You, almighty God, that by following the example of blessed John, Your Confessor, we may advance in a knowledge of holiness and, by showing pity for others, obtain Your forgiveness through his merits<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 12:35-40</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Sint lumbi vestri præcíncti, et lucernæ ardéntes in mánibus vestris, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis: ut, cum vénerit et pulsáverit, conféstim apériant ei. Beáti servi illi, quos, cum vénerit dóminus, invénerit vigilántes: amen, dico vobis, quod præcínget se, et fáciet illos discúmbere, et tránsiens ministrábit illis. Et si vénerit in secúnda vigília, et si in tértia vigília vénerit, et ita invénerit, beáti sunt servi illi. Hoc autem scitóte, quóniam, si sciret paterfamílias, qua hora fur veníret, vigiláret útique, et non síneret pérfodi domum suam. Et vos estóte paráti, quia, qua hora non putátis, Fílius hóminis véniet.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 12:35-40</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Sint lumbi vestri præcíncti, et lucernæ ardéntes in mánibus vestris, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis: ut, cum vénerit et pulsáverit, conféstim apériant ei. Beáti servi illi, quos, cum vénerit dóminus, invénerit vigilántes: amen, dico vobis, quod præcínget se, et fáciet illos discúmbere, et tránsiens ministrábit illis. Et si vénerit in secúnda vigília, et si in tértia vigília vénerit, et ita invénerit, beáti sunt servi illi. Hoc autem scitóte, quóniam, si sciret paterfamílias, qua hora fur veníret, vigiláret útique, et non síneret pérfodi domum suam. Et vos estóte paráti, quia, qua hora non putátis, Fílius hóminis véniet.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 12:35-40</em></span><br>\nAt that time, Jesus said to His disciples, Let your loins be girt about and your lamps burning, and you yourselves like men waiting for their master’s return from the wedding; so that when he comes and knocks, they may straight-way open to him. Blessed are those servants whom the master, on his return, shall find watching. Amen I say to you, he will gird himself, and will make them recline at table, and will come and serve them. And if he comes in the second watch, and if in the third, and finds them so, blessed are those servants! But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. You also must be ready, because at an hour that you do not expect, the Son of Man is coming.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 12:35-40</em></span><br>\nAt that time, Jesus said to His disciples, Let your loins be girt about and your lamps burning, and you yourselves like men waiting for their master’s return from the wedding; so that when he comes and knocks, they may straight-way open to him. Blessed are those servants whom the master, on his return, shall find watching. Amen I say to you, he will gird himself, and will make them recline at table, and will come and serve them. And if he comes in the second watch, and if in the third, and finds them so, blessed are those servants! But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. You also must be ready, because at an hour that you do not expect, the Son of Man is coming.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Has, quǽsumus, Dómine, hóstias sancti Ioánnis Confessóris tui méritis benígnus assúme: et præsta; ut, te super ómnia et omnes propter te diligéntes, corde tibi et ópere placeámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Has, quǽsumus, Dómine, hóstias sancti Ioánnis Confessóris tui méritis benígnus assúme: et præsta; ut, te super ómnia et omnes propter te diligéntes, corde tibi et ópere placeámus.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Graciously accept these sacrificial gifts, we beseech You, O Lord, through the merits of blessed John, Your Confessor, and grant that, loving You above all things and all mankind because of You, we may be pleasing to You in heart and in deed.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Graciously accept these sacrificial gifts, we beseech You, O Lord, through the merits of blessed John, Your Confessor, and grant that, loving You above all things and all mankind because of You, we may be pleasing to You in heart and in deed.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPretiósi Córporis et Sánguinis tui, Dómine, pasti delíciis, tuam súpplices deprecámur clementiam: ut, sancti Ioánnis Confessóris tui méritis et exémplis, eiúsdem caritátis imitatóres effécti, consórtes simus et glóriæ:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nPretiósi Córporis et Sánguinis tui, Dómine, pasti delíciis, tuam súpplices deprecámur clementiam: ut, sancti Ioánnis Confessóris tui méritis et exémplis, eiúsdem caritátis imitatóres effécti, consórtes simus et glóriæ:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nFilled with the good food of Your precious Body and Blood, we humbly implore Your clemency, O Lord, that by the merits and example of blessed John, Your Confessor, we may imitate his charity and share in his glory.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nFilled with the good food of Your precious Body and Blood, we humbly implore Your clemency, O Lord, that by the merits and example of blessed John, Your Confessor, we may imitate his charity and share in his glory.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

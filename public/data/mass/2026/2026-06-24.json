@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2026-06-24",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "In Nativitate S. Joannis Baptistæ",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Isa 49:1; 49:2</em></span><br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>e ventre matris meæ vocávit me Dóminus in nómine meo: et pósuit os meum ut gládium acútum: sub teguménto manus suæ protéxit me, et pósuit me quasi sagíttam eléctam.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nBonum est confitéri Dómino: et psállere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>D</em></strong></span>e ventre matris meæ vocávit me Dóminus in nómine meo: et pósuit os meum ut gládium acútum: sub teguménto manus suæ protéxit me, et pósuit me quasi sagíttam eléctam."
+        "html": "<span class=\"rubric\"><em>Isa 49:1; 49:2</em></span><br>\nDe ventre matris meæ vocávit me Dóminus in nómine meo: et pósuit os meum ut gládium acútum: sub teguménto manus suæ protéxit me, et pósuit me quasi sagíttam eléctam.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nBonum est confitéri Dómino: et psállere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nDe ventre matris meæ vocávit me Dóminus in nómine meo: et pósuit os meum ut gládium acútum: sub teguménto manus suæ protéxit me, et pósuit me quasi sagíttam eléctam."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Isa 49:1-2</em></span><br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>rom my mother’s womb the Lord called me by my name, and made of me a sharp-edged sword; He concealed me in the shadow of His arm, and made me a polished arrow.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nIt is good to give thanks to the Lord, to sing praise to Your name, Most High.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>F</em></strong></span>rom my mother’s womb the Lord called me by my name, and made of me a sharp-edged sword; He concealed me in the shadow of His arm, and made me a polished arrow."
+        "html": "<span class=\"rubric\"><em>Isa 49:1-2</em></span><br>\nFrom my mother’s womb the Lord called me by my name, and made of me a sharp-edged sword; He concealed me in the shadow of His arm, and made me a polished arrow.<br>\n<span class=\"rubric\"><em>Ps 91:2</em></span><br>\nIt is good to give thanks to the Lord, to sing praise to Your name, Most High.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nFrom my mother’s womb the Lord called me by my name, and made of me a sharp-edged sword; He concealed me in the shadow of His arm, and made me a polished arrow."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui præséntem diem honorábilem nobis in beáti Ioánnis nativitáte fecísti: da pópulis tuis spirituálium grátiam gaudiórum; et ómnium fidélium mentes dirige in viam salútis ætérnæ.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDeus, qui præséntem diem honorábilem nobis in beáti Ioánnis nativitáte fecísti: da pópulis tuis spirituálium grátiam gaudiórum; et ómnium fidélium mentes dirige in viam salútis ætérnæ.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who made this a day most worthy of our celebration because of blessed John; grant Your people the grace of spiritual joys and direct the minds of all the faithful into the path of eternal salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who made this a day most worthy of our celebration because of blessed John; grant Your people the grace of spiritual joys and direct the minds of all the faithful into the path of eternal salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 1:57-68</em></span><br>\nElísabeth implétum est tempus pariéndi, et péperit fílium. Et audiérunt vicíni et cognáti eius, quia magnificávit Dóminus misericórdiam suam cum illa, et congratulabántur ei. Et factum est in die octávo, venérunt circumcídere púerum, et vocábant eum nómine patris sui Zacharíam. Et respóndens mater eius, dixit: Nequáquam, sed vocábitur Ioánnes. Et dixérunt ad illam: Quia nemo est in cognatióne tua, qui vocétur hoc nómine. Innuébant autem patri eius, quem vellet vocári eum. Et póstulans pugillárem, scripsit, dicens: Ioánnes est nomen eius. Et miráti sunt univérsi. Apértum est autem illico os eius et lingua eius, et loquebátur benedícens Deum. Et factus est timor super omnes vicínos eórum: et super ómnia montána Iudææ divulgabántur ómnia verba hæc: et posuérunt omnes, qui audíerant in corde suo, dicéntes: Quis, putas, puer iste erit? Etenim manus Dómini erat cum illo. Et Zacharías, pater eius, repletus est Spíritu Sancto, et prophetávit, dicens: Benedíctus Dóminus, Deus Israël, quia visitávit et fecit redemptiónem plebis suæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 1:57-68</em></span><br>\nElísabeth implétum est tempus pariéndi, et péperit fílium. Et audiérunt vicíni et cognáti eius, quia magnificávit Dóminus misericórdiam suam cum illa, et congratulabántur ei. Et factum est in die octávo, venérunt circumcídere púerum, et vocábant eum nómine patris sui Zacharíam. Et respóndens mater eius, dixit: Nequáquam, sed vocábitur Ioánnes. Et dixérunt ad illam: Quia nemo est in cognatióne tua, qui vocétur hoc nómine. Innuébant autem patri eius, quem vellet vocári eum. Et póstulans pugillárem, scripsit, dicens: Ioánnes est nomen eius. Et miráti sunt univérsi. Apértum est autem illico os eius et lingua eius, et loquebátur benedícens Deum. Et factus est timor super omnes vicínos eórum: et super ómnia montána Iudææ divulgabántur ómnia verba hæc: et posuérunt omnes, qui audíerant in corde suo, dicéntes: Quis, putas, puer iste erit? Etenim manus Dómini erat cum illo. Et Zacharías, pater eius, repletus est Spíritu Sancto, et prophetávit, dicens: Benedíctus Dóminus, Deus Israël, quia visitávit et fecit redemptiónem plebis suæ.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 1:57-68</em></span><br>\nElizabeth’s time was fulfilled that she should be delivered, and she brought forth a son. And her neighbors and kinsfolk heard that the Lord had magnified His mercy toward her, and they rejoiced with her. And it came to pass on the eighth day, that they came to circumcise the child, and they were going to call him by his father’s name, Zachary. And his mother answered and said, Not so, but he shall be called John. And they said to her, There is none of your kindred that is called by this name. And they kept inquiring by signs of his father what he would have him called. And asking for a writing-tablet he wrote the words, John is his name. And they all marveled. And immediately his mouth was opened and his tongue loosed, and he began to speak, blessing God. And fear came on all their neighbors; and all these things were spoken abroad in all the hill country of Judea. And all who heard them laid them up in their heart, saying, What then will this child be? For the hand of the Lord was with him. And Zachary his father was filled with the Holy Spirit, and prophesied, saying, Blessed be the Lord, the God of Israel, because He has visited and wrought redemption for His people.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 1:57-68</em></span><br>\nElizabeth’s time was fulfilled that she should be delivered, and she brought forth a son. And her neighbors and kinsfolk heard that the Lord had magnified His mercy toward her, and they rejoiced with her. And it came to pass on the eighth day, that they came to circumcise the child, and they were going to call him by his father’s name, Zachary. And his mother answered and said, Not so, but he shall be called John. And they said to her, There is none of your kindred that is called by this name. And they kept inquiring by signs of his father what he would have him called. And asking for a writing-tablet he wrote the words, John is his name. And they all marveled. And immediately his mouth was opened and his tongue loosed, and he began to speak, blessing God. And fear came on all their neighbors; and all these things were spoken abroad in all the hill country of Judea. And all who heard them laid them up in their heart, saying, What then will this child be? For the hand of the Lord was with him. And Zachary his father was filled with the Holy Spirit, and prophesied, saying, Blessed be the Lord, the God of Israel, because He has visited and wrought redemption for His people.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Tua, Dómine, munéribus altária cumulámus: illíus nativitátem honóre débito celebrántes, qui Salvatórem mundi et cécinit ad futúrum et adésse monstravit, Dóminum nostrum Iesum Christum, Fílium tuum:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Tua, Dómine, munéribus altária cumulámus: illíus nativitátem honóre débito celebrántes, qui Salvatórem mundi et cécinit ad futúrum et adésse monstravit, Dóminum nostrum Iesum Christum, Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "We heap Your altar with gifts, O Lord, celebrating the birth of him who announced the coming of the Saviour of the world, our Lord Jesus Christ, Your Son, and made His presence known.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "We heap Your altar with gifts, O Lord, celebrating the birth of him who announced the coming of the Saviour of the world, our Lord Jesus Christ, Your Son, and made His presence known.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -120,7 +121,7 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>de S. Ioannis Baptistæ</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Et tuam in beáto Ioánne Bapísta Præcursóre magnificéntiam  collaudáre, qui vocem Matris Dómini nondum éditus sensit, et adhuc clauso útero, advéntum salútis humánæ prophética exsulatióne significávit.  Qui et genetricis sterilitátem concéptus ábstulit, et patris linguam natus absólvit, solúsque ómnium prophetárum Redemptórem mundi, quem prænuntiávit, osténdit. Et ut sacræ purificatiónis efféctum aquárum natúra concíperet, sanctificándis Iordánis fluéntis, ipsum baptísmo baptísmatis lavit auctórem. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cántimus, sine fine dicéntes:"
+        "html": "<span class=\"rubric\"><em>de S. Ioannis Baptistæ</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Et tuam in beáto Ioánne Bapísta Præcursóre magnificéntiam  collaudáre, qui vocem Matris Dómini nondum éditus sensit, et adhuc clauso útero, advéntum salútis humánæ prophética exsulatióne significávit.  Qui et genetricis sterilitátem concéptus ábstulit, et patris linguam natus absólvit, solúsque ómnium prophetárum Redemptórem mundi, quem prænuntiávit, osténdit. Et ut sacræ purificatiónis efféctum aquárum natúra concíperet, sanctificándis Iordánis fluéntis, ipsum baptísmo baptísmatis lavit auctórem. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus hymnum glóriæ tuæ cántimus, sine fine dicéntes:"
       },
       "english": {
         "label": "Prefatio",
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSumat Ecclésia tua, Deus, beáti Ioánnis Baptístæ generatióne lætítiam: per quem suæ regeneratiónis cognóvit auctórem, Dóminum nostrum Iesum Christum, Fílium tuum:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nSumat Ecclésia tua, Deus, beáti Ioánnis Baptístæ generatióne lætítiam: per quem suæ regeneratiónis cognóvit auctórem, Dóminum nostrum Iesum Christum, Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay Your Church, O God, rejoice at the birth of blessed John the Baptist, through whom she knew the author of her own rebirth, Your Son, our Lord Jesus Christ.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nMay Your Church, O God, rejoice at the birth of blessed John the Baptist, through whom she knew the author of her own rebirth, Your Son, our Lord Jesus Christ.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-09-05",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "Dominica XVI Post Pentecosten I. Septembris",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 85:3; 85:5</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserére mihi, Dómine, quóniam ad te clamávi tota die: quia tu, Dómine, suávis ac mitis es, et copiósus in misericórdia ómnibus invocántibus te.<br>\n<span class=\"rubric\"><em>Ps 85:1</em></span><br>\nInclína, Dómine, aurem tuam mihi, et exáudi me: quóniam inops, et pauper sum ego.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>iserére mihi, Dómine, quóniam ad te clamávi tota die: quia tu, Dómine, suávis ac mitis es, et copiósus in misericórdia ómnibus invocántibus te."
+        "html": "<span class=\"rubric\"><em>Ps 85:3; 85:5</em></span><br>\nMiserére mihi, Dómine, quóniam ad te clamávi tota die: quia tu, Dómine, suávis ac mitis es, et copiósus in misericórdia ómnibus invocántibus te.<br>\n<span class=\"rubric\"><em>Ps 85:1</em></span><br>\nInclína, Dómine, aurem tuam mihi, et exáudi me: quóniam inops, et pauper sum ego.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nMiserére mihi, Dómine, quóniam ad te clamávi tota die: quia tu, Dómine, suávis ac mitis es, et copiósus in misericórdia ómnibus invocántibus te."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 85:3; 85:5</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ave pity on me, O Lord, for to You I call all the day; for You, O Lord, are good and forgiving, abounding in kindness to all who call upon You.<br>\n<span class=\"rubric\"><em>Ps 85:1</em></span><br>\nIncline Your ear, O Lord; answer me, for I am afflicted and poor.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>ave pity on me, O Lord, for to You I call all the day; for You, O Lord, are good and forgiving, abounding in kindness to all who call upon You."
+        "html": "<span class=\"rubric\"><em>Ps 85:3; 85:5</em></span><br>\nHave pity on me, O Lord, for to You I call all the day; for You, O Lord, are good and forgiving, abounding in kindness to all who call upon You.<br>\n<span class=\"rubric\"><em>Ps 85:1</em></span><br>\nIncline Your ear, O Lord; answer me, for I am afflicted and poor.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nHave pity on me, O Lord, for to You I call all the day; for You, O Lord, are good and forgiving, abounding in kindness to all who call upon You."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nTua nos, quǽsumus, Dómine, grátia semper et prævéniat et sequátur: ac bonis opéribus iúgiter præstet esse inténtos.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nTua nos, quǽsumus, Dómine, grátia semper et prævéniat et sequátur: ac bonis opéribus iúgiter præstet esse inténtos.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay Your grace, we beseech You, O Lord, ever go before us and follow us, and may it make us ever intent upon good works.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay Your grace, we beseech You, O Lord, ever go before us and follow us, and may it make us ever intent upon good works.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 14:1-11</em></span><br>\nIn illo témpore: Cum intráret Iesus in domum cuiúsdam príncipis pharisæórum sábbato manducáre panem, et ipsi observábant eum. Et ecce, homo quidam hydrópicus erat ante illum. Et respóndens Iesus dixit ad legisperítos et pharisǽos, dicens: Si licet sábbato curáre? At illi tacuérunt. Ipse vero apprehénsum sanávit eum ac dimísit. Et respóndens ad illos, dixit: Cuius vestrum ásinus aut bos in púteum cadet, et non contínuo éxtrahet illum die sábbati? Et non póterant ad hæc respóndere illi. Dicebat autem et ad invitátos parábolam, inténdens, quómodo primos accúbitus elígerent, dicens ad illos: Cum invitátus fúeris ad núptias, non discúmbas in primo loco, ne forte honorátior te sit invitátus ab illo, et véniens is, qui te et illum vocávit, dicat tibi: Da huic locum: et tunc incípias cum rubóre novíssimum locum tenére. Sed cum vocátus fúeris, vade, recúmbe in novíssimo loco: ut, cum vénerit, qui te invitávit, dicat tibi: Amíce, ascénde supérius. Tunc erit tibi glória coram simul discumbéntibus: quia omnis, qui se exáltat, humiliábitur: et qui se humíliat, exaltábitur.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam.<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 14:1-11</em></span><br>\nIn illo témpore: Cum intráret Iesus in domum cuiúsdam príncipis pharisæórum sábbato manducáre panem, et ipsi observábant eum. Et ecce, homo quidam hydrópicus erat ante illum. Et respóndens Iesus dixit ad legisperítos et pharisǽos, dicens: Si licet sábbato curáre? At illi tacuérunt. Ipse vero apprehénsum sanávit eum ac dimísit. Et respóndens ad illos, dixit: Cuius vestrum ásinus aut bos in púteum cadet, et non contínuo éxtrahet illum die sábbati? Et non póterant ad hæc respóndere illi. Dicebat autem et ad invitátos parábolam, inténdens, quómodo primos accúbitus elígerent, dicens ad illos: Cum invitátus fúeris ad núptias, non discúmbas in primo loco, ne forte honorátior te sit invitátus ab illo, et véniens is, qui te et illum vocávit, dicat tibi: Da huic locum: et tunc incípias cum rubóre novíssimum locum tenére. Sed cum vocátus fúeris, vade, recúmbe in novíssimo loco: ut, cum vénerit, qui te invitávit, dicat tibi: Amíce, ascénde supérius. Tunc erit tibi glória coram simul discumbéntibus: quia omnis, qui se exáltat, humiliábitur: et qui se humíliat, exaltábitur.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 14:1-11</em></span><br>\nAt that time, when Jesus entered the house of one of the rulers of the Pharisees on the Sabbath to take food, they watched Him. And behold, there was a certain man before Him who had the dropsy. And Jesus asked the lawyers and Pharisees, saying, Is it lawful to cure on the Sabbath? But they remained silent. And He took and healed him and let him go. Then addressing them, He said, Which of you shall have an ass or an ox fall into a pit, and will not immediately draw him up on the Sabbath? And they could give Him no answer to these things. But He also spoke a parable to those invited, observing how they were choosing the first places at table, and He said to them, When you are invited to a wedding feast, do not recline in the first place, lest perhaps one more distinguished than you have been invited by him, and he who invited you and him come and say to you, ‘Make room for this man’; and then you begin with shame to take the last place. But when you are invited go and recline in the last place; that when he who invited you comes in, he may say to you, ‘Friend, go up higher!’ Then you will be honored in the presence of all who are at table with you. For everyone who exalts himself shall be humbled, and he who humbles himself shall be exalted.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 14:1-11</em></span><br>\nAt that time, when Jesus entered the house of one of the rulers of the Pharisees on the Sabbath to take food, they watched Him. And behold, there was a certain man before Him who had the dropsy. And Jesus asked the lawyers and Pharisees, saying, Is it lawful to cure on the Sabbath? But they remained silent. And He took and healed him and let him go. Then addressing them, He said, Which of you shall have an ass or an ox fall into a pit, and will not immediately draw him up on the Sabbath? And they could give Him no answer to these things. But He also spoke a parable to those invited, observing how they were choosing the first places at table, and He said to them, When you are invited to a wedding feast, do not recline in the first place, lest perhaps one more distinguished than you have been invited by him, and he who invited you and him come and say to you, ‘Make room for this man’; and then you begin with shame to take the last place. But when you are invited go and recline in the last place; that when he who invited you comes in, he may say to you, ‘Friend, go up higher!’ Then you will be honored in the presence of all who are at table with you. For everyone who exalts himself shall be humbled, and he who humbles himself shall be exalted.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Munda nos, quǽsumus, Dómine, sacrifícii præséntis efféctu: et pérfice miserátus in nobis; ut eius mereámur esse partícipes.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Munda nos, quǽsumus, Dómine, sacrifícii præséntis efféctu: et pérfice miserátus in nobis; ut eius mereámur esse partícipes.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Cleanse us by this sacrifice, we beseech You, O Lord, and by the workings of Your mercy, make us worthy to receive it.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Cleanse us by this sacrifice, we beseech You, O Lord, and by the workings of Your mercy, make us worthy to receive it.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in maiestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre cotídie, una voce dicéntes:"
+        "html": "<span class=\"rubric\"><em>de sanctissima Trinitate</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: Qui cum unigénito Fílio tuo et Spíritu Sancto unus es Deus, unus es Dóminus: non in uníus singularitáte persónæ, sed in uníus Trinitáte substántiæ. Quod enim de tua glória, revelánte te, crédimus, hoc de Fílio tuo, hoc de Spíritu Sancto sine differéntia discretiónis sentímus. Ut in confessióne veræ sempiternǽque Deitátis, et in persónis propríetas, et in esséntia únitas, et in maiestáte adorétur æquálitas. Quam laudant Angeli atque Archángeli, Chérubim quoque ac Séraphim: qui non cessant clamáre cotídie, una voce dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
+        "html": "<span class=\"rubric\"><em>Holy Trinity</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who, together with Thine only-begotten Son, and the Holy Ghost, art one God, one Lord: not in the oneness of a single Person, but in the Trinity of one substance. For what we believe by Thy revelation of Thy glory, the same do we believe of Thy Son, the same of the Holy Ghost, without difference or separation. So that in confessing the true and everlasting Godhead, distinction in persons, unity in essence, and equality in majesty may be adored. Which the Angels and Archangels, the Cherubim also and Seraphim do praise: who cease not daily to cry out, with one voice saying:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPurífica, quǽsumus, Dómine, mentes nostras benígnus, et rénova cœléstibus sacraméntis: ut consequénter et córporum præsens páriter et futúrum capiámus auxílium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nPurífica, quǽsumus, Dómine, mentes nostras benígnus, et rénova cœléstibus sacraméntis: ut consequénter et córporum præsens páriter et futúrum capiámus auxílium.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech You, graciously cleanse and renew our minds with the heavenly sacrament, so we may thereby also receive bodily help for the present as well as for the future.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO Lord, we beseech You, graciously cleanse and renew our minds with the heavenly sacrament, so we may thereby also receive bodily help for the present as well as for the future.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

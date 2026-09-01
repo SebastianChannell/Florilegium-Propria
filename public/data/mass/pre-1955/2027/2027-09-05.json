@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nMay Your grace, we beseech You, O Lord, ever go before us and follow us, and may it make us ever intent upon good works.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Lawrence Justinian, Bishop and Confessor</em></span><br>\nv. Grant, we beseech thee, almighty God, that the venerable feast of Lauréntii thy blessed Confessor and Bishop may increase our devotion and promote our salvation.<br>\n<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay Your grace, we beseech You, O Lord, ever go before us and follow us, and may it make us ever intent upon good works.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Lawrence Justinian, Bishop and Confessor</em></span><br>\nv. Grant, we beseech thee, almighty God, that the venerable feast of Laurence thy blessed Confessor and Bishop may increase our devotion and promote our salvation.<br>\n<br>\n<span class=\"rubric\"><em>Collect of the Saints</em></span><br>\nFrom all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

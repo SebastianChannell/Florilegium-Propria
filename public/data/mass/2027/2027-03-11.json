@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-03-11",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "Feria Quinta infra Hebdomadam IV in Quadragesima",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 104:3-4.</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem eius semper.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nConfitémini Dómino, et invocáte nomen eius: annuntiáte inter gentes ópera eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem eius semper."
+        "html": "<span class=\"rubric\"><em>Ps 104:3-4.</em></span><br>\nLætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem eius semper.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nConfitémini Dómino, et invocáte nomen eius: annuntiáte inter gentes ópera eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nLætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem eius semper."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 104:3-4</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>ejoice, O hearts that seek the Lord! Look to the Lord, and be strengthened; seek His face evermore.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nGive thanks to the Lord, invoke His Name; make known among the nations His deeds.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>ejoice, O hearts that seek the Lord! Look to the Lord, and be strengthened; seek His face evermore."
+        "html": "<span class=\"rubric\"><em>Ps 104:3-4</em></span><br>\nRejoice, O hearts that seek the Lord! Look to the Lord, and be strengthened; seek His face evermore.<br>\n<span class=\"rubric\"><em>Ps 104:1</em></span><br>\nGive thanks to the Lord, invoke His Name; make known among the nations His deeds.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nRejoice, O hearts that seek the Lord! Look to the Lord, and be strengthened; seek His face evermore."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, quos ieiúnia votíva castígant, ipsa quoque devótio sancta lætíficet; ut, terrénis afféctibus mitigátis, facílius cœléstia capiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nPræsta, quǽsumus, omnípotens Deus: ut, quos ieiúnia votíva castígant, ipsa quoque devótio sancta lætíficet; ut, terrénis afféctibus mitigátis, facílius cœléstia capiámus.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, almighty God, that we who are chastising the flesh by fasting, may rejoice in this holy practice and thus, with earthly passions subdued, we may the more readily direct our thoughts to heavenly things.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nGrant, we beseech You, almighty God, that we who are chastising the flesh by fasting, may rejoice in this holy practice and thus, with earthly passions subdued, we may the more readily direct our thoughts to heavenly things.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -64,7 +65,7 @@
       },
       "english": {
         "label": "Gradual",
-        "html": "<span class=\"rubric\"><em>Ps 73:20, 19, 22</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ook, O Lord, to Your covenant; be not forever unmindful of the lives of Your afflicted ones.<br>\n<span class=\"marker\"><em>℣.</em></span> Arise, O Lord; defend Your cause; remember the reproaches of Your servants."
+        "html": "<span class=\"rubric\"><em>Ps 73:20, 19, 22</em></span><br>\nLook, O Lord, to Your covenant; be not forever unmindful of the lives of Your afflicted ones.<br>\n<span class=\"marker\"><em>℣.</em></span> Arise, O Lord; defend Your cause; remember the reproaches of Your servants."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 7:11-16</em></span><br>\nIn illo témpore: Ibat Iesus in civitátem, quæ vocátur Naim: et ibant cum eo discípuli eius et turba copiósa. Cum autem appropinquáret portæ civitátis, ecce, defúnctus efferebátur fílius únicus matris suæ: et hæc vídua erat, et turba civitátis multa cum illa. Quam cum vidísset Dóminus, misericórdia motus super eam, dixit illi: Noli flere. Et accéssit et tétigit lóculum. - Hi autem, qui portábant, stetérunt - Et ait: Adoléscens, tibi dico, surge. Et resédit, qui erat mórtuus, et cœpit loqui. Et dedit illum matri suæ. Accépit autem omnes timor: et magnificábant Deum, dicéntes: Quia Prophéta magnus surréxit in nobis: et quia Deus visitávit plebem suam.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 7:11-16</em></span><br>\nIn illo témpore: Ibat Iesus in civitátem, quæ vocátur Naim: et ibant cum eo discípuli eius et turba copiósa. Cum autem appropinquáret portæ civitátis, ecce, defúnctus efferebátur fílius únicus matris suæ: et hæc vídua erat, et turba civitátis multa cum illa. Quam cum vidísset Dóminus, misericórdia motus super eam, dixit illi: Noli flere. Et accéssit et tétigit lóculum. - Hi autem, qui portábant, stetérunt - Et ait: Adoléscens, tibi dico, surge. Et resédit, qui erat mórtuus, et cœpit loqui. Et dedit illum matri suæ. Accépit autem omnes timor: et magnificábant Deum, dicéntes: Quia Prophéta magnus surréxit in nobis: et quia Deus visitávit plebem suam.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 7:11-16</em></span><br>\nAt that time, Jesus went into a city called Naim; and His disciples and a large crowd went with Him. And as He drew near the gate of the town, behold, a dead man was being carried out, the only son of his mother, and she was a widow; and a large gathering from the town was with her. And the Lord, seeing her, had compassion on her, and said to her, Do not weep. And He went up and touched the stretcher; and the bearers stood still. And He said, Young man, I say to you, arise. And he who was dead, sat up, and began to speak. And He gave him to his mother. But fear seized upon all, and they began to glorify God, saying, A great prophet has risen among us, and God has visited His people.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 7:11-16</em></span><br>\nAt that time, Jesus went into a city called Naim; and His disciples and a large crowd went with Him. And as He drew near the gate of the town, behold, a dead man was being carried out, the only son of his mother, and she was a widow; and a large gathering from the town was with her. And the Lord, seeing her, had compassion on her, and said to her, Do not weep. And He went up and touched the stretcher; and the bearers stood still. And He said, Young man, I say to you, arise. And he who was dead, sat up, and began to speak. And He gave him to his mother. But fear seized upon all, and they began to glorify God, saying, A great prophet has risen among us, and God has visited His people.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Purífica nos, miséricors Deus: ut Ecclésiæ tuæ preces, quæ tibi gratæ sunt, pia múnera deferéntes, fiant expiátis méntibus gratióres.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Purífica nos, miséricors Deus: ut Ecclésiæ tuæ preces, quæ tibi gratæ sunt, pia múnera deferéntes, fiant expiátis méntibus gratióres.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Cleanse us, O merciful God, so that the prayers of Your Church, which we bring You as a pleasing gift, may be even more pleasing to You, once our hearts are purified.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Cleanse us, O merciful God, so that the prayers of Your Church, which we bring You as a pleasing gift, may be even more pleasing to You, once our hearts are purified.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
+        "html": "<span class=\"rubric\"><em>de Quadragesima</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: Qui corporáli ieiúnio vítia cómprimis, mentem élevas, virtútem largíris et prǽmia: per Christum Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces, ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Lent</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God; Who by this bodily fast, dost curb our vices, dost lift up our minds and bestow on us strength and rewards; through Christ our Lord. Through whom the Angels praise Thy Majesty, the Dominations worship it, the Powers stand in awe. The Heavens and the heavenly hosts together with the blessed Seraphim in triumphant chorus unite to celebrate it. Together with these we entreat Thee that Thou mayest bid our voices also to be admitted while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nCœléstia dona capiéntibus, quǽsumus, Dómine: non ad iudícium proveníre patiáris, quæ fidélibus tuis ad remédium providísti.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\n<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>umiliáte cápita vestra Deo.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>ópuli tui, Deus, institútor et rector, peccáta, quibus impugnátur, expélle: ut semper tibi plácitus, et tuo munímine sit secúrus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nCœléstia dona capiéntibus, quǽsumus, Dómine: non ad iudícium proveníre patiáris, quæ fidélibus tuis ad remédium providísti.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Oratio super populum</em></span><br>\nOrémus.<br>\nHumiliáte cápita vestra Deo.<br>\nPópuli tui, Deus, institútor et rector, peccáta, quibus impugnátur, expélle: ut semper tibi plácitus, et tuo munímine sit secúrus.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO Lord, we beseech you, do not allow the heavenly gifts, which You have given for healing Your faithful people, to become a reason for condemning those who receive them.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\n<span class=\"rubric\"><strong><em>B</em></strong></span>ow your heads to God.<br>\n<span class=\"rubric\"><strong><em>O</em></strong></span> God, teacher and ruler of Your people, drive out the sins that assail them, so that they may ever be pleasing to You and secure under Your protection.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO Lord, we beseech you, do not allow the heavenly gifts, which You have given for healing Your faithful people, to become a reason for condemning those who receive them.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\n<span class=\"rubric\"><em>Prayer over the people</em></span><br>\nLet us pray.<br>\nBow your heads to God.<br>\nO God, teacher and ruler of Your people, drive out the sins that assail them, so that they may ever be pleasing to You and secure under Your protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

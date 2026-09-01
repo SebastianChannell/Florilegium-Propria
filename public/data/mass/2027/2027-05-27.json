@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-05-27",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "Festum Sanctissimi Corporis Christi",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 80:17</em></span><br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ibávit eos ex ádipe fruménti, allelúia: et de petra, melle saturávit eos, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nExsultáte Deo, adiutóri nostro: iubiláte Deo Iacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>C</em></strong></span>ibávit eos ex ádipe fruménti, allelúia: et de petra, melle saturávit eos, allelúia, allelúia, allelúia."
+        "html": "<span class=\"rubric\"><em>Ps 80:17</em></span><br>\nCibávit eos ex ádipe fruménti, allelúia: et de petra, melle saturávit eos, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nExsultáte Deo, adiutóri nostro: iubiláte Deo Iacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nCibávit eos ex ádipe fruménti, allelúia: et de petra, melle saturávit eos, allelúia, allelúia, allelúia."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps. 80:17.</em></span><br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>e fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nSing joyfully to God our strength; acclaim the God of Jacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>H</em></strong></span>e fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia."
+        "html": "<span class=\"rubric\"><em>Ps. 80:17.</em></span><br>\nHe fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 80:2</em></span><br>\nSing joyfully to God our strength; acclaim the God of Jacob.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nHe fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui nobis sub Sacraménto mirábili passiónis tuæ memóriam reliquísti: tríbue, quǽsumus, ita nos Córporis et Sánguinis tui sacra mystéria venerári; ut redemptiónis tuæ fructum in nobis iúgiter sentiámus:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDeus, qui nobis sub Sacraménto mirábili passiónis tuæ memóriam reliquísti: tríbue, quǽsumus, ita nos Córporis et Sánguinis tui sacra mystéria venerári; ut redemptiónis tuæ fructum in nobis iúgiter sentiámus:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, You Who in this wondrous sacrament have left us a memorial of Your passion, grant us, we beseech You, so to venerate the sacred mysteries of Your Body and Blood that we may ever experience within us the effect of Your redemption.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO God, You Who in this wondrous sacrament have left us a memorial of Your passion, grant us, we beseech You, so to venerate the sacred mysteries of Your Body and Blood that we may ever experience within us the effect of Your redemption.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia sancti Evangéli secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 6:56-59</em></span><br>\nIn illo témpore: Dixit Iesus turbis Iudæórum: Caro mea vere est cibus et sanguis meus vere est potus. Qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui mandúcat me, et ipse vivet propter me. Hic est panis, qui de cœlo descéndit. Non sicut manducavérunt patres vestri manna, et mórtui sunt. Qui mandúcat hunc panem, vivet in ætérnum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia sancti Evangéli secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioann 6:56-59</em></span><br>\nIn illo témpore: Dixit Iesus turbis Iudæórum: Caro mea vere est cibus et sanguis meus vere est potus. Qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui mandúcat me, et ipse vivet propter me. Hic est panis, qui de cœlo descéndit. Non sicut manducavérunt patres vestri manna, et mórtui sunt. Qui mandúcat hunc panem, vivet in ætérnum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 6:56-59.</em></span><br>\nAt that time, Jesus said to the crowds of the Jews: My Flesh is food indeed, and My Blood is drink indeed. He who eats My Flesh, and drinks My Blood, abides in Me and I in him. As the living Father has sent Me, and as I live because of the Father, so he who eats Me, he also shall live because of Me. This is the Bread that has come down from heaven; not as your fathers ate the manna, and died. He who eats this Bread shall live forever.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 6:56-59.</em></span><br>\nAt that time, Jesus said to the crowds of the Jews: My Flesh is food indeed, and My Blood is drink indeed. He who eats My Flesh, and drinks My Blood, abides in Me and I in him. As the living Father has sent Me, and as I live because of the Father, so he who eats Me, he also shall live because of Me. This is the Bread that has come down from heaven; not as your fathers ate the manna, and died. He who eats this Bread shall live forever.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Ecclésiæ tuæ, quǽsumus, Dómine, unitátis et pacis propítius dona concéde: quæ sub oblátis munéribus mýstice designántur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Ecclésiæ tuæ, quǽsumus, Dómine, unitátis et pacis propítius dona concéde: quæ sub oblátis munéribus mýstice designántur.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Graciously give Your Church, we beseech You, O Lord, the gifts of unity and peace which are betokened by the gifts we offer.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Graciously give Your Church, we beseech You, O Lord, the gifts of unity and peace which are betokened by the gifts we offer.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,7 +121,7 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>de Sanctissimo Sacramento</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum. Qui remótis carnálium victimárum inánibus umbris, Corpus et Sánguinem suum nobis in sacrifícium commendávit: ut in omni loco offerátur nómini tuo, quæ tibi sola complácuit, oblátio munda. In hoc ígitur inscrutábilis sapientiæ, et imménsæ caritátis mystério, idípsum quod semel in Cruce perfécit, non cessat mirabíliter operári, ipse ófferens, ipse et oblátio. Et nos, unam secum hóstiam effectos, ad sacrum ínvitat convívium, in quo ipse cibus noster súmitur, recólitur memória Passiónis eius, mens implétur grátia, et futúræ glóriæ nobis pignus datur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cœléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
+        "html": "<span class=\"rubric\"><em>de Sanctissimo Sacramento</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum. Qui remótis carnálium victimárum inánibus umbris, Corpus et Sánguinem suum nobis in sacrifícium commendávit: ut in omni loco offerátur nómini tuo, quæ tibi sola complácuit, oblátio munda. In hoc ígitur inscrutábilis sapientiæ, et imménsæ caritátis mystério, idípsum quod semel in Cruce perfécit, non cessat mirabíliter operári, ipse ófferens, ipse et oblátio. Et nos, unam secum hóstiam effectos, ad sacrum ínvitat convívium, in quo ipse cibus noster súmitur, recólitur memória Passiónis eius, mens implétur grátia, et futúræ glóriæ nobis pignus datur. Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cœléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:"
       },
       "english": {
         "label": "Prefatio",
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nFac nos, quǽsumus, Dómine, divinitátis tuæ sempitérna fruitióne repléri: quam pretiósi Corporis et Sanguinis tui temporalis percéptio præfigúrat:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nFac nos, quǽsumus, Dómine, divinitátis tuæ sempitérna fruitióne repléri: quam pretiósi Corporis et Sanguinis tui temporalis percéptio præfigúrat:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nGrant, we beseech You, O Lord, that we may be filled with that everlasting enjoyment of Your Godhead, as foreshadowed here on earth by the partaking of Your precious Body and Blood.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nGrant, we beseech You, O Lord, that we may be filled with that everlasting enjoyment of Your Godhead, as foreshadowed here on earth by the partaking of Your precious Body and Blood.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

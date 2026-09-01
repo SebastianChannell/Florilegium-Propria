@@ -17,7 +17,7 @@
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 44:13; 44:15-16.</em></span><br>\nAll the rich among the people seek your favor. Behind her the virgins of her train are brought to the King. They are borne in to you with gladness and joy.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nAll the rich among the people seek your favor. Behind her the virgins of her train are brought to the King. They are borne in to you with gladness and joy."
+        "html": "<span class=\"rubric\"><em>Ps 44:13 44:15-16.</em></span><br>\nAll the rich among the people seek your favor. Behind her the virgins of her train are brought to the King. They are borne in to You with gladness and joy.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nAll the rich among the people seek your favor. Behind her the virgins of her train are brought to the King. They are borne in to You with gladness and joy."
       }
     },
     {
@@ -65,7 +65,7 @@
       },
       "english": {
         "label": "Gradual",
-        "html": "<br>\n<span class=\"marker\"><em>℣.</em></span> Blessed and venerable are you, O Virgin Mary, who, without spot were made the Mother of the Saviour.<br>\n<span class=\"marker\"><em>℣.</em></span> O Virgin, Mother of God, He Whom the whole world cannot contain, shut Himself in your womb, becoming Man."
+        "html": "<span class=\"marker\"><em>℣.</em></span> Blessed and venerable are you, O Virgin Mary, who, without spot were made the Mother of the Saviour.<br>\n<span class=\"marker\"><em>℣.</em></span> O Virgin, Mother of God, He Whom the whole world cannot contain, shut Himself in your womb, becoming Man."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

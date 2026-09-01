@@ -61,7 +61,7 @@
       "kind": "gradual",
       "latin": {
         "label": "Graduale",
-        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\nOs justi meditábitur sapiéntiam, et lingua ejus loquétur judícium.<br>\n<span class=\"marker\"><em>℣.</em></span> Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Jac 1:12.</em></span><br>\nBeátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja."
+        "html": "<span class=\"rubric\"><em>Ps 36:30-31</em></span><br>\nOs justi meditábitur sapiéntiam, et lingua ejus loquétur judícium.<br>\n<span class=\"marker\"><em>℣.</em></span> Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus.<br>\nAllelúja, allelúja.<br>\n<span class=\"rubric\"><em>Jac 1:12.</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja."
       },
       "english": {
         "label": "Gradual",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

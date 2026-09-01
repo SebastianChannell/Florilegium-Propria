@@ -37,7 +37,7 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "Orémus.<br>\nFamulórum tuórum, quǽsumus, Dómine, delíctis ignósce: ut, qui tibi placére de áctibus nostris non valémus; Genitrícis Fílii tui, Dómini nostri, intercessióne salvémur:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Agapiti Martyris</em></span><br>\nLætétur Ecclésia tua, Deus, beáti Agapíti Mártyris tui confísa suffrágiis: atque, ejus précibus gloriósis, et devóta permáneat et secúra consístat.<br>\n<br>\n<span class=\"rubric\"><em>Ad Spiritum Sanctum</em></span><br>\nDeus, qui corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de ejus semper consolatióne gaudére.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nFamulorum tuorum quaesumus Domine, delictis ignosce ut, qui tibi placere de actibus nostris non valemus, Genitricis Filii tui Domini nostri intercessione salvemur.<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Agapiti Martyris</em></span><br>\nLætétur Ecclésia tua, Deus, beáti Agapíti Mártyris tui confísa suffrágiis: atque, ejus précibus gloriósis, et devóta permáneat et secúra consístat.<br>\n<br>\n<span class=\"rubric\"><em>Ad Spiritum Sanctum</em></span><br>\nDeus, qui corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de ejus semper consolatióne gaudére.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
@@ -109,7 +109,7 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Subvéniat, Dómine, plebi tuæ Dei Genitrícis orátio: quam etsi pro conditióne carnis migrásse cognóscimus, in cœlésti glória apud te pro nobis intercédere sentiámus.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Agapiti Martyris</em></span><br>\nSúscipe, Dómine, múnera, quæ in ejus tibi sollemnitáte deférimus: cujus nos confídimus patrocínio liberári.<br>\n<br>\n<span class=\"rubric\"><em>Ad Spiritum Sanctum</em></span><br>\nMúnera, quǽsumus, Dómine, obláta sanctífica: et corda nostra Sancti Spíritus illustratióne emúnda<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Subveniat, Domine, plebi tuae Dei Genetricis oratio: quam etsi pro conditione carnis migrasse cognoscimus, in coelesti gloria apud te pro nobis intercedere sentiamus.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Agapiti Martyris</em></span><br>\nSúscipe, Dómine, múnera, quæ in beátæ N. Vírginis et Mártyris tuæ sollemnitáte deférimus: cujus nos confídimus patrocínio liberári.<br>\n<br>\n<span class=\"rubric\"><em>Ad Spiritum Sanctum</em></span><br>\nMúnera, quǽsumus, Dómine, obláta sanctífica: et corda nostra Sancti Spíritus illustratióne emúnda<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
@@ -145,7 +145,7 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "Orémus.<br>\nMensæ cœléstis partícipes effécti, implorámus cleméntiam tuam, Dómine, Deus noster: ut, qui Assumptiónem Dei Genitrícis cólimus, a cunctis malis imminéntibus, ejus intercessióne, liberémur.<br>\nPer eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Agapiti Martyris</em></span><br>\nSatiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus.<br>\n<br>\n<span class=\"rubric\"><em>Ad Spiritum Sanctum</em></span><br>\nSancti Spíritus, Dómine, corda nostra mundet infúsio: et sui roris íntima aspersióne fecúndet.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nMensae coelestis participles effecti, imploramus clementiam tuam, Domine Deus noster; ut, qui Assumptionem Dei Genetricis colimus, a cunctis malis imminentibus, ejus intercessione liberemur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>Commemoratio S. Agapiti Martyris</em></span><br>\nSatiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus.<br>\n<br>\n<span class=\"rubric\"><em>Ad Spiritum Sanctum</em></span><br>\nSancti Spíritus, Dómine, corda nostra mundet infúsio: et sui roris íntima aspersióne fecúndet.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

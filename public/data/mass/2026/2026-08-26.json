@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2026-08-26",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "Feria Quarta infra Hebdomadam XIII post Octavam Pentecostes IV. Augusti",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 73:20; 73:19; 73:23</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>éspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et iúdica causam tuam, et ne obliviscáris voces quæréntium te.<br>\n<span class=\"rubric\"><em>Ps 73:1</em></span><br>\nUt quid, Deus, reppulísti in finem: irátus est furor tuus super oves páscuæ tuæ?<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>éspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et iúdica causam tuam, et ne obliviscáris voces quæréntium te."
+        "html": "<span class=\"rubric\"><em>Ps 73:20; 73:19; 73:23</em></span><br>\nRéspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et iúdica causam tuam, et ne obliviscáris voces quæréntium te.<br>\n<span class=\"rubric\"><em>Ps 73:1</em></span><br>\nUt quid, Deus, reppulísti in finem: irátus est furor tuus super oves páscuæ tuæ?<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nRéspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et iúdica causam tuam, et ne obliviscáris voces quæréntium te."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 73:20; 73:19; 73:23</em></span><br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ook to Your covenant, O Lord, forsake not forever the lives of Your afflicted ones. Arise, O Lord; defend Your cause; be not unmindful of the voices of those who ask You.<br>\n<span class=\"rubric\"><em>Ps 73:1</em></span><br>\nWhy, O God, have You cast us off forever? Why does Your anger smolder against the sheep of Your pasture?<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>ook to Your covenant, O Lord, forsake not forever the lives of Your afflicted ones. Arise, O Lord; defend Your cause; be not unmindful of the voices of those who ask You."
+        "html": "<span class=\"rubric\"><em>Ps 73:20; 73:19; 73:23</em></span><br>\nLook to Your covenant, O Lord, forsake not forever the lives of Your afflicted ones. Arise, O Lord; defend Your cause; be not unmindful of the voices of those who ask You.<br>\n<span class=\"rubric\"><em>Ps 73:1</em></span><br>\nWhy, O God, have You cast us off forever? Why does Your anger smolder against the sheep of Your pasture?<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nLook to Your covenant, O Lord, forsake not forever the lives of Your afflicted ones. Arise, O Lord; defend Your cause; be not unmindful of the voices of those who ask You."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nOmnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum: et, ut mereámur asséqui quod promíttis, fac nos amáre quod prǽcipis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nOmnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum: et, ut mereámur asséqui quod promíttis, fac nos amáre quod prǽcipis.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nAlmighty, eternal God, grant us an increase of faith, hope and charity; and make us love what You command so that we may be made worthy to attain what You promise.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nAlmighty, eternal God, grant us an increase of faith, hope and charity; and make us love what You command so that we may be made worthy to attain what You promise.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 17:11-19</em></span><br>\nIn illo témpore: Dum iret Iesus in Ierúsalem, transíbat per médiam Samaríam et Galilǽam. Et cum ingrederétur quoddam castéllum, occurrérunt ei decem viri leprósi, qui stetérunt a longe; et levavérunt vocem dicéntes: Iesu præcéptor, miserére nostri. Quos ut vidit, dixit: Ite, osténdite vos sacerdótibus. Et factum est, dum irent, mundáti sunt. Unus autem ex illis, ut vidit quia mundátus est, regréssus est, cum magna voce magníficans Deum, et cecidit in fáciem ante pedes eius, grátias agens: et hic erat Samaritánus. Respóndens autem Iesus, dixit: Nonne decem mundáti sunt? et novem ubi sunt? Non est invéntus, qui redíret et daret glóriam Deo, nisi hic alienígena. Et ait illi: Surge, vade; quia fides tua te salvum fecit.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 17:11-19</em></span><br>\nIn illo témpore: Dum iret Iesus in Ierúsalem, transíbat per médiam Samaríam et Galilǽam. Et cum ingrederétur quoddam castéllum, occurrérunt ei decem viri leprósi, qui stetérunt a longe; et levavérunt vocem dicéntes: Iesu præcéptor, miserére nostri. Quos ut vidit, dixit: Ite, osténdite vos sacerdótibus. Et factum est, dum irent, mundáti sunt. Unus autem ex illis, ut vidit quia mundátus est, regréssus est, cum magna voce magníficans Deum, et cecidit in fáciem ante pedes eius, grátias agens: et hic erat Samaritánus. Respóndens autem Iesus, dixit: Nonne decem mundáti sunt? et novem ubi sunt? Non est invéntus, qui redíret et daret glóriam Deo, nisi hic alienígena. Et ait illi: Surge, vade; quia fides tua te salvum fecit.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 17:11-19</em></span><br>\nAt that time, Jesus was going to Jerusalem, He was passing between Samaria and Galilee. And as He was entering a certain village, there He met ten lepers, who stood afar off and lifted up their voice, crying, Jesus, Master, have pity on us. And when He saw them He said, Go, show yourselves to the priests. And it came to pass as they were on their way, that they were made clean. But one of them, seeing that he was made clean, returned, with a loud voice glorifying God, and he fell on his face at His feet, giving thanks; and he was a Samaritan. But Jesus answered and said, Were not the ten made clean? But where are the nine? Has no one been found to return and give glory to God, except this foreigner? And He said to him, Arise, go your way, for your faith has saved you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 17:11-19</em></span><br>\nAt that time, Jesus was going to Jerusalem, He was passing between Samaria and Galilee. And as He was entering a certain village, there He met ten lepers, who stood afar off and lifted up their voice, crying, Jesus, Master, have pity on us. And when He saw them He said, Go, show yourselves to the priests. And it came to pass as they were on their way, that they were made clean. But one of them, seeing that he was made clean, returned, with a loud voice glorifying God, and he fell on his face at His feet, giving thanks; and he was a Samaritan. But Jesus answered and said, Were not the ten made clean? But where are the nine? Has no one been found to return and give glory to God, except this foreigner? And He said to him, Arise, go your way, for your faith has saved you.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Propitiáre, Dómine, pópulo tuo, propitiáre munéribus: ut, hac oblatióne placátus, et indulgéntiam nobis tríbuas et postuláta concedas.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Propitiáre, Dómine, pópulo tuo, propitiáre munéribus: ut, hac oblatióne placátus, et indulgéntiam nobis tríbuas et postuláta concedas.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Look with favor upon Your people, O Lord, look with favor upon their gifts; so that, appeased by this offering, You will grant us pardon and give us what we ask.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Look with favor upon Your people, O Lord, look with favor upon their gifts; so that, appeased by this offering, You will grant us pardon and give us what we ask.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSumptis, Dómine, cœléstibus sacraméntis: ad redemptiónis ætérnæ, quǽsumus, proficiámus augméntum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nSumptis, Dómine, cœléstibus sacraméntis: ad redemptiónis ætérnæ, quǽsumus, proficiámus augméntum.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nHaving received Your heavenly sacrament, O Lord, may we make progress, we beseech You, toward our everlasting salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nHaving received Your heavenly sacrament, O Lord, may we make progress, we beseech You, toward our everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

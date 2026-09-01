@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-07-26",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "S. Annæ Matris B.M.V.",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><strong><em>G</em></strong></span>audeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Annæ: de cuius sollemnitáte gaudent Angeli et colláudant Fílium Dei.<br>\n<span class=\"rubric\"><em>Ps 44:2.</em></span><br>\nEructávit cor meum verbum bonum: dico ego ópera mea Regi.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>G</em></strong></span>audeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Annæ: de cuius sollemnitáte gaudent Angeli et colláudant Fílium Dei."
+        "html": "Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Annæ: de cuius sollemnitáte gaudent Angeli et colláudant Fílium Dei.<br>\n<span class=\"rubric\"><em>Ps 44:2.</em></span><br>\nEructávit cor meum verbum bonum: dico ego ópera mea Regi.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nGaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Annæ: de cuius sollemnitáte gaudent Angeli et colláudant Fílium Dei."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us all rejoice in the Lord, celebrating a festival in honor of blessed Anne, on whose solemnity the angels rejoice, and give praise to the Son of God.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>L</em></strong></span>et us all rejoice in the Lord, celebrating a festival in honor of blessed Anne, on whose solemnity the angels rejoice, and give praise to the Son of God."
+        "html": "Let us all rejoice in the Lord, celebrating a festival in honor of blessed Anne, on whose solemnity the angels rejoice, and give praise to the Son of God.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nLet us all rejoice in the Lord, celebrating a festival in honor of blessed Anne, on whose solemnity the angels rejoice, and give praise to the Son of God."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui beátæ Annæ grátiam conférre dignatus es, ut Genetrícis unigéniti Fílii tui mater effici mererétur: concéde propítius; ut, cuius sollémnia celebrámus, eius apud te patrocíniis adiuvémur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDeus, qui beátæ Annæ grátiam conférre dignatus es, ut Genetrícis unigéniti Fílii tui mater effici mererétur: concéde propítius; ut, cuius sollémnia celebrámus, eius apud te patrocíniis adiuvémur.<br>\nPer eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who in Your kindness gave blessed Anne the grace to be the mother of her who mothered Your only-begotten Son, graciously grant that we who keep her feast may be helped by her intercession with You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who in Your kindness gave blessed Anne the grace to be the mother of her who mothered Your only-begotten Son, graciously grant that we who keep her feast may be helped by her intercession with You.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 13:44-52</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis parábolam hanc: Símile est regnum cœlórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Íterum símile est regnum cœlórum hómini negotiatóri, quærénti bonas margarítas. Invénta autem una pretiósa margaríta, ábiit, et véndidit ómnia, quæ hábuit, et emit eam. Íterum símile est regnum cœlórum sagénæ missæ in mare et ex omni génere píscium congregánti. Quam, cum impléta esset, educéntes, et secus litus sedéntes, elegérunt bonos in vasa, malos autem foras misérunt. Sic erit in consummatióne sǽculi: exíbunt Angeli, et separábunt malos de médio iustórum, et mittent eos in camínum ignis: ibi erit fletus et stridor déntium. Intellexístis hæc ómnia? Dicunt ei: Etiam. Ait illis: Ideo omnis scriba doctus in regno cœlórum símilis est hómini patrifamílias, qui profert de thesáuro suo nova et vétera.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 13:44-52</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis parábolam hanc: Símile est regnum cœlórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Íterum símile est regnum cœlórum hómini negotiatóri, quærénti bonas margarítas. Invénta autem una pretiósa margaríta, ábiit, et véndidit ómnia, quæ hábuit, et emit eam. Íterum símile est regnum cœlórum sagénæ missæ in mare et ex omni génere píscium congregánti. Quam, cum impléta esset, educéntes, et secus litus sedéntes, elegérunt bonos in vasa, malos autem foras misérunt. Sic erit in consummatióne sǽculi: exíbunt Angeli, et separábunt malos de médio iustórum, et mittent eos in camínum ignis: ibi erit fletus et stridor déntium. Intellexístis hæc ómnia? Dicunt ei: Etiam. Ait illis: Ideo omnis scriba doctus in regno cœlórum símilis est hómini patrifamílias, qui profert de thesáuro suo nova et vétera.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 13:44-52.</em></span><br>\nAt that time, Jesus spoke this parable to His disciples: The kingdom of heaven is like a treasure hidden in a field; he who finds it hides it, and in his joy goes and sells all that he has and buys that field. Again, the kingdom of heaven is like a merchant in search of fine pearls. When he finds a single pearl of great price, he goes and sells all that he has and buys it. Again, the kingdom of heaven is like a net cast into the sea that gathered in fish of every kind. When it was filled, they hauled it out, and sitting down on the beach, they gathered the good fish into vessels, but threw away the bad. So will it be at the end of the world. The angels will go out and separate the wicked from among the just, and will cast them into the furnace of fire, where there will be the weeping, and the gnashing of teeth. Have you understood all these things? They said to Him, Yes. And He said to them, So then, every Scribe instructed in the kingdom of heaven is like a householder who brings forth from his storeroom things new and old.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">+</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 13:44-52.</em></span><br>\nAt that time, Jesus spoke this parable to His disciples: The kingdom of heaven is like a treasure hidden in a field; he who finds it hides it, and in his joy goes and sells all that he has and buys that field. Again, the kingdom of heaven is like a merchant in search of fine pearls. When he finds a single pearl of great price, he goes and sells all that he has and buys it. Again, the kingdom of heaven is like a net cast into the sea that gathered in fish of every kind. When it was filled, they hauled it out, and sitting down on the beach, they gathered the good fish into vessels, but threw away the bad. So will it be at the end of the world. The angels will go out and separate the wicked from among the just, and will cast them into the furnace of fire, where there will be the weeping, and the gnashing of teeth. Have you understood all these things? They said to Him, Yes. And He said to them, So then, every Scribe instructed in the kingdom of heaven is like a householder who brings forth from his storeroom things new and old.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -100,7 +101,7 @@
       },
       "english": {
         "label": "Offertorium",
-        "html": "<span class=\"rubric\"><em>Ps 44:10</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he daughters of kings have delighted thee in thy glory. The queen stood on thy right hand, in gilded clothing; surrounded with variety."
+        "html": "<span class=\"rubric\"><em>Ps 44:10</em></span><br>\nThe daughters of kings have delighted thee in thy glory. The queen stood on thy right hand, in gilded clothing; surrounded with variety."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Sacrifíciis præséntibus, quǽsumus, Dómine, placatus inténde: ut per intercessiónem beátæ Annæ, quæ Genetrícis Fílii tui, Dómini nostri Iesu Christi, mater éxstitit, et devotióni nostræ profíciant et salúti.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Sacrifíciis præséntibus, quǽsumus, Dómine, placatus inténde: ut per intercessiónem beátæ Annæ, quæ Genetrícis Fílii tui, Dómini nostri Iesu Christi, mater éxstitit, et devotióni nostræ profíciant et salúti.<br>\nPer eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Look with favor, O Lord, upon the offerings here before You, that, through the intercession of blessed Anne who bore the Mother of Your Son, our Lord Jesus Christ, they may help toward our holiness and our salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Look with favor, O Lord, upon the offerings here before You, that, through the intercession of blessed Anne who bore the Mother of Your Son, our Lord Jesus Christ, they may help toward our holiness and our salvation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nCœléstibus sacraméntis vegetáti, quǽsumus, Dómine, Deus noster: ut, intercessióne beátæ Annæ, quam Genetrícis Fílii tui matrem esse voluísti, ad ætérnam salútem perveníre mereámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nCœléstibus sacraméntis vegetáti, quǽsumus, Dómine, Deus noster: ut, intercessióne beátæ Annæ, quam Genetrícis Fílii tui matrem esse voluísti, ad ætérnam salútem perveníre mereámur.<br>\nPer eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nStrengthened by the heavenly sacrament, we beseech You, O Lord our God, that, by the intercession of blessed Anne, whom You willed to be the mother of Your Son’s Mother, we may be found worthy of reaching eternal salvation.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nStrengthened by the heavenly sacrament, we beseech You, O Lord our God, that, by the intercession of blessed Anne, whom You willed to be the mother of Your Son’s Mother, we may be found worthy of reaching eternal salvation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

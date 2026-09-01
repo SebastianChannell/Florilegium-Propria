@@ -61,7 +61,7 @@
       "kind": "gradual",
       "latin": {
         "label": "Graduale",
-        "html": "<span class=\"rubric\"><em>Ps 12:6</em></span><br>\nExsultábit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi: et psallam nómini Dómini altíssimi.<br>\n<span class=\"rubric\"><em>Ps 44:18</em></span><br>\nMémores erunt nóminis tui in omni generatióne et generatiónem: proptérea pópuli confitebúntur tibi in ætérnum. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em> Luc 1:46; 1:47</em></span><br>\nMagníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo. Allelúja."
+        "html": "<span class=\"rubric\"><em>Ps 12:6</em></span><br>\nExsultábit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi: et psallam nómini Dómini altíssimi.<br>\n<span class=\"rubric\"><em>Ps 44:18</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Mémores erunt nóminis tui in omni generatióne et generatiónem: proptérea pópuli confitebúntur tibi in ætérnum. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em> Luc 1:46; 1:47</em></span><br>\n<span class=\"marker\"><em>℣.</em></span> Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo. Allelúja."
       },
       "english": {
         "label": "Gradual",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

@@ -7,8 +7,8 @@
   "missal": "Roman Missal · Divino Afflatu 1954",
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   },
   "days": {
     "2026-01-01": {
@@ -1645,7 +1645,7 @@
     "2026-08-22": {
       "title": "Immaculati Cordis Beatæ Mariæ Virginis",
       "rank": "Duplex II. classis",
-      "note": "Commemoratio ad Laudes & Matutinum: Ss. Timothei, Hippolyti et Symphoriani Martyres",
+      "note": "Commemoratio ad Laudes & Matutinum: In Vigilia S.Bartholomæi Apostoli",
       "sectionCount": 12,
       "path": "/data/mass/pre-1955/2026/2026-08-22.json"
     },

@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-06-05",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "S. Bonifatii Episcopi et Martyris",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Is 65:19; 65:23</em></span><br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xsultábo in Ierúsalem et gaudébo in pópulo meo: et non audiétur in eo ultra vos fletus et vox clamóris. Elécti mei non laborábunt frustra neque generábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis.<br>\n<span class=\"rubric\"><em>Ps 43:2</em></span><br>\nDeus, áuribus nostris audívimus: patres nostri narravérunt opus, quod operátus es in diébus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>E</em></strong></span>xsultábo in Ierúsalem et gaudébo in pópulo meo: et non audiétur in eo ultra vos fletus et vox clamóris. Elécti mei non laborábunt frustra neque generábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis."
+        "html": "<span class=\"rubric\"><em>Is 65:19; 65:23</em></span><br>\nExsultábo in Ierúsalem et gaudébo in pópulo meo: et non audiétur in eo ultra vos fletus et vox clamóris. Elécti mei non laborábunt frustra neque generábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis.<br>\n<span class=\"rubric\"><em>Ps 43:2</em></span><br>\nDeus, áuribus nostris audívimus: patres nostri narravérunt opus, quod operátus es in diébus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nExsultábo in Ierúsalem et gaudébo in pópulo meo: et non audiétur in eo ultra vos fletus et vox clamóris. Elécti mei non laborábunt frustra neque generábunt in conturbatióne: quia semen benedictórum Dómini est, et nepótes eórum cum eis."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Isa. 65:19; 65:23</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> will rejoice in Jerusalem and exult in My people. No longer shall the sound of weeping be heard there, or the sound of crying. My elect shall not toil in vain, nor beget children for sudden destruction; for a race blessed by the Lord are they and their offspring.<br>\n<span class=\"rubric\"><em>Ps 43:2</em></span><br>\nO God, our ears have heard, our fathers have declared to us, the deeds You did in their days.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>I</em></strong></span> will rejoice in Jerusalem and exult in My people. No longer shall the sound of weeping be heard there, or the sound of crying. My elect shall not toil in vain, nor beget children for sudden destruction; for a race blessed by the Lord are they and their offspring."
+        "html": "<span class=\"rubric\"><em>Isa. 65:19; 65:23</em></span><br>\nI will rejoice in Jerusalem and exult in My people. No longer shall the sound of weeping be heard there, or the sound of crying. My elect shall not toil in vain, nor beget children for sudden destruction; for a race blessed by the Lord are they and their offspring.<br>\n<span class=\"rubric\"><em>Ps 43:2</em></span><br>\nO God, our ears have heard, our fathers have declared to us, the deeds You did in their days.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nI will rejoice in Jerusalem and exult in My people. No longer shall the sound of weeping be heard there, or the sound of crying. My elect shall not toil in vain, nor beget children for sudden destruction; for a race blessed by the Lord are they and their offspring."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui multitúdinem populórum, beáti Bonifátii Mártyris tui atque Pontíficis zelo, ad agnitiónem tui nóminis vocáre dignátus es: concéde propítius; ut, cuius sollémnia cólimus, étiam patrocínia sentiámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDeus, qui multitúdinem populórum, beáti Bonifátii Mártyris tui atque Pontíficis zelo, ad agnitiónem tui nóminis vocáre dignátus es: concéde propítius; ut, cuius sollémnia cólimus, étiam patrocínia sentiámus.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who, through the zeal of blessed Boniface, Your Martyr and Bishop, graciously called a multitude of people to the knowledge of Your name, mercifully grant that we who keep his feast may also enjoy his patronage.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who, through the zeal of blessed Boniface, Your Martyr and Bishop, graciously called a multitude of people to the knowledge of Your name, mercifully grant that we who keep his feast may also enjoy his patronage.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 5:1-12</em></span><br>\nIn illo témpore: Videns Iesus turbas, ascéndit in montem, et cum sedísset, accessérunt ad eum discípuli eius, et apériens os suum, docébat eos, dicens: Beáti páuperes spíritu: quóniam ipsórum est regnum cœlórum. Beáti mites: quóniam ipsi possidébunt terram. Beáti, qui lugent: quóniam ipsi consolabúntur. Beáti, qui esúriunt et sítiunt iustítiam: quóniam ipsi saturabúntur. Beáti misericórdes: quóniam ipsi misericórdiam consequántur. Beáti mundo corde: quóniam ipsi Deum vidébunt. Beáti pacífici: quóniam fílii Dei vocabúntur. Beáti, qui persecutiónem patiúntur propter iustítiam: quóniam ipsórum est regnum cœlórum. Beáti estis, cum maledíxerint vobis et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me: gaudete et exsultáte, quóniam merces vestra copiósa est in cœlis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 5:1-12</em></span><br>\nIn illo témpore: Videns Iesus turbas, ascéndit in montem, et cum sedísset, accessérunt ad eum discípuli eius, et apériens os suum, docébat eos, dicens: Beáti páuperes spíritu: quóniam ipsórum est regnum cœlórum. Beáti mites: quóniam ipsi possidébunt terram. Beáti, qui lugent: quóniam ipsi consolabúntur. Beáti, qui esúriunt et sítiunt iustítiam: quóniam ipsi saturabúntur. Beáti misericórdes: quóniam ipsi misericórdiam consequántur. Beáti mundo corde: quóniam ipsi Deum vidébunt. Beáti pacífici: quóniam fílii Dei vocabúntur. Beáti, qui persecutiónem patiúntur propter iustítiam: quóniam ipsórum est regnum cœlórum. Beáti estis, cum maledíxerint vobis et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me: gaudete et exsultáte, quóniam merces vestra copiósa est in cœlis.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 5:1-12</em></span><br>\nAt that time, Jesus seeing the crowds, went up the mountain. And when He was seated, His disciples came to Him. And opening His mouth He taught them, saying, Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are the meek, for they shall possess the earth. Blessed are they who mourn, for they shall be comforted. Blessed are they who hunger and thirst for justice, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the clean of heart, for they shall see God. Blessed are the peacemakers, for they shall be called the children of God. Blessed are you when men reproach you, and persecute you, and, speaking falsely, say all manner of evil against you, for My sake. Rejoice and exult, because your reward is great in heaven.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 5:1-12</em></span><br>\nAt that time, Jesus seeing the crowds, went up the mountain. And when He was seated, His disciples came to Him. And opening His mouth He taught them, saying, Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are the meek, for they shall possess the earth. Blessed are they who mourn, for they shall be comforted. Blessed are they who hunger and thirst for justice, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the clean of heart, for they shall see God. Blessed are the peacemakers, for they shall be called the children of God. Blessed are you when men reproach you, and persecute you, and, speaking falsely, say all manner of evil against you, for My sake. Rejoice and exult, because your reward is great in heaven.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Super has hóstias, Dómine, quǽsumus, benedíctio copiósa descéndat: quæ et sanctificatiónem nostram misericórditer operátur; et de sancti Bonifátii Mártyris tui atque Pontíficis fáciat sollemnitáte gaudére.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Super has hóstias, Dómine, quǽsumus, benedíctio copiósa descéndat: quæ et sanctificatiónem nostram misericórditer operátur; et de sancti Bonifátii Mártyris tui atque Pontíficis fáciat sollemnitáte gaudére.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "May a bountiful blessing, O Lord, descend upon these offerings and, through Your mercy, may it help to make us holy and to be joyful on the feast of blessed Boniface, Your Martyr and Bishop.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May a bountiful blessing, O Lord, descend upon these offerings and, through Your mercy, may it help to make us holy and to be joyful on the feast of blessed Boniface, Your Martyr and Bishop.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nSanctificáti, Dómine, salutári mystério: quǽsumus; ut nobis sancti Bonifátii Mártyris tui atque Pontíficis pia non desit orátio, cuius nos donásti patrocínio gubernári.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nSanctificáti, Dómine, salutári mystério: quǽsumus; ut nobis sancti Bonifátii Mártyris tui atque Pontíficis pia non desit orátio, cuius nos donásti patrocínio gubernári.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMade holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of blessed Boniface, Your Martyr and Bishop, under whose patronal care You have granted us to be ruled may never fail us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMade holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of blessed Boniface, Your Martyr and Bishop, under whose patronal care You have granted us to be ruled may never fail us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

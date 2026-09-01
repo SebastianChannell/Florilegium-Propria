@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2026-01-24",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "S. Timothei Episcopi et Martyris",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Eccli 45:30</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>tátuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum.<br>\n<span class=\"rubric\"><em>Ps 131:1.</em></span><br>\nMeménto, Dómine, David: et omnis mansuetúdinis eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>tátuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum."
+        "html": "<span class=\"rubric\"><em>Eccli 45:30</em></span><br>\nStátuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum.<br>\n<span class=\"rubric\"><em>Ps 131:1.</em></span><br>\nMeménto, Dómine, David: et omnis mansuetúdinis eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nStátuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Sir 45:30</em></span><br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord made a covenant of friendship with him, and made him a prince; that he should possess the dignity of priesthood forever.<br>\n<span class=\"rubric\"><em>Ps. 131:1</em></span><br>\nRemember, O Lord, David and all his meekness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>he Lord made a covenant of friendship with him, and made him a prince; that he should possess the dignity of priesthood forever."
+        "html": "<span class=\"rubric\"><em>Sir 45:30</em></span><br>\nThe Lord made a covenant of friendship with him, and made him a prince; that he should possess the dignity of priesthood forever.<br>\n<span class=\"rubric\"><em>Ps. 131:1</em></span><br>\nRemember, O Lord, David and all his meekness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nThe Lord made a covenant of friendship with him, and made him a prince; that he should possess the dignity of priesthood forever."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nInfirmitátem nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beáti Timothei Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nInfirmitátem nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beáti Timothei Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nBe mindful of our weakness, almighty God, and because the burden of our sins weighs heavily upon us, may the glorious intercession of blessed Timothy, Your Martyr and Bishop, sustain us.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nBe mindful of our weakness, almighty God, and because the burden of our sins weighs heavily upon us, may the glorious intercession of blessed Timothy, Your Martyr and Bishop, sustain us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 14:26-33</em></span><br>\nIn illo témpore: Dixit Iesus turbis: Si quis venit ad me, et non odit patrem suum, et matrem, et uxórem, et fílios, et fratres, et soróres, adhuc autem et ánimam suam, non potest meus esse discípulus. Et qui non báiulat crucem suam, et venit post me, non potest meus esse discípulus. Quis enim ex vobis volens turrim ædificáre, non prius sedens cómputat sumptus, qui necessárii sunt, si hábeat ad perficiéndum; ne, posteáquam posúerit fundaméntum, et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei, dicéntes: Quia hic homo cœpit ædificáre, et non pótuit consummáre? Aut quis rex itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens, rogat ea, quæ pacis sunt. Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 14:26-33</em></span><br>\nIn illo témpore: Dixit Iesus turbis: Si quis venit ad me, et non odit patrem suum, et matrem, et uxórem, et fílios, et fratres, et soróres, adhuc autem et ánimam suam, non potest meus esse discípulus. Et qui non báiulat crucem suam, et venit post me, non potest meus esse discípulus. Quis enim ex vobis volens turrim ædificáre, non prius sedens cómputat sumptus, qui necessárii sunt, si hábeat ad perficiéndum; ne, posteáquam posúerit fundaméntum, et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei, dicéntes: Quia hic homo cœpit ædificáre, et non pótuit consummáre? Aut quis rex itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens, rogat ea, quæ pacis sunt. Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 14:26-33.</em></span><br>\nAt that time, Jesus said to the crowds, If anyone comes to Me and does not hate his father and mother, and wife and children, and brothers and sisters, yes, and even his own life, he cannot be My disciple. And he who does not carry his cross and follow Me, cannot be My disciple. For which of you, wishing to build a tower, does not sit down first and calculate the outlays that are necessary, whether he has the means to complete it? Lest, after he has laid the foundation and is not able to finish, all who behold begin to mock him, saying, ‘This man began to build and was not able to finish!’ Or what king setting out to engage in battle with another king, does not sit down first and consider whether he is able with ten thousand men to meet him who with twenty thousand is coming against him? Or else, whilst the other is yet at a distance, he sends a delegation and asks the terms of peace. So, therefore, every one of you who does not renounce all that he possesses, cannot be My disciple.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 14:26-33.</em></span><br>\nAt that time, Jesus said to the crowds, If anyone comes to Me and does not hate his father and mother, and wife and children, and brothers and sisters, yes, and even his own life, he cannot be My disciple. And he who does not carry his cross and follow Me, cannot be My disciple. For which of you, wishing to build a tower, does not sit down first and calculate the outlays that are necessary, whether he has the means to complete it? Lest, after he has laid the foundation and is not able to finish, all who behold begin to mock him, saying, ‘This man began to build and was not able to finish!’ Or what king setting out to engage in battle with another king, does not sit down first and consider whether he is able with ten thousand men to meet him who with twenty thousand is coming against him? Or else, whilst the other is yet at a distance, he sends a delegation and asks the terms of peace. So, therefore, every one of you who does not renounce all that he possesses, cannot be My disciple.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Hóstias tibi, Dómine, beáti Timothei Mártyris tui atque Pontíficis dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Hóstias tibi, Dómine, beáti Timothei Mártyris tui atque Pontíficis dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "O Lord, graciously accept, through the merits of Your blessed Martyr and Bishop Timothy, the sacrificial gifts dedicated to You, and grant they may prove to be for us a lasting help.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "O Lord, graciously accept, through the merits of Your blessed Martyr and Bishop Timothy, the sacrificial gifts dedicated to You, and grant they may prove to be for us a lasting help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nRefécti participatióne múneris sacri, quǽsumus, Dómine, Deus noster: ut, cuius exséquimur cultum, intercedénte beáto Timotheo Mártyre tuo atque Pontífice, sentiámus efféctum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nRefécti participatióne múneris sacri, quǽsumus, Dómine, Deus noster: ut, cuius exséquimur cultum, intercedénte beáto Timotheo Mártyre tuo atque Pontífice, sentiámus efféctum.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nRefreshed by partaking of the sacred gift, we beseech You, O Lord our God, that we may enjoy the benefits of the rite we perform through the intercession of blessed Timothy, Your Martyr and Bishop.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nRefreshed by partaking of the sacred gift, we beseech You, O Lord our God, that we may enjoy the benefits of the rite we perform through the intercession of blessed Timothy, Your Martyr and Bishop.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

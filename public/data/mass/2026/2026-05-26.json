@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2026-05-26",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "Die III infra octavam Pentecostes",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Esdr 2:36 2:37</em></span><br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>ccípite iucunditátem glóriæ vestræ, allelúia: grátias agéntes Deo, allelúia: qui vos ad cœléstia regna vocávit, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 77:1.</em></span><br>\nAtténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>A</em></strong></span>ccípite iucunditátem glóriæ vestræ, allelúia: grátias agéntes Deo, allelúia: qui vos ad cœléstia regna vocávit, allelúia, allelúia, allelúia."
+        "html": "<span class=\"rubric\"><em>Esdr 2:36 2:37</em></span><br>\nAccípite iucunditátem glóriæ vestræ, allelúia: grátias agéntes Deo, allelúia: qui vos ad cœléstia regna vocávit, allelúia, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 77:1.</em></span><br>\nAtténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nAccípite iucunditátem glóriæ vestræ, allelúia: grátias agéntes Deo, allelúia: qui vos ad cœléstia regna vocávit, allelúia, allelúia, allelúia."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Esdr 2:36-37</em></span><br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>eceive the joy of your glory, alleluia: giving thanks to God, alleluia, who has called you to the heavenly kingdom, alleluia, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nHearken, My people, to my teaching; incline your ears to the words of My mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>R</em></strong></span>eceive the joy of your glory, alleluia: giving thanks to God, alleluia, who has called you to the heavenly kingdom, alleluia, alleluia, alleluia."
+        "html": "<span class=\"rubric\"><em>Esdr 2:36-37</em></span><br>\nReceive the joy of your glory, alleluia: giving thanks to God, alleluia, who has called you to the heavenly kingdom, alleluia, alleluia, alleluia.<br>\n<span class=\"rubric\"><em>Ps 77:1</em></span><br>\nHearken, My people, to my teaching; incline your ears to the words of My mouth.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nReceive the joy of your glory, alleluia: giving thanks to God, alleluia, who has called you to the heavenly kingdom, alleluia, alleluia, alleluia."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nAdsit nobis, quǽsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nAdsit nobis, quǽsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nLet the power of the Holy Spirit be present within us, O Lord, graciously to cleanse our hearts as well as to guard us from all harm.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nLet the power of the Holy Spirit be present within us, O Lord, graciously to cleanse our hearts as well as to guard us from all harm.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 10:1-10</em></span><br>\nIn illo témpore: Dixit Iesus pharisǽis: Amen, amen, dico vobis: qui non intrat per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est et latro. Qui autem intrat per óstium, pastor est óvium. Huic ostiárius áperit, et oves vocem eius áudiunt, et próprias oves vocat nominátim et edúcit eas. Et cum próprias oves emíserit, ante eas vadit: et oves illum sequúntur, quia sciunt vocem eius. Aliénum autem non sequúntur, sed fúgiunt ab eo; quia non novérunt vocem alienórum. Hoc provérbium dixit eis Iesus. Illi autem non cognovérunt, quid loquerétur eis. Dixit ergo eis íterum Iesus: Amen, amen, dico vobis, quia ego sum óstium óvium. Omnes, quotquot venérunt, fures sunt et latrónes, et non audiérunt eos oves. Ego sum óstium. Per me si quis introíerit, salvábitur: et ingrediétur et egrediétur et páscua invéniet. Fur non venit, nisi ut furétur et mactet et perdat. Ego veni, ut vitam hábeant et abundántius hábeant.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Ioánnem<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Ioannes 10:1-10</em></span><br>\nIn illo témpore: Dixit Iesus pharisǽis: Amen, amen, dico vobis: qui non intrat per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est et latro. Qui autem intrat per óstium, pastor est óvium. Huic ostiárius áperit, et oves vocem eius áudiunt, et próprias oves vocat nominátim et edúcit eas. Et cum próprias oves emíserit, ante eas vadit: et oves illum sequúntur, quia sciunt vocem eius. Aliénum autem non sequúntur, sed fúgiunt ab eo; quia non novérunt vocem alienórum. Hoc provérbium dixit eis Iesus. Illi autem non cognovérunt, quid loquerétur eis. Dixit ergo eis íterum Iesus: Amen, amen, dico vobis, quia ego sum óstium óvium. Omnes, quotquot venérunt, fures sunt et latrónes, et non audiérunt eos oves. Ego sum óstium. Per me si quis introíerit, salvábitur: et ingrediétur et egrediétur et páscua invéniet. Fur non venit, nisi ut furétur et mactet et perdat. Ego veni, ut vitam hábeant et abundántius hábeant.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 10:1-10.</em></span><br>\nAt that time, Jesus said to the Pharisees, Amen, amen, I say to you, he who enters not by the door into the sheepfold, but climbs up another way, is a thief and a robber. But he who enters by the door is shepherd of the sheep. To this man the gatekeeper opens, and the sheep hear his voice, and he calls his own sheep by name and leads them forth. And when he has let out his own sheep, he goes before them; and the sheep follow him because they know his voice. But a stranger they will not follow, but will flee from him, because they do not know the voice of strangers. This parable Jesus spoke to them, but they did not understand what He was saying to them. Again, therefore, Jesus said to them, Amen, amen, I say to you, I am the door of the sheep. All whoever have come are thieves and robbers; but the sheep have not heard them. I am the door. If anyone enter by Me he shall be safe, and shall go in and out, and shall find pastures. The thief comes only to steal, and slay, and destroy. I came that they may have life, and have it more abundantly.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to John<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>John 10:1-10.</em></span><br>\nAt that time, Jesus said to the Pharisees, Amen, amen, I say to you, he who enters not by the door into the sheepfold, but climbs up another way, is a thief and a robber. But he who enters by the door is shepherd of the sheep. To this man the gatekeeper opens, and the sheep hear his voice, and he calls his own sheep by name and leads them forth. And when he has let out his own sheep, he goes before them; and the sheep follow him because they know his voice. But a stranger they will not follow, but will flee from him, because they do not know the voice of strangers. This parable Jesus spoke to them, but they did not understand what He was saying to them. Again, therefore, Jesus said to them, Amen, amen, I say to you, I am the door of the sheep. All whoever have come are thieves and robbers; but the sheep have not heard them. I am the door. If anyone enter by Me he shall be safe, and shall go in and out, and shall find pastures. The thief comes only to steal, and slay, and destroy. I came that they may have life, and have it more abundantly.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Puríficet nos, quǽsumus. Dómine, múneris præséntis oblátio: et dignos sacra participatióne effíciat.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Puríficet nos, quǽsumus. Dómine, múneris præséntis oblátio: et dignos sacra participatióne effíciat.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "May the offering of this gift here before You, O Lord, make us pure and worthy to take part in this sacred rite.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May the offering of this gift here before You, O Lord, make us pure and worthy to take part in this sacred rite.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>de Spiritu Sancto</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui, ascéndens super omnes cælos sedénsque ad déxteram tuam, promíssum Spíritum Sanctum hodierna die in fílios adoptiónis effúdit. Quaprópter profúsis gáudiis totus in orbe terrárum mundus exsúltat. Sed et supérnæ Virtútes atque angélicæ Potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
+        "html": "<span class=\"rubric\"><em>de Spiritu Sancto</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Qui, ascéndens super omnes cælos sedénsque ad déxteram tuam, promíssum Spíritum Sanctum hodierna die in fílios adoptiónis effúdit. Quaprópter profúsis gáudiis totus in orbe terrárum mundus exsúltat. Sed et supérnæ Virtútes atque angélicæ Potestátes hymnum glóriæ tuæ cóncinunt, sine fine dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Holy Spirit</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who ascending above all in the heavens and sitting at Thy Right Hand, poured out the Holy Spirit upon the children of adoption. Wherefore the whole world doth rejoice with overflowing joy; and the heavenly Hosts also and the angelic Powers sing together the hymn of Thy glory, evermore saying:"
+        "html": "<span class=\"rubric\"><em>Holy Spirit</em></span><br>\nIt is truly meet and just, right and for our salvation, that we should at all times, and in all places, give thanks unto Thee, O holy Lord, Father almighty, everlasting God: through Christ our Lord. Who ascending above all in the heavens and sitting at Thy Right Hand, poured out the Holy Spirit upon the children of adoption. Wherefore the whole world doth rejoice with overflowing joy; and the heavenly Hosts also and the angelic Powers sing together the hymn of Thy glory, evermore saying:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nMentes nostras, quǽsumus, Dómine, Spíritus Sanctus divínis réparet sacraméntis: quia ipse est remíssio ómnium peccatórum.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nMentes nostras, quǽsumus, Dómine, Spíritus Sanctus divínis réparet sacraméntis: quia ipse est remíssio ómnium peccatórum.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte eiúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nMay the Holy Spirit, we beseech You, O Lord, renew our minds through the heavenly sacrament, for He Himself is the forgiveness of all sins.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the Holy Spirit, we beseech You, O Lord, renew our minds through the heavenly sacrament, for He Himself is the forgiveness of all sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

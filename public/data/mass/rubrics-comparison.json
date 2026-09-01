@@ -33,8 +33,8 @@
       "properDaysDifferent": 277,
       "source": {
         "repository": "https://github.com/DivinumOfficium/divinum-officium",
-        "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-        "commitDate": "2026-08-14T13:10:25-04:00"
+        "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+        "commitDate": "2026-08-31T09:39:11-07:00"
       },
       "changedDates": {
         "calendar": [
@@ -1811,8 +1811,8 @@
       "properDaysDifferent": 284,
       "source": {
         "repository": "https://github.com/DivinumOfficium/divinum-officium",
-        "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-        "commitDate": "2026-08-14T13:10:25-04:00"
+        "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+        "commitDate": "2026-08-31T09:39:11-07:00"
       },
       "changedDates": {
         "calendar": [

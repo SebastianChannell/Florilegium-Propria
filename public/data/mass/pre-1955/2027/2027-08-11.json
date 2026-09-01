@@ -49,7 +49,7 @@
       "kind": "lesson",
       "latin": {
         "label": "Lectio",
-        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos<br>\n<span class=\"rubric\"><em>Hebr 11:33-39</em></span><br>\nFratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem distenti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: álii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflícti: quibus dignus non erat mundus: in solitudínibus errántes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Jesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos<br>\n<span class=\"rubric\"><em>Hebr 11:33-39</em></span><br>\nFratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem disténti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: alii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflicti: quibus dignus non erat mundus: in solitudínibus errantes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Jesu, Dómino nostro.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
       },
       "english": {
         "label": "Lesson",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

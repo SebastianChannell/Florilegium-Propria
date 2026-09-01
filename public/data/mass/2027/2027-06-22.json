@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-06-22",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "S. Paulini Episcopi et Confessoris",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 131,9-10.</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>acerdótes tui, Dómine, índuant iustítiam, et sancti tui exsúltent: propter David servum tuum, non avértas fáciem Christi tui.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\nMeménto, Dómine, David: et omnis mansuetúdinis eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>acerdótes tui, Dómine, índuant iustítiam, et sancti tui exsúltent: propter David servum tuum, non avértas fáciem Christi tui."
+        "html": "<span class=\"rubric\"><em>Ps 131,9-10.</em></span><br>\nSacerdótes tui, Dómine, índuant iustítiam, et sancti tui exsúltent: propter David servum tuum, non avértas fáciem Christi tui.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\nMeménto, Dómine, David: et omnis mansuetúdinis eius.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSacerdótes tui, Dómine, índuant iustítiam, et sancti tui exsúltent: propter David servum tuum, non avértas fáciem Christi tui."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 131:9-10</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\nRemember, O Lord, David and all his meekness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed."
+        "html": "<span class=\"rubric\"><em>Ps 131:9-10</em></span><br>\nMay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\nRemember, O Lord, David and all his meekness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nMay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui ómnia pro te in hoc sǽculo relinquéntibus, céntuplum in futúro et vitam ætérnam promisísti: concéde propítius; ut, sancti Pontíficis Paulíni vestígiis inhæréntes, valeámus terréna despícere et sola cœléstia desideráre:<br>\n<span class=\"rubric\"><strong><em>Q</em></strong></span>ui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDeus, qui ómnia pro te in hoc sǽculo relinquéntibus, céntuplum in futúro et vitam ætérnam promisísti: concéde propítius; ut, sancti Pontíficis Paulíni vestígiis inhæréntes, valeámus terréna despícere et sola cœléstia desideráre:<br>\nQui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who promised to those who forsake all things in this world for You a hundred-fold reward in the world to come and life everlasting, mercifully grant that, following closely in the footsteps of the holy Bishop Paulinus, we may look upon earthly things as nought, and long only for those of heaven.<br>\n<span class=\"rubric\"><strong><em>W</em></strong></span>ho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO God, Who promised to those who forsake all things in this world for You a hundred-fold reward in the world to come and life everlasting, mercifully grant that, following closely in the footsteps of the holy Bishop Paulinus, we may look upon earthly things as nought, and long only for those of heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>S</em></strong></span>equéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 12:32-34</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Nolíte timére, pusíllus grex, quia complácuit Patri vestro dare vobis regnum. Véndite quæ possidétis, et date eleemósynam. Fácite vobis sácculos, qui non veteráscunt, thesáurum non deficiéntem in cœlis: quo fur non apprópiat, neque tínea corrúmpit. Ubi enim thesáurus vester est, ibi et cor vestrum erit.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 12:32-34</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Nolíte timére, pusíllus grex, quia complácuit Patri vestro dare vobis regnum. Véndite quæ possidétis, et date eleemósynam. Fácite vobis sácculos, qui non veteráscunt, thesáurum non deficiéntem in cœlis: quo fur non apprópiat, neque tínea corrúmpit. Ubi enim thesáurus vester est, ibi et cor vestrum erit.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 12:32-34</em></span><br>\nAt that time, Jesus said to His disciples, Do not be afraid, little flock, for it has pleased your Father to give you the kingdom. Sell what you have and give alms. Make for yourselves purses that do not grow old, a treasure unfailing in heaven, where neither thief draws near nor moth destroys. For where your treasure is, there also will your heart be.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Luke<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Luke 12:32-34</em></span><br>\nAt that time, Jesus said to His disciples, Do not be afraid, little flock, for it has pleased your Father to give you the kingdom. Sell what you have and give alms. Make for yourselves purses that do not grow old, a treasure unfailing in heaven, where neither thief draws near nor moth destroys. For where your treasure is, there also will your heart be.<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Da nobis, Dómine, perféctæ caritátis sacrifícium, exémplo sancti Pontíficis Paulíni, cum altáris oblatióne coniúngere: et beneficéntiæ stúdio sempitérnam misericórdiam promeréri.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Da nobis, Dómine, perféctæ caritátis sacrifícium, exémplo sancti Pontíficis Paulíni, cum altáris oblatióne coniúngere: et beneficéntiæ stúdio sempitérnam misericórdiam promeréri.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Grant us, O Lord, by the example of the blessed Bishop Paulinus, to join the sacrifice of perfect charity with the offering of the altar, that by zeal for good works we may win everlasting mercy.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Grant us, O Lord, by the example of the blessed Bishop Paulinus, to join the sacrifice of perfect charity with the offering of the altar, that by zeal for good works we may win everlasting mercy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nTríbue nobis per hæc sancta, Dómine, illum pietátis et humilitátis afféctum, quem ex hoc divíno fonte hausit sanctus Póntifex tuus Paulínus: et, ipsíus intercessióne, in omnes, qui te deprecántur, grátiæ tuæ divítias benígnus effúnde.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nTríbue nobis per hæc sancta, Dómine, illum pietátis et humilitátis afféctum, quem ex hoc divíno fonte hausit sanctus Póntifex tuus Paulínus: et, ipsíus intercessióne, in omnes, qui te deprecántur, grátiæ tuæ divítias benígnus effúnde.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nBestow upon us, O Lord, through the Blessed Sacrament, that inspiration of holiness and humility which Your saintly Bishop Paulinus drew from this divine source, and, by his intercession, graciously pour forth the riches of Your grace upon all who call upon You.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nBestow upon us, O Lord, through the Blessed Sacrament, that inspiration of holiness and humility which Your saintly Bishop Paulinus drew from this divine source, and, by his intercession, graciously pour forth the riches of Your grace upon all who call upon You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }

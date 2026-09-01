@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "date": "2027-10-23",
+  "rubricKey": "1960",
   "rubrics": "Rubrics 1960 - 1960",
   "missal": "1962 Roman Missal",
   "title": "S. Antonii Mariæ Claret Episcopi et Confessoris",
@@ -12,11 +13,11 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 131:9-10.</em></span><br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>acerdótes tui, Dómine, induántur iustítiam, et sancti tui exsúltent. Propter David servum tuum non avértas fáciem christi tui.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>eménto, Dómine, David, et omnis mansuetúdinis eius:<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\n<span class=\"rubric\"><strong><em>S</em></strong></span>acerdótes tui, Dómine, induántur iustítiam, et sancti tui exsúltent. Propter David servum tuum non avértas fáciem christi tui."
+        "html": "<span class=\"rubric\"><em>Ps 131:9-10.</em></span><br>\nSacerdótes tui, Dómine, induántur iustítiam, et sancti tui exsúltent. Propter David servum tuum non avértas fáciem christi tui.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\nMeménto, Dómine, David, et omnis mansuetúdinis eius:<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSacerdótes tui, Dómine, induántur iustítiam, et sancti tui exsúltent. Propter David servum tuum non avértas fáciem christi tui."
       },
       "english": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 131:9-10.</em></span><br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\nRemember, O Lord, David and all his meekness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\n<span class=\"rubric\"><strong><em>M</em></strong></span>ay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed."
+        "html": "<span class=\"rubric\"><em>Ps 131:9-10.</em></span><br>\nMay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed.<br>\n<span class=\"rubric\"><em>Ps 131:1</em></span><br>\nRemember, O Lord, David and all his meekness.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nMay Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed."
       }
     },
     {
@@ -36,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, qui beátum Antónium Maríam Confessórem tuum atque Pontíficem, apostólicis virtútibus sublimásti, et per eum novas in Ecclésia clericórum ac vírginum famílias collegísti: concéde, quǽsumus; ut, eius dirigéntibus mónitis ac suffragántibus méritis, animárum salútem quǽrere iúgiter studeámus.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDeus, qui beátum Antónium Maríam Confessórem tuum atque Pontíficem, apostólicis virtútibus sublimásti, et per eum novas in Ecclésia clericórum ac vírginum famílias collegísti: concéde, quǽsumus; ut, eius dirigéntibus mónitis ac suffragántibus méritis, animárum salútem quǽrere iúgiter studeámus.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who glorified blessed Anthony Mary, Your Confessor and Bishop, because of his zeal for souls, and through him established in the Church new households of men and women religious, we beseech You to grant that, with his counsels as a guide, and through the merits of his prayers, we may continually apply ourselves to seeking the salvation of souls.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who glorified blessed Anthony Mary, Your Confessor and Bishop, because of his zeal for souls, and through him established in the Church new households of men and women religious, we beseech You to grant that, with his counsels as a guide, and through the merits of his prayers, we may continually apply ourselves to seeking the salvation of souls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -72,11 +73,11 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>ectio sancti Evangelii secundum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 24:42-47.</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Vigiláte ergo, quia nescítis qua hora Dóminus vester ventúrus sit. Illud autem scitóte, quóniam si sciret paterfamílias qua hora fur ventúrus esset, vigiláret útique, et non síneret pérfodi domum suam. Ideo et vos estóte paráti: quia qua nescítis hora Fílius hóminis ventúrus est. Quis, putas, est fidélis servus, et prudens, quem constítuit dóminus suus super famíliam suam ut det illis cibum in témpore? Beátus ille servus, quem cum vénerit dóminus eius, invénerit sic faciéntem. Amen dico vobis, quóniam super ómnia bona sua constítuet eum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Lectio sancti Evangelii secundum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 24:42-47.</em></span><br>\nIn illo témpore: Dixit Iesus discípulis suis: Vigiláte ergo, quia nescítis qua hora Dóminus vester ventúrus sit. Illud autem scitóte, quóniam si sciret paterfamílias qua hora fur ventúrus esset, vigiláret útique, et non síneret pérfodi domum suam. Ideo et vos estóte paráti: quia qua nescítis hora Fílius hóminis ventúrus est. Quis, putas, est fidélis servus, et prudens, quem constítuit dóminus suus super famíliam suam ut det illis cibum in témpore? Beátus ille servus, quem cum vénerit dóminus eius, invénerit sic faciéntem. Amen dico vobis, quóniam super ómnia bona sua constítuet eum.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
-        "html": "<span class=\"rubric\"><strong><em>C</em></strong></span>ontinuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 24:42-47</em></span><br>\nAt that time, Jesus said to His disciples, “Watch, for you do not know at what hour your Lord is to come. But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. Therefore you also must be ready, because at an hour that you do not expect, the Son of Man will come. Who, do you think, is the faithful and prudent servant whom his master has set over his household to give them their food in due time? Blessed is that servant whom his master, when he comes, shall find so doing. Amen I say to you, he will set him over all his goods.”<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
+        "html": "Continuation <span class=\"rubric-symbol\">✠</span> of the Holy Gospel according to Matthew<br>\n<span class=\"marker\"><em>℟.</em></span> Glory be to Thee, O Lord.<br>\n<span class=\"rubric\"><em>Matt 24:42-47</em></span><br>\nAt that time, Jesus said to His disciples, “Watch, for you do not know at what hour your Lord is to come. But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. Therefore you also must be ready, because at an hour that you do not expect, the Son of Man will come. Who, do you think, is the faithful and prudent servant whom his master has set over his household to give them their food in due time? Blessed is that servant whom his master, when he comes, shall find so doing. Amen I say to you, he will set him over all his goods.”<br>\n<span class=\"marker\"><em>℟.</em></span> Praise be to Thee, O Christ.<br>\n<span class=\"rubric\"><em>S.</em></span> By the words of the Gospel may our sins be blotted out."
       }
     },
     {
@@ -108,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Sancti Antónii Maríæ Confessóris tui atque Pontíficis, quǽsumus, Dómine, ánnua sollémnitas pietáti tuæ nos reddat accéptos: ut, per hæc piæ placatiónis offícia, et illum beáta retribútio comitétur, et nobis grátiæ tuæ dona concíliet.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Sancti Antónii Maríæ Confessóris tui atque Pontíficis, quǽsumus, Dómine, ánnua sollémnitas pietáti tuæ nos reddat accéptos: ut, per hæc piæ placatiónis offícia, et illum beáta retribútio comitétur, et nobis grátiæ tuæ dona concíliet.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "May the annual festival of blessed Anthony Mary, Your Confessor and Bishop, we beseech You, O Lord, render us pleasing to Your loving kindness, so that this service of sacred propitiation may be a blessed recompense for him and secure for us the gifts of Your grace.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May the annual festival of blessed Anthony Mary, Your Confessor and Bishop, we beseech You, O Lord, render us pleasing to Your loving kindness, so that this service of sacred propitiation may be a blessed recompense for him and secure for us the gifts of Your grace.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -120,11 +121,11 @@
       "kind": "preface",
       "latin": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\n<span class=\"rubric\"><strong><em>V</em></strong></span>ere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
+        "html": "<span class=\"rubric\"><em>Communis</em></span><br>\nVere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus: per Christum, Dóminum nostrum. Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes ac beáta Séraphim sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admítti iubeas, deprecámur, súpplici confessione dicéntes:"
       },
       "english": {
         "label": "Prefatio",
-        "html": "<span class=\"rubric\"><em>Common</em></span><br>\n<span class=\"rubric\"><strong><em>I</em></strong></span>t is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
+        "html": "<span class=\"rubric\"><em>Common</em></span><br>\nIt is truly meet and just, and profitable unto salvation, that we should at all times, and in all places, give thanks to Thee, O Holy Lord, Father Almighty, eternal God, through Christ, our Lord. Through whom the Angels praise Thy Majesty, the Dominions adore it, the Powers are in awe. Which the heavens and the hosts of heaven together with the blessed Seraphim joyfully do magnify. And do Thou command that it be permitted us to join with them in confessing Thee, while we say with lowly praise:"
       }
     },
     {
@@ -144,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>O</em></strong></span>rémus.<br>\nDeus, fidélium remunerátor animárum: præsta; ut, beáti Antónii Maríæ Confessóris tui atque Pontíficis, cuius venerándam celebrámus festivitátem, précibus indulgéntiam consequámur.<br>\n<span class=\"rubric\"><strong><em>P</em></strong></span>er Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nDeus, fidélium remunerátor animárum: præsta; ut, beáti Antónii Maríæ Confessóris tui atque Pontíficis, cuius venerándam celebrámus festivitátem, précibus indulgéntiam consequámur.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "<span class=\"rubric\"><strong><em>L</em></strong></span>et us pray.<br>\nO God, Who rewards faithful souls, grant that, through the prayers of blessed Anthony Mary, Your Confessor and Bishop, whose hallowed feast we are keeping, we may obtain pardon for our sins.<br>\n<span class=\"rubric\"><strong><em>T</em></strong></span>hrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who rewards faithful souls, grant that, through the prayers of blessed Anthony Mary, Your Confessor and Bishop, whose hallowed feast we are keeping, we may obtain pardon for our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "75cbb135301ff479474904f104970ec4d6906cb4",
-    "commitDate": "2026-08-14T13:10:25-04:00"
+    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
+    "commitDate": "2026-08-31T09:39:11-07:00"
   }
 }
