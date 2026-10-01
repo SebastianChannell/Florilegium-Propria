@@ -109,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Accépta sit in conspéctu tuo, Dómine, nostra devótio: et eórum nobis fiat supplicatióne salutáris, pro quorum sollemnitáte defértur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\n<br>\n<span class=\"rubric\"><em>Pro papa</em></span><br>\nOblátis, quǽsumus, Dómine, placáre munéribus: et fámulum tuum Leónem, quem pastórem Ecclésiæ tuæ præésse voluísti, assídua protectióne gubérna.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Accépta sit in conspéctu tuo, Dómine, nostra devótio: et eórum nobis fiat supplicatióne salutáris, pro quorum sollemnitáte defértur.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio In Vigilia S. Laurentii Mart.</em></span><br>\nHóstias, Dómine, quas tibi offérimus, propítius súscipe: et, intercedénte beáto Lauréntio Mártyre tuo, víncula peccatórum nostrórum absólve.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "May our service be acceptable in Your sight, O Lord, and may it bring us salvation through the prayers of those on whose festival it is being offered.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\n<br>\n<span class=\"rubric\"><em>for the Pope</em></span><br>\nLook down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom thou hast chosen to be the chief pastor of the Church.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May our service be acceptable in Your sight, O Lord, and may it bring us salvation through the prayers of those on whose festival it is being offered.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Vigil of St. Lawrence, Martyr</em></span><br>\nHóstias, Dómine, quas tibi offérimus, propítius súscipe: et, intercedénte beáto Lauréntio Mártyre tuo, víncula peccatórum nostrórum absólve.<br>\n<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nThrough thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

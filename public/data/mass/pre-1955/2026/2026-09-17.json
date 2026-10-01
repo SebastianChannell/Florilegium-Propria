@@ -73,7 +73,7 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 16:24-27</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Qui enim volúerit ánimam suam salvam fácere, perdet eam: qui autem perdíderit ánimam suam propter me, invéniet eam. Quid enim prodest hómini, si mundum univérsum lucrétur, ánimæ vero suæ detriméntum patiátur? Aut quam dabit homo commutatiónem pro ánima sua? Fílius enim hóminis ventúrus est in glória Patris sui cum Angelis suis: et tunc reddet unicuíque secúndum ópera ejus.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 16:24-27</em></span><br>\nIn illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Qui enim voluerit ánimam suam salvam fácere, perdet eam: qui autem perdíderit ánimam suam propter me, invéniet eam. Quid enim prodest hómini, si mundum univérsum lucrétur, ánimæ vero suæ detriméntum patiátur? Aut quam dabit homo commutatiónem pro ánima sua? Fílius enim hóminis ventúrus est in glória Patris sui cum Angelis suis: et tunc reddet unicuíque secúndum ópera ejus.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

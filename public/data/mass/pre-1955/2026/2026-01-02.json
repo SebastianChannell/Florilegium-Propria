@@ -37,11 +37,11 @@
       "kind": "collect",
       "latin": {
         "label": "Oratio",
-        "html": "Orémus.<br>\nOmnípotens sempitérne Deus, qui primítias Mártyrum in beati Levítæ Stephani sánguine dedicásti: tríbue, quǽsumus; ut pro nobis intercéssor exsístat, qui pro suis étiam persecutóribus exorávit Dóminum nostrum Jesum Christum, Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nOmnípotens sempitérne Deus, qui primítias Mártyrum in beati Levítæ Stephani sánguine dedicásti: tríbue, quǽsumus; ut pro nobis intercéssor exsístat, qui pro suis étiam persecutóribus exorávit Dóminum nostrum Jesum Christum, Fílium tuum:<br>\nQui tecum vivit et regnat in unitáte Spíritus Sancti Deus per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nDeus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno generi præmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum, Fílium tuum:<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nEcclésiæ tuæ, quǽsumus, Dómine, preces placátus admítte: ut, destrúctis adversitátibus et erróribus univérsis, secúra tibi sérviat libertáte.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nOmnípotens sempitérne Deus, qui primítias Mártyrum in beati Levítæ Stephani sánguine dedicásti: tríbue, quǽsumus; ut pro nobis intercéssor exsístat, qui pro suis étiam persecutóribus exorávit Dóminum nostrum Jesum Christum, Fílium tuum:<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nOmnípotens sempitérne Deus, qui primítias Mártyrum in beati Levítæ Stephani sánguine dedicásti: tríbue, quǽsumus; ut pro nobis intercéssor exsístat, qui pro suis étiam persecutóribus exorávit Dóminum nostrum Jesum Christum, Fílium tuum:<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nO God, Who by the fruitful virginity of blessed Mary, have bestowed upon mankind the reward of eternal salvation, grant, we beseech You, that we may enjoy the intercession of her through whom we have been found worthy to receive among us the author of life, our Lord Jesus Christ, Your Son,<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nMercifully hear the prayers of thy Church, we beseech thee, O Lord, that all adversities and errors being overcome, she may serve thee in security and feedom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -109,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Súscipe, Dómine, múnera pro tuórum commemoratióne Sanctórum: ut, sicut illos pássio gloriósos effécit; ita nos devótio reddat innócuos.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Súscipe, Dómine, múnera pro tuórum commemoratióne Sanctórum: ut, sicut illos pássio gloriósos effécit; ita nos devótio reddat innócuos.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nTua, Dómine, propitiatióne, et beátæ Maríæ semper Vírginis intercessióne, ad perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pacem.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nPrótege nos, Dómine, tuis mystériis serviéntes: ut, divínis rebus inhæréntes, et córpore tibi famulémur et mente.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Receive our offerings, O Lord, in memory of Your saints, that, as their passion has given them eternal glory, so may this sacrificial act free us from guilt. Through our Lord.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Receive our offerings, O Lord, in memory of Your saints, that, as their passion has given them eternal glory, so may this sacrificial act free us from guilt. Through our Lord.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nProtect us, O Lord, who celebrate thy mysteries, that holding fast to divine things, we may serve thee with body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -145,17 +145,17 @@
       "kind": "postcommunion",
       "latin": {
         "label": "Postcommunio",
-        "html": "Orémus.<br>\nAuxiliéntur nobis, Dómine, sumpta mystéria: et, intercedénte beáto Stéphano Mártyre tuo, sempitérna protectióne confírment.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Orémus.<br>\nAuxiliéntur nobis, Dómine, sumpta mystéria: et, intercedénte beáto Stéphano Mártyre tuo, sempitérna protectióne confírment.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nOrémus.<br>\n<span class=\"rubric\"><em>de S. Maria tempore post partum</em></span><br>\nHæc nos commúnio, Dómine, purget a crímine: et, intercedénte beáta Vírgine Dei Genitríce María, cœléstis remédii fáciat esse consórtes.<br>\n<br>\n<span class=\"rubric\"><em>Contra persecutores Ecclesiæ</em></span><br>\nQuǽsumus, Dómine, Deus noster: ut, quos divína tríbuis participatióne gaudére, humánis non sinas subjacére perículis.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay the sacrament we have received aid us, O Lord; and by the intercession of blessed Stephen, Your Martyr, may it sustain us under Your everlasting protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the sacrament we have received aid us, O Lord; and by the intercession of blessed Stephen, Your Martyr, may it sustain us under Your everlasting protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>of the Blessed Virgin Mary</em></span><br>\nMay this Communion, O Lord, cleanse us from sin and, through the intercession of the Blessed Virgin Mary, Mother of God, make us sharers of Your heavenly healing.<br>\n<br>\n<span class=\"rubric\"><em>for the Church</em></span><br>\nWe beseech thee, O Lord, our God, that thou permit not those, to whom thou hast given a participation of divine things to be subjected to human dangers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

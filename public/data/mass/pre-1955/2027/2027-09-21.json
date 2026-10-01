@@ -73,7 +73,7 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 9:9-13</em></span><br>\nIn illo témpore: Vidit Jesus hóminem sedéntem in telónio, Matthǽum nómine. Et<br>\nait illi: Séquere me. Et surgens, secútus est eum. Et factum est, discumbénte<br>\neo in domo, ecce, multi publicáni et peccatóres veniéntes discumbébant cum Jesu<br>\net discípulis ejus. Et vidéntes pharisæi, dicébant discípulis ejus: Quare cum<br>\npublicánis et peccatóribus mandúcat Magíster vester? At Jesus áudiens, ait: Non est opus valéntibus médicus, sed male habéntibus. Eúntes autem díscite, quid est: Misericórdiam volo, et non sacrifícium. Non enim veni vocáre justos, sed peccatóres.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Matthǽum<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Matt 9:9-13</em></span><br>\nIn illo témpore: Vidit Jesus hóminem sedéntem in telónio, Matthǽum nómine. Et ait illi: Séquere me. Et surgens, secútus est eum. Et factum est, discumbénte eo in domo, ecce, multi publicáni et peccatóres veniéntes discumbébant cum Jesu et discípulis ejus. Et vidéntes pharisæi, dicébant discípulis ejus: Quare cum publicánis et peccatóribus mandúcat Magíster vester? At Jesus áudiens, ait: Non est opus valéntibus médicus, sed male habéntibus. Eúntes autem díscite, quid est: Misericórdiam volo, et non sacrifícium. Non enim veni vocáre justos, sed peccatóres.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

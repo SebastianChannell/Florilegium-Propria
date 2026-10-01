@@ -61,7 +61,7 @@
       "kind": "gradual",
       "latin": {
         "label": "Graduale",
-        "html": "<span class=\"rubric\"><em>Ps 138:17-18</em></span><br>\nNimis honoráti sunt amíci tui, Deus: nimis confortátus est principatus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Dinumerábo eos, et super arénam multiplicabúntur.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 20:3-4</em></span><br>\nDesidérium ánimæ eius tribuísti ei: et voluntáte labiórum eius non fraudásti eum.<br>\n<span class=\"marker\"><em>℣.</em></span> Quóniam prævenísti eum in benedictiónibus dulcédinis.<br>\n<span class=\"marker\"><em>℣.</em></span> Posuísti in cápite eius corónam de lápide pretióso."
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18</em></span><br>\nNimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Dinumerábo eos, et super arénam multiplicabúntur.<br>\n<br>\n<span class=\"rubric\"><em>Tractus</em></span><br>\n<span class=\"rubric\"><em>Ps 20:3-4</em></span><br>\nDesidérium ánimæ eius tribuísti ei: et voluntáte labiórum eius non fraudásti eum.<br>\n<span class=\"marker\"><em>℣.</em></span> Quóniam prævenísti eum in benedictiónibus dulcédinis.<br>\n<span class=\"marker\"><em>℣.</em></span> Posuísti in cápite eius corónam de lápide pretióso."
       },
       "english": {
         "label": "Gradual",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

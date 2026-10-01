@@ -61,7 +61,7 @@
       "kind": "gradual",
       "latin": {
         "label": "Graduale",
-        "html": "<span class=\"rubric\"><em>Eccli 44:16</em></span><br>\nEcce sacérdos magnus, qui in diébus suis plácuit Deo.<br>\n<span class=\"rubric\"><em>Eccli 44:20</em></span><br>\nNon est inventus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 109:4</em></span><br>\nJurávit Dóminus, et non pænitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja."
+        "html": "<span class=\"rubric\"><em>Eccli 44:16</em></span><br>\nEcce sacérdos magnus, qui in diébus suis plácuit Deo.<br>\n<span class=\"rubric\"><em>Eccli 44:20</em></span><br>\nNon est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 109:4</em></span><br>\nJurávit Dóminus, et non pænitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja."
       },
       "english": {
         "label": "Gradual",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

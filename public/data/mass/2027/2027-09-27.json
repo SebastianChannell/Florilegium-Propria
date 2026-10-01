@@ -13,7 +13,7 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Eccli 44:15 et 14</em></span><br>\nSapiéntiam Sanctórum narrent pópuli, et laudes eórum núntiet ecclésia: nómina autem eórum vivent in sǽculum sǽculi.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nExsultáte, iusti, in Dómino: rectos decet collaudátio.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSapiéntiam Sanctórum narrent pópuli, et laudes eórum núntiet ecclésia: nómina autem eórum vivent in sǽculum sǽculi."
+        "html": "<span class=\"rubric\"><em>Eccli 44:15; 44:14</em></span><br>\nSapiéntiam Sanctórum narrent populi, et laudes eórum núntiet ecclésia: nómina autem eórum vivent in sǽculum sǽculi.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nExsultáte, iusti, in Dómino: rectos decet collaudátio.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nSapiéntiam Sanctórum narrent populi, et laudes eórum núntiet ecclésia: nómina autem eórum vivent in sǽculum sǽculi."
       },
       "english": {
         "label": "Introitus",
@@ -49,7 +49,7 @@
       "kind": "lesson",
       "latin": {
         "label": "Lectio",
-        "html": "Léctio libri Sapiéntiæ<br>\n<span class=\"rubric\"><em>Sap 5:16-20</em></span><br>\nIusti autem in perpétuum vivent, et apud Dóminum est merces eórum, et cogitátio illórum apud Altíssimum. Ideo accípient regnum decóris, et diadéma speciéi de manu Dómini: quóniam déxtera sua teget eos, et bráchio sancto suo deféndet illos. Accípiet armatúram zelus illíus, et armábit creatúram ad ultiónem inimicórum. Induet pro thoráce iustítiam, et accípiet pro gálea iudícium certum. Sumet scutum inexpugnábile æquitátem.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+        "html": "Lectio libri Sapientiæ<br>\n<span class=\"rubric\"><em>Sap 5:16-20</em></span><br>\nIusti autem in perpétuum vivent, et apud Dóminum est merces eórum, et cogitátio illórum apud Altíssimum. Ideo accípient regnum decóris, et diadéma speciéi de manu Dómini: quóniam déxtera sua teget eos, et bráchio sancto suo deféndet illos. Accípiet armatúram zelus illíus, et armábit creatúram ad ultiónem inimicórum. Induet pro thoráce iustítiam, et accípiet pro gálea iudícium certum. Sumet scutum inexpugnábile æquitátem.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
       },
       "english": {
         "label": "Lesson",
@@ -73,7 +73,7 @@
       "kind": "gospel",
       "latin": {
         "label": "Evangelium",
-        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 6:17-23</em></span><br>\nIn illo témpore: Descéndens Iesus de monte, stetit in loco campéstri, et turba discipulórum eius, et multitúdo copiósa plebis ab omni Iudæa, et Ierúsalem, et marítima, et Tyri, et Sidónis, qui vénerant, ut audírent eum et sanaréntur a languóribus suis. Et, qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébat eum tángere: quia virtus de illo exíbat, et sanábat omnes. Et ipse, elevátis óculis in discípulos suos, dicebat: Beáti, páuperes: quia vestrum est regnum Dei. Beáti, qui nunc esurítis: quia saturabímini. Beáti, qui nunc fletis: quia ridébitis. Beáti éritis, cum vos óderint hómines, et cum separáverint vos et exprobráverint, et eiécerint nomen vestrum tamquam malum, propter Fílium hóminis. Gaudéte in illa die et exsultáte: ecce enim, merces vestra multa est in cœlo.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
+        "html": "Sequéntia <span class=\"rubric-symbol\">+</span> sancti Evangélii secúndum Lucam<br>\n<span class=\"marker\"><em>℟.</em></span> Glória tibi, Dómine.<br>\n<span class=\"rubric\"><em>Luc 6:17-23</em></span><br>\nIn illo témpore: Descéndens Iesus de monte, stetit in loco campéstri, et turba discipulórum eius, et multitúdo copiósa plebis ab omni Iudǽa, et Ierúsalem, et marítima, et Tyri, et Sidónis, qui vénerant, ut audírent eum et sanaréntur a languóribus suis. Et, qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébat eum tángere: quia virtus de illo exíbat, et sanábat omnes. Et ipse, elevátis oculis in discípulos suos, dicébat: Beáti, páuperes: quia vestrum est regnum Dei. Beáti, qui nunc esurítis: quia saturabímini. Beáti, qui nunc fletis: quia ridébitis. Beáti éritis, cum vos óderint hómines, et cum separáverint vos et exprobréverint, et eiécerint nomen vestrum tamquam malum, propter Fílium hóminis. Gaudéte in illa die et exsultáte: ecce enim, merces vestra multa est in cœlo.<br>\n<span class=\"marker\"><em>℟.</em></span> Laus tibi, Christe.<br>\n<span class=\"rubric\"><em>S.</em></span> Per Evangélica dicta, deleántur nostra delícta."
       },
       "english": {
         "label": "Gospel",
@@ -133,7 +133,7 @@
       "kind": "communion",
       "latin": {
         "label": "Communio",
-        "html": "<span class=\"rubric\"><em>Ps 78:2; 78:11</em></span><br>\nPosuérunt mortália servórum tuórum, Dómine, escas volatilíbus cœli, carnes Sanctórum tuórum béstiis terræ: secúndum magnitúdinem bráchii tui pósside fílios morte punitórum."
+        "html": "<span class=\"rubric\"><em>Ps 78:2 &amp; 11</em></span><br>\nPosuérunt mortália servórum tuórum, Dómine, escas volatílibus cœli, carnes Sanctórum tuórum béstiis terræ: secúndum magnitúdinem bráchii tui pósside fílios morte punitórum."
       },
       "english": {
         "label": "Communio",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

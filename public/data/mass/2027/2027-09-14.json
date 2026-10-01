@@ -49,7 +49,7 @@
       "kind": "lesson",
       "latin": {
         "label": "Lectio",
-        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses<br>\n<span class=\"rubric\"><em>Philipp 2:5-11</em></span><br>\nFratres: Hoc enim sentíte in vobis, quod et in Christo Iesu: qui, cum in forma Dei esset, non rapinam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accipiens, in similitudinem hóminum factus, et hábitu inventus ut homo. Humiliávit semetípsum, factus obœ́diens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum: et donávit illi nomen, quod est super omne nomen: <span class=\"rubric\">hic genuflectitur</span> ut in nomine Iesu omne genu flectátur cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Iesus Christus in glória est Dei Patris.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
+        "html": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippenses<br>\n<span class=\"rubric\"><em>Phil 2:5-11</em></span><br>\nFratres: Hoc enim sentíte in vobis, quod et in Christo Iesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo. Humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum: et donávit illi nomen, quod est super omne nomen: <span class=\"rubric\">hic genuflectitur</span> ut in nómine Iesu omne genu flectátur cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Iesus Christus in glória est Dei Patris.<br>\n<span class=\"marker\"><em>℟.</em></span> Deo grátias."
       },
       "english": {
         "label": "Lesson",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

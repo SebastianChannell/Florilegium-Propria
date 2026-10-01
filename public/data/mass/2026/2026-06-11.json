@@ -61,7 +61,7 @@
       "kind": "gradual",
       "latin": {
         "label": "Graduale",
-        "html": "<span class=\"rubric\"><em>Ps 18:5; 18:2</em></span><br>\nIn omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Cœli enárrant glóriam Dei: et ópera mánuum eius annúntiat firmaméntum. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ioann 15:16</em></span><br>\nEgo vos elégi de mundo, ut eátis et fructum afferátis: et fructus vester maneat. Allelúia."
+        "html": "<span class=\"rubric\"><em>Ps 18:5; 18:2</em></span><br>\nIn omnem terram exívit sonus eórum: et in fines orbis terræ verba eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Cœli enárrant glóriam Dei: et ópera mánuum eius annúntiat firmaméntum. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ioann 15:16</em></span><br>\nEgo vos elégi de mundo, ut eátis et fructum afferátis: et fructus vester máneat. Allelúia."
       },
       "english": {
         "label": "Gradual",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

@@ -61,7 +61,7 @@
       "kind": "gradual",
       "latin": {
         "label": "Graduale",
-        "html": "<span class=\"rubric\"><em>Ps 138:17-18.</em></span><br>\nNimis honorati sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Dinumerábo eos, et super arénam multiplicabúntur. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nGaudéte, justi, in Dómino: rectos decet collaudátio. Allelúja."
+        "html": "<span class=\"rubric\"><em>Ps 138:17-18.</em></span><br>\nNimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.<br>\n<span class=\"marker\"><em>℣.</em></span> Dinumerábo eos, et super arénam multiplicabúntur. Allelúja, allelúja.<br>\n<span class=\"rubric\"><em>Ps 32:1</em></span><br>\nGaudéte, justi, in Dómino: rectos decet collaudátio. Allelúja."
       },
       "english": {
         "label": "Gradual",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

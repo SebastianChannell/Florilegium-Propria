@@ -61,7 +61,7 @@
       "kind": "gradual",
       "latin": {
         "label": "Graduale",
-        "html": "<span class=\"rubric\"><em>Ps 91:2-3</em></span><br>\nBonum est confitéri Dómino: et psallere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 94:3</em></span><br>\nQuóniam Deus magnus Dóminus, et Rex magnus super omnem terram. Allelúia."
+        "html": "<span class=\"rubric\"><em>Ps 91:2-3</em></span><br>\nBonum est confitéri Dómino: et psállere nómini tuo, Altíssime.<br>\n<span class=\"marker\"><em>℣.</em></span> Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 94:3</em></span><br>\nQuóniam Deus magnus Dóminus, et Rex magnus super omnem terram. Allelúia."
       },
       "english": {
         "label": "Gradual",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

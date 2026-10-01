@@ -17,7 +17,7 @@
       },
       "english": {
         "label": "Introitus",
-        "html": "<br>\nLet us all rejoice in the Lord, celebrating a festival in honor of the Blessed Virgin Mary, for whose solemnity the angels rejoice, and join in praising the Son of God.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nLet us all rejoice in the Lord, celebrating a festival in honor of the Blessed Virgin Mary, for whose solemnity the angels rejoice, and join in praising the Son of God."
+        "html": "<span class=\"rubric\"><em>Sedulius</em></span><br>\nLet us all rejoice in the Lord, celebrating a festival in honor of the Blessed Virgin Mary, for whose solemnity the angels rejoice, and join in praising the Son of God.<br>\n<span class=\"rubric\"><em>Ps 44:2</em></span><br>\nMy heart overflows with a goodly theme; as I sing my ode to the King.<br>\n<span class=\"marker\"><em>℣.</em></span> Glory be to the Father, and to the Son, and to the Holy Ghost.<br>\n<span class=\"marker\"><em>℟.</em></span> As it was in the beginning, is now, and ever shall be, world without end. Amen.<br>\nLet us all rejoice in the Lord, celebrating a festival in honor of the Blessed Virgin Mary, for whose solemnity the angels rejoice, and join in praising the Son of God."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

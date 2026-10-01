@@ -97,7 +97,7 @@
       "kind": "offertory",
       "latin": {
         "label": "Offertorium",
-        "html": "<span class=\"rubric\"><em>Apoc 8:3; 8:4</em></span><br>\nStetit Angelus juxta aram templi, habens thuríbulum áureum in manu sua, et data sunt ei incénsa multa: et ascendit fumus arómatum in conspéctu Dei, allelúja."
+        "html": "<span class=\"rubric\"><em>Apoc 8:3; 8:4</em></span><br>\nStetit Angelus juxta aram templi, habens thuríbulum áureum in manu sua, et data sunt ei incénsa multa: et ascéndit fumus arómatum in conspéctu Dei, allelúja."
       },
       "english": {
         "label": "Offertorium",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

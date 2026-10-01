@@ -109,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Réspice, Dómine, quǽsumus, nostram propítius servitútem: ut, quod offérimus, sit tibi munus accéptum, et sit nostræ fragilitátis subsidium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Joannis Mariæ Vianney Confessoris</em></span><br>\nLaudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum: quibus nos et præséntibus éxui malis confídimus et futúris.<br>\n<span class=\"rubric\"><em>Commemoratio S. Romani Martyris</em></span><br>\nHóstias tibi, Dómine, beáti Románo Mártyris tui atque Pontíficis dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Réspice, Dómine, quǽsumus, nostram propítius servitútem: ut, quod offérimus, sit tibi munus accéptum, et sit nostræ fragilitátis subsidium.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoratio S. Joannis Mariæ Vianney Confessoris</em></span><br>\nLaudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum: quibus nos et præséntibus éxui malis confídimus et futúris.<br>\n<span class=\"rubric\"><em>Commemoratio S. Romani Martyris</em></span><br>\nMunéribus nostris, quǽsumus, Dómine, precibúsque suscéptis: et cæléstibus nos munda mystériis, et cleménter exáudi.<br>\nPer Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "Look with mercy, we beseech You, O Lord, upon our act of worship that the gift we offer may be acceptable to You and may support us in our frailty.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Jean-Marie Vianney, Confessor</em></span><br>\nWe offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.<br>\n<span class=\"rubric\"><em>Commemoration St. Romanus, Martyr</em></span><br>\nO Lord, graciously accept, through the merits of Your blessed Martyr and Bishop Romanus, the sacrificial gifts dedicated to You, and grant they may prove to be for us a lasting help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Look with mercy, we beseech You, O Lord, upon our act of worship that the gift we offer may be acceptable to You and may support us in our frailty.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Jean-Marie Vianney, Confessor</em></span><br>\nWe offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.<br>\n<span class=\"rubric\"><em>Commemoration St. Romanus, Martyr</em></span><br>\nMunéribus nostris, quǽsumus, Dómine, precibúsque suscéptis: et cæléstibus nos munda mystériis, et cleménter exáudi.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

@@ -13,7 +13,7 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 30:10, 16, 18</em></span><br>\nMiserére mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn te, Dómine, sperávi, non confúndar in ætérnum: in iustítia tua libera me.<br>\nMiserére mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te."
+        "html": "<span class=\"rubric\"><em>Ps 30:10, 16, 18</em></span><br>\nMiserére mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te.<br>\n<span class=\"rubric\"><em>Ps 30:2</em></span><br>\nIn te, Dómine, sperávi, non confúndar in ætérnum: in iustítia tua líbera me.<br>\nMiserére mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te."
       },
       "english": {
         "label": "Introitus",
@@ -133,7 +133,7 @@
       "kind": "communion",
       "latin": {
         "label": "Communio",
-        "html": "<span class=\"rubric\"><em>Ps 26:12</em></span><br>\nNe tradíderis me, Dómine, in animas persequéntium me: quóniam insurrexérunt in me testes iníqui, et mentíta est iníquitas sibi."
+        "html": "<span class=\"rubric\"><em>Ps 26:12</em></span><br>\nNe tradíderis me, Dómine, in ánimas persequéntium me: quóniam insurrexérunt in me testes iníqui, et mentíta est iníquitas sibi."
       },
       "english": {
         "label": "Communio",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

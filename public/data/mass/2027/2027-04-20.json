@@ -61,7 +61,7 @@
       "kind": "alleluia",
       "latin": {
         "label": "Allelúia.",
-        "html": "Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 110:9</em></span><br>\nRedemptiónem misit Dóminus pópulo suo. Allelúia.<br>\n<span class=\"rubric\"><em>Luc 24:46</em></span><br>\nOportebat pati Christum, et resúrgere a mórtuis: et ita intráre in glóriam suam. Allelúia."
+        "html": "Allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 110:9</em></span><br>\nRedemptiónem misit Dóminus pópulo suo. Allelúia.<br>\n<span class=\"rubric\"><em>Luc 24:46</em></span><br>\nOportébat pati Christum, et resúrgere a mórtuis: et ita intráre in glóriam suam. Allelúia."
       },
       "english": {
         "label": "Alleluia.",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }

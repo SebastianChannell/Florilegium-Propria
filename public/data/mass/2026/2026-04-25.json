@@ -13,7 +13,7 @@
       "kind": "introit",
       "latin": {
         "label": "Introitus",
-        "html": "<span class=\"rubric\"><em>Ps 63:3</em></span><br>\nProtexísti me, Deus, a convéntu malignántium, allelúia: a multitúdine operántium iniquitátem, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 63:2</em></span><br>\nExáudi, Deus, oratiónem meam cum déprecor: a timore inimíci éripe ánimam meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nProtexísti me, Deus, a convéntu malignántium, allelúia: a multitúdine operántium iniquitátem, allelúia, allelúia."
+        "html": "<span class=\"rubric\"><em>Ps 63:3</em></span><br>\nProtexísti me, Deus, a convéntu malignántium, allelúia: a multitúdine operántium iniquitátem, allelúia, allelúia.<br>\n<span class=\"rubric\"><em>Ps 63:2</em></span><br>\nExáudi, Deus, oratiónem meam cum déprecor: a timóre inimíci éripe ánimam meam.<br>\n<span class=\"marker\"><em>℣.</em></span> Glória Patri, et Fílio, et Spirítui Sancto.<br>\n<span class=\"marker\"><em>℟.</em></span> Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.<br>\nProtexísti me, Deus, a convéntu malignántium, allelúia: a multitúdine operántium iniquitátem, allelúia, allelúia."
       },
       "english": {
         "label": "Introitus",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "ed3a06a61e58d12779ca6ffb4bbeacbbfe4b2313",
-    "commitDate": "2026-08-31T09:39:11-07:00"
+    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
+    "commitDate": "2026-09-30T14:30:23-04:00"
   }
 }
