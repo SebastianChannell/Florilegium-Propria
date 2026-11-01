@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, You Who in this wondrous sacrament have left us a memorial of Your passion, grant us, we beseech You, so to venerate the sacred mysteries of Your Body and Blood that we may ever experience within us the effect of Your redemption.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Boniface, Bishop and Martyr</em></span><br>\nO God, Who, through the zeal of blessed Boniface, Your Martyr and Bishop, graciously called a multitude of people to the knowledge of Your name, mercifully grant that we who keep his feast may also enjoy his patronage.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, You Who in this wondrous sacrament have left us a memorial of Your passion, grant us, we beseech You, so to venerate the sacred mysteries of Your Body and Blood that we may ever experience within us the effect of Your redemption.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Boniface, Bishop and Martyr</em></span><br>\nO God, Who, through the zeal of blessed Boniface, Your Martyr and Bishop, graciously called a multitude of people to the knowledge of Your name, mercifully grant that we who keep his feast may also enjoy his patronage.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nGrant, we beseech You, O Lord, that we may be filled with that everlasting enjoyment of Your Godhead, as foreshadowed here on earth by the partaking of Your precious Body and Blood.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Boniface, Bishop and Martyr</em></span><br>\nMade holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of blessed Boniface, Your Martyr and Bishop, under whose patronal care You have granted us to be ruled may never fail us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nGrant, we beseech You, O Lord, that we may be filled with that everlasting enjoyment of Your Godhead, as foreshadowed here on earth by the partaking of Your precious Body and Blood.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Boniface, Bishop and Martyr</em></span><br>\nMade holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of blessed Boniface, Your Martyr and Bishop, under whose patronal care You have granted us to be ruled may never fail us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO Lord, we beseech thee, forgive the transgressions of thy servants, and, forasmuch as by our own deeds we cannot please thee, may we find safety through the prayers of the Mother of thy Son and our Lord.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Agapitus, Martyr</em></span><br>\nMay Your Church rejoice, O God, trusting in the support of St. Agapitus, Your Martyr, and, by his glorious prayers, may she remain holy and fearlessly stand her ground.<br>\n<br>\n<span class=\"rubric\"><em>To the Holy Spirit</em></span><br>\nO God, unto Whom each heart is open, to Whom each desire speaks and from Whom no secret lies hidden, cleanse the thoughts of our hearts by the infusion of the Holy Spirit, that we may be found worthy to perfectly love and fittingly praise You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO Lord, we beseech thee, forgive the transgressions of thy servants, and, forasmuch as by our own deeds we cannot please thee, may we find safety through the prayers of the Mother of thy Son and our Lord.<br>\nWho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Agapitus, Martyr</em></span><br>\nMay Your Church rejoice, O God, trusting in the support of St. Agapitus, Your Martyr, and, by his glorious prayers, may she remain holy and fearlessly stand her ground.<br>\n<br>\n<span class=\"rubric\"><em>To the Holy Spirit</em></span><br>\nO God, unto Whom each heart is open, to Whom each desire speaks and from Whom no secret lies hidden, cleanse the thoughts of our hearts by the infusion of the Holy Spirit, that we may be found worthy to perfectly love and fittingly praise You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

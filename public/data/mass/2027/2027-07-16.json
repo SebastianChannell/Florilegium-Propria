@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who honored the Order of Carmel with the special title of the most blessed Mary, ever Virgin, Your mother, graciously grant, that we who this day honor her commemoration with solemn rites, defended by her care, may be found worthy to attain everlasting happiness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO God, Who honored the Order of Carmel with the special title of the most blessed Mary, ever Virgin, Your mother, graciously grant, that we who this day honor her commemoration with solemn rites, defended by her care, may be found worthy to attain everlasting happiness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay the venerable intercession of Your glorious Mother Mary, ever Virgin, help us, O Lord, that those whom she has ladened with lasting benefits may be delivered from all dangers and be made of one mind by her godliness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nMay the venerable intercession of Your glorious Mother Mary, ever Virgin, help us, O Lord, that those whom she has ladened with lasting benefits may be delivered from all dangers and be made of one mind by her godliness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

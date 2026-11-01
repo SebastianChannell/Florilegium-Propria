@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who caused blessed John when burning with love for You, to walk unharmed through the midst of flames, and through him enriched Your Church with a new religious family; grant that through the help of his merits, our sins may be burned away by the fire of Your love, and eternal remedies may come to us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Secunda infra Hebdomadam IV in Quadragesima</em></span><br>\nGrant, we beseech You, almighty God, that we who devoutly keep the sacred observances year by year, may be pleasing to You both in body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who caused blessed John when burning with love for You, to walk unharmed through the midst of flames, and through him enriched Your Church with a new religious family; grant that through the help of his merits, our sins may be burned away by the fire of Your love, and eternal remedies may come to us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Lent</em></span><br>\nGrant, we beseech You, almighty God, that we who devoutly keep the sacred observances year by year, may be pleasing to You both in body and soul.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "We offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Secunda infra Hebdomadam IV in Quadragesima</em></span><br>\nMay this sacrifice that we offer You, O Lord, ever give us new life and protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "We offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Lent</em></span><br>\nMay this sacrifice that we offer You, O Lord, ever give us new life and protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nRefreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Secunda infra Hebdomadam IV in Quadragesima</em></span><br>\nO Lord, we beseech You, that as we have partaken of Your saving sacraments, we may make progress toward our everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nRefreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Lent</em></span><br>\nO Lord, we beseech You, that as we have partaken of Your saving sacraments, we may make progress toward our everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

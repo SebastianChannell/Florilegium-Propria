@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, who by the Immaculate Conception of the Virgin prepared a worthy dwelling for Your Son, we humbly beseech You that, recalling the apparition of the same Virgin, we may obtain health for both soul and body.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria V post Cineres</em></span><br>\nO God, offended by sin, and appeased by penitence, graciously hear the prayers of Your people as they entreat You to turn away from us the scourges of anger that we have deserved because of our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, who by the Immaculate Conception of the Virgin prepared a worthy dwelling for Your Son, we humbly beseech You that, recalling the apparition of the same Virgin, we may obtain health for both soul and body.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday after Ash Wednesday</em></span><br>\nO God, offended by sin, and appeased by penitence, graciously hear the prayers of Your people as they entreat You to turn away from us the scourges of anger that we have deserved because of our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May the sacrifice of praise, which we offer You, O Lord, by the merits of the glorious and Immaculate Virgin be as a sweet fragrance to You and obtain for us the health of body and soul for which we yearn.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria V post Cineres</em></span><br>\nO Lord, we beseech You to look with favor upon these offerings before You, and may they be profitable to our devotion as well as to our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May the sacrifice of praise, which we offer You, O Lord, by the merits of the glorious and Immaculate Virgin be as a sweet fragrance to You and obtain for us the health of body and soul for which we yearn.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Thursday after Ash Wednesday</em></span><br>\nO Lord, we beseech You to look with favor upon these offerings before You, and may they be profitable to our devotion as well as to our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay the right hand of Your Immaculate Mother support us, O Lord, whom You have filled with heavenly food, that by her help we may be found worthy to enter our eternal homeland.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria V post Cineres</em></span><br>\nWe humbly beseech You, almighty God, that, having received the blessing of Your heavenly gift, it may be for us the source of sacramental grace and of salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the right hand of Your Immaculate Mother support us, O Lord, whom You have filled with heavenly food, that by her help we may be found worthy to enter our eternal homeland.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday after Ash Wednesday</em></span><br>\nWe humbly beseech You, almighty God, that, having received the blessing of Your heavenly gift, it may be for us the source of sacramental grace and of salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, who didst give strength and learning to blessed Peter thy Confessor for the defense of the Catholic faith, mercifully grant, that by his example and teaching the erring may be saved and the faithful remain constant in the confession of truth.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Die VI infra Octavam Patrocinii St Joseph</em></span><br>\nGod, Who in thine unspeakable foreknowledge didst choose thy blessed servant Joseph to be the husband of thine Own most holy Mother; mercifully grant that now that he is in heaven with thee, we who on earth do reverence him for our Defender, may worthily be holpen by the succour of his prayers to thee on our behalf;<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO God, who didst give strength and learning to blessed Peter thy Confessor for the defense of the Catholic faith, mercifully grant, that by his example and teaching the erring may be saved and the faithful remain constant in the confession of truth.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sixth Day of the Octave of the Solemnity of St. Joseph</em></span><br>\nGod, Who in thine unspeakable foreknowledge didst choose thy blessed servant Joseph to be the husband of thine Own most holy Mother; mercifully grant that now that he is in heaven with thee, we who on earth do reverence him for our Defender, may worthily be holpen by the succour of his prayers to thee on our behalf;<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May the pious prayer of holy Peter thy Confessor and illustrious Doctor be not wanting to us, O Lord, but make our offerings acceptable to thee and ever win for us thy mercy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Die VI infra Octavam Patrocinii St Joseph</em></span><br>\nSupported by the patronage of the spouse of thy most holy Mother, we beseech thy clemency, O Lord, that thou wouldst make our hearts despise all eartly things and love thee, the true God with perfect charity.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "May the pious prayer of holy Peter thy Confessor and illustrious Doctor be not wanting to us, O Lord, but make our offerings acceptable to thee and ever win for us thy mercy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sixth Day of the Octave of the Solemnity of St. Joseph</em></span><br>\nSupported by the patronage of the spouse of thy most holy Mother, we beseech thy clemency, O Lord, that thou wouldst make our hearts despise all eartly things and love thee, the true God with perfect charity.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay blessed Peter thy Confessor and illustrious Doctor intercede for us, O Lord, that this thy sacrifice may obtain for us salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Die VI infra Octavam Patrocinii St Joseph</em></span><br>\nRefreshed at the fount of divine blessing, we beseech thee, O Lord our God, that as thou dost gladden us by the protection of blessed Joseph, so by his merits and intercession thou woulds make us partakers of his heavenly glory.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay blessed Peter thy Confessor and illustrious Doctor intercede for us, O Lord, that this thy sacrifice may obtain for us salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sixth Day of the Octave of the Solemnity of St. Joseph</em></span><br>\nRefreshed at the fount of divine blessing, we beseech thee, O Lord our God, that as thou dost gladden us by the protection of blessed Joseph, so by his merits and intercession thou woulds make us partakers of his heavenly glory.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

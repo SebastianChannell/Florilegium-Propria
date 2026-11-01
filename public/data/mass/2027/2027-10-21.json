@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nWe who have received the gift of Your blessed sacrament, O Lord, humbly pray that what You have taught us to do in commemoration of You, may profit and help us in our weakness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Hilarion, Abbot</em></span><br>\nMay the pleading of the blessed Abbot Hilarion for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.<br>\n<span class=\"rubric\"><em>Commemoration Ss. Ursula and Companions, Virg. and Mart.</em></span><br>\nGrant to us we beseech thee, O Lord, at the intercession of thy holy Virgins and Martyrs Ursula and her companions: that what we touch with our lips we may receive with pure minds.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nWe who have received the gift of Your blessed sacrament, O Lord, humbly pray that what You have taught us to do in commemoration of You, may profit and help us in our weakness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Hilarion, Abbot</em></span><br>\nMay the pleading of the blessed Abbot Hilarion for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.<br>\n<span class=\"rubric\"><em>Commemoration Ss. Ursula and Companions, Virg. and Mart.</em></span><br>\nGrant to us we beseech thee, O Lord, at the intercession of thy holy Virgins and Martyrs Ursula and her companions: that what we touch with our lips we may receive with pure minds.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

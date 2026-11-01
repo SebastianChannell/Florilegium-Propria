@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, You Who were pleased to gather into Your Church the peoples of the Indies by the preaching and miracles of blessed Francis, mercifully grant that we, who honor his glorious merits, may also imitate the example of his virtues.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria V infra Hebdomadam I Adventus</em></span><br>\nPut forth Your power, O Lord, we beseech You, and come, that with You as our protector we may be rescued from the impending danger of our sins; and with You as our deliverer, may we obtain our salvation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO God, You Who were pleased to gather into Your Church the peoples of the Indies by the preaching and miracles of blessed Francis, mercifully grant that we, who honor his glorious merits, may also imitate the example of his virtues.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the First Week of Advent</em></span><br>\nPut forth Your power, O Lord, we beseech You, and come, that with You as our protector we may be rescued from the impending danger of our sins; and with You as our deliverer, may we obtain our salvation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -85,11 +85,11 @@
       "kind": "creed",
       "latin": {
         "label": "Credo",
-        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       },
       "english": {
         "label": "Credo",
-        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Grant us, we beseech You, almighty God, that the offering of our lowliness may be pleasing to You in honor of Your Saints and may purify us in both body and mind.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria V infra Hebdomadam I Adventus</em></span><br>\nMay these offerings, O Lord, cleanse us by their mighty power and thus make us come purer before You Who are their author.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Grant us, we beseech You, almighty God, that the offering of our lowliness may be pleasing to You in honor of Your Saints and may purify us in both body and mind.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the First Week of Advent</em></span><br>\nMay these offerings, O Lord, cleanse us by their mighty power and thus make us come purer before You Who are their author.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nWe pray You, almighty God, that we who have received heavenly nourishment may thereby, through the intercession of blessed Francis, Your Confessor, be sustained against all harm and danger.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria V infra Hebdomadam I Adventus</em></span><br>\nMay we receive Your mercy, O Lord, in the midst of Your temple, and thus prepare with due observance for the coming festal season of our redemption.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nWe pray You, almighty God, that we who have received heavenly nourishment may thereby, through the intercession of blessed Francis, Your Confessor, be sustained against all harm and danger.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the First Week of Advent</em></span><br>\nMay we receive Your mercy, O Lord, in the midst of Your temple, and thus prepare with due observance for the coming festal season of our redemption.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

@@ -25,11 +25,11 @@
       "kind": "gloria",
       "latin": {
         "label": "Gloria",
-        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       },
       "english": {
         "label": "Gloria",
-        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       }
     },
     {
@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nGrant, we beseech thee, O Almighty God, that the worshipful feast of thy blessed Apostle, Thomas on the eve whereof we now stand, may avail us to the increase both of godliness toward thee, and of health to our own souls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria II infra Hebdomadam IV Adventus</em></span><br>\nPut forth Your power, O Lord, we beseech You, and delay not: and with Your great might come to our aid, so that what is hindered by our sins may be hastened by Your merciful goodness.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nO God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nGrant, we beseech thee, O Almighty God, that the worshipful feast of thy blessed Apostle, Thomas on the eve whereof we now stand, may avail us to the increase both of godliness toward thee, and of health to our own souls.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Advent</em></span><br>\nPut forth Your power, O Lord, we beseech You, and delay not: and with Your great might come to our aid, so that what is hindered by our sins may be hastened by Your merciful goodness.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nO God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -85,11 +85,11 @@
       "kind": "creed",
       "latin": {
         "label": "Credo",
-        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       },
       "english": {
         "label": "Credo",
-        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Offering to thee these holy mysteries with reverence for the high dignity of the Apostleship, we beseech thee, O Lord that through the prayers of blessed Thomas, thy Apostle, to whose feast we look forward, thy people ever may set forth their desires before thee and gain what they seek.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria II infra Hebdomadam IV Adventus</em></span><br>\nLook with favor, O Lord, we beseech You, upon the offerings here present, that they may be profitable for our devotion and for our salvation.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Adveny</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Offering to thee these holy mysteries with reverence for the high dignity of the Apostleship, we beseech thee, O Lord that through the prayers of blessed Thomas, thy Apostle, to whose feast we look forward, thy people ever may set forth their desires before thee and gain what they seek.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Advent</em></span><br>\nLook with favor, O Lord, we beseech You, upon the offerings here present, that they may be profitable for our devotion and for our salvation.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Adveny</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nBe appeased, we beseech thee, O Lord, by the prayers of thy holy Apostle, Thomas, and grant us pardon and unfailing remedies.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria II infra Hebdomadam IV Adventus</em></span><br>\nHaving received Your gifts, we beseech You, O Lord, that each partaking of this sacrament may increase within us its saving effect.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nMay this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nBe appeased, we beseech thee, O Lord, by the prayers of thy holy Apostle, Thomas, and grant us pardon and unfailing remedies.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Advent</em></span><br>\nHaving received Your gifts, we beseech You, O Lord, that each partaking of this sacrament may increase within us its saving effect.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nMay this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

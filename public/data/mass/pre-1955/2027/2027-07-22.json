@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "O Lord, may our gifts be acceptable to You through the glorious merits of blessed Mary Magdalen, whose offering of homage Your only-begotten Son did mercifully accept.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "O Lord, may our gifts be acceptable to You through the glorious merits of blessed Mary Magdalen, whose offering of homage Your only-begotten Son did mercifully accept.<br>\nWho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nAfter receiving Your Body and precious Blood, the one and only saving remedy, we beseech You, O Lord, that, under the protection of blessed Mary Magdalen, we may be freed from all evils.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nAfter receiving Your Body and precious Blood, the one and only saving remedy, we beseech You, O Lord, that, under the protection of blessed Mary Magdalen, we may be freed from all evils.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

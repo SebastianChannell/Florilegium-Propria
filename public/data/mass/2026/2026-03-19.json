@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nMay the merits of Your most holy Mother’s spouse help us, we beseech You, O Lord, that through his intercession we may receive what we cannot obtain by our own efforts.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam IV in Quadragesima</em></span><br>\nGrant, we beseech You, almighty God, that we who are chastising the flesh by fasting, may rejoice in this holy practice and thus, with earthly passions subdued, we may the more readily direct our thoughts to heavenly things.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the merits of Your most holy Mother’s spouse help us, we beseech You, O Lord, that through his intercession we may receive what we cannot obtain by our own efforts.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Fourth Week of Lent</em></span><br>\nGrant, we beseech You, almighty God, that we who are chastising the flesh by fasting, may rejoice in this holy practice and thus, with earthly passions subdued, we may the more readily direct our thoughts to heavenly things.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "O Lord, we dutifully worship You, humbly entreating You by the prayers of blessed Joseph, Spouse of the Mother of Jesus Christ, our Lord, in whose honor we offer these sacrifices of praise, that You protect Your gifts within us.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam IV in Quadragesima</em></span><br>\nCleanse us, O merciful God, so that the prayers of Your Church, which we bring You as a pleasing gift, may be even more pleasing to You, once our hearts are purified.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "O Lord, we dutifully worship You, humbly entreating You by the prayers of blessed Joseph, Spouse of the Mother of Jesus Christ, our Lord, in whose honor we offer these sacrifices of praise, that You protect Your gifts within us.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Fourth Week of Lent</em></span><br>\nCleanse us, O merciful God, so that the prayers of Your Church, which we bring You as a pleasing gift, may be even more pleasing to You, once our hearts are purified.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nBe with us, we beseech You, O merciful God, and by the intercession of blessed Joseph, Your Confessor, graciously keep safe the gifts You have given us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam IV in Quadragesima</em></span><br>\nO Lord, we beseech you, do not allow the heavenly gifts, which You have given for healing Your faithful people, to become a reason for condemning those who receive them.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nBe with us, we beseech You, O merciful God, and by the intercession of blessed Joseph, Your Confessor, graciously keep safe the gifts You have given us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Fourth Week of Lent</em></span><br>\nO Lord, we beseech you, do not allow the heavenly gifts, which You have given for healing Your faithful people, to become a reason for condemning those who receive them.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

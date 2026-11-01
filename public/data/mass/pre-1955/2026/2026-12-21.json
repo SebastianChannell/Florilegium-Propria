@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO Lord, grant us, we beseech You, to glory in the feast-day of blessed Thomas, Your Apostle, that we may be helped continually by his patronage and imitate his faith with a devotion like his.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria II infra Hebdomadam IV Adventus</em></span><br>\nPut forth Your power, O Lord, we beseech You, and delay not: and with Your great might come to our aid, so that what is hindered by our sins may be hastened by Your merciful goodness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO Lord, grant us, we beseech You, to glory in the feast-day of blessed Thomas, Your Apostle, that we may be helped continually by his patronage and imitate his faith with a devotion like his.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Advent</em></span><br>\nPut forth Your power, O Lord, we beseech You, and delay not: and with Your great might come to our aid, so that what is hindered by our sins may be hastened by Your merciful goodness.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "O Lord, we who dutifully worship You humbly entreat You that, by the prayers of Your blessed Apostle Thomas, in honor of whose martyrdom we offer these sacrifices of praise, You safeguard Your gifts within us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria II infra Hebdomadam IV Adventus</em></span><br>\nLook with favor, O Lord, we beseech You, upon the offerings here present, that they may be profitable for our devotion and for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "O Lord, we who dutifully worship You humbly entreat You that, by the prayers of Your blessed Apostle Thomas, in honor of whose martyrdom we offer these sacrifices of praise, You safeguard Your gifts within us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Advent</em></span><br>\nLook with favor, O Lord, we beseech You, upon the offerings here present, that they may be profitable for our devotion and for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMerciful God, abide with us, and through the intercession of Your blessed Apostle Thomas, mercifully safeguard the gifts You have given us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria II infra Hebdomadam IV Adventus</em></span><br>\nHaving received Your gifts, we beseech You, O Lord, that each partaking of this sacrament may increase within us its saving effect.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMerciful God, abide with us, and through the intercession of Your blessed Apostle Thomas, mercifully safeguard the gifts You have given us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Monday in the Fourth Week of Advent</em></span><br>\nHaving received Your gifts, we beseech You, O Lord, that each partaking of this sacrament may increase within us its saving effect.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

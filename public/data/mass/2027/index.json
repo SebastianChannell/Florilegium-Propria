@@ -7,8 +7,8 @@
   "missal": "1962 Roman Missal",
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   },
   "days": {
     "2027-01-01": {
@@ -168,7 +168,7 @@
     "2027-01-23": {
       "title": "S. Raymundi de Peñafort Confessoris",
       "rank": "III. classis",
-      "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virgini et Martyris",
+      "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virginis et Martyris",
       "sectionCount": 12,
       "path": "/data/mass/2027/2027-01-23.json"
     },
@@ -595,7 +595,7 @@
     "2027-03-25": {
       "title": "De missa chrismatis",
       "rank": "I. classis",
-      "note": "Transfer: In Annuntiatione Beate Mariæ Virgine",
+      "note": "Transfer: In Annuntiatione Beatæ Mariæ Virginis",
       "sectionCount": 12,
       "path": "/data/mass/2027/2027-03-25.json"
     },
@@ -670,7 +670,7 @@
       "path": "/data/mass/2027/2027-04-04.json"
     },
     "2027-04-05": {
-      "title": "In Annuntiatione Beate Mariæ Virgine",
+      "title": "In Annuntiatione Beatæ Mariæ Virginis",
       "rank": "I. classis",
       "note": "Commemoratio ad Laudes tantum: S. Vincentii Ferrerii Confessoris",
       "sectionCount": 12,
@@ -2133,7 +2133,7 @@
       "path": "/data/mass/2027/2027-10-30.json"
     },
     "2027-10-31": {
-      "title": "In festo Domino nostro Jesu Christi Regis",
+      "title": "In festo Domini Nostri Jesu Christi Regis",
       "rank": "I. classis",
       "note": "",
       "sectionCount": 12,
@@ -2148,8 +2148,8 @@
     },
     "2027-11-02": {
       "title": "In Commemoratione Omnium Fidelium Defunctorum Ad primam Missam",
-      "rank": "III. classis",
-      "note": "Scriptura: Feria Tertia infra Hebdomadam IV quæ superfuit post Epiphaniam V. Octobris",
+      "rank": "I. classis",
+      "note": "",
       "sectionCount": 12,
       "path": "/data/mass/2027/2027-11-02.json"
     },

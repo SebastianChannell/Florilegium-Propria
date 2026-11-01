@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who, in preference to Your other Saints, willed St. Joachim to be the father of Your Son’s Mother; grant, we beseech You, that we may ever enjoy the spiritual help of him whose feast we celebrate.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XII Post Pentecosten III. Augusti</em></span><br>\nAlmighty and merciful God, by Whose grace Your faithful people serve You worthily and righteously, grant, we beseech You, that we may hasten without stumbling to those things You have promised us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who, in preference to Your other Saints, willed St. Joachim to be the father of Your Son’s Mother; grant, we beseech You, that we may ever enjoy the spiritual help of him whose feast we celebrate.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Twelfth Sunday after Pentecost III. of August</em></span><br>\nAlmighty and merciful God, by Whose grace Your faithful people serve You worthily and righteously, grant, we beseech You, that we may hasten without stumbling to those things You have promised us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Graciously accept, most merciful God, the sacrifice offered to Your majesty in honor of the holy Patriarch Joachim, father of the Virgin Mary, that by his intercession, together with that of his spouse and most blessed child, we may be found worthy to obtain full forgiveness of our sins and everlasting glory.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XII Post Pentecosten III. Augusti</em></span><br>\nO Lord, we beseech You, graciously look upon the offerings which we lay upon Your sacred altar; so that they may bring us plentiful forgiveness while they give honor to Your name.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Graciously accept, most merciful God, the sacrifice offered to Your majesty in honor of the holy Patriarch Joachim, father of the Virgin Mary, that by his intercession, together with that of his spouse and most blessed child, we may be found worthy to obtain full forgiveness of our sins and everlasting glory.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Twelfth Sunday after Pentecost III. of August</em></span><br>\nO Lord, we beseech You, graciously look upon the offerings which we lay upon Your sacred altar; so that they may bring us plentiful forgiveness while they give honor to Your name.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nWe beseech You, almighty God, that by this sacrament which we have received, and by the pleading merits of holy Joachim, father of the Mother of Your beloved Son, our Lord Jesus Christ, we may be found worthy to share Your grace in the life, and eternal glory in the life to come.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XII Post Pentecosten III. Augusti</em></span><br>\nMay the holy reception of this sacrament, we beseech You, O Lord, restore us to life, and bestow upon us forgiveness and protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nWe beseech You, almighty God, that by this sacrament which we have received, and by the pleading merits of holy Joachim, father of the Mother of Your beloved Son, our Lord Jesus Christ, we may be found worthy to share Your grace in the life, and eternal glory in the life to come.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Twelfth Sunday after Pentecost III. of August</em></span><br>\nMay the holy reception of this sacrament, we beseech You, O Lord, restore us to life, and bestow upon us forgiveness and protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

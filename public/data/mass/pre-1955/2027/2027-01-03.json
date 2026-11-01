@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, You Who appointed Your only-begotten Son to be the Saviour of the human race, and commanded that He be called Jesus, mercifully grant that we may enjoy in heaven the vision of Him Whose holy Name we venerate on earth.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration In Octava S. Joannis Apostoli et Evangelistæ</em></span><br>\nO Lord, graciously shed light upon Your Church, so that, enlightened by the teachings of blessed John, Your Apostle and Evangelist, she may gain Your everlasting rewards.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, You Who appointed Your only-begotten Son to be the Saviour of the human race, and commanded that He be called Jesus, mercifully grant that we may enjoy in heaven the vision of Him Whose holy Name we venerate on earth.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Octave Day of St. John the Evangelist</em></span><br>\nO Lord, graciously shed light upon Your Church, so that, enlightened by the teachings of blessed John, Your Apostle and Evangelist, she may gain Your everlasting rewards.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May Your blessing, O most merciful God, which makes all creation flourish, sanctify this our sacrifice, which we offer You to the glory of the Name of Your Son, our Lord Jesus Christ, and may it be pleasing to Your majesty as an act of praise and be profitable to us for our salvation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration In Octava S. Joannis Apostoli et Evangelistæ</em></span><br>\nAccept, O Lord, the gifts we bring You on the feast of him upon whose patronage we trust for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May Your blessing, O most merciful God, which makes all creation flourish, sanctify this our sacrifice, which we offer You to the glory of the Name of Your Son, our Lord Jesus Christ, and may it be pleasing to Your majesty as an act of praise and be profitable to us for our salvation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Octave Day of St. John the Evangelist</em></span><br>\nAccept, O Lord, the gifts we bring You on the feast of him upon whose patronage we trust for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nAlmighty, eternal God, You Who have created and redeemed us, graciously look upon our needs, and deign to receive with kind and favorable countenance the sacrifice of the Saving Victim, which we have offered to Your majesty, in honor of the Name of Your Son, our Lord Jesus Christ, that, Your grace being poured out upon us, we may have the joy of seeing our names written in heaven, under the glorious Name of Jesus, the sign of eternal predestination.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration In Octava S. Joannis Apostoli et Evangelistæ</em></span><br>\nRefreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nAlmighty, eternal God, You Who have created and redeemed us, graciously look upon our needs, and deign to receive with kind and favorable countenance the sacrifice of the Saving Victim, which we have offered to Your majesty, in honor of the Name of Your Son, our Lord Jesus Christ, that, Your grace being poured out upon us, we may have the joy of seeing our names written in heaven, under the glorious Name of Jesus, the sign of eternal predestination.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Octave Day of St. John the Evangelist</em></span><br>\nRefreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

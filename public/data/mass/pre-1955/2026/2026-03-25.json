@@ -4,7 +4,7 @@
   "rubricKey": "1954",
   "rubrics": "Divino Afflatu - 1954",
   "missal": "Roman Missal · Divino Afflatu 1954",
-  "title": "In Annuntiatione Beate Mariæ Virgine",
+  "title": "In Annuntiatione Beatæ Mariæ Virginis",
   "rank": "Duplex I. classis",
   "note": "Commemoratio: Feria Quarta infra Hebdomadam Passionis",
   "sections": [
@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who, by the message of an angel, willed Your Word to take flesh in the womb of the Blessed Virgin Mary, grant that we, Your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quarta infra Hebdomadam Passionis</em></span><br>\nIn Your mercy, O Lord, may this hallowing fast enlighten the hearts of Your faithful people, and since You have given them the desire to serve You, lend a gracious ear to their prayers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who, by the message of an angel, willed Your Word to take flesh in the womb of the Blessed Virgin Mary, grant that we, Your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Wednesday in Passion Week</em></span><br>\nIn Your mercy, O Lord, may this hallowing fast enlighten the hearts of Your faithful people, and since You have given them the desire to serve You, lend a gracious ear to their prayers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Fix firmly in our minds, O Lord, we beseech You, the mysteries of the true faith; that we who believe Him, conceived of a Virgin, to be true God and man, may be found worthy to reach eternal happiness through the power of His redeeming resurrection.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quarta infra Hebdomadam Passionis</em></span><br>\nO merciful God, permit us to offer in sincere submission the gift of satisfaction and praise.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Fix firmly in our minds, O Lord, we beseech You, the mysteries of the true faith; that we who believe Him, conceived of a Virgin, to be true God and man, may be found worthy to reach eternal happiness through the power of His redeeming resurrection.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Wednesday in Passion Week</em></span><br>\nO merciful God, permit us to offer in sincere submission the gift of satisfaction and praise.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nPour forth, we beseech You, O Lord, Your grace into our hearts, that we, to whom the incarnation of Christ, Your Son, was made known by the message of an angel, may, by His passion and cross, be brought to the glory of the resurrection.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quarta infra Hebdomadam Passionis</em></span><br>\nWe who have shared in the blessing of the heavenly gift humbly pray You, almighty God, that it may be for us the source of sacramental grace and salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nPour forth, we beseech You, O Lord, Your grace into our hearts, that we, to whom the incarnation of Christ, Your Son, was made known by the message of an angel, may, by His passion and cross, be brought to the glory of the resurrection.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Wednesday in Passion Week</em></span><br>\nWe who have shared in the blessing of the heavenly gift humbly pray You, almighty God, that it may be for us the source of sacramental grace and salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

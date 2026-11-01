@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO Lord Jesus Christ, Who wondrously revealed the unsearchable riches of Your Heart to blessed Margaret Mary, the Virgin, grant us, by her merits and through imitating her, to love You in all things and above all things, so that we may be found worthy to possess a lasting dwelling place in Your Heart itself.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO Lord Jesus Christ, Who wondrously revealed the unsearchable riches of Your Heart to blessed Margaret Mary, the Virgin, grant us, by her merits and through imitating her, to love You in all things and above all things, so that we may be found worthy to possess a lasting dwelling place in Your Heart itself.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nHaving received the sacrament of Your Body and Blood, we beseech You, O Lord Jesus, grant us by the intercession of blessed Margaret Mary, the Virgin, that, stripping ourselves of worldly vanities, we may be found worthy to put on the meekness and humility of Your Heart.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nHaving received the sacrament of Your Body and Blood, we beseech You, O Lord Jesus, grant us by the intercession of blessed Margaret Mary, the Virgin, that, stripping ourselves of worldly vanities, we may be found worthy to put on the meekness and humility of Your Heart.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

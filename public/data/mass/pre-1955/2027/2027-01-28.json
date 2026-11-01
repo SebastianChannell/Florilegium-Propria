@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, You Who, as an example of Your love, divinely taught St. Peter to enrich Your Church with new offspring, a family of Religious devoted to the ransom of the faithful, grant by his intercession, that we may be released from the slavery of sin and rejoice in lasting freedom in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Agnes Virgin and Martyr, second</em></span><br>\nO God, You Who gladden us each year by the feast of blessed Agnes, Your Virgin and Martyr, grant us, we beseech You, that as we honor her by these sacred rites, we may follow her example of a holy life.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, You Who, as an example of Your love, divinely taught St. Peter to enrich Your Church with new offspring, a family of Religious devoted to the ransom of the faithful, grant by his intercession, that we may be released from the slavery of sin and rejoice in lasting freedom in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Agnes Virgin and Martyr, second</em></span><br>\nO God, You Who gladden us each year by the feast of blessed Agnes, Your Virgin and Martyr, grant us, we beseech You, that as we honor her by these sacred rites, we may follow her example of a holy life.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

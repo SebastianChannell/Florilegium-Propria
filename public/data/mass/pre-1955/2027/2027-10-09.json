@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who in a wondrous way graciously urged blessed John, Your Confessor, to propagate Your faith among the pagans, and through him brought together a new religious family in Your Church for the education of the faithful, grant Your servants so to profit by his teaching that we may reach everlasting rewards.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs</em></span><br>\nO God, Who on this day strengthened blessed Dionysius, Your Martyr and Bishop, with the power to be steadfast in his suffering, and were pleased to join with him Rusticus and Eleutherius to preach Your glory to the pagans, grant us, we beseech You, out of love for You, to despise the favors of this world and to fear not its enmity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who in a wondrous way graciously urged blessed John, Your Confessor, to propagate Your faith among the pagans, and through him brought together a new religious family in Your Church for the education of the faithful, grant Your servants so to profit by his teaching that we may reach everlasting rewards.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs</em></span><br>\nO God, Who on this day strengthened blessed Denis, Your Martyr and Bishop, with the power to be steadfast in his suffering, and were pleased to join with him Rusticus and Eleutherius to preach Your glory to the pagans, grant us, we beseech You, out of love for You, to despise the favors of this world and to fear not its enmity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nRefreshed by the holy sacrament of Your precious Body and Blood, we beseech You, O Lord, that, following the example of blessed John, Your Confessor, may we strive to profess what he believed and in our actions put into practice what he taught.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs</em></span><br>\nWe who have received Your sacrament beseech You, Lord, that through the intercession of Your blessed Martyrs, Dionysius, Rusticus, and Eleutherius, we may profit unto an increase of eternal salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nRefreshed by the holy sacrament of Your precious Body and Blood, we beseech You, O Lord, that, following the example of blessed John, Your Confessor, may we strive to profess what he believed and in our actions put into practice what he taught.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs</em></span><br>\nWe who have received Your sacrament beseech You, Lord, that through the intercession of Your blessed Martyrs, Denis, Rusticus, and Eleutherius, we may profit unto an increase of eternal salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

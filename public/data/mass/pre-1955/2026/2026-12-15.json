@@ -4,7 +4,7 @@
   "rubricKey": "1954",
   "rubrics": "Divino Afflatu - 1954",
   "missal": "Roman Missal · Divino Afflatu 1954",
-  "title": "In Octava Immaculatæ Concept. Beatæ Mariæ Virgini",
+  "title": "In Octava Immaculatæ Concept. Beatæ Mariæ Virginis",
   "rank": "Duplex majus",
   "note": "Commemoratio: Feria III infra Hebdomadam III Adventus",
   "sections": [
@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who by the Immaculate Conception of the Virgin, prepared a worthy dwelling for Your Son, and Who, by Your Son’s death, foreseen by You, preserved her from all taint, grant, we beseech You, through her intercession, that we too may come to You unstained by sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria III infra Hebdomadam III Adventus</em></span><br>\nLend Your ear to our prayers, O Lord, we beseech You; and brighten the darkness of our minds by the grace of Your coming.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO God, Who by the Immaculate Conception of the Virgin, prepared a worthy dwelling for Your Son, and Who, by Your Son’s death, foreseen by You, preserved her from all taint, grant, we beseech You, through her intercession, that we too may come to You unstained by sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Tuesday in the Third Week of Advent</em></span><br>\nLend Your ear to our prayers, O Lord, we beseech You; and brighten the darkness of our minds by the grace of Your coming.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Accept, O Lord, the sacrifice of salvation which we offer You on the feast of the Immaculate Conception of the Blessed Virgin Mary; and grant that as we profess that she was kept from all taint of evil, by Your anticipating grace, so, through her intercession, may we be freed from all sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria III infra Hebdomadam III Adventus</em></span><br>\nWe beseech You, O Lord, that the gift we dedicate to You, may be sacrificed continually, so that the sacramental rite You have ordained may be fully observed, and the work of Your salvation may be wonderfully effective within us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Accept, O Lord, the sacrifice of salvation which we offer You on the feast of the Immaculate Conception of the Blessed Virgin Mary; and grant that as we profess that she was kept from all taint of evil, by Your anticipating grace, so, through her intercession, may we be freed from all sin.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Tuesday in the Third Week of Advent</em></span><br>\nWe beseech You, O Lord, that the gift we dedicate to You, may be sacrificed continually, so that the sacramental rite You have ordained may be fully observed, and the work of Your salvation may be wonderfully effective within us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay the sacrament we have received, O Lord our God, heal in us the wounds of that sin from which by a singular privilege, You kept immaculate the conception of blessed Mary.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria III infra Hebdomadam III Adventus</em></span><br>\nWe entreat You, merciful Lord, that these divine helps may cleanse us from our sins and prepare us for the coming festal season.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the sacrament we have received, O Lord our God, heal in us the wounds of that sin from which by a singular privilege, You kept immaculate the conception of blessed Mary.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Tuesday in the Third Week of Advent</em></span><br>\nWe entreat You, merciful Lord, that these divine helps may cleanse us from our sins and prepare us for the coming festal season.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

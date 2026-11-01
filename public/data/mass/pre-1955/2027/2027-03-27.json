@@ -77,7 +77,7 @@
       },
       "english": {
         "label": "W",
-        "html": "Let us pray.<br>\n<span class=\"marker\"><em>℣.</em></span> Let us kneel.<br>\n<span class=\"marker\"><em>℟.</em></span> Arise.<br>\nO God, unchangable power and light everlasting: mercifully regard the wonderful Mystery of Thy whole Church, and peacefully effect by Thine everlasting decree the work of man's salvation: and may the whole world experience and see that what was cast down is raised up, what was old is renewed, and all things are returning to perfection, through Him from whom they received their first being, our Lord Jesus Christ Thy Son:<br>\nho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\n<span class=\"marker\"><em>℣.</em></span> Let us kneel.<br>\n<span class=\"marker\"><em>℟.</em></span> Arise.<br>\nO God, unchangable power and light everlasting: mercifully regard the wonderful Mystery of Thy whole Church, and peacefully effect by Thine everlasting decree the work of man's salvation: and may the whole world experience and see that what was cast down is raised up, what was old is renewed, and all things are returning to perfection, through Him from whom they received their first being, our Lord Jesus Christ Thy Son:<br>\nho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -245,7 +245,7 @@
       },
       "english": {
         "label": "W",
-        "html": "Let us pray.<br>\n<span class=\"marker\"><em>℣.</em></span> Let us kneel.<br>\n<span class=\"marker\"><em>℟.</em></span> Arise.<br>\nO almighty everlasting God, who art wonderful in the ordering of all thy works, let thy redeemed understand that the creation of the world at the beginning was not a greater work, than the immolation, in the fullness of time of Christ, our passover.<br>\nho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\n<span class=\"marker\"><em>℣.</em></span> Let us kneel.<br>\n<span class=\"marker\"><em>℟.</em></span> Arise.<br>\nO almighty everlasting God, who art wonderful in the ordering of all thy works, let thy redeemed understand that the creation of the world at the beginning was not a greater work, than the immolation, in the fullness of time of Christ, our passover.<br>\nho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -515,7 +515,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

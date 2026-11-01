@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who granted the rewards of everlasting happiness to the soul of Your servant Gregory, mercifully grant that we who are weighed down with the burden of our sins may be raised up by his prayers to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam III in Quadragesima</em></span><br>\nMay the blessed feast of Your saints, Cosmas and Damian, glorify You, O Lord; for on this day in Your marvelous providence, You gave them glory everlasting, and gave us their help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who granted the rewards of everlasting happiness to the soul of Your servant Gregory, mercifully grant that we who are weighed down with the burden of our sins may be raised up by his prayers to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Third Week of Lent</em></span><br>\nMay the blessed feast of Your saints, Cosmas and Damian, glorify You, O Lord; for on this day in Your marvelous providence, You gave them glory everlasting, and gave us their help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Grant, we beseech You, O Lord, that through the intercession of blessed Gregory, this sacrifice may benefit us; for You have provided that by offering it, the sins of the whole world should be forgiven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam III in Quadragesima</em></span><br>\nWe offer You, O Lord, in honor of the meritorious death of Your just ones, this sacrifice which is the source of martyrdom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Grant, we beseech You, O Lord, that through the intercession of blessed Gregory, this sacrifice may benefit us; for You have provided that by offering it, the sins of the whole world should be forgiven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Third Week of Lent</em></span><br>\nWe offer You, O Lord, in honor of the meritorious death of Your just ones, this sacrifice which is the source of martyrdom.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nO God, Who made Your Bishop, blessed Gregory, an equal to the saints in merit, graciously grant that we, who keep this feast in his memory, may also imitate the example given by his life.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam III in Quadragesima</em></span><br>\nO Lord, we ask You through the merits of Your blessed martyrs, Cosmas and Damian, that Your holy sacrament will assure us of salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who made Your Bishop, blessed Gregory, an equal to the saints in merit, graciously grant that we, who keep this feast in his memory, may also imitate the example given by his life.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Third Week of Lent</em></span><br>\nO Lord, we ask You through the merits of Your blessed martyrs, Cosmas and Damian, that Your holy sacrament will assure us of salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

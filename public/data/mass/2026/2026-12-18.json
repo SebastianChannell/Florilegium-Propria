@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nPut forth Your power, O Lord, we beseech You, and come; that those who trust in Your goodness may soon be delivered from all harm.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nPut forth Your power, O Lord, we beseech You, and come; that those who trust in Your goodness may soon be delivered from all harm.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -109,11 +109,11 @@
       "kind": "secret",
       "latin": {
         "label": "Secreta",
-        "html": "Hóstias tibi, Dómine, beáti N. Mártyris tui atque Pontíficis dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Munéribus nostris, quaesumus, Dómine, precibúsque suscéptis: et caeléstibus nos munda mystériis, et cleménter exáudi.<br>\nPer Dóminum nostrum Iesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       },
       "english": {
         "label": "Secreta",
-        "html": "O Lord, graciously accept, through the merits of Your blessed Martyr and Bishop N., the sacrificial gifts dedicated to You, and grant they may prove to be for us a lasting help.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Munéribus nostris, quaesumus, Dómine, precibúsque suscéptis: et caeléstibus nos munda mystériis, et cleménter exáudi.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -133,7 +133,7 @@
       "kind": "communion",
       "latin": {
         "label": "Communio",
-        "html": "<span class=\"rubric\"><em>Zach 14:5</em></span><br>\nEcce, Dóminus véniet et omnes Sancti eius cum eo: et erit in die illa lux magna."
+        "html": "<span class=\"rubric\"><em>Zach 14:5-6</em></span><br>\nEcce, Dóminus véniet et omnes Sancti eius cum eo: et erit in die illa lux magna."
       },
       "english": {
         "label": "Communio",
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

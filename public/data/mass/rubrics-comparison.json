@@ -20,21 +20,21 @@
   "totals": {
     "daysCompared": 730,
     "calendarDaysDifferent": 730,
-    "observanceDaysDifferent": 450,
-    "readingDaysDifferent": 206,
-    "properDaysDifferent": 561
+    "observanceDaysDifferent": 453,
+    "readingDaysDifferent": 208,
+    "properDaysDifferent": 560
   },
   "years": {
     "2026": {
       "daysCompared": 365,
       "calendarDaysDifferent": 365,
-      "observanceDaysDifferent": 230,
-      "readingDaysDifferent": 102,
+      "observanceDaysDifferent": 232,
+      "readingDaysDifferent": 103,
       "properDaysDifferent": 277,
       "source": {
         "repository": "https://github.com/DivinumOfficium/divinum-officium",
-        "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-        "commitDate": "2026-09-30T14:30:23-04:00"
+        "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+        "commitDate": "2026-10-31T20:05:09-04:00"
       },
       "changedDates": {
         "calendar": [
@@ -451,6 +451,7 @@
           "2026-03-30",
           "2026-03-31",
           "2026-04-01",
+          "2026-04-02",
           "2026-04-03",
           "2026-04-11",
           "2026-04-14",
@@ -603,6 +604,7 @@
           "2026-10-29",
           "2026-10-30",
           "2026-10-31",
+          "2026-11-02",
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
@@ -662,6 +664,7 @@
           "2026-03-29",
           "2026-03-31",
           "2026-04-01",
+          "2026-04-02",
           "2026-04-03",
           "2026-04-04",
           "2026-04-17",
@@ -811,6 +814,7 @@
           "2026-03-30",
           "2026-03-31",
           "2026-04-01",
+          "2026-04-02",
           "2026-04-03",
           "2026-04-04",
           "2026-04-08",
@@ -994,7 +998,6 @@
           "2026-11-29",
           "2026-12-01",
           "2026-12-02",
-          "2026-12-03",
           "2026-12-04",
           "2026-12-05",
           "2026-12-06",
@@ -1806,13 +1809,13 @@
     "2027": {
       "daysCompared": 365,
       "calendarDaysDifferent": 365,
-      "observanceDaysDifferent": 220,
-      "readingDaysDifferent": 104,
-      "properDaysDifferent": 284,
+      "observanceDaysDifferent": 221,
+      "readingDaysDifferent": 105,
+      "properDaysDifferent": 283,
       "source": {
         "repository": "https://github.com/DivinumOfficium/divinum-officium",
-        "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-        "commitDate": "2026-09-30T14:30:23-04:00"
+        "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+        "commitDate": "2026-10-31T20:05:09-04:00"
       },
       "changedDates": {
         "calendar": [
@@ -2228,6 +2231,7 @@
           "2027-03-22",
           "2027-03-23",
           "2027-03-24",
+          "2027-03-25",
           "2027-03-26",
           "2027-04-02",
           "2027-04-11",
@@ -2430,6 +2434,7 @@
           "2027-03-21",
           "2027-03-23",
           "2027-03-24",
+          "2027-03-25",
           "2027-03-26",
           "2027-03-27",
           "2027-04-14",
@@ -2579,6 +2584,7 @@
           "2027-03-22",
           "2027-03-23",
           "2027-03-24",
+          "2027-03-25",
           "2027-03-26",
           "2027-03-27",
           "2027-03-31",
@@ -2771,10 +2777,8 @@
           "2027-11-29",
           "2027-12-01",
           "2027-12-02",
-          "2027-12-03",
           "2027-12-04",
           "2027-12-05",
-          "2027-12-06",
           "2027-12-07",
           "2027-12-09",
           "2027-12-10",
@@ -3129,7 +3133,7 @@
           "1960": {
             "title": "S. Raymundi de Peñafort Confessoris",
             "rank": "III. classis",
-            "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virgini et Martyris",
+            "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virginis et Martyris",
             "readings": [
               {
                 "kind": "lesson",

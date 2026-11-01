@@ -7,8 +7,8 @@
   "missal": "1962 Roman Missal",
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   },
   "days": {
     "2026-01-01": {
@@ -168,7 +168,7 @@
     "2026-01-23": {
       "title": "S. Raymundi de Peñafort Confessoris",
       "rank": "III. classis",
-      "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virgini et Martyris",
+      "note": "Commemoratio ad Laudes tantum: S. Emerentianæ Virginis et Martyris",
       "sectionCount": 12,
       "path": "/data/mass/2026/2026-01-23.json"
     },
@@ -593,7 +593,7 @@
       "path": "/data/mass/2026/2026-03-24.json"
     },
     "2026-03-25": {
-      "title": "In Annuntiatione Beate Mariæ Virgine",
+      "title": "In Annuntiatione Beatæ Mariæ Virginis",
       "rank": "I. classis",
       "note": "Commemoratio: Feria Quarta infra Hebdomadam Passionis",
       "sectionCount": 12,
@@ -2091,7 +2091,7 @@
       "path": "/data/mass/2026/2026-10-24.json"
     },
     "2026-10-25": {
-      "title": "In festo Domino nostro Jesu Christi Regis",
+      "title": "In festo Domini Nostri Jesu Christi Regis",
       "rank": "I. classis",
       "note": "",
       "sectionCount": 12,
@@ -2148,8 +2148,8 @@
     },
     "2026-11-02": {
       "title": "In Commemoratione Omnium Fidelium Defunctorum Ad primam Missam",
-      "rank": "III. classis",
-      "note": "Scriptura: Feria Secunda infra Hebdomadam XXIII post Octavam Pentecostes I. Novembris",
+      "rank": "I. classis",
+      "note": "",
       "sectionCount": 12,
       "path": "/data/mass/2026/2026-11-02.json"
     },

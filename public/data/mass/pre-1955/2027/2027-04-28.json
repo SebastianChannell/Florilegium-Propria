@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nLord Jesus Christ, Who didst gift thine holy servant Paul with great love that he might preach the mystery of thy cross, and hast been pleased that through him a new family should grow up in thy Church, grant unto us at his prayers that upon earth we may so call thy sufferings to mind as worthily to gain the fruit thereof in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nGrant, we beseech thee, almighty God, that we who celebrate the martyrdom of blessed Vitalis, through his intercession be strengthened in your love.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nLord Jesus Christ, Who didst gift thine holy servant Paul with great love that he might preach the mystery of thy cross, and hast been pleased that through him a new family should grow up in thy Church, grant unto us at his prayers that upon earth we may so call thy sufferings to mind as worthily to gain the fruit thereof in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nGrant, we beseech thee, almighty God, that we who celebrate the martyrdom of blessed Vitalis, through his intercession be strengthened in your love.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May these mysteries of thy passion and death, O Lord, fill us with that heavenly fervor, with which St. Paul, when he offered them presented his body as a living sacrifice, holy and pleasing unto thee.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nAs thou hast received our gifts and prayers, O Lord, cleanse us, we ask by thy heavenly mysteries, and graciously hear us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May these mysteries of thy passion and death, O Lord, fill us with that heavenly fervor, with which St. Paul, when he offered them presented his body as a living sacrifice, holy and pleasing unto thee.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nAs thou hast received our gifts and prayers, O Lord, cleanse us, we ask by thy heavenly mysteries, and graciously hear us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nWe have received, O Lord, the divine sacrament, which is a perpetual memorial, of thy boundless love; grant we pray, that through the merits and example of St. Paul, we may draw from thy fountains water springing up to life eternal, and in our life and conduct, we may keep thy most holy Passion ever impressed upon our hearts.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nGrant, we beseech thee, O our God, that we who in time render joyful service in memory of thy saints, may be gladdened by their company in eternity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nWe have received, O Lord, the divine sacrament, which is a perpetual memorial, of thy boundless love; grant we pray, that through the merits and example of St. Paul, we may draw from thy fountains water springing up to life eternal, and in our life and conduct, we may keep thy most holy Passion ever impressed upon our hearts.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Vitalis, Martyr</em></span><br>\nGrant, we beseech thee, O our God, that we who in time render joyful service in memory of thy saints, may be gladdened by their company in eternity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

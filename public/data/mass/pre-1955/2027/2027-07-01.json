@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Through this divine rite, we beseech You, may we draw near to Jesus, the mediator of the new covenant, and renew upon Your altar, O Lord of hosts, the sprinkling of blood more eloquent than that of Abel.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Octave of the Nativity of St. John the Baptist</em></span><br>\nWe heap Your altar with gifts, O Lord, celebrating the birth of him who announced the coming of the Saviour of the world, our Lord Jesus Christ, Your Son, and made His presence known.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Through this divine rite, we beseech You, may we draw near to Jesus, the mediator of the new covenant, and renew upon Your altar, O Lord of hosts, the sprinkling of blood more eloquent than that of Abel.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Octave of the Nativity of St. John the Baptist</em></span><br>\nWe heap Your altar with gifts, O Lord, celebrating the birth of him who announced the coming of the Saviour of the world, our Lord Jesus Christ, Your Son, and made His presence known.<br>\nWho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nAdmitted to the sacred banquet, O Lord, we have drawn water in joy from the Saviour’s fountain; may His Blood, we beseech You, become for us a fountain of water springing up unto life everlasting.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Octave of the Nativity of St. John the Baptist</em></span><br>\nMay Your Church, O God, rejoice at the birth of blessed John the Baptist, through whom she knew the author of her own rebirth, Your Son, our Lord Jesus Christ.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nAdmitted to the sacred banquet, O Lord, we have drawn water in joy from the Saviour’s fountain; may His Blood, we beseech You, become for us a fountain of water springing up unto life everlasting.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Octave of the Nativity of St. John the Baptist</em></span><br>\nMay Your Church, O God, rejoice at the birth of blessed John the Baptist, through whom she knew the author of her own rebirth, Your Son, our Lord Jesus Christ.<br>\nWho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

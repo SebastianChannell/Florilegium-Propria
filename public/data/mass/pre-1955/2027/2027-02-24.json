@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who didst choose thy blessed servant Matthias to be of the number of the twelve Apostles, grant, we beseech thee, that thy Church, being upholden by his prayers, may ever feel about her the arms of thy most mighty protection.<br>\nper Dominum<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quarta infra Hebdomadam II in Quadragesima</em></span><br>\nLook mercifully upon Your people, we beseech You, O Lord, and grant that they whom You command to abstain from food, may also refrain from harmful vices.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who didst choose thy blessed servant Matthias to be of the number of the twelve Apostles, grant, we beseech thee, that thy Church, being upholden by his prayers, may ever feel about her the arms of thy most mighty protection.<br>\nper Dominum<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Wednesday in the Second Week of Lent</em></span><br>\nLook mercifully upon Your people, we beseech You, O Lord, and grant that they whom You command to abstain from food, may also refrain from harmful vices.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May the prayer of Your holy Apostle Matthias, O Lord, accompany the sacrificial gifts which we offer to be hallowed in Your name, so that we may obtain pardon and protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quarta infra Hebdomadam II in Quadragesima</em></span><br>\nLook with favor upon the sacrificial gifts we offer You, O Lord, and through this holy exchange loosen the bonds of our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May the prayer of Your holy Apostle Matthias, O Lord, accompany the sacrificial gifts which we offer to be hallowed in Your name, so that we may obtain pardon and protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Wednesday in the Second Week of Lent</em></span><br>\nLook with favor upon the sacrificial gifts we offer You, O Lord, and through this holy exchange loosen the bonds of our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nGrant, almighty God, we pray You, that through the intercession of blessed Matthias, Your Apostle, we may obtain pardon and peace through the holy things of which we have partaken.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quarta infra Hebdomadam II in Quadragesima</em></span><br>\nHaving received Your sacrament, O Lord, may we make progress, we beseech You, toward our everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nGrant, almighty God, we pray You, that through the intercession of blessed Matthias, Your Apostle, we may obtain pardon and peace through the holy things of which we have partaken.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Wednesday in the Second Week of Lent</em></span><br>\nHaving received Your sacrament, O Lord, may we make progress, we beseech You, toward our everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

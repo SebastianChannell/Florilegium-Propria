@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO Lord Jesus Christ, Who, to keep alive the memory of Your most holy Mother’s sorrows, through the seven holy fathers enriched your Church with a new family of her Servants, graciously grant that we may be so united with them in their sorrows, as also to share their joys.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI post Cineres</em></span><br>\nMay Your kindly favor, we beseech You, O Lord, accompany the fast we have begun, that we may be able to practice with a pure mind what we perform bodily.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO Lord Jesus Christ, Who, to keep alive the memory of Your most holy Mother’s sorrows, through the seven holy fathers enriched your Church with a new family of her Servants, graciously grant that we may be so united with them in their sorrows, as also to share their joys.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Friday after Ash Wednesday</em></span><br>\nMay Your kindly favor, we beseech You, O Lord, accompany the fast we have begun, that we may be able to practice with a pure mind what we perform bodily.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Accept, we beseech You, O Lord, the sacrificial gifts we offer, so that by the intercession of Your saints we may serve You with freedom of mind and be set on fire with love for the sorrowing Mother of Your Son.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI post Cineres</em></span><br>\nGrant, O Lord, we beseech You, that as we offer the sacrifice of Lent, our hearts may be made acceptable to You; and the sacrifice may give us greater willingness for self-denial.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Accept, we beseech You, O Lord, the sacrificial gifts we offer, so that by the intercession of Your saints we may serve You with freedom of mind and be set on fire with love for the sorrowing Mother of Your Son.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Friday after Ash Wednesday</em></span><br>\nGrant, O Lord, we beseech You, that as we offer the sacrifice of Lent, our hearts may be made acceptable to You; and the sacrifice may give us greater willingness for self-denial.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nStrengthened by the heavenly sacrament, we beseech You, O Lord, that, following the example of those whose feast we are keeping, we may faithfully stand beneath the Cross of Jesus with Mary, His Mother, and be found worthy to receive the fruit of His redemption.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria VI post Cineres</em></span><br>\nFill us, O Lord, with the spirit of Your love, to unite in charity those whom You have filled with one and the same heavenly Bread.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nStrengthened by the heavenly sacrament, we beseech You, O Lord, that, following the example of those whose feast we are keeping, we may faithfully stand beneath the Cross of Jesus with Mary, His Mother, and be found worthy to receive the fruit of His redemption.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Friday after Ash Wednesday</em></span><br>\nFill us, O Lord, with the spirit of Your love, to unite in charity those whom You have filled with one and the same heavenly Bread.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

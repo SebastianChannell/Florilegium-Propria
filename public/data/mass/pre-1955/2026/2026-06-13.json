@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nMay the solemn feast of blessed Anthony, Your Confessor and Doctor, make Your Church rejoice, O God, so that, ever sustained by spiritual help, she may deserve to reap everlasting joy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Die II infra Octavam SSmi Cordis Jesu</em></span><br>\nO God, Who in the Heart of Your Son, wounded by our sins, mercifully lavish upon us the infinite riches of love, grant, we beseech You, that as we offer Him the faithful service of our devotion, we may also show forth fitting reparation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the solemn feast of blessed Anthony, Your Confessor and Doctor, make Your Church rejoice, O God, so that, ever sustained by spiritual help, she may deserve to reap everlasting joy.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Second Day of the Octave of the Sacred Heart</em></span><br>\nO God, Who in the Heart of Your Son, wounded by our sins, mercifully lavish upon us the infinite riches of love, grant, we beseech You, that as we offer Him the faithful service of our devotion, we may also show forth fitting reparation.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May the offering here before You, O Lord, bring safety to Your people, for whom You mercifully offered Yourself a living victim to the Father,<br>\nWho, with the same God the Father and the Holy Spirit, live and reign, God forever and ever.<br>\n<span class=\"rubric\"><em>Commemoration Die II infra Octavam SSmi Cordis Jesu</em></span><br>\nLook, we beseech You, O Lord, upon the Heart of Your beloved Son, with its boundless love, so that what we offer, may be an acceptable gift in Your sight and an atonement for our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May the offering here before You, O Lord, bring safety to Your people, for whom You mercifully offered Yourself a living victim to the Father,<br>\nWho, with the same God the Father and the Holy Spirit, live and reign, God forever and ever.<br>\n<span class=\"rubric\"><em>Commemoration Second Day of the Octave of the Sacred Heart</em></span><br>\nLook, we beseech You, O Lord, upon the Heart of Your beloved Son, with its boundless love, so that what we offer, may be an acceptable gift in Your sight and an atonement for our sins.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nRefreshed by divine gifts, we beseech You, O Lord, that through the merits and intercession of blessed Anthony, Your Confessor and Doctor, we may experience the effect of the saving sacrifice.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Die II infra Octavam SSmi Cordis Jesu</em></span><br>\nMay Your sacrament, O Lord Jesus, give us holy zeal, so that, seeing the sweetness of Your most loving Heart, we may learn to despise the things of earth and love those of heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nRefreshed by divine gifts, we beseech You, O Lord, that through the merits and intercession of blessed Anthony, Your Confessor and Doctor, we may experience the effect of the saving sacrifice.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Second Day of the Octave of the Sacred Heart</em></span><br>\nMay Your sacrament, O Lord Jesus, give us holy zeal, so that, seeing the sweetness of Your most loving Heart, we may learn to despise the things of earth and love those of heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

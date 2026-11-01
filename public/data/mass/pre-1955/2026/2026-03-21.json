@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nMay the intercession of the blessed Abbot Benedict, commend us to You, O Lord, so that through his merits we may obtain that which we cannot accomplish by our own.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sabbato infra Hebdomadam IV in Quadragesima</em></span><br>\nMake fruitful, we beseech You, O Lord, the zeal of our fervent devotion; for only if it pleases You shall the fasting we have undertaken be of benefit to us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the intercession of the blessed Abbot Benedict, commend us to You, O Lord, so that through his merits we may obtain that which we cannot accomplish by our own.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Saturday in the Fourth Week of Lent</em></span><br>\nMake fruitful, we beseech You, O Lord, the zeal of our fervent devotion; for only if it pleases You shall the fasting we have undertaken be of benefit to us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "We beseech You, O Lord, may the holy Abbot Benedict, prevail by his prayers, so that the offerings placed upon Your sacred altar may be beneficial for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Sabbato infra Hebdomadam IV in Quadragesima</em></span><br>\nGraciously accept our offerings, O Lord, we beseech You, and mercifully direct our still rebellious wills to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "We beseech You, O Lord, may the holy Abbot Benedict, prevail by his prayers, so that the offerings placed upon Your sacred altar may be beneficial for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Saturday in the Fourth Week of Lent</em></span><br>\nGraciously accept our offerings, O Lord, we beseech You, and mercifully direct our still rebellious wills to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay the pleading of the blessed Abbot Benedict for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Sabbato infra Hebdomadam IV in Quadragesima</em></span><br>\nMay Your holy sacrament cleanse us, we beseech You, O Lord, and may its power make us pleasing to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay the pleading of the blessed Abbot Benedict for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Saturday in the Fourth Week of Lent</em></span><br>\nMay Your holy sacrament cleanse us, we beseech You, O Lord, and may its power make us pleasing to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

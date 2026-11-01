@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, You manifest Your power, particularly in forbearance and pity, show us Your mercy again and again, so that hastening toward Your promises we may become partakers of the blessings of heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Pantaleon Martyr</em></span><br>\nGrant, we beseech You, almighty God, that through the intercession of Your blessed Martyr Pantaleon, we may be delivered from all afflictions of the body and cleansed from all evil thoughts of the mind.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, You manifest Your power, particularly in forbearance and pity, show us Your mercy again and again, so that hastening toward Your promises we may become partakers of the blessings of heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Pantaleon, Martyr</em></span><br>\nGrant, we beseech You, almighty God, that through the intercession of Your blessed Martyr Pantaleon, we may be delivered from all afflictions of the body and cleansed from all evil thoughts of the mind.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Let the sacred gifts be offered to You, O Lord, Who have given them to be presented for the honor of Your name, for in them You have given us a remedy for all our ills.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration S. Pantaleon Martyr</em></span><br>\nMay our service be acceptable in Your sight, O Lord, and may it bring us salvation through the prayers of him on whose festival it is being offered.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let the sacred gifts be offered to You, O Lord, Who have given them to be presented for the honor of Your name, for in them You have given us a remedy for all our ills.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration St. Pantaleon, Martyr</em></span><br>\nMay our service be acceptable in Your sight, O Lord, and may it bring us salvation through the prayers of him on whose festival it is being offered.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nWe beseech You, O Lord our God, that in Your mercy You will not withhold Your help from those whom You constantly restore with divine sacraments.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration S. Pantaleon Martyr</em></span><br>\nWith our strength renewed from having shared in Your sacred gift, we beseech You, O Lord our God, that by the intercession of blessed Pantaleon, Your Martyr, we may feel the benefit of the worship we are offering.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nWe beseech You, O Lord our God, that in Your mercy You will not withhold Your help from those whom You constantly restore with divine sacraments.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration St. Pantaleon, Martyr</em></span><br>\nWith our strength renewed from having shared in Your sacred gift, we beseech You, O Lord our God, that by the intercession of blessed Pantaleon, Your Martyr, we may feel the benefit of the worship we are offering.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

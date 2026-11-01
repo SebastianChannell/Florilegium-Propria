@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "We beseech You, O Lord, may the holy Abbot William, prevail by his prayers, so that the offerings placed upon Your sacred altar may be beneficial for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Second Day of the Octave of the Nativity of St. John the Baptist</em></span><br>\nWe heap Your altar with gifts, O Lord, celebrating the birth of him who announced the coming of the Saviour of the world, our Lord Jesus Christ, Your Son, and made His presence known.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "We beseech You, O Lord, may the holy Abbot William, prevail by his prayers, so that the offerings placed upon Your sacred altar may be beneficial for our salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Second Day of the Octave of the Nativity of St. John the Baptist</em></span><br>\nWe heap Your altar with gifts, O Lord, celebrating the birth of him who announced the coming of the Saviour of the world, our Lord Jesus Christ, Your Son, and made His presence known.<br>\nWho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay the pleading of the blessed Abbot William for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Second Day of the Octave of the Nativity of St. John the Baptist</em></span><br>\nMay Your Church, O God, rejoice at the birth of blessed John the Baptist, through whom she knew the author of her own rebirth, Your Son, our Lord Jesus Christ.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nMay the pleading of the blessed Abbot William for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Second Day of the Octave of the Nativity of St. John the Baptist</em></span><br>\nMay Your Church, O God, rejoice at the birth of blessed John the Baptist, through whom she knew the author of her own rebirth, Your Son, our Lord Jesus Christ.<br>\nWho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

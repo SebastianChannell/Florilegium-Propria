@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nGrant us, we beseech You, almighty God, through the intercession of the blessed Bishop Cyril, so to acknowledge You, the only true God, and Jesus Christ Whom You have sent, that we may be found worthy to be forever numbered among the sheep who hear His voice.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam Passionis</em></span><br>\nGrant, we beseech You, almighty God, that the dignity of human nature, weakened by excessive self-indulgence, may be restored by the earnest practice of healing self-denial.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nGrant us, we beseech You, almighty God, through the intercession of the blessed Bishop Cyril, so to acknowledge You, the only true God, and Jesus Christ Whom You have sent, that we may be found worthy to be forever numbered among the sheep who hear His voice.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in Passion Week</em></span><br>\nGrant, we beseech You, almighty God, that the dignity of human nature, weakened by excessive self-indulgence, may be restored by the earnest practice of healing self-denial.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "O Lord, look favorably upon the unblemished offering we present to You and grant that by the merits of Your blessed Bishop and Confessor Cyril, we may earnestly endeavor to receive it with a clean heart.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam Passionis</em></span><br>\nO Lord, our God, Who have especially commanded that these created things, which You have fashioned for the support of our weakness, should also be used as offerings dedicated to Your Name, grant we beseech You, that they may provide for us help in the present life and may be a pledge of life eternal.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "O Lord, look favorably upon the unblemished offering we present to You and grant that by the merits of Your blessed Bishop and Confessor Cyril, we may earnestly endeavor to receive it with a clean heart.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in Passion Week</em></span><br>\nO Lord, our God, Who have especially commanded that these created things, which You have fashioned for the support of our weakness, should also be used as offerings dedicated to Your Name, grant we beseech You, that they may provide for us help in the present life and may be a pledge of life eternal.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nO Lord, Jesus Christ, may the sacrament of Your Body and Blood which we have received, make holy our minds and hearts through the prayers of blessed Bishop Cyril, and thus make us worthy to become sharers of the divine nature.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Quinta infra Hebdomadam Passionis</em></span><br>\nMay we receive with pure mind, O Lord, what we have taken by mouth, and as a gift in time, may it become for us a remedy for eternity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO Lord, Jesus Christ, may the sacrament of Your Body and Blood which we have received, make holy our minds and hearts through the prayers of blessed Bishop Cyril, and thus make us worthy to become sharers of the divine nature.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in Passion Week</em></span><br>\nMay we receive with pure mind, O Lord, what we have taken by mouth, and as a gift in time, may it become for us a remedy for eternity.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

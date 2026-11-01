@@ -7,8 +7,8 @@
   "missal": "Roman Missal · Divino Afflatu 1954",
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   },
   "days": {
     "2026-01-01": {
@@ -168,7 +168,7 @@
     "2026-01-23": {
       "title": "S. Raymundi de Peñafort Confessoris",
       "rank": "Semiduplex",
-      "note": "Commemoratio: S. Emerentianæ Virgini et Martyris",
+      "note": "Commemoratio: S. Emerentianæ Virginis et Martyris",
       "sectionCount": 12,
       "path": "/data/mass/pre-1955/2026/2026-01-23.json"
     },
@@ -593,7 +593,7 @@
       "path": "/data/mass/pre-1955/2026/2026-03-24.json"
     },
     "2026-03-25": {
-      "title": "In Annuntiatione Beate Mariæ Virgine",
+      "title": "In Annuntiatione Beatæ Mariæ Virginis",
       "rank": "Duplex I. classis",
       "note": "Commemoratio: Feria Quarta infra Hebdomadam Passionis",
       "sectionCount": 12,
@@ -607,7 +607,7 @@
       "path": "/data/mass/pre-1955/2026/2026-03-26.json"
     },
     "2026-03-27": {
-      "title": "Septem Dolorum Beatæ Mariæ Virgine",
+      "title": "Septem Dolorum Beatæ Mariæ Virginis",
       "rank": "Duplex majus",
       "note": "Commemoratio: S. Joannis Damasceni Confessoris et Ecclesiæ Doctoris",
       "sectionCount": 12,
@@ -649,10 +649,10 @@
       "path": "/data/mass/pre-1955/2026/2026-04-01.json"
     },
     "2026-04-02": {
-      "title": "De missa chrismatis",
-      "rank": "Duplex I. classis",
+      "title": "Feria Quinta in Cœna Domini",
+      "rank": "Feria privilegiata",
       "note": "",
-      "sectionCount": 12,
+      "sectionCount": 13,
       "path": "/data/mass/pre-1955/2026/2026-04-02.json"
     },
     "2026-04-03": {
@@ -2091,7 +2091,7 @@
       "path": "/data/mass/pre-1955/2026/2026-10-24.json"
     },
     "2026-10-25": {
-      "title": "In festo Domino nostro Jesu Christi Regis",
+      "title": "In festo Domini Nostri Jesu Christi Regis",
       "rank": "Duplex I. classis",
       "note": "Commemoratio: Dominica XXII Post Pentecosten IV. Octobris",
       "sectionCount": 12,
@@ -2406,14 +2406,14 @@
       "path": "/data/mass/pre-1955/2026/2026-12-08.json"
     },
     "2026-12-09": {
-      "title": "De II die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virgini",
+      "title": "De II die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virginis",
       "rank": "Semiduplex",
       "note": "Commemoratio: Feria IV infra Hebdomadam II Adventus",
       "sectionCount": 12,
       "path": "/data/mass/pre-1955/2026/2026-12-09.json"
     },
     "2026-12-10": {
-      "title": "De III die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virgini",
+      "title": "De III die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virginis",
       "rank": "Semiduplex",
       "note": "Commemoratio: Feria V infra Hebdomadam II Adventus",
       "sectionCount": 12,
@@ -2427,7 +2427,7 @@
       "path": "/data/mass/pre-1955/2026/2026-12-11.json"
     },
     "2026-12-12": {
-      "title": "De V die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virgini",
+      "title": "De V die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virginis",
       "rank": "Semiduplex",
       "note": "Commemoratio: Sabbato infra Hebdomadam II Adventus",
       "sectionCount": 12,
@@ -2441,14 +2441,14 @@
       "path": "/data/mass/pre-1955/2026/2026-12-13.json"
     },
     "2026-12-14": {
-      "title": "De VII die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virgini",
+      "title": "De VII die Infra Octavam Immaculatæ Concept. Beatæ Mariæ Virginis",
       "rank": "Semiduplex",
       "note": "Commemoratio: Feria II infra Hebdomadam III Adventus",
       "sectionCount": 12,
       "path": "/data/mass/pre-1955/2026/2026-12-14.json"
     },
     "2026-12-15": {
-      "title": "In Octava Immaculatæ Concept. Beatæ Mariæ Virgini",
+      "title": "In Octava Immaculatæ Concept. Beatæ Mariæ Virginis",
       "rank": "Duplex majus",
       "note": "Commemoratio: Feria III infra Hebdomadam III Adventus",
       "sectionCount": 12,

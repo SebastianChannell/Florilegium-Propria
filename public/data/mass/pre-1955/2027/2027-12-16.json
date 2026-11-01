@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, who year by year dost gladden us by the solemn feast day of thy Blessed Martyr and Bishop Eusebius, mercifully grant that we who keep his birthday, may ever feel the joyful effects of his protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria V infra Hebdomadam III Adventus</em></span><br>\nLend Your ear to our prayers, O Lord, we beseech You; and brighten the darkness of our minds by the grace of Your coming.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nO God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, who year by year dost gladden us by the solemn feast day of thy Blessed Martyr and Bishop Eusebius, mercifully grant that we who keep his birthday, may ever feel the joyful effects of his protection.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Third Week of Advent</em></span><br>\nLend Your ear to our prayers, O Lord, we beseech You; and brighten the darkness of our minds by the grace of Your coming.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nO God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -85,11 +85,11 @@
       "kind": "creed",
       "latin": {
         "label": "Credo",
-        "html": "<span class=\"rubric\"><em>Dicitur.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       },
       "english": {
         "label": "Credo",
-        "html": "<span class=\"rubric\"><em>Said.</em></span>"
+        "html": "<span class=\"rubric\"><em>omit.</em></span>"
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Sanctify the offerings dedicated to You, O Lord, and through the intercession of blessed Eusebius, Your Martyr and Bishop, look upon us with mercy because of them.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria V infra Hebdomadam III Adventus</em></span><br>\nWe beseech You, O Lord, that the gift we dedicate to You, may be sacrificed continually, so that the sacramental rite You have ordained may be fully observed, and the work of Your salvation may be wonderfully effective within us.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Adveny</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Sanctify the offerings dedicated to You, O Lord, and through the intercession of blessed Eusebius, Your Martyr and Bishop, look upon us with mercy because of them.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Third Week of Advent</em></span><br>\nWe beseech You, O Lord, that the gift we dedicate to You, may be sacrificed continually, so that the sacramental rite You have ordained may be fully observed, and the work of Your salvation may be wonderfully effective within us.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Adveny</em></span><br>\nThrough Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nMay this Communion, O Lord, cleanse us of sin, and through the intercession of blessed Eusebius, Your Martyr and Bishop, may it make us sharers of heavenly healing.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria V infra Hebdomadam III Adventus</em></span><br>\nWe entreat You, merciful Lord, that these divine helps may cleanse us from our sins and prepare us for the coming festal season.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nMay this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nMay this Communion, O Lord, cleanse us of sin, and through the intercession of blessed Eusebius, Your Martyr and Bishop, may it make us sharers of heavenly healing.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thursday in the Third Week of Advent</em></span><br>\nWe entreat You, merciful Lord, that these divine helps may cleanse us from our sins and prepare us for the coming festal season.<br>\n<br>\n<span class=\"rubric\"><em>de S. Maria Advent</em></span><br>\nMay this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

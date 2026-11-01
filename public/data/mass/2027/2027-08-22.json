@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nAlmighty, everlasting God, Who in the Heart of the Blessed Virgin Mary prepared a dwelling place worthy of the Holy Spirit; graciously grant that we, who are devoutly keeping the feast of her Immaculate Heart, may be able to live according to Your Heart.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XIV Post Pentecosten IV. Augusti</em></span><br>\nProtect Your Church by Your abiding mercy, we beseech You, O Lord, and since all mortals fall without You, may Your help keep them from danger and guide them to salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nAlmighty, everlasting God, Who in the Heart of the Blessed Virgin Mary prepared a dwelling place worthy of the Holy Spirit; graciously grant that we, who are devoutly keeping the feast of her Immaculate Heart, may be able to live according to Your Heart.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Fourteenth Sunday after Pentecost IV. of August</em></span><br>\nProtect Your Church by Your abiding mercy, we beseech You, O Lord, and since all mortals fall without You, may Your help keep them from danger and guide them to salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "Offering the spotless Lamb to Your Majesty, O Lord, we pray that our hearts may be set aflame by the fire that burned so wondrously in the Heart of the Blessed Virgin Mary.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XIV Post Pentecosten IV. Augusti</em></span><br>\nGrant us, Lord, we beseech You, that this salutary sacrifice may be not only a cleansing from our sins but also a propitiation of Your divine power.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Offering the spotless Lamb to Your Majesty, O Lord, we pray that our hearts may be set aflame by the fire that burned so wondrously in the Heart of the Blessed Virgin Mary.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Fourteenth Sunday after Pentecost IV. of August</em></span><br>\nGrant us, Lord, we beseech You, that this salutary sacrifice may be not only a cleansing from our sins but also a propitiation of Your divine power.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nRefreshed by divine gifts, we humbly beseech You, O Lord, that by the intercession of the Blessed Virgin Mary, the solemn feast of whose Immaculate Heart we have celebrated, we may be freed from present dangers and reach the happiness of life eternal.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XIV Post Pentecosten IV. Augusti</em></span><br>\nMay Your sacrament, O God, ever cleanse and strengthen us, and bring us to everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nRefreshed by divine gifts, we humbly beseech You, O Lord, that by the intercession of the Blessed Virgin Mary, the solemn feast of whose Immaculate Heart we have celebrated, we may be freed from present dangers and reach the happiness of life eternal.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Fourteenth Sunday after Pentecost IV. of August</em></span><br>\nMay Your sacrament, O God, ever cleanse and strengthen us, and bring us to everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

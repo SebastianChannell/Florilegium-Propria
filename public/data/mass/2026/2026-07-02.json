@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May the humanity of Your only-begotten Son keep us, O Lord, for He, Who was born of a virgin did not lessen but consecrated the purity of His Mother; so, on the festival of her Visitation may Jesus Christ, our Lord, free us from our sins and make our sacrifice acceptable unto You.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<span class=\"rubric\"><em>Commemoration Ss. Processus et Martinian, Martyrs</em></span><br>\nAccept our prayers and gifts, O Lord, and, that they may be made worthy in Your sight, may Your saints help us by their prayers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May the humanity of Your only-begotten Son keep us, O Lord, for He, Who was born of a virgin did not lessen but consecrated the purity of His Mother; so, on the festival of her Visitation may Jesus Christ, our Lord, free us from our sins and make our sacrifice acceptable unto You.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<span class=\"rubric\"><em>Commemoration Ss. Processus et Martinian, Martyrs</em></span><br>\nAccept our prayers and gifts, O Lord, and, that they may be made worthy in Your sight, may Your saints help us by their prayers.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

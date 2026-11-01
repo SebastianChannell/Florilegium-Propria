@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nAlmighty, everlasting God, Who took up, body and soul, the Immaculate Virgin Mary, Mother of Your Son, into heavenly glory, grant, we beseech You, that, always devoting ourselves to heavenly things, we may be found worthy to share in her glory.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XIII Post Pentecosten III. Augusti</em></span><br>\nAlmighty, eternal God, grant us an increase of faith, hope and charity; and make us love what You command so that we may be made worthy to attain what You promise.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nAlmighty, everlasting God, Who took up, body and soul, the Immaculate Virgin Mary, Mother of Your Son, into heavenly glory, grant, we beseech You, that, always devoting ourselves to heavenly things, we may be found worthy to share in her glory.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thirteenth Sunday after Pentecost III. of August</em></span><br>\nAlmighty, eternal God, grant us an increase of faith, hope and charity; and make us love what You command so that we may be made worthy to attain what You promise.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May the offering of our devotion rise unto You, O Lord, and by the intercession of the most Blessed Virgin Mary, who was taken up into heaven, may our hearts, on fire with love, strive ever upward to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XIII Post Pentecosten III. Augusti</em></span><br>\nLook with favor upon Your people, O Lord, look with favor upon their gifts; so that, appeased by this offering, You will grant us pardon and give us what we ask.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May the offering of our devotion rise unto You, O Lord, and by the intercession of the most Blessed Virgin Mary, who was taken up into heaven, may our hearts, on fire with love, strive ever upward to You.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Thirteenth Sunday after Pentecost III. of August</em></span><br>\nLook with favor upon Your people, O Lord, look with favor upon their gifts; so that, appeased by this offering, You will grant us pardon and give us what we ask.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nHaving partaken, O Lord, of the sacrament of salvation, grant, we beseech You, that through the merits and intercession of the Blessed Virgin Mary, who was taken up into heaven, we may be delivered from all the evils that threaten us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Dominica XIII Post Pentecosten III. Augusti</em></span><br>\nHaving received Your heavenly sacrament, O Lord, may we make progress, we beseech You, toward our everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nHaving partaken, O Lord, of the sacrament of salvation, grant, we beseech You, that through the merits and intercession of the Blessed Virgin Mary, who was taken up into heaven, we may be delivered from all the evils that threaten us.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Thirteenth Sunday after Pentecost III. of August</em></span><br>\nHaving received Your heavenly sacrament, O Lord, may we make progress, we beseech You, toward our everlasting salvation.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who wondrously enkindled St. John, Your Confessor, to promote the religious veneration of the Sacred Hearts of Jesus and Mary, and through him willed to found new religious families in the Church; grant, we beseech You, that we may honor his holy merits and may learn from the example of his virtues.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Quinta die infra Octavam S. Assumptionis</em></span><br>\nWe beseech thee, O Lord, that thou forgive the sins of thy servants, that we, who are unable to please thee by our actions, may be saved through the intercession of the Mother of thy Son, our Lord.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
+        "html": "Let us pray.<br>\nO God, Who wondrously enkindled St. John, Your Confessor, to promote the religious veneration of the Sacred Hearts of Jesus and Mary, and through him willed to found new religious families in the Church; grant, we beseech You, that we may honor his holy merits and may learn from the example of his virtues.<br>\nThrough the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Quinta die infra Octavam S. Assumptionis</em></span><br>\nWe beseech thee, O Lord, that thou forgive the sins of thy servants, that we, who are unable to please thee by our actions, may be saved through the intercession of the Mother of thy Son, our Lord.<br>\nWho livest and reignest with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen"
       }
     },
     {
@@ -155,7 +155,7 @@
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }

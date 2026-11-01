@@ -41,7 +41,7 @@
       },
       "english": {
         "label": "Collect",
-        "html": "Let us pray.<br>\nO God, Who, out of all the angels, chose the Archangel Gabriel to announce the mystery of Your incarnation, mercifully grant that we who keep his feast on earth, may have him as our patron in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam Passionis</em></span><br>\nMay our fasting be acceptable to You, we beseech You, O Lord; may it be atonement for our sins, make us worthy of Your grace, and lead us to the everlasting remedy of the life to come.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, Who, out of all the angels, chose the Archangel Gabriel to announce the mystery of Your incarnation, mercifully grant that we who keep his feast on earth, may have him as our patron in heaven.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Tuesday in Passion Week</em></span><br>\nMay our fasting be acceptable to You, we beseech You, O Lord; may it be atonement for our sins, make us worthy of Your grace, and lead us to the everlasting remedy of the life to come.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -113,7 +113,7 @@
       },
       "english": {
         "label": "Secreta",
-        "html": "May this gift from us, Your servants, and the prayer of the blessed Archangel Gabriel be acceptable in Your sight, O Lord, so that he whom we honor on earth may plead our cause with You in heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam Passionis</em></span><br>\nO Lord, we bring You the gifts for sacrifice, as tokens of consolation in this life, so that we may not despair of Your eternal promises.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "May this gift from us, Your servants, and the prayer of the blessed Archangel Gabriel be acceptable in Your sight, O Lord, so that he whom we honor on earth may plead our cause with You in heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen.<br>\n<span class=\"rubric\"><em>Commemoration Tuesday in Passion Week</em></span><br>\nO Lord, we bring You the gifts for sacrifice, as tokens of consolation in this life, so that we may not despair of Your eternal promises.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     },
     {
@@ -149,13 +149,13 @@
       },
       "english": {
         "label": "Postcommunio",
-        "html": "Let us pray.<br>\nO God, our Lord, having received the sacrament of Your Body and Blood, we ask of Your mercy that, as Your incarnation was made known to us by the message of Gabriel, so by his help we may reap the benefits of that same incarnation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Spirit, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Feria Tertia infra Hebdomadam Passionis</em></span><br>\nGrant us, we beseech You, almighty God that by constantly performing these holy acts, we may be worthy to come closer to the gifts of heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
+        "html": "Let us pray.<br>\nO God, our Lord, having received the sacrament of Your Body and Blood, we ask of Your mercy that, as Your incarnation was made known to us by the message of Gabriel, so by his help we may reap the benefits of that same incarnation.<br>\nWho livest and reignest with God the Father, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen<br>\n<br>\nLet us pray.<br>\n<span class=\"rubric\"><em>Commemoration Tuesday in Passion Week</em></span><br>\nGrant us, we beseech You, almighty God that by constantly performing these holy acts, we may be worthy to come closer to the gifts of heaven.<br>\nThrough Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.<br>\n<span class=\"marker\"><em>℟.</em></span> Amen."
       }
     }
   ],
   "source": {
     "repository": "https://github.com/DivinumOfficium/divinum-officium",
-    "commit": "7e89eee31e2d151e9dab6d06fa342456e9b10809",
-    "commitDate": "2026-09-30T14:30:23-04:00"
+    "commit": "212cb622c4237140363a13f16760c3c75f69b520",
+    "commitDate": "2026-10-31T20:05:09-04:00"
   }
 }
